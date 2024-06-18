@@ -1,0 +1,329 @@
+Ministry of Justice
+Administrative Council for Economic Defense
+GUIDELINES FOR THE ANALYSIS OF PREVIOUS CONSUMMATION
+OF MERGER TRANSACTIONS
+CADE's Presidency
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip: 70770-504 – Brasília/DF
+www.cade.gov.brCoordination:
+Vinicius Marques de Carvalho
+Eduardo Frade Rodrigues
+Editing:
+Ana Carolina Lopes de Carvalho
+Revision:
+Ana Frazão
+Gilvandro Vasconcelos Coelho de Araújo
+Márcio de Oliveira Júnior
+In-house staff:
+Amanda Athayde Linhares Martins
+Daniel Gustavo Santos Roque
+Outside staff:
+Caio Mario da Silva Pereira Neto
+Eduardo Caminati Anders
+Patricia Avigni
+Graphic project:
+CADE’s Public Relations UnitSUMMARY
+Introduction 5
+Activities that might constitute previous consummation of a
+Section 1. 7
+merger transaction (gun jumping)
+Section 2. Procedures to mitigate the risk of gun jumping 10
+2.1 Antitrust Protocol 10
+2.2 Clean Team and Executive Committee 10
+2.3 Access to information 11
+2.4 Confidentiality 12
+2.5 Processing the information 12
+2.6 Parlor Room 13
+Penalties possibly imposed in case of previous consummation
+Section 3. 14
+of a merger transaction
+3.1 Imposition of a pecuniary penalty 14
+3.2 Opening of an administrative proceeding 15
+3.3 Nullity of the acts performed 15Introduction
+The New Brazilian Competition Law No. 12.529/2011 established the pre-merger control in
+Brazil (Article 88, §2). Article 90 of the Law defines a merger as any operation in which: (i) two
+or more previously independent companies merge; (ii) one or more companies acquire, directly
+or indirectly, by purchase or exchange of stocks, shares, bonds or securities convertible into
+stocks or assets, whether tangible or intangible, by contract or by any other means or way,
+the control or parts of one or more companies; (iii) one or more companies incorporate one or
+more companies; or (iv) two or more companies enter into associative, consortium or joint
+venture agreements.
+The consummation of mergers before the antitrust authority reaches a final decision (a practice
+known as gun jumping) is, however, forbidden by Article 88, §3 of the Brazilian Competition
+Law. This Article prohibits companies from closing a transaction before CADE is concludes its
+analysis, under penalty of nullity and of a fine ranging from BRL 60,000.00 to BRL
+60,000,000.00 – depending on the economic condition, intent and bad faith of the parties
+involved and the anti-competitive potential of the transaction, among others – without
+prejudice to the opening of an administrative proceeding against the involved parties. Thus,
+the competitive conditions among parties must remain preserved until a final decision is
+rendered (Article 88, §4).
+These provisions under Article 88, caput and §3 of the Law No. 12.529/2011 have been
+regulated by CADE’s Internal Statute (RiCADE). Article 108, §1 of the latter determines that
+mergers must be notified preferably after a formal binding instrument is signed by the parties
+and prior to the consummation of any act related to the transaction. Moreover, Article 108,
+§2, determines that the parties involved in a merger maintain their physical structures
+unchanged and remain competitors until the antitrust authority has a final assessment of the
+transaction. It bars, in particular, “any asset transfer and any type of influence of one party
+over another, and the exchange of competitively-sensitive information not strictly necessary
+for the signature of the formal instrument binding the parties”.
+This provision is intended to be broad due to the wide diversity of legal transactions considered
+as mergers for the purposes of the law. Thus, parties are initially responsible for clearly
+determining the limits to their relation, capable of preventing changes to physical structures
+and competitive conditions – which are intrinsic to a merger transaction.
+Notwithstanding, aiming at better instructing the parties, promoting legal certainty, mitigating
+merger transaction costs and facilitating the lawful integration of the economic agents’
+activities, these Guidelines set some parameters in which merging parties may rely while
+designing their transactions. The instructions are based both on CADE's initial experience with
+5the enactment of Law No. 12.529/2011, as wells as on other applicable sources of compared
+law that set precautions for joint activities and prior exchange of information among different
+companies.
+It should also be emphasized that because of its very unique features, it is not possible to
+make abstract generalizations that could apply to all situations. Thus, any gun jumping must
+at all times be considered and verified in light of the particularities of each case. Nevertheless,
+the parameters below may be used as a reference by economic agents in their negotiations
+and merger assessments.
+These Guidelines are divided in three sections. The first section addresses the definition of gun
+jumping and the activities that may lead to its configuration. The second section describes
+specific procedures economic actors may adopt to mitigate risks of gun jumping, such as the
+creation of clean teams and parlor rooms. The third section closes with a debate over penalties
+economic actors may face for failing to comply with the provisions of Article 88, caput and §3,
+of the Brazilian Competition Law.
+The purpose of these Guidelines is to serve as a mechanism of administrative transparency and
+orientation with no binding effects.
+6Section 1. Activities that might constitute previous consummation of a
+merger transaction (gun jumping)
+This section aims at setting brief guidelines on the types of business activities related to merger
+transactions that may generate gun jumping concerns. Such activities can be divided into three
+major groups: (i) the exchange of information between economic agents involved in a merger;
+(ii) the definition of contractual clauses governing the relationship between economic agents;
+and (iii) the activities of the parties before and during the implementation of the merger.
+As to (i) the exchange of information between economic agents involved in a merger, any
+unnecessary exchange of competitively-sensitive information between the parties should be
+avoided, as such exchange can harm competition between them if the merger is not yet
+consummated (either for the lack of CADE's approval or issues related to the negotiation itself).
+It is known that any merger implies the sharing of information between the parties to some
+extent, especially during the due diligence that generally precedes mergers and acquisitions.
+The extension of such information exchange may, however, vary, based on how integrated the
+parties will be after the merger and the complexity of the business under creation.
+Notwithstanding, CADE’s case law and other authorities overseas tend to hold certain
+information particularly sensitive to the dynamics of competition, which is why the abuse on
+the information exchange may constitute gun jumping.
+In general, competitively-sensitive information (therefore deservers of parties’ special
+attention) is specific (e.g. non-aggregated) and directly related to the performance of the
+economic agents’ core business. Such information may contain specific data about:
+a) costs of the companies involved;
+b) capacity level and plans for expansion;
+c) marketing strategies;
+d) product pricing (prices and deductions);
+e) main customers and deductions ensured;
+f) employees’ wages;
+g) main suppliers and the terms of the contracts signed with them;
+h) non-public information on marks and patents and Research and Development (R&D);
+i) plans for future acquisitions;
+j) competition strategies, etc.
+It is important to emphasize that concerns over the treatment of business-sensitive information
+can be reduced by the aggregation/anonymization of the data to be shared with
+counterparties, by presenting information after a certain time lapse and by creating clean
+teams and parlor rooms (specially for more complex operations demanding a higher exchange
+of information between the parties), as Section 2 of these Guidelines will highlight.
+7The (ii) definition of contractual clauses governing the relationship between economic agents,
+in its turn, focuses on the content of the rules governing the relationship between the economic
+agents before CADE finishes its assessment. As mentioned above, until the agency concludes
+its analysis, the concerns of the parties should always focus on maintaining the competitive
+environment which existed before the merger as intact as possible. Accordingly, such
+contractual clauses are intrinsically connected to the competitively sensitive activities described
+in more details below.
+There is a myriad of possible contractual provisions to formalize a merger, thus listing every
+clause the antitrust authority could hold as unlawful is impossible. Despite the above, among
+those demanding greater attention there are the provisions that can result in a premature
+integration of the activities of the merging parties. Such contractual provisions comprise:
+a) no anteriority clause related to the term of effectiveness of the contract in relation to
+the date of its execution that brings any integration among parties;
+b) prior non-compete clause;
+c) clause for full or partial payment, non-reimbursable, in advance, in consideration for
+the target, except in case of (c.i.) typical down payment for business transactions, (c.ii.)
+deposit in escrow accounts, or (c.iii.) breakup fee clauses (payable if the transaction is
+not consummated);
+d) clauses allowing direct interference by any party in the other party's business strategies
+by submitting, for example, decisions over prices, customers, business/sales policy,
+planning, marketing strategies and other sensitive decisions (that do not constitute a
+mere protection against deviation from the normal course of business and,
+consequently, the protection of the value of the business being sold);
+e) in general terms, any clause providing for activities that cannot be reversed at a later
+time or which imply the expenditure of a significant amount of resources by the agents
+involved or the authority, etc.
+Lastly, as to (iii) the activities of the parties before and during the implementation of a merger,
+these activities mainly concern the effective consummation of at least part of the transaction
+before it is duly approved by the antitrust authority. Some practices that can raise concerns to
+CADE are, among others:
+a) transfer and/or usufruct of assets in general (including voting securities);
+b) exercise of voting right or relevant influence on the counterparty's activities (such as
+decisions regarding prices, customers, business/sales policy, planning, marketing
+strategies, interruption of investments, discontinuing of products and others);
+c) receipt of profits or other payments connected to the performance of the counterparty;
+8d) development of joint strategies for sales or marketing that set up an unified
+management;
+e) integration of the sales force among the parties;
+f) licensing the use of exclusive intellectual property to the counterparty;
+g) joint development of products;
+h) appointment of members to a decision-making body; and
+i) interruption of investments, etc.
+It is important to reinforce that the list above presents only a few examples of the activities
+CADE may, after a case-by-case review of the particular features of the transaction, consider
+illicit for constituting previous consummation of a merger (gun jumping).
+9Section 2. Procedures to reduce the risk of gun jumping
+Merging companies may follow some relationship patterns while the transaction is being
+negotiated or going through an antitrust assessment. This Section addresses possible ways of
+reducing gun jumping risks.
+With the sole purpose of examining if the transaction is feasible, competitors may share
+business-sensitive information, both while negotiation is ongoing and while CADE is assessing
+the merger. To make sure the information will be shared pursuant to the Law No. 12.529/2011,
+companies should, among other measures, set specific procedures to be observed by
+independent committees that will handle such information (“Antitrust Protocol”). The aim
+underlying such measure is to prevent executives, employees or representatives of one
+company from having access to competitively sensitive information from the other party.
+2.1 Antitrust protocol
+Specific procedures to be followed by the parties, until a final decision is rendered by CADE,
+may be formalized as an "Antitrust Protocol", e.g. a document adopting procedures that are in
+line with what is suggested in these Guidelines.
+2.2 Clean Team and Executive Committee
+Independent committees can be composed of employees, independent consultants or both
+("clean team"), or executives of each company ("executive committee").
+The clean team is indicated for complex transactions where (i) there is significant concentration
+between the companies, (ii) it is necessary to exchange a vast amount of information or (iii)
+the transaction creates potential competitive risks.
+The clean team is responsible for sending, receiving, gathering, analyzing and handling
+information related to the transaction. For this reason, clean team members are advised to
+sign a confidentiality agreement and to strictly observe the antitrust protocol previously
+agreed.
+Clean team members may contact employees of the merging companies, but they may not
+disclose information of one company to another. If some clean team members are employees
+of the companies, they should request and receive information only from their own company.
+It is recommended that such employees work exclusively in the clean team or have it as a
+priority.
+10Any communication or request/sending of information should be made in writing and each
+clean team member should have a specific e-mail address for this purpose.
+The clean team should classify the information received from the companies as: (i) public, (ii)
+confidential or (iii) competitively-sensitive. Any confidential and competitively-sensitive
+information has to be treated pursuant to the antitrust protocol.
+Based on the information received from the companies' employees, the clean team may
+prepare a report on the transaction feasibility, which will be sent to the executive committee
+(formed by executives of the companies involved in the transaction).
+The executive committee will then analyze the data the clean team sent and it might ask for
+details, within the limits set in the antitrust protocol.
+The clean team must directly and exclusively report to the executive committee members, who
+must receive, at the same time, identical information for evaluation.
+The clean team members cannot participate in the executive committee or vice versa.
+The information exchange process should be formally registered and the parties should
+expressly commit to preserve data confidentiality.
+2.3 Access to information
+The information must be exclusively exchanged by the clean team, which is the only contact
+point between the companies.
+The data must be transmitted through different and independent communication channels. For
+example: (i) clean team – company A; (ii) clean team – company B; (iii) clean team - executive
+committee.
+The information requested by the clean team to the companies' employees has to be restricted
+to what is strictly necessary for the operation. That means that the clean team or the executive
+committee must not analyze any data on other activities performed by the companies.
+Any change in the composition of the clean team or executive committee must be informed to
+the other members in writing. The new member should sign a confidentiality agreement and
+comply with the antitrust protocol.
+112.4 Confidentiality
+All clean team and executive committee members must commit to preserve the merger data
+secrecy, especially of those information considered confidential or competitively-sensitive,
+even in view of the possibility of leaving the committee or the company. No data or information
+may be used, copied, transferred, published or mentioned without the companies' express
+consent.
+Any information concerning the merger should be considered confidential, except for publically
+available information or otherwise considered as public by the company who owns it.
+"Information" means any data belonging to the companies, whether original or copy, printed
+on paper or in electronic means, in text, spreadsheet, graphic or image format.
+The access to the information is restricted to the clean team that must (i) carefully process the
+information by adopting protective measures to store the data in order to prevent non-
+authorized third parties from accessing it; (ii) keep register of any information received from
+the companies by identifying its nature, intend and storage.
+2.5 Information treatment
+The clean team may receive competitively-sensitive information from the companies. Upon
+receipt of this kind of information, the clean team must keep it in strict secrecy and must not
+disclose it to the executive committee or any third party.
+If an assessment on the transaction feasibility is needed, the clean team should process the
+competitively-sensitive data by converting it into aggregated and/or historical information,
+within a recommended periodicity of at least three (3) months of its occurrence. Only after
+processed, the competitively-sensitive data can be shared with the executive committee.
+It is recommended that the clean team meets and maintains all merger information in an
+exclusive room, ideally located outside the companies' facilities.
+If the negotiation finishes without the consummation of the merger, the companies must
+demand that the clean team return or destroy integrally all the information sent and/or
+processed, so that no data is kept in files or is reused in the future.
+If the negotiation finishes without the consummation of the merger, the companies may
+reassign the employees to their former activities, while the confidentiality obligation will
+remain, including in relation to the company itself.
+122.6 Parlor Room
+Executive committee members can meet to discuss the future integration between the merging
+companies, in specific meetings set for this purpose.
+The parlor room meetings should be monitored in order to ensure that no competitively-
+sensitive information becomes the subject of discussions. Therefore, it is recommended that
+all parlor room activities are registered and supervised by an independent member.
+The discussions in the parlor room cannot result in any kind of interference or partnership
+between the companies before CADE approves the merger. For example, no measure or
+procedure should be taken that may result in transferring or sharing of employees; restrictions
+to the other party's activities/enterprise in the market, with its customers or with suppliers;
+changes in the other party agreements or joint notifications to third parties on behalf of the
+integrated or organized company.
+13Section 3. Penalties possibly imposed in case of previous
+consummation of a merger transaction
+Article 88, §3, of Law No. 12.529/2011, sets, while addressing gun jumping:
+§ 3º The acts found under the provisions set forth in the caput of this article shall not
+be consummated before being reviewed, pursuant to 1this article and the procedure
+set forth in Chapter II of Title VI of this Law, under penalty of nullity and of a fine not
+inferior to sixty thousand reais (BRL 60,000.00) or higher than sixty million reais (BRL
+60,000,000.00), to be imposed pursuant to the terms of the regulation, without
+prejudice to the opening of an administrative proceeding, under Article 69 of this Law.
+The analysis of this provision leads to the conclusion that three (3) consequences result from
+CADE's decision confirming the occurrence of gun jumping, which are:
+a) the imposition of a pecuniary penalty ranging from BRL 60.000,00 (sixty thousand
+Brazilian reais) to BRL 60.000.000,00 (sixty million Brazilian reais);
+b) the opening of an administrative proceeding, pursuant to Article 69 of Law No.
+12.529/2011;
+c) the nullity of the acts found under the provisions set forth in the caput of Article 88 of
+Law No. 12.529/2011, if consummated before CADE's assessment.
+This Section 3 aims at discussing the application of each of these sanctions set by law, and to
+list, specifically concerning the imposition of the pecuniary penalty, some factors that may
+guide CADE while deciding on the fine calculation criteria.
+3.1 Imposition of pecuniary penalty
+The parameters for the fine calculation criteria must, in case of gun jumping, take into
+consideration the requirements of the general rule of Article 45 of Law No. 12.529/2011 on
+the imposition of sanctions. By considering the requirements mentioned in Article 45, it is
+assured that the rationale of the fine calculation in the event of gun jumping will be in pace
+with the Brazilian Competition Law.
+Generally speaking, it is understood that, within the strict parameters of Article 45 of the Law
+No. 12.529/2011, the following factors, among others, are considered:
+a) as to the status of the transaction, whenever CADE suspects of gun jumping, it
+considers, for example, if (i) the transaction was not notified and was consummated
+14without the notification; (ii) the transaction was notified to CADE only after
+consummation and after CADE opened an administrative proceeding to investigate the
+merger – APAC in its acronym in Portuguese; (iii) the transaction was notified to CADE
+only after consummation, but without CADE's awereness of its existence and (iv) the
+transaction was notified to CADE and consummated later, but before the decision was
+rendered;
+b) the nature of CADE's decision (block, conditional approval and unconditional
+approval), as well as the existence of horizontal overlap or vertical integration resulting
+from the transaction; and
+c) the time and the economic size of the infringer.
+In any of the cases, the penalty is never lower than BRL 60.000,00 (sixty thousand Brazilian
+reais) or higher than BRL 60.000.000,00 (sixty million Brazilian reais), considering that these
+are the minimum and maximum amounts set by the legislator for such cases.
+3.2 Opening of an administrative proceeding
+With respect to the opening of an administrative proceeding, it should be noted that possible
+infringements may arise from the integration of structures as a result of the merger. Here are
+some examples of practices that may lead to such situation: exchange of sensitive information,
+agreement between competitors on pricing, interference in the decisions of the target
+company, especially in cases of vertical integration or horizontal overlap.
+The administrative proceeding is opened by CADE’s General Superintendence, according to the
+procedure provided in Article 69 et al of the Law No. 12.529/2011.
+3.3 Nullity of acts performed
+Finally, with respect to the nullity of the acts performed, it is considered, among other issues,
+the timing of the conduct (the nullity is projected over the acts performed within the period
+between the transaction consummation and CADE's judgment); the proportionality of the
+measure and whether validating the business conducts performed is possible or not.
+15

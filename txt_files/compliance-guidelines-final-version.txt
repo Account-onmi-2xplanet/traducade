@@ -1,0 +1,1196 @@
+Ministry of Justice
+Administrative Council for Economic Defense
+GUIDELINES FOR COMPETITION COMPLIANCE PROGRAMS
+CADE’s Office Presidency
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip: 70770-504 – Brasília/DF
+www.cade.gov.brCoordination:
+Vinicius Marques de Carvalho
+Eduardo Frade Rodrigues
+Editing:
+Ana Carolina Lopes de Carvalho
+Marcela Mattiuzzo
+Revision:
+Alexandre Cordeiro Macedo
+Cristiane Alkmin Junqueira Schmidt
+Gilvandro Vasconcelos Coelho de Araujo
+João Paulo Resende
+Márcio de Oliveira Júnior
+Paulo Burnier da Silveira
+In-house contributors:
+Diogo Thomson de Andrade
+Luiza Kharmandayan
+Victor Santos Rufino
+External contributors:
+Cristianne Saccab Zarzur
+Marcio C. S. Bueno
+Maria Eugênia Novis
+Pedro Mariani
+Graphic planning:
+Public Relations UnitINDEX
+1. Introduction ................................................................................................... 6
+1.1 The Role of the Administrative Council for Economic Defense .................................... 7
+1.2 Practices within the scope of these Guidelines ......................................................... 7
+1.2.1 Incentives for compliance with Competition Law ............................................................. 7
+2. Compliance..................................................................................................... 9
+2.1 What is Compliance ............................................................................................... 9
+2.2.1 Integration of several areas in compliance programs ....................................................... 9
+2.2 Who can benefit from Compliance ........................................................................ 10
+2.3 Benefits of the Compliance program to companies ................................................. 11
+2.3.1 Risk prevention ............................................................................................................. 11
+2.3.2 Anticipated identification of problems ........................................................................... 12
+2.3.3 Identification of infringements by other companies ........................................................ 12
+2.3.4 Reputational benefit ..................................................................................................... 13
+2.3.5 Employee awareness .................................................................................................... 13
+2.3.6 Reduction of costs and contingencies ............................................................................ 14
+3. Competition Compliance ............................................................................... 14
+3.1 What is competition compliance ........................................................................... 14
+3.1.1 Limitations ................................................................................................................... 14
+3.1.2 Sham programs ............................................................................................................ 15
+3.2 Structuring Robust Programs ................................................................................ 15
+3.2.1 General Criteria ............................................................................................................ 16
+3.2.1.1 Commitment .......................................................................................................................... 16
+3.2.1.2 Risk Analysis .......................................................................................................................... 16
+3.2.1.3 Risk Mitigation ...................................................................................................................... 21
+3.2.1.4 Reviewing the Program ......................................................................................................... 28
+3.2.2 Particularities of Individual Circumstances ..................................................................... 28
+3.2.2.1 Cartels ................................................................................................................................... 29
+3.2.2.2 Bid Rigging ............................................................................................................................ 32
+3.2.2.3 Associations, Trade Unions, and Standard Setting Organizations (SSOs) ............................... 33
+3.2.2.4 Unilateral Conducts and Vertical Restraints ........................................................................... 34
+3.3 Impact on Administrative Penalties ....................................................................... 383.3.1 The Leniency Program ................................................................................................... 39
+3.3.2 Settlement Agreements ................................................................................................. 39
+3.3.3 Consultations ............................................................................................................... 40
+3.3.4 Sentencing ................................................................................................................... 41
+4. Final Remarks ............................................................................................... 41I. Introduction
+Law 12.529/2011 (Competition Law) established a new structure for the Brazilian
+Competition Protection System (BCPS) in Brazil, of which the Administrative Council for
+Economic Defense (CADE) is part, and set out its functioning and powers. This Law was a
+milestone in the consolidation of Brazilian antitrust law, bringing about various innovations –
+such as the launch of a new institutional design, more efficient in carrying out the authority’s
+objectives – and reiterating the importance of fulfilling its provisions.
+Due to this renewed focus, one subject that has gained space on the competition agenda
+is compliance programs. Economic agents are becoming increasingly aware of the need to
+implement practices that do not infringe the Competition Law and that demonstrate a
+proactive attitude on the part of private entities. Due to these factors, the implementation of
+Compliance programs has been multiplying.
+The purpose of these Guidelines is to address this reality and to establish non-binding
+directives for companies and other private entities regarding these programs, specifically in
+the field of competition, such as what they consist of, how they can be implemented and what
+the benefits of their adoption are. These are suggested guidelines (or a “menu” of options, to
+use the terminology of the International Chamber of Commerce1), which can be accepted or
+not based on the reality of each organization.
+In that sense, CADE understands that medium and small-sized entities may implement
+Compliance programs, albeit smaller in scope and with a reduced budget when compared
+those of large companies.2
+1 The International Chamber of Commerce is an international organization that developed one of the most
+complete guides about compliance, and a reference in the subject in the international scenario. The material
+is available on: http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2013/ICC-
+Antitrust-Compliance-Toolkit/
+2 SCCE – A Compliance & Ethics Program on a Dollar a Day: How Small Companies Can Have Effective
+Programs. SCCE’s CEO, in the introduction of the guide developed by the society specifically for
+compliance programs with reduced budgets states: “Of course you could, if you wanted to spend any
+amount of money on compliance and ensure your efforts are expensive. Some have indeed created
+expensive compliance programs. However, the idea that any company that wants a compliance program
+must spend a lot of money is without merit. The claim that some companies – those that are small and
+medium sized – are too small to implement a compliance program is not accurate. Anyone with any business
+experience and who is being honest knows that any business operation can be managed efficiently or
+inefficiently. Compliance is no different. You can implement an effective compliance program with a small
+investment if you know what you are doing.”
+61.1 The Role of the Administrative Council for Economic Defense
+CADE’s role, as established by the law, is to ensure free competition. To achieve this
+goal, CADE exercises its preventive functions (merger analysis and consultations), its repressive
+functions (investigation and punishment of anticompetitive conducts), and educational
+functions (raising awareness of the importance of maintaining a healthy competition
+environment.)
+The main focus of these guidelines are the practices subject to CADE’s repressive
+functions. Compliance programs aims primarily at hindering companies, organizations, and
+persons from violating the Competition Law, that is, at preventing them from adopting
+practices that may constitute infractions to the economic order, thus subject to severe penalties
+to be applied by CADE. Such practices may be (i) horizontal, put forward by agents that
+compete among themselves; (ii) vertical, carried out by agents acting in different levels of the
+same chain of production; or (iii) unilateral, practiced by agents with a dominant position.
+I.2 Practices within the scope of these Guidelines
+These guidelines will tackle anticompetitive practices, as the recommendations on good
+practice in merger review were largely dealt with in the Guidelines on Gun Jumping. For further
+explanations on the subject, the reading of the aforementioned Guidelines is recommended.
+Here, the orientations will be directed at the creation of programs within private
+organizations that can be effective to avoid practices that may be understood as collusive or
+unilateral infringements of the competition law.
+I.2.1 Incentives for compliance with Competition Law
+Before entering into further detail regarding what is a Compliance program, what its
+specific benefits and structure are, it is important to highlight the reason why economic agents,
+be they large, medium or small, should be concerned with complying with the Competition
+Law. There are two responses, the first related to liability derived from non-compliance, and a
+second related to the benefits that compliance with the law brings to society and to economic
+agents themselves.
+7As described in Articles 37 and 38 of the Competition Law, private entities are subject
+to severe sanctions following the finding of such infringements. Furthermore, companies may
+be subject to prosecution in the civil sphere and individuals in the criminal sphere, by force of
+Law 8.137/1990. Also, with CADE’s growing enforcement activity, which has been increasing
+the number of investigations and judgments of administrative proceedings, the aim is to
+minimize the incentives for companies to engage in infringements. Some of the applicable
+sanctions are:
+ Companies: penalties of 0,1% until 20% from the amount of the gross income
+in the branch of corporate activity in which the infringement took place;
+ Administrator (directly or indirectly) responsible for the infringement, when her
+liability is confirmed: penalty of 1% until 20% from that inflicted on the
+company;
+ Persons (employees, consultants, accountants, etc.) or Entities (public or
+private/associations/with or without the character of a legal entity, even if
+temporarily constituted) that do not exercise corporate activities: penalties of R$
+50,000 until R$ 2,000,000,000;
+ Repeated infringement:
+o Company or persons: the penalties will be imposed in double;
+o Continuity of the acts or practices that constitute an infringement to the
+economic order, after final judgment by the Tribunal determining its
+discontinuance: daily penalties fixed in a minimum of R$ 5,000, going
+up to 50 times that amount, if so recommends the offender’s economic
+standing and the gravity of the infringement;
+ Criminal Proceeding: the persons involved in anticompetitive conducts can also
+be criminally charged and punished in penalties amounting to 2 till 5 years of
+imprisonment plus pecuniary charges.
+Notwithstanding, there are other benefits that derive from complying with competition
+law besides avoiding sanctions. The most elementary of them is the guarantee of a fair
+competition environment. One other benefit is the good reputation of companies in the market
+and their good standing in public opinion, as will be shown in more detail in item 2.3. As
+society becomes increasingly aware of the importance of healthy competition, and news on
+8anticompetitive practices gain space in the media, the incentives to cooperate with authorities
+and to systematically comply with the law goes beyond merely not being subjected to the
+applicable sanctions and extends to the guarantee of a good image.
+2. Compliance
+2.1 What is Compliance
+Compliance is a set of internal measures, adopted by a given economic agent, which
+enables it to prevent or minimize the risks of competition law infringements derived from its
+activities and from the practices of its partners and employees.
+Through compliance programs, economic agents reinforce their commitment with the
+specific values and goals put forward in the program, and, primarily, their commitment to
+complying with the law. This goal is ambitious and, consequently, requires not only the
+development of a set of procedures, but (and especially) a change in the corporate culture. A
+compliance program will have positive results when it manages to raise awareness among the
+organization’s employees on the importance of doing the right thing.
+Since such employees may present different motivations and degrees of tolerance to
+risks, the purpose of the program is to implement common values and goals, ensuring they
+are permanently observed. Compliance programs can encompass many similar areas related
+to the economic agent’s activities, such as corruption, governance, fiscal or environmental
+matters, and competition, among others, in an independent or aggregated manner.
+2.1.1 Integration of several areas in compliance programs
+A compliance program will rarely focus on the normative diplomas pertaining solely to
+one area or sector, or address only one type of concern. The most common is for programs to
+tackle several aspects and legal concerns simultaneously. For that reason, each economic agent
+must take into account its own characteristics when implementing a compliance program. In
+cases in which compliance risks touch several areas, greater effectiveness will be guaranteed
+as far as competition compliance is developed and implemented not on its own, but as part of
+a wider and broader program of corporate integrity and ethics.
+9The broader strategy must be to incorporate compliance into the company’s business
+culture so that it would not be possible to separate its commitment to compliance with law
+from its internal rules. From this point, the program will be less exposed to the risk of being
+seen as an obstacle to the achievement of performance goals and will be considered and
+integrated as part of the fundamental rules of the business.
+To exemplify a compliance relevant area other than competition, but that can be
+integrated to competition compliance, it is worth mentioning anticorruption compliance, which
+in Brazil is explicitly addressed in Law 12.846/2013.
+This integration is important for two main reasons: (i) the establishment by the economic
+agent of a program composed of internal mechanisms and processes aimed at detecting and
+avoiding risks in several areas, including competition, may be more efficient and effective than
+the creation of a single structure developed only for competition compliance, and (ii) if the
+main objective of compliance is to create a culture of respect for the law, it is evident that the
+fulfillment of all laws must be aimed for, not only the compliance with one legislative
+instrument.
+Notwithstanding, though competition ethics is part of a broader compliance agenda, it
+is vital to adopt competition specific material that takes into consideration the specificities of
+the law and policies for competition defense, as well as the adequate flow of resources to the
+competition area, especially in those cases in which the exposure to Competition Law is high.
+In short, integration should be aimed for without losing the specific features required of the
+fulfillment of each law.
+2.2 Who can benefit from Compliance
+Organizations of all sizes can benefit from a Compliance program. However, the risks
+-especially in the field of competition - to which an organization is exposed vary according to
+its size, position in the market, sector, objectives, etc. For this reason, there is no unique model
+for a compliance program. Each program must respect the particularities of each industry. Also,
+it should be constantly reviewed in order to include new risks that may eventually emerge,
+such as the ones derived from a merger transaction, from the introduction of a new product in
+the market or from the entry into a new geographic market with a history of competition
+infringements.
+10These Guidelines do not intend to exhaust the subject of competition Compliance
+programs, but rather to point out common elements to programs considered robust, as well
+as particularities of specific cases relevant to their structuring.
+In addition to the organizations themselves, the adoption of Compliance programs
+benefits third parties, among them investors, consumers and commercial partners, insofar as
+it guarantees that markets will remain competitive, prevents infringements and its subsequent
+damages from occurring, and avoids loss in the value of the company. Furthermore, to the
+authorities, prevention is always preferable than repression as it represents a smaller cost to
+society.
+Generally speaking, society, the economy, and competition as a whole benefit from
+compliance programs.
+2.3 Benefits of the Compliance program to companies
+As these guidelines focus on the implementation and strengthening of compliance
+programs in private organizations, the benefits derived from them will be described in greater
+detail.
+2.3.1 Risk prevention
+The adoption of Compliance programs helps in identifying, mitigating and remedying
+the risks of infringing the law, as well as and its
+adverse consequences. In addition to the
+fines, the Brazilian Competition Law
+Even if competition risks are more
+provides several other sanctions for frequently associated with larger
+infringements to the economic companies, small and medium-sized
+companies, as well as other
+order, such as the publication of the
+organizations, can and should be
+judgment decision in a newspaper
+concerned with complying with
+of wide circulation, the prohibition
+Competition Law, and consider the
+to enter into contracts with official implementation of Compliance
+financial institutions and to programs.
+participate in public tenders for a five-
+year period, registration of the infringer
+11in the National Consumer Defense Registry, recommendation of compulsory license of
+intellectual property rights owned by the infringer, denial of payment by installment of federal
+taxes and cancellation of tax incentives or public subsidies, the division of the company,
+transfer of corporate control, sale of assets or partial suspension of activities, and prohibition
+to carry out commercial operations on their own or as a representative of a legal entity for up
+to 5 (five) years.
+In addition to the financial damages and to the activities of the infringing
+organizations, there is also the negative impact on the individuals involved, who may be
+prevented from performing management activities in other companies and are subject to
+criminal liability.
+2.3.2 Anticipated identification of problems
+The awareness that compliance programs raise of undesired conduct enables the
+identification of competition law infringements more quickly, which favors a prompt response
+by the company. Among the benefits derived from the fast identification of infringements is
+the greater possibility to negotiate agreements with the authorities, including leniency
+agreements, which may lead to a substantial reduction of sanctions and, in some cases,
+criminal immunity for the individuals involved. The specific effect of anticipating the
+identification of problems for purposes of enforcement of the Competition Law will be dealt
+with in item 3.3.
+2.3.3 Identification of infringements by other companies
+The awareness raised by Compliance programs enable employees to identify signs that
+other companies, such as competitors, suppliers, distributors or clients, may be infringing the
+law. Such identification is relevant as the interaction with third parties infringing the law may
+be harmful to the economic agent. In such cases, when analyzing the infringements, the
+authority will be prone to see the organization in a less favorable light, especially depending
+on the level of involvement of the parties.
+A close relationship between organizations suggests a close alignment of commercial
+activities. Thus, it is very important to be capable to act if an illicit action of a third party with
+12whom there is an intense relationship is identified, so there will be no doubt about the good
+faith of the company.
+2.3.4 Reputational benefit
+Affirmative actions to promote compliance with the law are an essential part of an
+ethics culture in business, which results in benefits to the organizations’ reputation and to their
+attractiveness for promotional objectives, for recruitment and retention of employees. These
+actions tend to increase the satisfaction and commitment in the workplace and the feeling of
+belonging and identification with the group. The commitment to complying with the law also
+inspires trust in investors, commercial partners, clients and consumers that value companies
+that operate in an ethical way, and that would feel deceived in case of an infringement.
+Infringements of the law lead to the questioning of the entity’s ethics and business
+model. The possible economic impact derived from the damage to reputation - enhanced by
+media coverage - may be larger than the damage resulting from the sanction, as it may lead
+to losses that are not only financial, but also of business opportunities. Organizations that have
+implemented compliance programs are increasingly attractive as commercial partners and as
+institutions in which to work.
+2.3.5 Employee awareness
+Employees aware of the “rules of the game” are in a better position to do business
+without fear of infringing the law, and also less afraid to seek assistance if they identify
+possible sensitive competition matters. Subjects related to competition frequently appear in
+commercial negotiations; well-developed compliance programs enable employees to make
+decisions with more confidence. The fear of infringing the law - especially when there is the
+risk of criminal prosecution - may intimidate the employees and eventually discourage tougher
+and perfectly legitimate competition.
+132.3.6 Reduction of costs and contingencies
+The adoption of a Compliance program can prevent organizations from incurring in
+costs and contingencies due to investigations, fines, negative publicity, interruption of
+activities, unenforceability of contracts or illegal provisions, compensations, prohibition of
+access to public funds or of participating in public tenders, etc.
+In addition to judicial and administrative expenses, investigations require the
+allocation of human and financial resources that could be otherwise applied in the core activity
+of the entity. Furthermore, in addition to the administrative proceeding, companies and
+individuals may be liable on a civil and criminal basis for the infringement occurred.
+Damages to reputation can be felt even before the outcome of the proceeding, merely
+for being under investigation, reflecting in loss of clients, business opportunities, investments,
+market value, etc.
+3. Competition Compliance
+An organization should adopt and renew a competition compliance program when it
+identifies that it has potential risk under the Competition Law. That will be the case of most, if
+not all, companies. Below, the difference between a competition compliance program and
+programs pertaining to other areas (of Law) will be outlined.
+3.1 What is competition compliance
+The main difference regards the scope of the program: competition compliance is
+aimed, first and foremost, at minimizing the risk of competition violations, and, secondly, in
+offering mechanisms so the organization may readily detect and deal with anticompetitive
+practices that were not avoided.
+3.1.1 Limitations
+The most elementary point about the functioning of a competition compliance program
+is the understanding that its adoption does not guarantee competition violations will not take
+14place. Actually, if the program functions correctly, the tendency is that no effects will be readily
+visible. After all, the entire logic of compliance is to promote and preserve a healthy
+competition environment, meaning the company should be able to carry on its daily routine.
+On the other hand, the greatest advantage is visible when violations do in fact happen: the
+program allows for quick identification and for the company to take adequate action.
+3.1.2 Sham programs
+A concern when it comes to compliance enforcement is the creation of sham programs,
+structured solely to simulate commitment. The mere formal adoption of a program does not
+mean that the organization is effectively concerned and committed to complying with the
+Competition Law, or that the implemented program is in fact effective in attaining that goal.
+Entities may adopt superficial compliance programs, - and/or programs without real
+commitment to maintaining a healthy competitive environment, with the intention to make
+use of the program as a mitigating factor in case of conviction. They may also create programs
+that, from the outside, look extremely well structured, have been set up by specialists, and
+may even result in high costs for the company, but nevertheless do not resonate with the
+corporate culture and are, as such, systematically ignored by employees.
+For those reasons, concrete measures should always be part of the implementation of
+a program, so that the program is not determined to be a sham program. Some fundamental
+elements regarding the structure of a robust competition compliance program will be
+presented below.
+3.2 Structuring Robust Programs
+It is important to reiterate that competition compliance programs are always
+dependent on the particular characteristics of the organizations implementing them.
+Nonetheless, these programs must aim at incorporating general characteristics deemed
+essential for its efficiency and robustness, which will be systematically set out in item 3.2.1.
+The risks which follow from each company’s specific activities will be addressed in item 3.2.2.
+153.2.1 General Criteria
+Though it is possible to structure a competition compliance program in many ways,
+the following characteristics are common to robust programs. It should be mentioned that
+despite being common, in the sense that they should somehow be incorporated into the
+program, they do not require identical incorporation, that is, it is possible to incorporate and
+approach them in more than one way.
+How to ensure
+commitment?
+3.2.1.1 Commitment
+An alternative that some
+An organization’s genuine commitment is
+companies adopt in order to
+ensure involvement of the
+the basis for any successful program. Without
+governing bodies in
+seriousness and effective intention to conduct compliance initiatives is to
+guarantee their impact on
+business in an ethical manner, the program is
+employee salaries, including
+doomed. In practice, commitment is substantiated management.
+Such alternative can be viable
+through the following: tone from the top, specially when decentralization
+is acute and keeping unified
+adequate resources, and autonomy/independence
+control over the company’s
+for the Compliance Leader (CL). entire structure is not feasible.
+Another persuasive incentive is
+the media. Highlighting the
+Tone from the top
+damage to managers’ careers
+following from antitrust
+By “tone from the top” one should infer that
+violations results in more
+commitment.
+compliance is a fundamental value in the corporate
+culture, which is safeguarded by its inclusion on
+the agenda of the company’s governing bodies or of the highest-level person responsible for
+steering the business of the company and approving its financial statements. In including
+compliance as a strategic priority, the governing bodies guarantee the very existence of the
+program, that (i) communicates its relevance to all employees, (ii) ensures its inclusion in the
+company budget, allowing for discussion on the need for additional resources, (iii) monitors
+its development, through periodic updates from the Compliance Leader (or similar), and (iv)
+sets goals, objectives, and methods for controlling the competition compliance program, which
+must be followed in practice.
+Such involvement by the governing bodies should also be visible in daily activities. It is
+essential, in order for compliance programs to be an effective part of the corporate culture,
+16that employees are not held to “bottom line” only financial standards, and that there is no
+incentive or tolerance of illicit behavior that nonetheless brings positive results in the short-
+term. The standard to be applied comes from the top, thus the need for the administration to
+be serious about compliance rules.
+When it comes to multinational companies, in which decentralization tends to be
+prevalent and the number of individuals in managerial capacities high (marketing
+management, sales management, regional management, national direction, etc.), establishing
+a coherent tone that will ensure compliance rules are upheld is an even bigger challenge. For
+that reason, it is common for companies to adopt Codes of Conduct, which tend to offer
+general parameters for employees on a global scale. If that is the option, it is important for the
+Code to somehow address competition law compliance themes, even if more specific antitrust
+issues are omitted and conveyed at a later point.
+Appropriate Resources
+The resources designated for competition
+Monitoring strategies for big
+compliance programs should have as parameters
+businesses
+(i) the organizations’ particularities (size, market
+where it runs its business, etc.) and (ii) how One of the possible monitoring strategies
+compliance represents avoided costs in potential for compliance programs is the adoption
+of periodic field research, by an external
+investigations and convictions. Once properly
+agent, with a view to understand the
+implemented, the program represents a powerful
+perception of employees that interact
+defense against fines substantially larger than their
+directly with the public or with third
+implementation and maintenance costs, plus
+parties that acquire goods and services.
+reputational consequences. When it comes to
+The goal of such field research is to verify
+particularities, one should note a program will be
+whether the main compliance rules are
+ever less credible the bigger the gap between
+uphold by the sales personnel.
+available resources and perceived risks.
+In that scenario, it is advisable that
+companies intending to invest in building or
+strengthening their compliance programs take into
+consideration:
+17(a) Whether the budget designated for structuring and maintaining the program is
+sufficient;
+(b) The relationship between the number of employees entirely or partially dedicated to
+compliance, the company’s size and the competition risks to which it is exposed;
+(c) The allocation of staff dedicated to compliance, so that they are able to act
+independently, and effectively impact the decision-making process within the
+firm; and
+(d) If there are enough resources in order to hire and empower the compliance team.
+It is essential to stress that appropriate funding does not mean all programs must be
+expensive. Since compliance strongly depends on each company’s particular structure, there is
+nothing stopping a firm from adopting a program with little expenditure – as mentioned
+above, compliance should not be limited to huge corporations, which means it must be
+possible for small and medium firms to develop programs suited for their needs. The aspect
+that must be taken into consideration is adequacy: so long as resources are sufficient, they will
+be deemed appropriate.
+Autonomy and Independence
+It is fundamental to nominate an individual or team of individuals to lead the compliance
+activities. That person should occupy a position compatible with her responsibilities. In
+addition to having deep knowledge in technical aspects relating to competition law, the CL
+should be able to influence the organization’s decision-making processes, which is only
+possible if that person occupies a position of relevance.
+CADE recognizes that each entity has its own peculiarities and, for that reason, it is
+entirely up them to adequately position the CL in their organizational structure. Nevertheless,
+it is their responsibility to ensure them sufficient
+autonomy and independence so they can, in an
+“Appropriate resources” is
+informed manner, adopt measures that may not
+not a synonym for
+be in line with convictions by top management.
+“expensive programs”. They
+The option selected by some companies
+must be sufficient.
+has been to establish a schedule of meetings
+between the compliance team and the
+18governing bodies (be that the Board of Directors and/or Executive Board, the specific
+committees by them designated, such as the Auditing Committee or the Compliance
+Committee, or even the company’s director) in order to discuss and deliberate on themes that
+involve competition risks.
+Big companies might decide to dedicate an entire division to compliance, thereby
+creating a group of employees to deal with compliance. If the company is simultaneously active
+in several countries or economic sectors, then the possibility of designating national and
+regional compliance leaders should also be considered. However, if the company is small or
+medium sized, such big teams may not be needed. Once again, the most important aspect
+about compliance leadership is ensuring that the individual coordinating the program and
+monitoring its implementation is sufficiently independent so that his or her decisions get to
+the governing bodies and are effectively given due consideration.
+3.2.1.2 Risk Analysis
+Well-structured compliance programs are usually preceded and followed by a profound
+risk analysis. Among other factors, risks generally vary owing to a company’s size, economic
+sectors in which it runs its businesses, position occupied in the market, the reach of its
+activities, the number of employees and the level of training such employees have received.
+For example, a company that holds a 60% market share and operates in an environment of
+extreme rivalry with its competitors is less subject to the risk of collusive practices than
+companies that operate in homogeneous product markets, have similar cost structures and
+interact frequently with competitors. In the first case, the greatest risks are related to unilateral
+and vertical practices. In the latter, the greatest concern relates to the risks associated with
+collusive behavior and exchange of sensitive information with competitors.
+For that reason, it is extremely important for companies to undergo an individualized
+analysis of the risks associated with their activities, to classify those risks and prioritize
+compliance activities in those areas where the associated risk is the highest.
+But, after all, what is risk analysis? According to the ICC, analyzing risks implies taking
+into consideration the aforementioned external conditions to which a given company is subject
+and analyzing these conditions based on two factors: the probability that hypothetical events
+19become reality and the effect those events would have once they occur.3 There is no one
+methodology for such analysis, but a well-renowned method is the one established by the
+Committee of Sponsoring Organizations of the Treadway Commission (COSO) in the United
+Kingdom, in place since 19924, and another relevant reference is the Global Compact Risk
+Analysis Guide of the United Nations.
+However, the most important is to clearly
+How to introduce compliance
+specify the criteria of any given
+into an organization’s daily
+routine? methodology.5
+When it is self-evident that the
+In big businesses, the mentioning
+of the competition compliance
+company is facing high risks, and that it
+policy by the high administration
+has a widespread organizational
+at all meetings which gather
+employees, as well as the structure, one option is to ask for the
+propagation of videos about the
+assistance of external specialists. These
+program in the intranet, recorded
+by the CEO and vice-presidents. In specialists can contribute not only with
+smaller companies, the constant
+their technical expertise and practical
+reinforcement of the relevance of
+knowledge, but also with an outside
+the program for the success of the
+endevors. perspective, not embedded in the
+company’s routine, and/or subject to
+internal pressures.
+It is also advisable for risk analysis to not be solely based on perceptions from the
+Compliance Team or on assessment of written documents. On the contrary, those responsible
+for the program should deeply investigate how the organization’s activities are carried out. In
+order to do so, one must know the details about the firm’s functioning to properly analyze
+which areas are exposed to lower or higher risks. Some suggestions in that regard are: (i)
+interviews with employees from different areas, who occupy different hierarchical levels; (ii)
+visits to operational units and to the market; (iii) constant review of strategies and risk
+3 ICC Toolkit, pp. 17-18.
+4 Commitee of Sponsoring Organisations of the Treadway Commission – http://www.coso.org/IC.htm.
+5 Once again, noting that the burden of proof of the program’s effectiveness falls on the company itself, it
+is advisable to clarify the methodology adopted for risk calculation, in order to assist the company itself if
+anticompetitive investigations are established and require the analysis of the compliance program, and to
+demonstrate the company’s good faith, ensuring it did not seek to establish unclear mechanismsfor the
+assessment of risk.
+20assessment methodology; (iv) open communication channels with employees, especially those
+exposed to greater competition risks, etc.
+As a result of the risk analysis, the resources for the compliance program should be
+adequately allocated, prioritizing areas and topics of greater risk.
+3.2.1.3 Risk Mitigation
+Once the potentially problematic areas have been identified in each particular case, the
+following initiatives are alternatives aimed at mitigating the risks associated with
+anticompetitive practices.
+Training and Internal Communication
+The training offered to employees is a proper way to transmit the rules and objectives
+of the compliance program. It is also through training that employees understand the
+fundamental role compliance plays in a company and are able to ask questions regarding
+compliance processes, which usually results in greater commitment to the overall program.
+The most effective training commonly adopts different strategies, depending on the
+hierarchical position and the level of exposure to competition risks of those subject to it, and
+takes place periodically. This is because, for the most part, employees who directly interact
+with competitors or whose field of action is sales or marketing tend to be subject to higher risk
+than those whose activities are concentrated in other areas.
+Regarding the type of training, the two most frequent methods are on-site and online.
+Both are relevant: on-site training, inasmuch as it allows employees to be face-to-face with
+the Compliance Leader, enables greater freedom and flexibility so that employees may ask
+questions and make comments; online training, on the
+other hand, can strengthen messages already
+High-level personnel
+transmitted in person, as well as reach a larger number should be a part of training
+directed at lower staff
+of employees at a lower cost. In both instances, it is workers, in order to
+demonstrate the
+advisable for training to be carried out by experienced
+administration’s
+professionals, and that the employees who took part in commitment to the
+program and the relevance
+the training sessions are subject to some form of
+of training itself.
+21evaluation, in order to verify how much of the program was effectively absorbed by them,
+thereby guaranteeing a minimum level of effectiveness.
+What kind of training is the most appropriate? As a general rule, relying on online
+training alone is not advisable. This mechanism is usually selected by big companies, which
+have difficulties gathering all their employees in one place, at one time, to provide them with
+explanations regarding compliance. As mentioned, the
+electronic method is efficient in that sense. However, it is
+desirable that employees have the opportunity to interact
+Reinforcing employee
+with the compliance team more directly, in order to gain
+training, namely of those
+confidence in the program and in the people responsible
+involved in implementing
+compliance, through for it, not only so they can effectively report anticompetitive
+professional internships and practices, but also so they are aware there will be no
+post-graduate programs in
+retaliation regarding their complaints on anticompetitive
+that area, not only in Brazil,
+behavior, on the contrary, that coming forward with this
+but also abroad.
+information is the behavior expected of them.
+This situation is all the more critical for new
+employees, or employees who never had any contact with
+competition compliance. The natural tendency is for them to have more doubts, questions and
+be more insecure. Personal contact can be more effective in conveying the idea that it is safe
+to raise concerns, thus the suggestion for on-site training. However, given that digital
+mechanisms have evolved considerably over the past years, it is possible that the concerns
+brought about by the interaction between employees and compliance team can also be
+addressed by online training. Once more, the most important thing is to guarantee
+effectiveness, as much as possible, regardless of which mechanism one chooses to adopt.
+In addition to training, it is also important to provide constant communication about the
+compliance rules through different forms of communication between the organization and its
+employees, so these rules effectively become a part of the corporate culture. Some of these
+methods include conferences, videos, pocket guides, pamphlets, e-mails, intranet sites, and
+apps, which should include leadership involvement. Without prejudice to these initiatives, it is
+also appropriate to include the main competition compliance rules in the company’s Code of
+Conduct, when such a code exists, as well as in internal communications related to that
+document. Thereby, the company transmits to all its employees the message that involvement
+22in any practices that violate the Competition
+Law will also be considered a violation to the
+A well-known and common mechanism is the
+Code, resulting in the disciplinary penalties
+creation of a hotline (or equivalent), which allows
+described therein. any employee to have direct and anonymous
+In drafting written materials, be it a Code contact with the Compliance Leader. These hotlines
+bring two sorts of benefits: (i) since they protect
+of Conduct, guidelines or specific orientations
+anonymity, they also ensure security and safety to
+for compliance, a company should take into
+employees, who consequently participate more
+consideration the reality of its business. A toolkit
+actively in the program, for they can report
+or booklet, a code, guidelines and orientations misconduct not to their superiors, but to a team or
+that adopt unreal objectives, describe situations a compliance person specialized in that task; (ii)
+compliance with the rules is greatly incentivized,
+in an idealized manner or present issues in a
+because potential offenders are aware that any
+way excessively distant from the daily routine of
+given employee is a potential whistleblower.
+the company usually fail to resonate with
+employees – and, in some cases, that strategy
+even results in adverse effects, since employees start questioning the validity of a program
+that does not comprehend the reality experienced by them.
+Equally relevant is the treatment given to compliance processes. It is important that
+employees can report to the compliance team in case they have questions, and that the team
+can contact all employees directly, in order to properly guide them. Communication should be
+a two-way street and, for it to run smoothly, the ideal is for employees to be fully aware of
+what the processes are and how they work, even when those processes are extremely simple.
+23Monitoring
+How to guarantee effective
+The success of the compliance program is also
+monitoring?
+highly dependent on an organization’s capacity to
+In big companies exposed to high
+monitor implementation. In general, monitoring
+competition risks, one option is
+activities can be directed at two areas: (i) adequate resorting to periodical external
+consultations with specialists who
+functioning of processes and controls; and (ii)
+will elaborate an opinion regarding
+evaluation of effectiveness.
+competition risks. That document is
+In the first category, the monitoring is focused on prepared using internal and external
+documents, market data, interviews
+individual behavior, in order to verify if the processes
+with employees in marketing and
+are followed by employees. The goal is, for example, to sales, etc.
+measure if the proposed percentage of employees
+effectively underwent some type of training; if only
+employees previously trained in competition compliance have represented the company; if
+the approval processes for commercial measures have been followed; if the rules established
+are in line with international better practices.
+One way to reinforce that monitoring is by certifying training. Certification is the
+assurance provided by employees themselves that they took part in sessions in which the
+compliance program’s rules and processes were clearly set out and are, therefore, well aware
+of the company policy in that regard, along with personal commitment to uphold such rules.
+This certification is usually written, taking the form of a declaration.
+In the second category, of greater complexity, the program’s effectiveness and efficiency
+will be analyzed. There are many alternatives: the firm can hire an auditor to verify, for
+instance, if the trained employees have in fact understood and internalized best practices and
+are applying them in their day-to-day work. Depending on available budget, it is also possible
+to hire periodic market research to be conducted by specialized personnel, who will interview
+third parties (consultants, suppliers, distributors, sales agent) in order to ensure those acting
+for the company have been acting according to the compliance program standards.
+Communication channels between the company and its employees, as well as between
+the company and third parties involved in its business, also play an important role in
+monitoring compliance. It is indispensable to provide and disseminate the existence of such
+channels. As for the form they may assume, one option is the aforementioned hotline – some
+companies adopt models alternative to hotlines, such as apps – or simply an operation carried
+24out by a single person, available to provide clarifications, be it by e-mail, person-to-person or
+by phone.
+Additionally, this channel should incorporate the possibility of receiving complaints and
+reports from employees and third parties, in order to identify competition risks, always
+ensuring anonymity and confidentiality of all information provided.
+The input received, be it simple questions regarding the functioning of compliance or
+reports on illicit behavior, must be handled appropriately. Firstly, it is essential that anonymity
+is guaranteed. Special attention should be given in case the company opts for documenting
+the complaints of employees. Secondly, all information made available by the entity about the
+reporting system has to be extremely clear: it is not
+advisable to present materials in only one language if
+the firm is active in several countries, nor is it wise to
+Reporting Channels
+make the use of the channel too complex, in need of Companies that interact
+constantly and intensely with
+long and highly detailed training, etc. Those
+sales personnel may adopt a
+responsible for answering the calls (or answering the
+monitoring strategy by
+e-mails) must be prepared to do so and aware of how engaging its commercial
+partners, instructing them in
+to proceed if facing serious and potentially problematic
+regard to the compliance
+accusations. It is also advisable, in order to reinforce
+program, clarifying the rules
+the two-sidedness of communications and strengthen adopted by the company,
+and opening up a reporting
+the trust of employees, that the employee reporting to
+channel to be used in case
+the channel has the chance to anonymously follow up
+infringements are detected.
+on her request.
+Lastly, it is extremely important that the
+company has the ability to process all the complaints it receives, providing answers to
+employees’ concerns (even if those answers are negative, in the sense that the Compliance
+Team has come to the conclusion that the conduct is not an infringement, or in the sense that
+the request is not properly related to compliance, rather to a different area within the company,
+since it is not uncommon for the compliance area to receive information better suited to other
+departments). To attain such a goal, internal investigation processes must be well delineated
+and transparent.
+Unaddressed complaints have two main effects, one of which is loss of confidence from
+employees, which results in disuse of the communications channel. Another is the potential
+25negative effect for the company in case of antitrust investigations. After all, if the channel
+exists, employees do report to the company and the organization does not provide adequate
+answers to those reports, the impression is that the firm neglects competition issues. For that
+reason, resource allocation is once again fundamental: it must be sufficient to fulfill the goals
+that the company intends to achieve. Implementing a vastly complex and expensive
+communications channel might not be the best alternative if the company cannot properly deal
+with all the information brought forward through it.
+Documentation
+Each of the initiatives related to competition
+compliance must be properly documented by the
+Compliance Committee
+organization. Proper documentation allows for
+A suggestion for the insertion of
+continued evolution of the program, based on compliance and simultaneous
+guarantee of effective autonomy
+improvement on the commitments previously made
+and monitoring is the
+and shared among the areas. This, in turn, ensures reinforcement of the competition
+compliance structure by means of
+continuity of the rules and processes, regardless of the
+a Committee linked to the Board
+of Directors, composed of legal
+changes made to the group of people involved in
+and economic external experts,
+implementation. with the task of monitoring the
+development of the program.
+Moreover, adequate documentation of
+competition compliance activities can be of great value
+in case the company is called to provide information
+regarding its conduct before the competition authorities. As an example, if the company keeps
+records of the solid and detailed orientation given to a specific individual regarding price
+coordination among competitors, one could conclude, depending on the evidence available,
+that the employee’s involvement in collusive conduct represents an individual failure. That is,
+the case of one violator who failed to comply with corporate culture, not a coordinated effort
+from the organization in disregard of the Competition Law. Consequently, the good faith of
+the company could be presumed, diminishing the severity of fines and of the conduct itself.
+26Internal discipline and incentives
+Part of monitoring consists of applying penalties to employees that violate competition
+compliance rules. Independently from investigations that may be pursued by the competition
+authorities, having an internal mechanism for punishment is an important step in
+strengthening the program in the eyes of employees and in promoting a corporate culture
+which embraces competition as one of its pillars.
+The penalties should be applied to all employees, regardless of hierarchical position. It
+is also important that they are clearly outlined, public and in line with the legislation (not only
+competition, but also labor law). Decision-making regarding who, when and how to punish
+must go through a process of careful thought and consideration. It is advisable that the final
+word is not delegated to one single individual, but rather to a group of individuals.
+Alternatively, an appeal mechanism for individual decisions could be implemented.
+In terms of what penalties should be attributed to which individuals, the ideal is for the
+company to take into consideration the degree of involvement in the conduct, its severity, the
+employee’s previous participation in compliance training, her cooperation with the
+investigative proceedings and also her good faith, hence it can determine which factors
+mitigate or aggravate the punishment.
+Another careful analysis concerns the disclosure of information gathered, not only
+internally (to the individual subjected to investigations and to the other employees), but also
+externally. As competition violations might result in the signing of leniency agreements and
+settlement agreements, data should not be disclosed prematurely, at a time when the
+company knows about a violation but is unable to provide evidence that it did in fact take
+place, nor too late, given that (i) other companies may contact the authorities in order to ensure
+a marker for the “first place in line” and (ii) excessive delay may indicate to the authorities an
+unwillingness to cooperate, and even an intention of never coming forward with the
+information, which is extremely damaging to the program’s credibility.
+273.2.1.4 Reviewing the Program
+Another important characteristic is related to the compliance program’s ability to be
+revised and adapted over time. Since compliance should be concerned with competition risks
+for a given company and those risks are constantly being altered due to the market dynamic
+activity, the program should be periodically revised.
+Competition conditions may change following from the entry of new players in the
+market, new acquisitions, new commercial activity implemented by the company, or even
+elimination of barriers to entry. Therefore, CADE believes there is no ideal periodicity for
+revision of the rules, although it does recommend that companies establish an agenda in order
+to constantly evaluate the need for change connected to each particular company and
+circumstance.
+It is important for the governing bodies to be aware of the need for alterations through
+time. As mentioned, the involvement of high-level employees is very meaningful in ensuring
+the success of the program, thus it is equally important for them to be informed of topics the
+compliance team has highlighted as in need of change. This kind of information can be
+transmitted in many forms, depending on the company’s characteristics. If the budget
+dedicated to compliance is substantial – which usually is the case in big companies – then an
+option is to have a periodic report aimed at analyzing those activities. If, however, the budget
+is not sufficient for such a measure, the reports may be simpler, shorter, but provided more
+regularly in meetings with the Board.
+Even if the analysis ends up concluding that changes are not strictly necessary at a given
+moment, it is advisable for companies, especially those exposed to high competition risks, to
+commit to perfecting their compliance programs. Constant contact with rules and guidelines
+issued by national and international authorities, with those whose exposure to risks is the
+highest and with external consultants are examples of practices that tend to produce positive
+effects and help in elaborating new standards of excellence for the future.
+3.2.2 Particularities of Individual Circumstances
+When structuring competition compliance programs, besides the general criteria, it is
+important to observe the specifics from each individual circumstance, that is, the particular
+risks to be addressed by the organizations according to the market in which they carry out
+28their activities. Those risks can be of very different natures, and the aim of these guidelines is
+to highlight particularly relevant situations common to the competition environment and how
+compliance programs may be structured to address such particular situations.
+The goal of the following items, therefore, is to (i) stress specific circumstances that
+create particular competition risks and (ii) suggest parameters for structuring a compliance
+program in case the company entered into one of these sensitive markets.
+3.2.2.1 Cartels
+Cartels are the most well-known, most discussed and certainly most punished
+anticompetitive practices. They are also the main aim of leniency programs, responsible for the
+larger part of authorities’ investigative activities not only in Brazil, but all over the world6.
+Naturally, companies whose activities take place in markets where the risk of cartelization is
+high should pay special attention to that conduct.
+The illicit behavior is explicitly provided in Article 36, §3, II and III of the Brazilian
+Competition Law and it consists of a collusion among competitors by way of manipulating the
+market in order to (i) increase prices or hinder their adjustment, (ii) restrict the amount of
+products in that market – that is, limit the offer, (iii) promote market division and (iv) coordinate
+their activities in public biddings.
+Cartels usually appear in oligopolistic markets, those controlled by a small number of
+economic agents, since this conduct comes with high coordination costs. It is necessary to
+monitor if all companies are following the terms of the agreement, to coordinate activities
+between firms and, moreover, to create sufficient incentives to ensure none of the companies
+will report the cartel to the authorities, which is all the more challenging the bigger the group.
+Those costs will be lower the fewer companies are involved, for monitoring and coordination
+become easier.
+6 For more on the leniency program, see the Toolkit of the extinct Secretariat for Economic Law (SDE) at
+http://www.cade.gov.br/upload/Cartilha%20Leniencia%20SDE_CADE.pdf (Portuguese only) and the
+Leniency Guidelines at:
+http://www.cade.gov.br/upload/Guidelines%20CADE's%20Antitrust%20Leniency%20Program.pdf
+29The barriers to entry are also relevant in this analysis. After all, even when the market is
+structured as an oligopoly, if a new agent can easily access it, it is much harder for the cartel
+to maintain its controlling position. Homogeneity of goods and services also facilitates
+collusion. When each company offers consumers a product with distinctive characteristics,
+substitutability diminishes. Consequently, it is harder to promote an effective consumer market
+division.
+As such, all market characteristics that contribute in minimizing monitoring costs within
+a cartel indicate that the costs for its creation are lower, although cartels have already been
+identified in markets that did not meet these characteristics and that, theoretically, have higher
+monitoring costs.
+One point that deserves to be highlighted when discussing cartels and compliance
+programs is the heightened emphasis these practices must receive in the training process,
+since the conduct known as hardcore – that is, institutionalized cartels, with recurring and
+durable interaction among competitors and where unlawfulness is well-determined, for there
+is no possible efficiency running from the conduct that may mitigate anticompetitive effects –
+frequently go unquestioned by authorities and have their illegality easily assimilated by
+employees. That is not always the case for other types of infringements, because other
+anticompetitive practices require more complex and controversial economic and legal analysis,
+as will be seen below.
+The tendency of authorities for condemnation in these cases is, therefore, stronger, since
+besides the legal criteria that determine the unlawfulness of the cartel, any possible good faith
+arguments that may demonstrate the conduct was a mishap and does not represent the
+company’s corporate culture is much harder to make.
+What should one do in such cases? How to create programs that address the problems
+resulting from cartelization? Firstly, senior management’s involvement in the program is
+extremely relevant in order to avoid cartel formation, for starting and maintaining an
+infringement of this kind when the Board does not approve of it (or at least turns a deaf ear to
+it) is tremendously challenging, considering that the decisions necessary in order to sustain
+collusion are usually made by directors themselves.
+30Secondly, because cartels usually develop in oligopolistic markets, in which the number
+of competitors is significantly smaller, it is common for companies to constantly interact with
+one another. CADE recommends, however, that competitors avoid contact between each other
+and engage in direct exchange only in exceptional situations. In that sense, it is fundamental
+for the training of those employees who somehow interact with competitors to be severely
+strengthened, so they have precise knowledge of the information they are allowed to share
+and the information they should keep secret.
+In order to give some examples, here is an illustrative list of some practices that should
+be avoided:
+ Never share confidential or competitively sensitive information or data related
+to the company's strategies with competitors;
+ Do not discuss, negotiate, make agreements with competitors on prices or
+promote market division and/or performance limits related to geographical area,
+products and/or customers;
+ When in a conference call with competitors, if the call somehow addresses
+competitively sensitive information, refuse to discuss the matter and, if the other
+counterpart insists on the subject, turn off the phone. Do the same even if
+attending the call as a listener, and inform all attendees of your reason for
+discontinuing the conversation. Request your withdrawal from the call to be
+registered, along with your motivation for doing so;
+ When in a meeting with competitors, if such meeting somehow addresses
+competitively sensitive information, refuse to discuss the matter and, if the
+counterpart insists on the topic, leave the room. Request your disallowance be
+registered in the minutes of the meeting. Do the same even if attending the
+meeting as a listener;
+ Attend strictly necessary meetings where competitors will be present
+accompanied by a company's lawyer. The lawyer will serve not only for
+questions of clarification as to which topics may be addressed, but also to
+inspect and certify their legality;
+Immediately report to the Legal Department any improper conversation initiated
+by a competitor or the disclosure of competitively sensitive information, by
+31whatever means, undertaken by such competitor, for notice and possible further
+actions by the Department.
+3.2.2.2 Bid Rigging
+Bid rigging involves cartel formation in the specific context of public procurement. It
+deserves special attention for it presents particular characteristics as a result of the structure
+of public procurement. These characteristics will be highlighted below, keeping in mind that
+all that has been said about cartels in general in the previous item also applies to this item.
+The goal is to answer (i) what in public procurement contributes to cartel formation and (ii)
+how compliance programs can help companies address this risk.7
+A first point to be raised is the publicity of public proceedings. Brazilian law requires
+there to be a bid invitation, which leads to wide knowledge of the competition conditions for
+the future contract. Furthermore, due to the nature of the proceedings, the identity of the
+bidders is also public, meaning competitors are fully aware of those who take part in the bid,
+facilitating collusion.
+The second point relates to the recurrence of economic actors in bid proceedings.
+Depending on the market in which a company operates, the number of firms qualified to take
+part in procurements is relatively small (in some cases, very small, where only two or three
+companies are able to compete). The interaction between those companies is therefore
+constant, which, again, facilitates collusion. Also, the knowledge each company has of its
+competitors’ modus operandi is considerable, making mirroring commercial practices all the
+more likely.
+Thirdly, the homogeneity of goods and services should once again be stressed. It
+facilitates coordination in every cartel, but here it is taken to extremes due to the bid
+proceeding itself. What the government aims to attain with a public offer is a specific good or
+service, so it is evident there is close to full substitutability between what is offered by each
+bidder.
+7 The toolkit of the extinct SDE also provides information on big rigging and public tenders in competition
+law. It can be found at: http://www.comprasnet.gov.br/banner/seguro/cartilha_licitacao.pdf (Portuguese
+only.)
+32Given those additional aspects, public procurement represents a focus of action for
+authorities – not only competition authorities, since depending on the sort of coordination
+between players, the Competition Law and Law 8.137/1990 (the economic crimes law) will
+not be the only applicable statutes. As examples of other diplomas, Law 8.666/1993, in its
+Article 93, determines that fraud, disturbance or hindrance in any act of the bid results in
+detention from six months up to two years, combined with fines, and Law 12.846/2013, in
+Article 5, IV, stipulates that fraud in the bid is an act harmful to the government and, as such,
+subject to penalties.
+Companies can avoid being exposed to this sort of conduct if they adopt specific training
+for employees who actively participate in public proceedings, either by filling out the proposal
+submission, or by attending meetings for proposal submissions. Another effective way to
+prevent collusion is the detailed monitoring of every step taken during the bid, in order to offer
+precise information about how the process was carried out, if questioned.
+3.2.2.3 Associations, Trade Unions, and Standard Setting Organizations (SSOs)8
+Associations, including trade unions, are ruled by the Brazilian Civil Code and play a
+central role in society. It is through them that entire sectors and interest groups are able to
+organize themselves and take pleas to the government, publicize their ideas and discuss their
+common issues with other interested members of the community, aiming at finding solutions
+for them.
+Nevertheless, precisely because the interaction between agents grows substantially in
+that context, associations also represent opportunities for collusion. For that reason, it is
+important to pay special attention to what is discussed in association meetings, to avoid
+having sensitive themes disclosed to competitors. SSOs, for their turn, are associations whose
+goals are to establish quality standards and to expedite certificates ensuring companies follow
+such standards. Inasmuch as they foster security and bring transparency to requirements for
+goods and services, SSOs are beneficial to consumers and also to competition – they bring
+down barriers to entry, for example. However, they may represent danger to the competitive
+8 The extinct SDE issue a toolkit dealing specifically with associations and trade unions. Available at:
+http://abpa-br.com.br/files/cartilha_sindicatos.pdf (Portuguese only.)
+33process when they impose excessively restrictive standards or standards whose
+implementation requires a disproportionate initial investment, for such measures might move
+new entrants away and hamper innovation.
+Therefore, the recommendations for companies which are part of associations, trade
+unions, and SSOs are as follows:
+ Never join associations whose goal is the coordination between competitors;
+ Be careful when defining who will be the employees that will participate in
+meetings directly, avoiding, when possible, these persons to be commercial
+directors, sales managers, and other employees directly involved with the
+commercial strategy of the organization;
+ The employees should be instructed on what can and cannot be discussed with
+competitors;
+ Always and at all the times require for everything which took place during the
+meeting to be properly registered in the minutes, and especially, when the
+company believes a given topic to represent a competitive risk, it should
+immediately withdraw from the meeting, having its withdraw registered;
+ Examine the agenda prior to the meeting, refusing in advance to take part in
+those in which the purpose of the meeting itself is to discuss competitively
+sensitive issues;
+ When attending meetings in which competitors are present, do not engage in
+legally prohibited activities even if they are "officially approved" by the group
+that is promoting the meeting or by others who are already participating in
+them;
+ Immediately contact the compliance team when facing any illegal activity in the
+association;
+Always review and approve the content to be formally issued by the association.
+The recommendations for the associations, trade unions, and SSOs themselves, on the
+other hand, are as follows:
+ Be transparent about the agenda of the meetings, sending it in advance to the
+members;
+34 Disseminate the information collected from members in aggregated form, in
+order to avoid the identification of individual data;
+ Hire audit services to follow up on data collection activities (black box);
+ Always give preference to requiring historical data. Whenever possible, provide
+the data collected not only for members, but also to the public, even if only in
+exchange of payment, in order to eliminate any suspicion about the legality of
+the practice;
+ Do not disclose current and future prices, costs, production levels, inventories,
+marketing plans, expansion plans, the discount policies of members, or any
+other competitively sensitive information pertaining to members;
+ Request and receive competitively sensitive information from each individual
+member respecting confidentially. Make the requests to neutral persons who are
+not related to competitors, and never share such data with other members;
+ Avoid to prepare and disclose tables, even non-binding ones, of prices and
+commercial conditions under which goods and services shall be provided;
+ Always use non-discriminatory criteria for admission of new members.
+It is equally advisable for practices recurrently punished by competition authorities to be
+avoided. One example in the case of associations is the expedition of price tables, which have
+been considered anticompetitive by Cade in a number of administrative proceedings.
+3.2.2.4 Unilateral Conducts and Vertical Restraints
+Unilateral conduct and vertical restraints are a challenge to competition authorities
+inasmuch as these types of anticompetitive practices are extremely varied, not always easy to
+detect and generally incorporate a discussion about their effects – the company engaging in
+the practice usually argues that it brings benefits to competition, despite also presenting risks.
+That is precisely why compliance is so relevant in such cases.
+These practices will be all the more of concern the more significant the market power of
+the companies engaging in it. It is evident that a company with more power is also more
+capable of unilaterally influencing the market in one direction or the other, as well as engaging
+35in vertical concentrations of greater effects. Therefore, that is a relevant aspect of the analysis:
+the player should ask itself if it occupies a dominant position and must be aware that, if the
+answer is positive, it will be held to a higher standard when implementing commercial
+strategies.
+Unilateral conduct is not per se illicit. As a rule, practices will be deemed anticompetitive
+once associated with the potential of excluding competitors or when they do not bring any
+benefits to consumers. It is in this sense that CADE, in line with the top competition authorities
+in the world, seeks to apply the so-called rule of reason in cases involving unilateral conduct.
+The same holds true for vertical restraints, which can have positive effects for competition,
+such as the reduction of transaction costs. However, depending on the market and the position
+occupied by the agents involved, they may also implicate competitive risks.
+As regards the structuring of robust compliance programs, it is important for companies
+to create internal processes that, first and foremost, guarantee that commercial practices are
+validated by the compliance team before coming into force. Such validation may take different
+forms, but some aspects of an analysis that could be relevant within firms are the following:
+1. Holding a dominant position. As mentioned above, the company should first analyze
+whether it holds a dominant position in the market where it intends to implement a
+given commercial practice. Having such a position is the most important element,
+though not a sufficient one, in unilateral and vertical analysis. Other relevant aspects
+include:
+a) Competitors’ capacity to supply customers/clients who are the focus of the
+commercial practice by means of substitute goods and services; as a rule, the
+fewer competitors with those capacities, the greater the market power;
+b) The market share of other players, that is, the overall degree of concentration
+in the market;
+c) The level of vertical concentration on the market and the share detained by the
+particular economic agent;
+d) The capacity of other firms to enter the market (including through importations
+or transportation of products from other regions of the same country), or of
+the companies already in the market to expand their production/offer; as a
+rule, the harder any of those options are, the greater the market power;
+36e) The remaining rivalry in the market, that is, if other players are fierce
+competitors, to the point of being able to limit an eventual price increase; as
+a rule, if other competitors have such capacity, the company’s market power
+is not as excessive.
+2. Possible effects of the exclusion of competitors. It is wise to take into consideration the
+characteristics of the commercial practice in question in order to verify its potential
+exclusionary effects, especially those concerning the closure of the market to
+competitors due to excessive increase in the cost of rivals. These guidelines do not
+intend to establish objective analysis criteria, but only to highlight that the commercial
+practices of companies with a dominant position are all the less worrying:
+a. The shorter their duration;
+b. The lower the percentage of sales affected;
+c. The easier the reproduction of such practices by equally efficient competitors;
+d. The lower the potential anticompetitive effect.
+3. Possible economic justification. The analysis of such unilateral practices and vertical
+restraints can also take into consideration their economic benefits, that is, the
+productive efficiency they represent (i.e., lower production costs), the protection of
+investments needed in order to facilitate new goods and services, among other
+aspects. The company may also analyze if there are possible economic justifications
+for policy in question. As a rule, a practice will be all the more justifiable when:
+a. The more necessary and proportional its restrictive aspect (exclusivity, loyalty
+marketing, tie-in sales, etc.) to obtain the desired financial gains, especially
+those related to protecting the investment that will make those benefits viable;
+b. The bigger the benefits to end consumers, especially in terms of lower prices,
+better goods and services and more innovation.
+The last of the aforementioned criteria is extremely relevant, considering the competition
+rules do not intend to protect one competitor or another, but rather the competitive process
+as a whole, so that the dispute between economic agents benefits consumers. In that sense,
+most of CADE’s precedents regarding unilateral conduct and vertical restraints understood
+37there to be an infringement if either direct or indirect damages to consumers are observed, in
+terms of higher prices, lower quality or less innovation.
+In light of the complexity of the factors involved in the analysis of these practices, it is
+advisable that compliance programs adopt some sort of prior evaluation of unilateral and
+vertical practices which companies intend to implement. Even if, in case of investigations, the
+analysis of competition authorities may differ from the one carried out by the company, it is
+important that the firm is able to demonstrate it submits each practice to an approval process,
+based on economic and legal parameters.
+3.3 Impact on Administrative Penalties
+Though initiatives in implementing compliance programs are increasingly seen as a way
+to foster good corporate governance, as they are a reliable tool in spreading the “culture of
+compliance” in the business community and also in promoting consumer welfare, the mere
+existence of compliance programs is not sufficient to hinder the application of administrative
+penalties, which include potentially substantial fines.
+The hope, in fact, is that adopting a robust program prevents the company and its
+employees from engaging in commercial practices that may constitute infringements to the
+economic order. In other words, a well-adjusted program will maintain the status quo, when
+the company is already engaged in corporate culture that fosters compliance with the law, or
+modifies the internal configuration in order to promote this kind of culture. Nonetheless,
+adopting programs can have very positive impacts for organizations and employees
+investigated by CADE, be it in the context of single-firm or collusive conduct, even when those
+organizations cannot completely avoid infringements.
+As seen in practice, the adoption of compliance programs is positive inasmuch as it helps
+to identify potential problems and provides a tool for rapidly solving them. In these terms,
+there are four potential main effects of compliance programs for companies, namely the
+subscription to the leniency program, the signing of settlement agreements, the submission of
+consultations to the Tribunal and the effects in sentencing.
+383.3.1 The Leniency Program
+Adopting a compliance program is an important tool in identifying competition
+violations and in carrying out the necessary measures to defend the interests of both the
+organization and its employees.
+The first step after identifying violations is the possibility of applying for the Leniency
+Program. Such program allows for organizations and individuals that took part in a cartel or
+other concerted anticompetitive practice to report it to CADE and cooperate with
+investigations, in exchange for immunity in the administrative and criminal spheres, or
+reduction from one to two thirds of applicable penalties.
+To be eligible for such benefits, the firm or individual must be the first to come to CADE
+with information regarding the conduct, and must also confess its participation. That is, the
+agility in identifying the problem and in contacting CADE is essential in granting partial or total
+immunity.
+Such promptness is directly affected by compliance. Well-structured programs are
+capable, even when they cannot stop the conduct from taking place, of readily identifying
+distortions and becoming aware of the infringement, which enables the company to deal with
+the situation, turning to CADE to enter into a leniency agreement and therefore avoid severe
+penalties.
+The compliance program does not guarantee that a leniency agreement will be
+celebrate, however it can increase the chances for an organization to apply for it.
+3.3.2 Settlement Agreements
+If the company or individual contacting CADE in order to report an infringement cannot
+sign a leniency agreement for not being the first in line, they still have the chance of
+negotiating a settlement agreement (or TCC, for the Portuguese acronym).
+A TCC, differently from a leniency agreement, can also be used in case of unlawful single-
+firm conduct. Entering into this type of agreement with the Superintendence in the initial
+stages of an investigation ensures a reduction in expected fines for the proponents, on a first-
+39come, first-served basis, according to the criteria set out on Resolution no. 5/2013. In light of
+it, the compliance program or the commitment to its adoption/restructuring can influence the
+discount granted.
+Once again, the promptness in identifying the infringement and acting on it, which is
+aided by having a compliance program, is essential in guaranteeing the best possible financial
+benefits under a TCC. The compliance program does not ensure the celebration of a settlement
+agreement, but, as in the case of leniency agreements, it may substantially increase the
+organization’s chances of doing so.
+3.3.3 Consultations
+Article 9, §4 of the Brazilian Competition Law authorizes the Tribunal to answer
+consultations regarding the interpretation of the Law, including in terms of the legality of
+commercial practices, whether they are already in place or still in planning.
+Awareness fostered by the adoption of a compliance program tends to facilitate
+initiatives such as these consultations. In the case of consummated collusive practices,
+compliance will increase the organization’s chances of signing leniency agreements, whereas
+in the case of practices whose lawfulness is questionable, compliance helps companies in
+bringing those questions to the authorities. That is positive because the answer from the
+Tribunal, when allowing the conduct, is binding for a maximum of five years and prevents a
+different understanding from being applied retroactively to the party which presented the
+consultation. If the answer is in the negative, that is, if the company is advised not to proceed
+with the practice, there is also a palpable benefit. The firm has the opportunity to avoid
+engaging in anticompetitive behavior, thereby saving resources that could have been spent
+both executing the commercial strategy and in possible investigations which would challenge
+the legality of such practices.
+In other words, the effects are significant and can generate many benefits to a company,
+especially when it comes to legal certainty regarding its commercial practices.
+403.3.4 Sentencing
+As shown in the previous items, although a Compliance program is not enough to avoid
+the possibility of imposition of sanctions by CADE, in some situations it can have favorable
+effects when these sanctions are established. For example, it can remove specific prohibitions
+or even reduce the amount of the applicable fine. This happens since, as foreseen in Article 45
+of the Competition Law, when applying sanctions, CADE’s Tribunal must take into
+consideration variables such as the good faith of the infringer, the extent of damage to free
+competition, to the national economy, to the consumers or third parties, the negative economic
+effects it produced in the market and recidivism.
+The existence of a strong compliance program, with damage control measures, that
+meets the requirements set out in section 3.2 above, may be considered evidence of good faith
+on the part of the infringing company and of the reduction of the negative economic effects
+derived from the unlawful practice. Thus it is possible for the Tribunal to consider the
+compliance program as (i) evidence of good faith and a mitigating factor when stipulating the
+fine, resulting in its reduction or as (ii) criterion to be considered when calculating the pecuniary
+contribution to be paid by the company, in case a settlement agreement is signed, which could
+take the discount percentage to the maximum allowed. In addition, programs with those
+characteristics tend to reduce the risk of recidivism, which doubles the applicable fine imposed
+by CADE.
+It should be emphasized that the burden of proof belongs solely to the investigated
+party, which must show the existence of a strong compliance program under which
+anticompetitive practices are contrary to the organization’s policies and to the orientations of
+its managers and directors.
+4. Final Remarks
+As the idea behind competition compliance programs is that entities always act in
+accordance with the Competition Law, it is sensible that organizations have access to the
+widest possible range of information regarding the application of the law.
+41Thus, as a complement to this material, CADE recommends the reading of the other
+guidelines available at its website, as well as the constant monitoring of the authority’s
+decisions and of the evolution of the debates on national and international spheres.
+42

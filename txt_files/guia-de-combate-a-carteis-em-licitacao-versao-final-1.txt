@@ -1,0 +1,1301 @@
+5Ministério da Justiça e Segurança Pública
+Conselho Administrativo de Defesa Econômica
+Guia de Combate a cartéis em licitação
+Conselho Administrativo de Defesa Econômica - Cade
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+6Institucional
+Presidente da República
+Jair Messias Bolsonaro
+Ministro da Justiça e Segurança Pública
+Sergio Fernando Moro
+Presidente do Cade
+Alexandre Barreto de Souza
+Conselheiros do Cade
+Mauricio Oscar Bandeira Maia
+Paula Farani de Azevedo Silveira
+Lenisa Rodrigues Prado
+Luis Henrique Bertolino Braido
+Sérgio Costa Ravagnani
+Luiz Augusto Azevedo de Almeida Hoffmann
+Superintendente-Geral do Cade
+Alexandre Cordeiro Macedo
+Procurador-Chefe do Cade
+Walter de Agra Junior
+Economista-Chefe
+Guilherme Mendes Resende
+7Ficha Técnica
+Coordenação:
+Amanda Athayde Linhares Martins Rivera
+Diogo Thomson de Andrade
+Fernanda Garcia Machado
+Revisão:
+Alexandre Cordeiro Macedo
+Colaboradores:
+Beatriz Bellintani
+Felipe Leitão Valadares Roquete
+Juliano Pimentel Duarte
+Lívia Dias de Melo
+Mariana Piccoli Lins Cavalcanti
+Mônica Tiemy Fujimoto
+Priscilla Craveiro da Costa Campos
+Renata Souza da Silva
+Edição e Planejamento Gráfico:
+Assessoria de Comunicação Social do Cade
+8SUMÁRIO
+APRESENTAÇÃO ................................................................................................... 10
+INTRODUÇÃO – O QUE É CARTEL EM LICITAÇÃO E QUAIS SÃO SUAS
+CONSEQUÊNCIAS? ............................................................................................... 11
+PARTE I – CARTÉIS EM LICITAÇÃO: NOÇÕES GERAIS E BREVE PANORAMA DO
+SEU COMBATE NO BRASIL .................................................................................... 13
+I.1. O cartel em licitação na Lei de Concorrência ............................................ 13
+I.1.1. Como os cartéis são punidos? As penalidades aplicadas pelo Tribunal
+Administrativo do Cade ..................................................................................................... 15
+I.1.2. Como descobrir um cartel? Os mecanismos de detecção .......................... 15
+1.2. Quais outras autoridades investigam e punem cartéis e outras infrações
+relacionadas: o combate a cartel em licitação nas esferas administrativa, penal e
+civil, infrações relacionadas e autoridades competentes ..................................... 19
+PARTE II – IDENTIFICANDO CARTÉIS EM LICITAÇÕES: ELEMENTOS
+FACILITADORES, FORMAS DE CONLUIO E SEUS INDÍCIOS ................................. 25
+II.1. O que facilita a formação de cartéis? Características do mercado de
+compras públicas propícias à formação e ao monitoramento de cartéis em licitação
+25
+II.2. As dificuldades de detectar um cartel em licitação e a importância das
+provas indiretas .............................................................................................. 27
+II.3. Formas de conluio: as principais estratégias utilizadas pelas empresas para
+formação de cartéis em licitações ..................................................................... 33
+II.3.1. Propostas fictícias ou de cobertura (“cover bidding”) ................................. 33
+II.3.2. Supressão de propostas (“bid suppresion”) e retirada de propostas (“bid
+withdrawal”) ....................................................................................................................... 36
+II.3.3. Bloqueio em pregão presencial ....................................................................... 38
+II.3.4. Propostas rotativas ou rodízio (“bid rotation”) ............................................. 40
+II.3.5. Divisão de mercado (“market allocation ou market division”) ................... 42
+II.3.6. Outras estratégias: mecanismos legais utilizados para implementação de
+estratégias anticompetitivas ............................................................................................ 45
+II.4. Indícios de conluio nas contratações públicas ....................................... 47
+PARTE III – PREVENÇÃO CONTRA FORMAÇÃO DE CARTÉIS EM LICITAÇÕES 49
+III.1. A contribuição dos agentes de compras públicas no combate a cartéis ... 49
+III.2. O que pode ser feito para reduzir o risco de cartel em licitações ................ 50
+PARTE IV – ILICITOS RELACIONADOS AOS CARTÉIS EM LICITAÇÃO .................. 52
+IV.1. Cartel em licitações e fraude a licitações ............................................... 52
+IV.2. Cartel em licitação e corrupção ............................................................ 55
+9APRESENTAÇÃO1
+Este Guia de Combate a Cartéis em Licitação, elaborado pelo Conselho Administrativo de Defesa
+Econômica (Cade), atualiza a Cartilha “Combate a Cartéis em Licitações” de 2008 da extinta
+Secretaria de Direito Econômico2 (SDE/MJ3) e busca consolidar a experiência institucional adquirida
+pela autoridade brasileira da concorrência nos mais de vinte anos de atuação no combate a cartéis,
+com destaque para conluios em procedimentos licitatórios.
+Nesse sentido, o presente Guia tem como principal objetivo orientar e auxiliar aqueles que participam
+da elaboração e execução de processos licitatórios, tais como pregoeiros e membros de comissões
+de licitação, outras autoridades encarregadas da investigação e punição deste ilícito e ao público em
+geral, sobre como identificar os principais sinais da existência de conduta colusiva em licitações, para
+assim aprimorar a detecção, prevenção e punição deste ilícito.
+É importante destacar, ainda, que este documento não é vinculativo e não possui o caráter
+de norma (ou seja, não altera dispositivos do Regimento Interno do Cade – RICade). As
+práticas e procedimentos aqui descritos podem ser alterados a juízo de conveniência e
+oportunidade do Cade, a depender das circunstâncias do caso concreto.
+O Guia será dividido em quatro partes:
+(I) Cartéis em licitação: noções gerais e breve panorama do seu combate no Brasil
+(II) Identificando cartéis em licitações: elementos facilitadores, formas de conluio e seus indícios
+(III) Prevenção contra formação de cartéis em licitações: o que pode ser feito
+(IV) Ilícitos relacionados aos cartéis em licitação
+1 Agradecemos a colaboração dos ex-Pincadistas Bruna Caixeta, Elisa Sarto, Julia Braga e Mário Norris pelo auxílio em
+pesquisas que subsidiaram este documento.
+2 Cartilha de Combate a Cartéis em Licitações da extinta Secretaria de Direito Econômico (SDE/MJ) (2008). Disponível em:
+<http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/documentos-da-antiga-
+lei/cartilha_licitacao.pdf/view>.
+3 As funções da SDE/MJ são atualmente exercidas pela Superintendência-Geral do Cade, nos termos da Lei nº
+12.529/2011.
+10INTRODUÇÃO – O QUE É CARTEL EM LICITAÇÃO E QUAIS SÃO SUAS
+CONSEQUÊNCIAS?
+O cartel em licitação consiste no conluio entre agentes econômicos com o objetivo de eliminar ou
+restringir a concorrência dos processos de contratação de bens e serviços pela Administração Pública.
+Essa conduta altera a situação normal e esperada de efetiva concorrência do certame, imputando ao
+Estado condições menos favoráveis na contratação de bens e serviços, tais como preços mais
+elevados, produtos e serviços de qualidade inferior ou aquisição de quantidade menor do que a
+desejada.
+Em outras palavras, o cartel em licitação mina os esforços da Administração Pública em empregar de
+forma eficiente e eficaz seus recursos, com vistas a prover os bens e serviços necessários à população
+e promover o desenvolvimento do país, sendo, portanto, prejudicial a toda a sociedade.
+Anualmente, o Estado Brasileiro, em todas as suas esferas federativas (União, Estados, Municípios e
+Distrito Federal), destina um volume significativo de recursos para adquirir bens e serviços
+necessários para o desenvolvimento de suas atividades. Tais negócios jurídicos permitem ao Estado
+cumprir suas funções primordiais nas áreas de saúde, educação, segurança pública, infraestrutura e
+tantas outras.
+Para que o Estado empregue seus recursos de maneira apropriada, seus contratos precisam ser feitos
+com base na melhor proposta para a Administração, considerando, dentre outras coisas, qualidade
+e preço do bem ou serviço. O certame deve respeitar elevados padrões de isonomia, qualidade e
+eficiência, sem favorecer qualquer dos participantes. Assim, é de fundamental importância que as
+licitações sejam transparentes e econômicas. Esses princípios estão intimamente relacionados à
+concorrência em uma licitação. Licitações com regras transparentes e amplamente conhecidas
+facilitam a participação do maior número de licitantes, aumentando a competitividade e,
+consequentemente, resultando em propostas mais vantajosas. Para o Estado, portanto, a efetiva
+competição entre as empresas nas licitações que promove é a verdadeira “alma do negócio”.
+11De acordo com a Organização para a Cooperação e Desenvolvimento Econômico (OCDE)4, tais
+conluios retiram recursos dos adquirentes e contribuintes, diminuem a confiança do público no
+processo competitivo e enfraquecem os benefícios de um mercado competitivo.
+A gravidade dos cartéis em licitação: de acordo com a OCDE, em seus países membros, os
+contratos públicos constituem aproximadamente 15% do PIB e, em países não-membros, os números
+podem ser ainda maiores. No Brasil, em 2018, apenas o governo federal realizou mais de 100 mil
+processos de contratação, envolvendo aproximadamente 48 bilhões de reais5, valor que demonstra
+o impacto que cartéis em licitação podem causar ao erário.
+No ordenamento jurídico brasileiro, de forma similar ao que ocorre em outros países, temos diversos
+modelos de contratação, na tentativa de adequar a forma de contratação às diferentes situações
+enfrentadas, racionalizar as contratações e otimizar a alocação dos recursos públicos. Dentre as
+principais modalidades utilizadas atualmente podemos citar: (i) modalidades da Lei nº 8.666/1993
+(Lei de Licitações e Contratos Administrativos); (ii) Regime da Lei nº 10.520/2002 (Lei Geral do
+Pregão); (iii) Regime Diferenciado de Contratação (Lei nº 12.462/2011); (iv) Regime da Lei nº
+13.303/2016 (Lei das Estatais).
+Cada um destes modelos apresenta benefícios e dificuldades específicas, não havendo um modelo
+ideal que impeça ou solucione todos os problemas possíveis, seja do ponto de vista antitruste ou de
+outros diversos problemas que afetam as contratações públicas. De todo modo, apesar de nenhuma
+modalidade de licitação ser imune à ocorrência de acordo entre concorrentes, cabe ao órgão licitante,
+com base nas melhores práticas, desenhar editais que, de um lado, estimulem a competitividade e
+a participação do maior número possível de empresas e, de outro lado, dificultem a atuação de
+cartéis. Assim, o presente Guia não se ocupará de nenhuma modalidade específica, buscando antes
+apontar as características das contratações públicas, de forma geral, que podem facilitar o conluio
+entre empresas, as principais estratégias usualmente utilizadas pelos agentes econômicos e os
+principais indícios da existência de cartel, com o objetivo de aprimorar sua prevenção e detecção.
+4 Ver: OCDE. Diretrizes para combater o conluio entre concorrentes em contratações públicas (2009). Disponível em:
+<https://www.oecd.org/daf/competition/cartels/44162082.pdf>.
+5 Dados coletados no site “Painel de compras do Governo Federal”. Link: <http://paineldecompras.planejamento.gov.br.
+Acesso em 24/01/2019>.
+12PARTE I – CARTÉIS EM LICITAÇÃO: NOÇÕES GERAIS E BREVE
+PANORAMA DO SEU COMBATE NO BRASIL
+I.1. O cartel em licitação na Lei de Concorrência
+De uma forma geral, um cartel consiste em acordo ou prática concertada entre concorrentes para
+fixar preços, estabelecer quotas ou restringir produção, dividir mercados de atuação e alinhar
+qualquer variável concorrencialmente sensível, tanto em concorrências públicas como contratações
+privadas, sendo considerado universalmente a mais grave infração à ordem econômica6.
+Ainda segundo a OCDE, os cartéis:
+(...) causam danos a consumidores e negócios que adquirem seus produtos, por
+meio do aumento de preço ou da restrição da oferta. Como resultado, alguns
+adquirentes decidem não comprar o produto ao preço determinado pelo cartel ou
+compram-no em menor quantidade. Assim, os adquirentes pagam mais pela
+quantidade que compram, o que possibilita, mesmo sem saber, a transferência de
+riquezas aos operadores do cartel. Além disso, os cartéis geram desperdício e
+ineficiência. Eles protegem seus membros da completa exposição às forças de
+mercado, reduzindo a pressão pelo controle de gastos e para inovação, o que
+acarreta a perda de competitividade de uma economia nacional7.
+Conforme apontado anteriormente, dentre as diversas formas de cartel, os cartéis em licitação são
+especialmente graves, uma vez que impedem ou prejudicam a aquisição pela Administração Pública
+de produtos e serviços pelo menor preço e da melhor qualidade, causando graves prejuízos ao erário
+e, consequentemente, aos contribuintes.
+6 Vide jurisprudência do Cade, como: Nota Técnica nº 24/2015 da Superintendência-Geral que instaurou o Processo
+Administrativo nº 08700.007351/2015-51; Nota Técnica da Superintendência-Geral que instaurou o Processo
+Administrativo nº 08012.008821/2008-22, bem como o voto do Conselheiro-Relator Gilvandro Vasconcelos no mesmo
+caso; Nota Técnica da extinta SDE no Processo Administrativo nº 08012.005255/2010-11.
+No mesmo sentido manifestou-se a OCDE. In verbis: “Cartéis são universalmente reconhecidos como a mais prejudicial
+de todas as condutas anticompetitivas. Ademais, eles não oferecem nenhum benefício social ou econômico legítimo que
+poderia justificar as perdas que acarretam”. Tradução livre de “Cartels are universally recognised as the most harmful of
+all types of anticompetitive conduct. Moreover, they offer no legitimate economic or social benefits that would justify
+the losses that they generate” (OCDE, 2002).
+7 Tradução livre de “Hard Core Cartels”, preparado pelo Fórum Conjunto de Comércio e Concorrência da Organização
+para a Cooperação e Desenvolvimento Econômico (OCDE): 2003, p. 8.
+13Segundo a OCDE8, cartéis geram um sobrepreço estimado entre 10 e 20%9, se comparado ao preço
+em um mercado competitivo, causando perdas anuais de centenas de bilhões de reais aos
+consumidores. Em termos de valores, alguns dos mais relevantes casos de colusão encontram-se
+precisamente em contratações públicas10. Exemplo disso no Brasil é o Cartel de Portas de Segurança
+Giratórias (Processo Administrativo nº 08012.009611/2008-51), no qual, de acordo com estudo do
+Departamento de Estudos Econômicos do Cade, a colusão gerou sobrepreço de 25%11.
+Sendo considerada uma conduta anticompetitiva da mais alta gravidade, a prática de cartel encontra-
+se prevista na Lei Brasileira de Defesa da Concorrência (Lei nº 12.529/2011) em seu artigo 36, § 3º,
+inciso I, alínea “d”:
+Art. 36. Constituem infração da ordem econômica, independentemente de
+culpa, os atos sob qualquer forma manifestados, que tenham por objeto ou
+possam produzir os seguintes efeitos, ainda que não sejam alcançados:
+(...)
+§ 3º. As seguintes condutas, além de outras, na medida em que configurem
+hipótese prevista no caput deste artigo e seus incisos, caracterizam infração da
+ordem econômica:
+I - acordar, combinar, manipular ou ajustar com concorrente, sob qualquer
+forma:
+a) os preços de bens ou serviços ofertados individualmente;
+8 OCDE. Fighting Hard Core Cartels: harm effective sanctions and leniency programs (2002). Disponível em:
+<www.ocde.org/competition>.
+9 Apesar da dificuldade de mensurar o aumento dos preços e mais genericamente os danos produzidos, uma estimativa
+conservadora aponta para um aumento de 10% ao ano nos preços em razão da prática de cartel (WERDEN, 2009, p.
+12). Já outros autores apontam para números mais alarmantes ao identificarem uma média de sobrepreço em mercados
+cartelizados que varia de 10% a 20%, podendo chegar a até 50% (ARAUJO, CHEDE, 2012; CONNOR, BOLOTOVA, 2006).
+Segundo Connor, a média de sobrepreço para todos os tipos de cartel considerando um período longo, que vai de 1890
+a 2013 é de 23% (CONNOR, 2014), contudo a depender do ano e tipo de cartel essa porcentagem é substancialmente
+maior, por exemplo, no período de 1990 a 1999 os cartéis internacionais apresentaram uma média de sobrepreço de
+45,5%.
+10 MCAFFEE, R. Preston; MCMILLAN, John. Bidding rings. The American Economic Review: vol. 82, nº 3, Junho de 1992,
+p. 579.
+11 Cf. parecer do DEE/Cade anexado ao voto do Conselheiro Gilvandro Vasconcelos Coelho de Araújo no âmbito do
+Processo Administrativo nº 08012.009611/2008-51.
+14b) a produção ou a comercialização de uma quantidade restrita ou limitada de
+bens ou a prestação de um número, volume ou frequência restrita ou limitada de
+serviços;
+c) a divisão de partes ou segmentos de um mercado atual ou potencial de bens ou
+serviços, mediante, dentre outros, a distribuição de clientes, fornecedores, regiões
+ou períodos;
+d) preços, condições, vantagens ou abstenção em licitação pública.
+I.1.1. Como os cartéis são punidos? As penalidades aplicadas pelo Tribunal
+Administrativo do Cade12
+Nos termos da Lei nº 12.529/201113, empresas participantes de um cartel estão sujeitas a multas
+administrativas aplicadas pelo Tribunal do Conselho Administrativo de Defesa Econômica que podem
+variar entre 0,1% a 20,0% do valor do faturamento bruto no ramo de atividade em que ocorreu a
+infração, além de outras penas, como a publicação da decisão em jornal de grande circulação, a
+proibição de contratar com instituições financeiras oficiais e de participar de licitações públicas e a
+cisão de ativos. Indivíduos envolvidos na conduta também estão sujeitos a multas do Cade, que
+podem variar entre R$ 50.000,00 e R$ 2.000.000.000,00, sendo que, no caso de administradores
+direta ou indiretamente responsáveis pela infração cometida, a multa cabível é de 1 a 20% daquela
+aplicada à empresa.
+Uma das penalidades mais severas que o Cade pode aplicar, quando se trata de cartéis em licitações,
+é a proibição de o infrator participar de licitações por no mínimo 5 (cinco) anos14.
+I.1.2. Como descobrir um cartel? Os mecanismos de detecção
+Conscientes da ilicitude da conduta que estão cometendo e temendo que sejam descobertos, em
+especial considerando o aumento significativo de persecução e punição de cartéis nos últimos anos,
+os membros de um cartel são, com frequência, extremamente cuidadosos e discretos com as
+12 Como se verá a seguir na seção I.2, o cartel também é crime pela legislação brasileira. Assim, além das penalidades
+administrativas aplicadas pelo Cade, as pessoas envolvidas no cartel podem ser punidas com penas de reclusão, de 2
+(dois) a 5 (cinco) anos e multa, conforme o art. 4º da Lei nº 8.137/1990, que define os crimes contra a ordem tributária,
+econômica e contra as relações de consumo.
+13 CF. Lei nº 12.529/2011, artigos 37 e 38.
+14 Trata-se de medida com efeitos semelhantes à declaração de inidoneidade prevista no artigo 87, IV, da Lei de Licitações
+(Lei nº 8.666/1993).
+15informações compartilhadas, com as reuniões e com a realização e implementação dos seus acordos,
+tornando-se a cada dia mais difícil detectar uma nova conduta. Não por outra razão, são exigidas
+das autoridades técnicas de detecção e apuração cada vez mais sofisticadas como ferramentas
+fundamentais para o sucesso de uma investigação de cartel.
+A existência de cartéis pode chegar ao conhecimento do Cade por diversas maneiras, podendo ser
+denunciada pelas próprias empresas ou pessoas envolvidas em práticas de conluio, caso em que
+poderão receber uma redução das penalidades ou até mesmo imunidade, como se verá adiante.
+Terceiros interessados ou outras autoridades também podem trazer ao conhecimento do Cade a
+ocorrência dessas práticas ou, ainda, a própria autoridade da concorrência dispõe de instrumentos
+de investigação quando suspeita da possibilidade de existência de um cartel.
+A seguir são apresentados os principais mecanismos utilizados atualmente pelo Cade para a
+detecção de cartéis.
+I. Acordo de Leniência15
+O Acordo de Leniência é um instrumento cujo objetivo é trazer ao conhecimento da autoridade
+antitruste condutas ilícitas que, de outra maneira, continuariam às escuras, ao mesmo tempo em que
+garante a realização de uma investigação mais eficiente, razão pela qual é largamente utilizado em
+diversos países16.
+No Brasil, o Programa de Leniência17tem como premissa básica que as pessoas (físicas ou jurídicas)
+que tenham envolvimento atual ou passado em práticas de cartel confessem e colaborem com as
+investigações em troca de imunidade total ou parcial em relação às penas administrativas e criminais
+15 Para mais informações sobre o Programa, acessar o “Guia do Programa de Leniência Antitruste do Cade”. Disponível
+em: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/guias_do_Cade/guia_programa-de-
+leniencia-do-cade-final.pdf>.
+16 Os benefícios da adoção de um programa de leniência são estudados e celebrados por diversas autoridades ao redor
+do mundo. O instrumento é indicado como uma ferramenta importante para se obter um plano de combate a cartéis
+efetivo, na medida em que: i) desencoraja a participação de empresas em cartel; ii) estimula a desistência de participação
+em cartéis preestabelecidos; iii) aumenta a probabilidade de detecção de um cartel; e iv) aumenta a possibilidade de
+sanção pela Administração Pública. Nesse sentido, ver: International Competition Network. Anti-cartel enforcement
+manual (2009). Disponível em: <http://www.internationalcompetitionnetwork.org/uploads/library/doc341.pdf>.
+Conforme devidamente ressaltado pela OCDE em seu relatório para combate de cartéis Hard-Core (2002, p. 7), o principal
+desafio para uma política de combate a cartéis é justamente a sua detecção e é justamente este ponto que traduz a
+importância do programa de leniência. De fato, um programa de leniência devidamente estruturado e utilizado por uma
+autoridade de defesa da concorrência produz naturalmente uma instabilidade por si só nos cartéis em execução, bem
+como diminui a vantagem de adesão ou constituição de uma nova conduta coordenada anticoncorrencial, pois fragiliza
+a relação de confiança entre os partícipes e incentiva a comunicação à Autoridade Pública da existência da conduta
+anticompetitiva.
+17 Previsto nos artigos 86 e 87 da Lei de Defesa da Concorrência e nos artigos 237 a 251 do RICade.
+16aplicáveis. A colaboração envolve a entrega de informações e documentos que permitam ao Cade
+identificar os demais coautores e comprovar a infração noticiada ou sob investigação.
+Importante lembrar que apenas ao primeiro indivíduo ou empresa a reportar o ilícito será garantida
+imunidade administrativa e criminal, ou seja, isenção das penalidades pecuniárias e não pecuniárias,
+gerando assim um fator de desestabilização nos cartéis existentes.
+O Programa de Leniência é um dos instrumentos mais eficazes para detectar, investigar e coibir
+condutas anticompetitivas com potencial lesivo à concorrência e ao bem-estar social. Constitui,
+assim, um importante pilar da política de combate a cartéis.
+II. Termo de Compromisso de Cessação da Prática – TCC18
+O Termo de Compromisso de Cessação (“TCC”), previsto no artigo 85 da Lei nº 12.529/2011 e nos
+artigos 219 a 236 do RICade, consiste em um acordo que pode ser celebrado entre o Cade e as
+empresas e/ou pessoas físicas que não forem habilitadas a celebrar o Acordo de Leniência. Neste
+caso, o acordo é realizado quando se tratar de uma infração cuja investigação pela autoridade já
+está em curso19 e, ao contrário do Acordo de Leniência, não gera benefícios aos Compromissários na
+seara criminal.
+De forma similar ao que ocorre no Acordo de Leniência, o Compromissário de TCC também deve
+reconhecer sua participação na conduta e colaborar20 com a investigação por meio da
+disponibilização ao Cade de relatos contendo informações e documentos que auxiliem na
+identificação ou confirmação dos demais participantes da conduta e na comprovação da infração21.
+Aqueles que celebram o TCC com o Cade têm o benefício de um desconto que pode chegar a 50%
+da multa esperada com a eventual condenação. Além disso, a celebração do TCC gera a suspensão
+do prosseguimento das investigações em relação ao Compromissário, enquanto estiverem sendo
+18 Para mais informações sobre os TCCs, acessar o Guia do Termo de Compromisso de Cessação para casos de cartel.
+Disponível em: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/guias_do_Cade/guia-tcc-
+versao-final.pdf>.
+19 Ressalta-se que o Acordo de Leniência pode ser celebrado no curso do processo. Contudo, tal possibilidade ocorre
+mediante o Acordo de Leniência Parcial, que confere ao Signatário redução de um a dois terços da penalidade aplicável,
+nos termos do art. 86, § 4º da Lei nº 12.529/2011.
+20 Em relação à colaboração é necessário ressaltar que os TCCs celebrados em fases processuais mais avançadas – como
+por exemplo, quando o Processo Administrativo já se encontra no Tribunal – tem pouca ou quase nenhuma possibilidade
+de agregar informações relevantes à instrução. Sua principal utilidade em termos de redução de custos seria atingida
+especialmente por meio de uma resolução antecipada do processo, evitando futuras disputas judiciais.
+21 O TCC pode ser celebrado tanto com a Superintendência-Geral como com o Tribunal Administrativo, havendo algumas
+particularidades a depender do momento processual de celebração do acordo.
+17cumpridos os termos estabelecidos no compromisso, havendo, consequentemente, o
+comprometimento deste de cumprir com as obrigações previstas, dentre as quais a obrigação de
+cessação imediata da conduta reportada.
+Os TCCs são um importante instrumento na persecução a cartéis, pois trazem informações e
+documentos complementares àqueles obtidos nos Acordos de Leniência e confirmam informações
+que já são de conhecimento da autoridade, robustecendo as investigações e respectivos
+procedimentos administrativos.
+III. Representações e Clique-Denúncia
+A Superintendência-Geral do Cade (SG/Cade) também pode, a depender da quantidade de indícios
+e provas, instaurar Procedimento Preparatório, Inquérito Administrativo ou Processo Administrativo
+mediante representação fundamentada de qualquer interessado, que aponte a existência de infração
+à ordem econômica (artigo 66, § 1º da Lei nº 12.529/2011).
+Também podem ser Representantes membros do Congresso Nacional, ou qualquer de suas Casas,
+bem como da Secretaria de Secretaria de Advocacia da Concorrência e Competitividade do Ministério
+da Economia, das agências reguladoras e da Procuradoria Federal junto ao CADE (“ProCade”),
+conforme disposto no § 6º do artigo 66 da Lei de Defesa da Concorrência.
+Além das representações, o Cade dispõe de um Clique-Denúncia22, que consiste em uma ferramenta
+integrada ao Sistema Eletrônico de Informações – SEI, por meio da qual qualquer cidadão pode
+realizar uma denúncia se tiver conhecimento da ocorrência de uma infração à ordem econômica23.
+A melhor maneira do cidadão apresentar uma denúncia à SG/Cade
+é por meio do Clique-Denúncia. Formulário disponível em:
+http://www.cade.gov.br/
+Também é possível contatar a SG/Cade por telefone (61) 3221-8445.
+As denúncias podem ser anônimas e o Cade garante total sigilo da identidade do denunciante
+caso ele solicite esse tratamento.
+22 Disponível em:
+<http://sei.cade.gov.br/sei/institucional/cliquedenuncia/formulario_denuncia.php?acao_externa=denuncia&acao_orig
+em_externa=denuncia&id_orgao_acesso_externo=0&id_orgao_acesso_externo=0>.
+23 O Clique-Denúncia admite acusações realizadas por qualquer cidadão relacionadas a cartel, a outras condutas
+anticompetitivas, além de atos de concentração.
+18IV. Buscas e Apreensões
+A possibilidade de realizar uma operação de busca e apreensão pela SG/Cade está prevista no artigo
+13, “d”, da Lei nº 12.529/2011. Esta ferramenta é de suma importância devido à dificuldade de se
+obter provas nas investigações de cartel, contando-se, nesses casos, com o elemento surpresa para
+que as empresas não inutilizem provas da infração.
+V. Análise Econômica e Screening (“Filtros”)
+A SG/Cade também utiliza de ferramentas proativas de detecção de cartéis, como o screening. Trata-
+se da utilização de bases de dados e softwares e aplicações de testes estatísticos com o objetivo de
+identificar e mensurar risco de colusão em mercados ou setores específicos e detectar
+comportamentos suspeitos de seus agentes.
+1.2. Quais outras autoridades investigam e punem cartéis e outras
+infrações relacionadas: o combate a cartel em licitação nas esferas
+administrativa, penal e civil, infrações relacionadas e autoridades
+competentes
+No ordenamento jurídico brasileiro, o cartel configura ilícito antitruste, cuja previsão encontra-se na
+Lei nº 12.529/2011, conforme explicado anteriormente. Assim, no âmbito administrativo, o cartel
+como conduta anticompetitiva, i.e., infração que fere a livre concorrência, é investigado e o
+respectivo processo administrativo é instruído pela SG/Cade (artigo 13, inciso V da Lei nº
+12.529/2011) e, posteriormente, é julgado pelo Plenário do Tribunal do CADE (artigo 9º, III da Lei
+nº 12.529/2011), que pode aplicar às empresas e pessoas físicas multas além de outras penalidades
+prevista na Lei.
+19ESFERA ADMINISTRATIVA
+Cartel em licitação como ilícito concorrencial pela Lei nº 12.529/2011
+A conduta de cartel também constitui crime contra a ordem econômica, previsto no artigo 4º da Lei
+nº 8.317/1990, sendo na esfera penal apurado judicialmente a partir de investigações das
+autoridades policiais e do Ministério Público. Os indivíduos envolvidos na conduta estão aqui sujeitos
+a penas de reclusão de dois a cinco anos e multa, sanção esta que pode ser aumentada de um terço
+até metade se o crime causar grave dano à coletividade, for cometido por um servidor público ou se
+relacionar a bens ou serviços essenciais para a vida ou para a saúde.
+Além disso, casos de cartéis em licitações públicas também são passíveis de enquadramento como
+crime pelo artigo 90 da Lei nº 8.666/1993. Os indivíduos envolvidos no ilícito estão sujeitos a penas
+de detenção de dois a quatro anos e multa.
+20ESFERA PENAL
+Cartel em licitação como crime contra a ordem econômica pela Lei nº 8.137/1990 e como
+crime que afeta licitações e contratos da Administração Pública pela Lei nº 8.666/1993
+Ademais, os membros de um cartel também estão sujeitos, no âmbito civil, a ações privadas de
+reparação de danos, que podem ser ajuizadas por qualquer prejudicado, conforme disposto no artigo
+47 da Lei nº 12.529/2011, e também a ações civis públicas, de autoria do Ministério Público e outros
+legitimados.
+21ESFERA CÍVEL
+Reparação de danos ao erário e a particulares
+Ressalta-se, ainda, que frequentemente os mesmos fatos que são juridicamente enquadrados como
+cartel sob a ótica da autoridade antitruste também podem constituir outras infrações administrativas,
+podendo ser objeto de análise e investigação por parte de outras autoridades, destacando-se os
+órgãos de controle.
+22Isso ocorre na medida em que cada autoridade (assim como as respectivas leis) tem por objeto bens
+jurídicos diversos, podendo um mesmo fato afetar diversos bens jurídicos e, assim, ensejar a
+competência de diferentes autoridades. Em outras palavras, a Lei Antitruste protege o bem jurídico
+da concorrência; a Lei Anticorrupção protege a Administração Pública; a Lei do Tribunal de Contas
+da União (TCU) visa a controlar e proteger as contas públicas; e a Lei de Licitações protege a lisura
+dos processos licitatórios promovidos pela Administração Pública. Nesse sentido, os cartéis em
+licitação, enquanto uma forma de restrição ao caráter competitivo de uma licitação, afetam uma
+diversidade de bens jurídicos, podendo assim serem investigados e punidos sob a égide de outras
+leis.
+Nesse contexto, por exemplo, o TCU, em seu papel de fiscalizador das contas públicas, tem a função
+de acompanhar os processos licitatórios e as contratações públicas e, caso verifique alguma forma
+de fraude à licitação, tem o poder de declarar a inidoneidade do licitante, bem como, se identificar
+a possibilidade de danos ao erário, fará a conversão do processo em tomada de contas (artigos 41,
+46 e 47 da Lei nº 8.443/1992).
+A Controladoria-Geral da União (CGU), por sua vez, é o órgão encarregado de apurar, processar e
+julgar os ilícitos que atentam contra o patrimônio público, dentre os quais encontra-se a tentativa de
+frustrar ou fraudar o caráter competitivo da licitação (artigos 5º, inciso IV e 9º da Lei nº 12.846/2013).
+Ainda no âmbito da Lei Anticorrupção, a Advocacia-Geral da União (AGU) pode requerer a
+indisponibilidade dos bens direitos ou valores necessários à garantia do pagamento da multa ou da
+reparação integral do dano (artigo 19, § 4º da Lei nº 12.846/2013). Por fim, ressalta-se que a AGU
+é ainda legitimada para a propositura de Ação Civil Pública com vistas a recuperar o dano causado.
+23ESFERA ADMINISTRATIVA
+Cartel em licitação nos termos da Lei nº 12.846/2013
+Ainda, como já colocado, os mesmos fatos que configuram ilícito antitruste podem enquadrar-se em
+outros ilícitos administrativos, dentre os quais merecem destaque a fraude à licitação, a corrupção e
+a improbidade administrativa. As diferenças e relações entre esses ilícitos estão detalhadas na última
+parte deste guia, que fala sobre ilícitos relacionados ao cartel.
+24PARTE II – IDENTIFICANDO CARTÉIS EM LICITAÇÕES: ELEMENTOS
+FACILITADORES, FORMAS DE CONLUIO E SEUS INDÍCIOS
+II.1. O que facilita a formação de cartéis? Características do mercado de
+compras públicas propícias à formação e ao monitoramento de cartéis em
+licitação
+Algumas especificidades do mercado de compras públicas, no Brasil e no mundo, trazem
+significativas implicações para a prevenção e o combate de cartéis em licitações públicas. Dentre os
+principais elementos estruturais de compras públicas que facilitam a formação de cartéis bem como
+seu monitoramento pelos membros24, destacam-se os seguintes:
+(I) Homogeneidade dos produtos e serviços, ausência de substitutos e baixa alteração
+tecnológica: quando os produtos ou serviços a serem adquiridos apresentam pouca ou
+nenhuma diferenciação torna-se mais fácil chegar a um acordo, já que os cartelistas
+precisarão definir em conjunto apenas uma variável de fácil controle e mensuração: o preço.
+No caso das compras públicas, isso é particularmente observado, já que, em grande parte
+das licitações, não há diferenças significativas de qualidade e/ou tecnologia nos produtos e
+serviços licitados, tratando-se de bens e serviços comuns. Além disso, quando há poucos
+substitutos para aquele produto, ou ainda, quando o produto não envolve grandes
+mudanças em termos de tecnologia, as empresas têm maior segurança do sucesso do seu
+acordo e garantia de que ele perdurará por um tempo maior.
+(II) Condições do mercado, estabilidade na demanda e repetitividade das compras
+públicas: mudanças significativas nas condições de demanda ou fornecimento tendem a
+desestabilizar possíveis acordos colusivos em curso. Por outro lado, um fluxo constante e
+previsível de demanda por parte da Administração Pública aumenta o risco de conluio. Tal
+característica – aliada ao fato de as empresas terem acesso à duração dos contratos vigentes
+– tem como consequência a facilidade para realização dos acordos e de possíveis futuras
+compensações e até mesmo para manutenção dos acordos a longo prazo, vez que reduz o
+custo de monitoramento do cartel e facilita a punição de eventuais desviantes.
+(III) Manutenção de cláusulas editalícias: a necessidade periódica de contratação de serviços
+e aquisição de produtos relativos ao custeio da Administração Pública leva os responsáveis
+24 Vide OCDE. Competition and Procurement (2011); e OCDE. Guidelines For Fighting Bid Rigging in Public Procurement:
+helping governments to obtain best value for money (2009). Ambos disponíveis em: <www.ocde.org/competition>.
+25pelos órgãos licitantes a manterem as mesmas cláusulas editalícias ao longo do tempo,
+reproduzindo o conteúdo dos editais em diversas licitações consecutivas, fator que traz
+previsibilidade à interação entre os competidores e, portanto, relativa estabilidade aos
+termos que embasam o acordo colusivo.
+(IV) Transparência: as informações relacionadas às licitações possuem caráter público, corolário
+do princípio constitucional da publicidade dos atos administrativos, bem como instrumento
+necessário ao controle social da Administração Pública. Contudo, isso também permite às
+empresas o acesso irrestrito a informações comerciais que, no mercado privado, representam
+dados comercialmente sensíveis. Nas licitações públicas, as empresas conhecem os preços
+praticados pelos concorrentes (propostas comerciais), as características técnicas e de
+qualidade dos produtos e serviços ofertados (regras editalícias e documentos de habilitação),
+os custos (planilhas de formação dos preços), as estratégias comerciais (histórico de
+participação em licitações), a carteira de contratos (documentos comprobatórios de
+experiência), dentre outras informações. Nesse sentido, tal característica estrutural reduz o
+custo do monitoramento e punições a desvios por parte das empresas participantes do
+acordo anticompetitivo.
+(V) Número restrito de concorrentes: a probabilidade de ocorrência de colusão em licitações
+públicas é tanto maior quanto menor o número de empresas que tem capacidade técnica e
+econômica para fornecer aquele bem ou serviço. Quanto menos agentes no mercado, mais
+fácil é o estabelecimento de um acordo entre eles.
+(VI) Barreiras à entrada: caso as barreiras à entrada em um dado mercado sejam altas, i.e., se
+a entrada naquele mercado é custosa, difícil ou lenta, as empresas que nele atuam estão
+protegidas da pressão competitiva de potenciais novos entrantes, fator esse que facilita a
+formação e a manutenção de acordos colusivos, bem como permite aos seus integrantes
+abusar de seu poder coordenado. Em casos de compras públicas, a análise de barreiras à
+entrada passa ainda, por vezes, pela análise dos editais das licitações. Com efeito, os editais
+são documentos que estabelecem as regras que pautarão a interação entre as licitantes –
+aspectos relacionados a preço, quantidade, qualidade, tecnologia, prazos de execução,
+duração do contrato, dentre outros – e buscam reproduzir, de maneira ad hoc, o ambiente
+competitivo que, em tese, vigeria no mercado privado. Tal reprodução, contudo, é imperfeita,
+uma vez que os editais trazem cláusulas que excluem do certame algumas potenciais
+competidoras – via exigências relacionadas à experiência prévia, acervo técnico, habilitação
+26técnica, cumprimento de obrigações tributárias, dentre outras – funcionando, portanto, como
+barreiras à entrada.
+(VII) Necessidade das contratações: a dificuldade de a Administração Pública reagir a elevações
+significativas de preços – pois não é viável, em relação a diversos serviços e produtos, recusar
+e/ou adiar sua contratação –, faz com que a fixação de preços em patamares
+supracompetitivos torne-se, em diversos certames, uma estratégia viável e bem-sucedida,
+deixando o Estado à mercê das condições artificialmente fixadas entre os licitantes.
+(VIII) Interações frequentes entre licitantes: outro fator que facilita a colusão são os mercados
+em que os contatos entre os licitantes são frequentes e constantes. Seja porque comumente
+as mesmas empresas participam de grande parte das licitações daquele mercado ou porque
+interagem no âmbito de associações e ou eventos do setor, tais contatos facilitam a definição
+de uma estratégia comum, bem como o monitoramento e punição de desvios por integrantes
+do cartel. No quadro brasileiro, em que há descentralização das licitações (cada unidade
+gestora promove as licitações para suprir suas necessidades), a frequência dos contatos entre
+empresas de determinados setores pode ser bastante expressiva.
+II.2. As dificuldades de detectar um cartel em licitação e a importância das
+provas indiretas
+Com vistas a demonstrar a existência de acordos colusivos, a autoridade de defesa da concorrência
+pode utilizar tanto provas diretas – documentos que comprovam a existência material do acordo
+entre os licitantes – quanto as chamadas provas indiretas25. Devido à dificuldade de obtenção de
+provas diretas, as provas indiretas constituem importante meio de prova dos acordos.
+Na investigação de cartéis em licitação, é comum o uso de provas indiretas, especialmente em termos
+de comportamentos suspeitos dos participantes que fogem ao que seria esperado em uma licitação
+normal em que há de fato concorrência entre os licitantes. Exemplos disso são: propostas com erros
+semelhantes, rodízio de vencedores entre concorrentes e verificação de um padrão na margem de
+preço das propostas apresentadas.
+25 O Código de Processo Penal Brasileiro, em seu artigo 239, conceitua as provas indiretas como um conjunto de fatos
+demonstrados – ainda que circunstanciais – que, por guardarem relação com o crime, podem, por indução, permitir que
+se conclua por sua existência.
+27As provas indiretas resultam da interpretação ativa – e.g., inferências lógicas, análises econômicas
+e deduções – levada a cabo pela autoridade, acerca de fatos e indícios que, analisados em conjunto,
+comprovariam a infração anticoncorrencial, posto não haver outra explicação plausível para os
+investigados se comportarem daquela maneira26.
+De um lado, os participantes do cartel, que têm em mãos as provas diretas do acordo, empregam
+todos os esforços necessários para dissimular sua existência. De outro, as autoridades de defesa da
+concorrência enfrentam tais estratégias de dissimulação e destruição das provas empreendidas pelos
+participantes de cartéis27 por meio do uso de provas indiretas, que possuem importante papel na
+demonstração da existência de acordos colusivos, conforme verificado na jurisprudência
+internacional.
+26 Considera, C., Duarte, G.F.S. A Importância de Evidências Econômicas para a Investigação de Cartéis: A Experiência
+Brasileira. Universidade Federal Fluminense - Texto para Discussão nº 181, outubro/2005. Disponível em:
+<http://www.uff.br/econ/download/tds/UFF_TD181.pdf>.
+27 Guerrin, M., Kyriazisym G, (1992) (tradução livre).
+28O USO DE PROVAS INDIRETAS NO CENÁRIO INTERNACIONAL
+O Departamento de Justiça americano (Department of Justice – DOJ), responsável pela
+persecução criminal de infrações antitruste nos Estados Unidos, já sugeriu a condenação de cartel
+em licitações com base em provas indiretas[1]. Há, ainda, outros precedentes que embasam a
+possibilidade de se recorrer a provas indiretas em casos de investigação de acordos colusivos:
+De fato, é axiomático que uma conspiração típica ‘é raramente demonstrada
+por intermédio de acordos explícitos’, sendo quase sempre necessário recorrer
+a ‘inferências que podem ser derivadas do comportamento dos supostos
+conspiradores’. Assim, a investigação antitruste pode provar a existência da
+combinação ou conspiração por meio tanto de provas diretas ou indiretas,
+suficientes ‘para garantir (...) que os conspiradores tinham uma unidade de
+propósito ou compreensão e desenho comuns, ou um encontro de intenções
+para um arranjo que fosse de encontro à lei antitruste.[2]
+A autoridade europeia de defesa da concorrência também admite a utilização de provas indiretas
+para a persecução de cartéis[3]. Veja-se, por exemplo, excerto da decisão da Corte de Justiça
+Europeia em Aalborg Portland A/S and others v Commission, que analisa recurso interposto frente
+à decisão do órgão antitruste europeu que determinou a condenação de cartel no mercado
+europeu de cimento[4].
+Vez que são bem conhecidas tanto a proibição de participar de acordos
+anticompetitivos quanto as penalidades nas quais os infratores incorrem, é
+normal que as atividades derivadas de tais práticas e acordos sejam feitas de
+maneira clandestina, com reuniões realizadas em segredo – frequentemente
+em países não envolvidos na prática – e evitando-se a confecção de
+documentos acerca do acordo.
+Mesmo se a Comissão Europeia descobrir provas diretas, demonstrando o
+contato ilegal entre empresas concorrentes – tais como minutas das reuniões
+– tais documentos serão, regra geral, fragmentários e esparsos, sendo
+normalmente necessário, portanto, reconstruir alguns detalhes do acordo por
+intermédio de dedução.
+Na maioria dos casos, a existência de infrações à ordem econômica e acordos
+colusivos precisa ser inferida de outros indícios e coincidências que, tomados
+em conjunto, podem, na ausência de outra explicação plausível, constituir
+prova da infração à lei antitruste.[5]
+A literatura internacional também caminha no mesmo sentido. A OCDE coligiu informações sobre
+a utilização de provas indiretas por diversas autoridades da concorrência. Entre as principais
+conclusões, destacam-se as seguintes:
+2. A melhor prática é utilizar as provas indiretas de forma holística, dado seu
+efeito cumulativo, em vez de tomá-las individualmente. (…)
+4. Existem dois tipos gerais de provas indiretas: prova indiretas de
+comunicação e provas indiretas econômicas. A prova indireta de comunicação
+entre concorrentes é considerada a mais importante.[6]v
+29Ademais, também importa ressaltar que, de acordo com o Anti-Cartel Enforcement Manual
+elaborado pela International Competition Network – ICN[7], a forma como cada jurisdição
+determina as evidências necessárias para provar cartéis difere. Contudo, independentemente da
+prova analisada ser direta ou indireta, é necessário observar as seguintes evidências, dentre
+outras:
+1 – Evidências que indiquem o conhecimento antecipado de informações que
+sobre os preços ou os lances do concorrente;
+2 – Evidências que indiquem que os concorrentes discutiram lances ou que
+chegaram um acordo a respeito dos lances;
+3 – Evidências de monitoramento do acordo;
+4 - Evidências que um cliente em particular ou um contrato é exclusivo para
+determinada empresa;
+[1] Caso United States v. Champion International Corporation, 557 F.2d 1270 (9th Cir. 1977), relativa a cartel em
+licitações para venda de madeira. Vide: OCDE. Prosecuting Cartels without Direct Evidence, 2006, p.174.
+[2] ES Dev., Inc. v. RWM Enters., 939 F.2d 547, 554 60 USLW 2090, 1991-2 Trade Cases 69,505 (8th Cir. 1991),
+https://bulk.resource.org/courts.gov/c/F2/939/939.F2d.547.90-2467.90-2466.90-1761.90-1760.html, acessado em
+03 de maio de 2013 (tradução livre).
+[3] Vide, por exemplo, decisão da Corte de Justiça Europeia no “Caso Dyestuffs” (ICI vs Comission, Case 48/69,
+1972, §§66-68, http://eurex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX:61969CJ0048:EN:PDF, acessado em
+03 de maio de 2013)
+[4] Cases IV/33.126 and 33.322 - Cement, http://eur lex.europa.eu/LexUriServ/LexUriServ.do?uri=CELEX: 31994D
+0815:EM:HTML, acessado em 03 de maio de 2013.
+[5] Aalborg Portland A/S and others v Commission (Joined Cases C-204/00 P, C-205/00 P, C-211/00 P, C-213/00 P,
+C-217/00 P and C-219/00 P), http://curia.europa.eu/juris/showPdf.jsf;jsessionid=9ea7d0f130d58a5500806a
+674a49b719cceb5a3d6dae.e34KaxiLc3eQc40LaxqMbN4Oah0Se0?text=&docid=48825&pageIndex=0&doclang=
+EN&mode=lst&dir=&occ=first&part=1&cid=299626, acessado em 03 de maio de 2013 (tradução livre)
+[6] Vide OCDE, Prosecuting Cartels without Direct Evidence, 2006, p.09-11 (tradução livre).
+[7] Vide ICN, Anti-Cartel Enforcement Manual, 2008, p. 13 (tradução livre).
+CASO DOS AQUECEDORES SOLARES
+(Processo Administrativo nº 08012.001273/2010-24)
+RESUMO DO CASO
+O Processo Administrativo instaurado em 2012 teve por objeto a investigação de suposto cartel
+em licitações para aquisição de aquecedores solares para habitações de baixa renda construídas
+pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo (CDHU).
+A investigação evidenciou que algumas empresas combinavam preços e dividiam o mercado em
+licitações para aquisição de aquecedores solares realizados pela CDHU, acordo este que era
+implementado por meio da supressão/retirada de propostas nas licitações, além da rotatividade
+30de vencedores para os diversos lotes e pela utilização da estratégia conhecida como bloqueio em
+pregão presencial.
+O caso foi julgado pelo Tribunal do Cade em 2015, quando decidiu-se por maioria pela
+condenação de todas as empresas envolvidas, arquivando o processo somente com relação a uma
+associação e duas pessoas físicas. Além da condenação ao pagamento de multa, também foi
+aplicada a penalidade não-pecuniária de inscrição no Cadastro Nacional de Defesa do Consumidor.
+PROVAS INDIRETAS
+Destacou-se neste caso o uso de provas indiretas que, em seu conjunto probatório, levaram à
+condenação das empresas. Dentre elas foi de especial importância a identificação de coincidências
+de preços das propostas apresentadas por diferentes empresas nos lotes das licitações. As
+propostas (apresentadas em envelopes fechados), por vezes, eram absolutamente idênticas – até
+os centavos –, fato que muito dificilmente seria mera coincidência, conforme explicou o
+Conselheiro-Relator Márcio de Oliveira Júnior em seu voto:
+310. (...) as combinações clássicas de preços e de mercados são acompanhadas
+de manobras em procedimentos licitatórios para simular competitividade. Esses
+mecanismos são pensados para camuflar o acordo anticompetitivo, uma vez
+que não se pode esperar que um ilícito seja expressamente firmado em um
+contrato. Por essa razão, as autoridades instrutória e julgadora devem
+considerar os diversos tipos de elementos de prova para desvelar um cartel.
+311. O conjunto probatório deve demonstrar, essencialmente, (i) a similitude
+das posturas dos participantes da licitação, (ii) que as empresas participantes
+do cartel foram as vencedoras dos lotes pretendidos ou permitiram que uma
+empresa por eles escolhida fosse a vencedora, (iii) a alternância de posturas
+para ganhar ou perder um lote a partir de propostas de cobertura e supressões
+ou retiradas de lances, (iv) a existência de barreiras à entrada no certame, (v) a
+existência de canais de comunicação ou fóruns de transparência que facilitem a
+permeabilidade das informações entre concorrentes. Nesse sentido, a
+importância da categoria da prova – direta ou indireta – é irrelevante, já que o
+conjunto probatório é o que define a formação da convicção do julgador. O que
+diferencia um caso de provas indiretas de um caso clássico de prova direta é o
+31maior esforço de instrução e análise para apontar os elementos que evidenciam
+a infração contra a ordem econômica.
+312. Os autos demonstraram que houve (i) combinações de preços e
+retiradas/supressões de lances para favorecer os participantes do conluio, (ii) os
+vencedores de cada lote foram aqueles desejados pelos cartelistas, (iii) a fase
+de lances foi utilizada como fórum de alternância de lances entre as
+Representadas para simular concorrência, (iv) barreiras à entrada que
+favoreciam a oferta de produtos a empresas de maior porte, que coincide com
+o porte das Representadas, (v) os Representados utilizavam a ABRAVA para dar
+maior transparência a esse mercado, tendo em vista que era composta pela
+maioria das empresas que participaram da licitação. (...)
+314. No presente Processo Administrativo, verifiquei que existem injustificáveis
+coincidências de preços em diversos dos lotes envolvidos, as quais não podem
+ser explicadas por similitude do preço dos insumos (aqui considerados os bens
+e serviços que compõem os kits) ou pela homogeneidade plena de todos os
+fatores formadores de preços. Tampouco houve explicações sobre como os
+preços dos envelopes fechados de cinco lotes diferentes coincidiam, incluindo
+sempre uma mesma empresa – Enalter, a qual sempre declinava do direito de
+ofertar lances.
+Fica assim demonstrada a importância das provas indiretas bem como sua ampla aceitabilidade por
+diversas autoridades da concorrência na investigação e compreensão da atuação de cartéis.
+O fundamental a se saber sobre as provas indiretas é que elas não são valoradas isoladamente, sob
+pena de depreciar o acervo probatório, apesar de serem indício relevante para as autoridades
+detectarem cartéis. Os elementos coligidos devem ser apreciados em conjunto, de forma a permitir
+que as evidências e suas circunstâncias esclareçam-se mutuamente, tornando a valoração de tais
+provas um juízo interpretativo.28 Assim, a conduta de cada empresa deve ser avaliada tanto a partir
+de seu cotejamento com a conduta dos demais competidores quanto com a situação do mercado em
+questão.29
+28 ICI vs Comission, Case 48/69, 1972, §68.
+29 Guerrin, M., Kyriazisym G, Cartels: proof and procedural issues. Fordham International Law Journal, v.16, n.2, 1992
+(tradução livre).
+32A partir disso, é possível afirmar que, principalmente no caso de cartéis em licitações públicas,
+existem circunstâncias que, quando analisadas em conjunto, demonstram não haver outra explicação
+racional para justificar o comportamento dos licitantes, a não ser a existência de um acordo
+anticompetitivo prévio entre eles e estes elementos, considerando a dificuldade cada vez maior de
+encontrar provas diretas, são fundamentais para a detecção e investigação de cartéis em licitação.
+II.3. Formas de conluio: as principais estratégias utilizadas pelas empresas
+para formação de cartéis em licitações
+Os cartéis em licitações podem assumir formas variadas, combinando uma ou mais estratégias para
+a implementação do acordo ilícito. As estratégias utilizadas pelos integrantes do cartel,
+especialmente no âmbito das licitações públicas, envolvem, regra geral, a mitigação da competição
+e a alocação privada e artificial de contratos entre empresas que, na verdade, deveriam competir
+entre si. Nesse sentido, o uso concomitante de estratégias comuns permite que tais agentes definam
+os contornos precisos do mercado, por intermédio da alocação de carteiras de contratos, órgãos
+contratantes, áreas geográficas, faturamento, dentre outros critérios, visando à distribuição dos
+lucros adicionais advindos da redução da pressão competitiva.
+II.3.1. Propostas fictícias ou de cobertura (“cover bidding”)
+As propostas fictícias ou de cobertura (também designadas como complementares, de cortesia,
+figurativas ou simbólicas) são a forma mais frequente de implementação dos esquemas de conluio
+entre concorrentes e são concebidas para dar aparência de concorrência genuína entre os licitantes.
+Essa modaliodade ocorre quando indivíduos ou empresas combinam submeter propostas que
+envolvem, pelo menos, um dos seguintes comportamentos:
+(1) Um dos concorrentes aceita apresentar uma proposta mais elevada do que a proposta do
+candidato escolhido para vencer o certame,
+(2) Um concorrente apresenta uma proposta que já sabe de antemão que é demasiado elevada
+para ser aceita, ou
+(3) Um concorrente apresenta uma proposta que contém condições específicas que sabe de
+antemão que serão inaceitáveis para o comprador.
+33A seguir, são apresentados alguns exemplos de casos concretos em que foi utilizada a
+estratégia de proposta de cobertura:
+CARTEL DE SERVIÇOS TERCEIRIZADOS DE LAVANDERIA PARA HOSPITAIS NO RIO DE
+JANEIRO (OPERAÇÃO “ROUPA SUJA”)
+(Processo Administrativo nº 08012.008850/2008-94)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2008, com o objetivo de investigar eventual formação
+de cartel com intuito de fraudar licitação pública de contratação de serviços de lavanderia para
+hospitais no Rio de Janeiro. A investigação evidenciou que representantes de empresas atuantes
+no setor, em diversas ocasiões, mantiveram contatos telefônicos e realizaram reuniões presenciais,
+tendo compartilhado informações comerciais sensíveis, tais como preços, valores de propostas
+comerciais, carteiras de contratos, etc. A finalidade desses contatos foi concretizar acordos com o
+objetivo de divisão do mercado, apresentação de propostas de cobertura e imposição de
+dificuldades para a entrada de novos concorrentes. Adicionalmente, restou comprovado que o
+sindicato do setor atuou para facilitar a conclusão do acordo entre empresas.
+O caso foi julgado pelo Tribunal do CADE em 2016, decidindo-se pela condenação de todas as
+representadas, à exceção de duas pessoas físicas, uma delas em razão da celebração de TCC.
+COBERTURA
+O uso da estratégia de propostas de cobertura foi evidenciada neste caso, por exemplo, por meio
+de tabelas de preço nas quais havia expressamente um preço cotado e um preço para “cobertura”
+que deveria ser superior aquele que seria o vencedor. Eram estabelecidos os valores de cobertura
+e até mesmo o somatório das quantidades atribuídas a cada participante do acordo. O uso das
+propostas de cobertura foi uma das principais estratégias utilizadas para garantir a implementação
+do acordo anticompetitivo nas licitações.
+34IMAGEM 130
+IMAGEM 231
+JURISPRUDÊNCIA INTERNACIONAL
+CARTEL DE EQUIPAMENTOS MÉDICOS – ÍNDIA
+RESUMO DO CASO
+Trata-se de uma conduta anticompetitiva envolvendo manipulação de propostas em licitação para
+fornecimento, instalação, teste e comissionamento do Teatro de Operação Modular (MOT) e
+Sistema de Munições de Gases Médicos (MGMS) do Centro de Lesões Esportivas (SIC), do
+Safdarjung Hospital, New Deli. As empresas investigadas eram: (i) PES Installtions Pvt. Ltd. (PES);
+(ii) MDD Medical Systems Pvt. Ltd. (MDD); (iii) Medical Products Services (MPS).
+COBERTURA
+A autoridade antitruste da Índia (“CCI”), depois de analisar os formulários de propostas
+apresentadas pelas partes opostas, constatou que “não houve apenas um erro tipográfico comum
+30 Parágrafo 159 da versão pública do voto da Conselheira-Relatora Ana Frazão.
+31 Parágrafo 161 da versão pública do voto da Conselheira-Relatora Ana Frazão.
+35no calendário de preços, mas também foram apresentadas datas comuns nas várias seções dos
+formulários de proposta pelo PES e pela MDD. A CCI verificou que estes erros tipográficos comuns
+eram devidos à partilha, entre os licitantes, das cópias impressas do formato do calendário de
+preços com o objetivo de preparar e arquivar os documentos do certame em conjunto. Além disso,
+segundo a CCI, a coincidência dos erros nos formulários de proposta apresentados pelos licitantes
+era indicativa do fato de que havia conluio entre eles para manipular o processo de licitaçãoAssim,
+a CCI concluiu que os três concorrentes tinham realmente um acordo entre eles e, em
+conformidade com esse acordo, PES e MPS apresentaram propostas complementares
+incomparavelmente mais altas em relação à oferta do MDD.
+II.3.2. Supressão de propostas (“bid suppresion”) e retirada de
+propostas (“bid withdrawal”)
+As estratégias de supressão de propostas envolvem acordos entre os concorrentes para que uma ou
+mais empresas abstenham-se de concorrer ou retirem uma proposta previamente apresentada, de
+modo que a proposta do concorrente escolhido pelo cartel como vencedor do certame seja aceita.
+Portanto, a empresa pode abster-se desde início de participar do certame (ao que chamamos
+supressão de propostas) ou decidir retirar sua proposta quando está concorrendo, a fim de que o
+concorrente participante do cartel seja bem-sucedido em seu lugar.
+A seguir, são apresentados dois exemplos dessa estratégia:
+CARTEL EM OBRAS DE ADUTORA EM SÃO PAULO
+(Processo Administrativo nº 08012.009885/2009-21)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2010, a partir de Representação encaminhada pela
+Companhia de Saneamento Básico do Estado de São Paulo (SABESP), retratando supostas
+irregularidades praticadas pelas empresas SAENGE e pela CONCIC na Concorrência Internacional
+CSO nº 53.542/07.
+O caso foi julgado pelo Tribunal do CADE em 2015, decidindo-se pela pela condenação de todos
+os investigados, com exceção apenas de uma pessoa física.
+36SUPRESSÃO
+A supressão de propostas foi evidenciada na medida em que, após ser consagrada vencedora na
+primeira rodada, a empresa CONCIC deixou de apresentar documentos solicitados pela SABESP
+dentro do prazo solicitado. Com sua desclassificação do certame a SAENGE foi declarada
+vencedora do certame.
+Posteriormente, a SABESP tomou conhecimento da existência de um contrato de sociedade em
+conta de participação entre a CONCIC e a SAENGE, relativo às obras licitadas, que foi firmado
+antes do fim do procedimento licitatório, quando a CONCIC ainda figurava em primeiro lugar. Nos
+termos do “Instrumento Particular de Constituição de Sociedade em Cotas de Participação de
+Propósito Específico”, o negócio jurídico tinha por objeto “a execução conjunta das obras do Lote
+3 do Sistema Produtor de Água Mambu/Branco da Baixada Santista”. Assim, considerando que a
+desistência da primeira colocada foi motivada pela celebração do instrumento contratual e diante
+de outras evidências acerca da natureza, do momento em que o contrato foi firmado e dos
+incentivos econômicos que motivariam o acordo, considerou-se que a não apresentação dos
+documentos exigidos por parte da CONCIC foi uma supressão de sua proposta inicial.
+IMAGEM 232
+32 Fl. 177 dos autos públicos do Processo Administrativo.
+37JURISPRUDÊNCIA INTERNACIONAL
+CARTEL DOS CABOS DE ENERGIA – COMISSÃO EUROPEIA
+RESUMO DO CASO
+Trata-se de investigação instaurada em face dos principais produtores de cabos de energia
+submarinos e subterrâneos que realizavam encontros e contatos bilaterais e multilaterais, com o
+objetivo de restringir a competição em territórios específicos.
+SUPRESSÃO
+De acordo com a decisão da Comissão Europeia, a partir de fevereiro de 1999, os principais
+produtores de cabos de energia submarinos e subterrâneos alocaram projetos de acordo com a
+região geográfica e os clientes. Além disso, ocorreu troca de informações sobre fatores como
+preço, para assegurar a vitória do ofertante escolhido para ser vencedor. Dessa forma, o escolhido
+ofereceria o menor preço, enquanto os outros submeteriam ofertas maiores, suprimiriam suas
+ofertas ou fariam ofertas que não eram atrativas nas licitações.
+As empresas ainda tinham obrigação de repassar informações, o que permitia o monitoramento
+do grupo e assegurava o cumprimento dos acordos. Outras práticas também foram realizadas para
+dar força ao cartel, como recusa coletiva de fornecer acessórios ou assistência técnica a certos
+concorrentes.
+II.3.3. Bloqueio em pregão presencial
+O bloqueio em pregão presencial é uma estratégia anticompetitiva caracterizada pela atuação
+concertada entre uma empresa que fornece determinado bem ou serviço objeto da licitação e, pelo
+menos, outras duas pessoas jurídicas. Em geral essas empresas possuem alguma relação de
+fornecimento e distribuição. O objetivo de tal prática é reduzir as chances de que outras licitantes
+não alinhadas sejam classificadas para a fase de lances em um pregão presencial, restringindo, com
+isso, a concorrência naquele certame.
+O pregão presencial pode ser dividido em duas fases:
+• 1ª fase ou fase de abertura das propostas: selecionam-se as propostas que irão para a fase
+de lances verbais, quais sejam: a melhor proposta e aquelas com valores superiores a esta
+até o limite de 10%. Não havendo ao menos duas propostas até o limite de 10%,
+classificam-se as três melhores propostas para a fase de lances verbais;
+38• 2ª fase: ocorrem os lances verbais33, sendo o ápice competitivo do certame. Os
+classificados ficam cientes dos preços dos seus concorrentes e passam a competir
+abertamente pelo contrato. Portanto, tal fase permite, quando há efetiva competição pelo
+objeto licitado, que a Administração obtenha a proposta de preço mais vantajosa,
+resultando em economia de recursos por parte do erário34.
+Assim, em tal estratégia, as empresas em conluio conhecem as propostas umas das outras e uma
+delas apresenta uma proposta competitiva em menor valor enquanto as outras apresentam
+propostas com valores no intervalo de 10%, tidas como propostas de cobertura35, na expectativa de
+que apenas essas empresas alinhadas sejam classificadas para a fase de lances verbais. Por meio
+dessa estratégia, as empresas não alinhadas – cujas propostas não se encontram no intervalo de
+10% da melhor proposta – podem ser artificialmente impedidas de participar da fase de lances
+verbais, eliminando a competição nesta fase do pregão. Por consequência, as empresas em conluio,
+classificadas para a fase de lances, não apresentam novas propostas ou apresentam propostas
+simuladas, com apenas uma pequena redução nos valores.
+A restrição na competitividade do pregão ocorre porque, na ausência do conluio entre as empresas,
+propostas com valores acima do intervalo de 10% seriam classificadas para a fase de lances,
+mantendo a concorrência nessa segunda etapa do pregão.36
+A estratégia do bloqueio nem sempre assegura que as empresas em conluio vençam o pregão, pois
+as demais concorrentes podem apresentar propostas menores ou dentro do intervalo de 10%,
+classificando-se, assim, para a fase lances verbais. De todo modo, a prática do bloqueio tem
+importante potencial anticompetitivo, uma vez que trata de acordo entre concorrentes envolvendo
+variáveis como preços e quantidades que são consideradas concorrencialmente sensíveis e devem
+ser analisadas pelo Cade.
+33 Realizada na forma de “leilão reverso”, em que os lances são sucessivos e decrescentes.
+34 Passada a fase de lances e selecionada a melhor proposta pelo critério de melhor preço, verifica-se a habilitação do
+primeiro colocado, em um procedimento mais célere do que o verificado nas demais modalidades de licitação. Nos casos
+em que não se habilitar o primeiro colocado, analisa-se a documentação do segundo. As duas fases são fundamentais
+para que a Administração obtenha não apenas o melhor preço, mas a mais vantajosa das propostas.
+35 Parecer nº 10/2016/CGEP/PFE-CADE-CADE/PGF/AGU, do Processo nº 08012.009645/2008-46, instaurado a partir da
+Representação formulada por CMW Saúde e Tecnologia Importação e Exportação Ltda., sob a alegação de que a Support
+Produtos Nutricionais Ltda., fornecedora de “alimentos para fins especiais”, praticava venda de mercadoria abaixo do
+preço de custo e fixava ou praticava, em acordo com concorrentes, preços e condições de venda de bens em licitações
+públicas.
+36 A estratégia de bloqueio não se aplica ao pregão eletrônico, pois nesta modalidade todas as empresas com propostas
+classificadas na fase inicial podem participar da fase competitiva, em que são apresentados os lances (art. 23 do Decreto
+nº 5.450/2005).
+39CARTEL EM LICITAÇÃO PARA AQUISIÇÃO DE TINTAS
+(Processo Administrativo nº 08012.006199/2009-07)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2012 para investigar a prática de cartel em licitação
+na modalidade Pregão Presencial promovida pela Prefeitura de Lages (Santa Catarina) para
+aquisição de material de pintura e hidráulico.
+O caso foi julgado pelo Tribunal do CADE em 2014, que condenou três das empresas investigadas
+ao pagamento de multa e ao cumprimento de obrigações acessórias.
+BLOQUEIO EM PREGÃO PRESENCIAL
+Apesar da relativa ausência de provas diretas, havia um robusto conjunto probatório formado
+principalmente por provas econômicas de paralelismo de preços e provas indiretas como a
+identidade visual idêntica das propostas dos concorrentes, erros de ortografia e identidade na
+formatação e redação das propostas.
+Tais provas evidenciaram a aplicação da estratégia de bloqueio em pregão presencial, vez que o
+objetivo das empresas, ao apresentarem preços idênticos ou intervalos iguais das propostas
+iniciais, era precisamente garantir que, além da empresa escolhida pelo cartel para ser vencedora
+do certame, pelo menos, uma das outras duas passasse à fase de lances. Em alguns casos, quando
+o uso dessa estratégia permitia que as três cartelistas passassem à fase de lances, duas delas
+simulavam competição e abriam mão dos lances em favor da escolhida para ser a vencedora,
+tornando inócua a fase de lances. Em outros casos, quando agentes não integrantes do cartel
+eram classificados para a fase de lances, os infratores trabalhavam em favor da vencedora e contra
+o entrante, de modo a “bloquear” outros efetivos concorrentes de apresentar propostas que
+fossem, de fato, mais favoráveis à Administração. Essa estratégia foi utilizada pelos participantes
+do cartel. Na fase de lances, os classificados não sofriam a pressão competitiva de outros agentes
+não classificados.
+II.3.4. Propostas rotativas ou rodízio (“bid rotation”)
+Nos esquemas de propostas rotativas (ou rodízio), as empresas conspiradoras continuam a concorrer,
+mas combinam de apresentar alternadamente a proposta vencedora, seja para os diferentes lotes de
+uma mesma licitação ou para diferentes licitações, de modo que cada membro do cartel seja
+vencedor de uma “parte”. Em outras palavras, é uma forma de divisão de mercado.
+40A forma de implementação das propostas rotativas pode variar. A divisão pode se dar em valores
+iguais (mesmo número de lotes) ou ser, por exemplo, proporcional ao tamanho, market share ou
+capacidade produtiva de cada empresa.
+CARTEL DE PORTAS DE SEGURANÇA GIRATÓRIAS
+(Processo Administrativo nº 08012.009611/2008-51)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2008 para apurar formação de cartel em
+procedimentos licitatórios realizados pelo Banco do Brasil e pelo Banrisul para fornecimento de
+portas detectoras de metais.
+O caso foi julgado em 2014, decidindo-se pela condenação de 4 pessoas jurídicas e 10 pessoas
+físicas.
+PROPOSTAS ROTATIVAS OU RODÍZIO
+As empresas participantes se alternavam na apresentação de propostas vencedoras, fato que foi
+evidenciado nas conversas entre os participantes, que discutiam qual empresa venceria cada
+licitação, com base nas vitórias passadas. A estratégia de rodízio era ainda facilitada pela utilização
+de tabelas que organizavam o ranking das participantes do cartel, a fim de determinar a ordem
+em que cada empresa venceria as licitações futuras.
+41IMAGEM 337
+II.3.5. Divisão de mercado (“market allocation ou market division”)
+A estratégia de divisão de mercado envolve a combinação de um esquema de apresentação de
+propostas com o objetivo de repartir o mercado de alguma forma entre os membros do conluio. A
+repartição pode referir-se, por exemplo, sobre a carteira de clientes (órgãos públicos diversos), o tipo
+de produto/serviço ou o mercado geográfico (região/município/estado, etc.).
+Esta estratégia pode estar intimamente ligada a outras estratégias apontadas acima, como a
+rotatividade de propostas, a apresentação de propostas de cobertura ou a supressão de propostas.
+As empresas concorrentes podem, por exemplo, atribuir clientes específicos ou tipos de clientes a
+diferentes empresas, para que os demais concorrentes não apresentem propostas (ou apresentem
+apenas uma proposta fictícia) em licitações promovidas por essas classes de potenciais clientes. Em
+troca, o concorrente não apresenta propostas competitivas a outro grupo específico de clientes, que
+foi destinado a outras empresas integrantes do cartel.
+37 F. 147 dos autos públicos do Processo Administrativo.
+42CARTEL INTERNACIONAL DE MANGUEIRAS MARÍTIMAS
+(Processo Administrativo nº 08012.010932/2007-18)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2007 a partir da celebração de Acordo de Leniência,
+segundo o qual havia um cartel internacional com efeitos no Brasil no mercado de mangueiras
+marítimas de borracha.
+O caso foi julgado em 2015, decidindo-se pela condenação de 3 pessoas jurídicas, 1 pessoa física e
+pelo arquivamento do processo em relação a 3 pessoas jurídicas e 4 pessoas físicas. Além disso,
+foram homologados 4 TCCs que resultaram no arquivamento do caso em relação a estes
+investigados.
+DIVISÃO DO MERCADO
+O cartel era altamente institucionalizado e regido por normas de conduta e por previsões de punição
+para quem burlasse o acordo, havendo, ainda, um “comitê técnico”, integrado pelos principais
+membros do cartel, com o objetivo de destrinchar e de especificar regras.
+De acordo com o “comitê técnico”, o cartel deveria ser organizado por um coordenador e buscar (i)
+maximizar os preços e a lucratividade, (ii) assegurar que o campeão fosse efetivamente vencedor por
+meio de propostas de cobertura, (iii) permutar informações sobre preços, quantidades, participações
+de mercado e demais informações concorrencialmente sensíveis, (iv) fiscalizar o cumprimento do
+acordo e manter a disciplina entre os membros, principalmente no que se refere às alocações de
+“projetos” e à punição a membros desviantes e (v) reduzir os custos de transação atinentes à
+captação de clientes e estratégias de vendas.
+O coordenador do cartel era o responsável por ditar as regras a serem seguidas pelos infratores e
+fiscalizar o cumprimento das participações de mercado combinadas entre as empresas. A ele era
+confiado o trabalho de dirimir os conflitos entre os participantes e buscar as propostas de cobertura
+ao vencedor nomeado pelo cartel (também chamado de “campeão”), as quais eram chamadas de
+“apoio”.
+Em termos estruturais, tais coberturas eram desenhadas com base em participações de mercado,
+histórico de fornecimento e funcionamento das fábricas. No tocante à conduta anticompetitiva, as
+coberturas eram também elaboradas com base no histórico de obediência ao acordo, na divisão de
+mercado para assegurar market shares específicos e em compensações entre os concorrentes.
+43IMAGEM 438
+JURISPRUDÊNCIA INTERNACIONAL
+CARTEL DOS TUBOS COM REVESTIMENTO TÉRMICO – BÉLGICA
+RESUMO DO CASO
+O processo foi instaurado com o objetivo de investigar suposto cartel no mercado de tubos com
+revestimento térmico.
+DIVISÃO DO MERCADO
+No final de 1990, quatro produtores dinamarqueses firmaram um acordo de cooperação geral no
+seu mercado interno e, a partir do outono de 1991, dois produtores alemães passaram a participar
+regularmente das reuniões. Segundo a Comissão Europeia, foi nesse contexto que se realizaram
+negociações que conduziram, em 1994, a um acordo para fixar quotas em todo o mercado
+europeu. Estas quotas eram atribuídas pelo clube de dirigentes (composto pelos presidentes ou
+pelos diretores-gerais das empresas participantes no cartel) a cada empresa, tanto a nível europeu
+como a nível nacional. Os países em causa incluíam a Alemanha, Áustria, Dinamarca, Finlândia,
+Itália, Países Baixos e Suécia.
+Em 1995, a empresa sueca Powerpipe AB (única empresa grande que não participou do cartel)
+comunicou a situação à Comissão; queixando-se de que suas atividades no mercado interno
+estavam sendo travadas. Em 1998, a Comissão concluiu pela existência de uma série de acordos
+38 Parágrafo 269 da versão pública do voto do Conselheiro-Relator Márcio de Oliveira Júnior.
+44e práticas com o objetivo de dividir, com base em quotas, os mercados nacionais entre os
+produtores e, mais especificamente, de dificultar as atividades da concorrente dierta Powerpipe
+AB. O que era originalmente um cartel dinamarquês se tornou um conluio europeu, que teve um
+efeito considerável no comércio intracomunitário.
+II.3.6. Outras estratégias: mecanismos legais utilizados para
+implementação de estratégias anticompetitivas
+a) Formação de consórcios
+O artigo 33 da Lei nº 8.666/1993 traz a autorização legal para a constituição de consórcios em
+licitações públicas, sendo esse instrumento relevante para que se aumente a competitividade de
+certames, especialmente em casos de grandes contratações, em que uma empresa isoladamente não
+teria condições de fornecer o bem ou prestar o serviço licitado.
+Contudo, de acordo com Marçal Justen Filho39, apesar de existirem hipóteses nas quais os consórcios
+contribuem para o aumento do número de participantes, especialmente em licitações cujo mercado
+ou objeto são complexos, a formação de consórcios pode reduzir o universo da disputa e incentivar
+que os potenciais interessados façam acordos entre si. Em alguns casos, tal instrumento pode ser
+utilizado de forma distorcida, com o fim principal de garantir uma divisão acordada previamente
+entre concorrentes. Em geral, isso ocorre em casos em que as empresas tem capacidade técnica e
+financeira para, isoladamente, prestarem o serviço e/ou fornecerem o produto licitado, mas decidem
+formar consórcio. Tais consórcios, portanto, reduzem a competitividade do certame – haja vista que
+potenciais concorrentes suprimem suas propostas individuais, passando a formar um consórcio – e
+alocam as parcelas do objeto licitado às consorciadas.
+A permissão para formação de consórcios pode, ainda, incentivar as empresas a acordarem os
+ganhadores de cada licitação em uma situação em que haja certa previsibilidade de ocorrência dos
+certames e que os produtos sejam similares entre si. Toma-se, como exemplo, um mercado com cinco
+agentes e com previsão de lançamento de duas licitações em que é permitida a formação de
+consórcios. Os concorrentes têm incentivos para, ao invés de participarem individualmente do
+certame, formar consórcios, de modo que todos sairiam beneficiados, com uma margem de preço
+superior ao cenário competitivo.
+39 JUSTEN FILHO, Marçal. Comentários à lei de licitações e contratos administrativos. 14 ed. São Paulo: Dialética, 2010,
+p. 495.
+45b) Subcontratação
+Tal como apontado acima, a subcontratação, também passível de ser autorizada em licitações
+públicas, é um instituto por meio do qual o contratado transfere parte de uma obra ou serviço para
+ser executada por terceiro. Em certas situações, os concorrentes podem se valer desse instituto para
+implementar seus acordos anticompetitivos, como no caso de empresas que suprimiram propostas
+ou apresentaram propostas de cobertura serem recompensadas com contratos de subcontratação.
+Dessa forma, a subcontratação das empresas colaboradoras permite que os lucros excepcionalmente
+elevados – fruto da ausência de competitividade derivada do acordo colusivo firmado entre as
+concorrentes – sejam divididos entre os participantes do cartel.
+Novamente, não se está aqui a afirmar que a subcontratação é, sempre e necessariamente, o
+resultado de um acordo entre concorrentes. Os potenciais riscos de tal instituto, no que se refere às
+possíveis estratégias colusivas disponíveis às empresas licitantes, devem, contudo, ser analisados no
+âmbito de investigações acerca do comportamento colusivo de empresas em licitações públicas.
+CARTEL DO TRANSPORTE AÉREO POSTAL
+(Processo Administrativo nº 08012.010362/2007-66)
+RESUMO DO CASO
+O Processo Administrativo foi instaurado em 2007 em decorrência de Representação do Ministério
+Público Federal no Distrito Federal, requerendo a apuração de formação de cartel em licitação
+promovida pela Empresa Brasileira de Correios e Telégrafos (ECT) para contratação de serviços de
+transporte postal aéreo.
+O caso foi julgado em 2014 pelo Tribunal do Cade, com a condenação de todos investigados ao
+pagamento de multa.
+SUBCONTRATAÇÃO
+No caso, quatro dias antes da data de entrega das propostas, as duas empresas investigadas
+celebraram um "Termo de Compromisso de Subcontratação", segundo o qual a empresa que se
+sagrasse vencedora em qualquer das linhas do procedimento licitatório realizado pela ECT deveria
+subcontratar a outra para a realização de 50% dos serviços. É clara a ilegalidade e o caráter
+anticompetitivo da referida subcontratação uma vez que era prévia à licitação e tinha como
+objetivo manter uma determinada alocação anteriormente definida.
+46IMAGEM 540
+II.4. Indícios de conluio nas contratações públicas
+Para além das características de mercado que facilitam a formação de cartéis exploradas no item
+II.1., há ainda outros indícios que podem alertar as entidades e pessoas que realizam as licitações e
+processos de contratação para a possibilidade de conluio. Tais indícios variam de uma licitação para
+a outra e rementem, especialmente, para casos que são de competência do Cade investigar,
+conforme ilustrado abaixo:
+(I) Indícios no momento de apresentação de propostas:
+• Número de propostas apresentadas substancialmente inferior ao habitual ou esperado.
+• Retirada inesperada, sem explicação plausível, de alguma(s) empresa(s) do procedimento ou
+diminuição inesperada no número de participantes da licitação.
+• Apresentação de propostas por agentes que notadamente não teriam possibilidade de
+vencer a licitação (ex.: erros banais, acima do valor de referência) ou, ainda, por empresas
+que continuam a submeter propostas apesar de serem constantemente mal-sucedidas.
+40 Fl. 2294 dos autos públicos do Processo Administrativo.
+47• Um licitante comparece à licitação com várias propostas ou apresenta proposta por si e por
+outras empresas concorrentes.
+• Concorrentes habituais não apresentam propostas num procedimento no qual seria de
+esperar que o fizessem, continuando a concorrer em outros procedimentos.
+• Empresas participam em consórcio, apesar de evidentemente terem condições para
+apresentar propostas individuais.
+• Duas ou mais propostas:
+Têm valores idênticos (especialmente quando se trata de propostas fechadas).
+o
+Têm redação e formatação semelhantes, erros (de digitação, gramaticais,
+o
+ortográficos ou de cálculos matemáticos) similares ou idênticos.
+São enviadas do mesmo endereço, e-mail, fax ou possuem selos postais com
+o
+números sequenciais e/ou foram expedidos da mesma agência de correios.
+Submetidas eletronicamente foram criadas ou editadas por um mesmo fornecedor.
+o
+Possuem papel timbrado, formulário ou dados de contatos semelhantes.
+o
+(II) Indícios nas declarações dos concorrentes:
+• Justificativas dos preços da proposta com referência a “preços sugeridos pelo setor”, “preços
+padrão do mercado” ou “tabelas de preços do setor”.
+• Referência explícita a propostas de concorrentes ou à existência de alguma forma de acordo.
+• Referência à exclusividade de uma determinada área ou cliente de um concorrente.
+• Declarações de associações empresariais com referência a propostas de forma detalhada.
+• Atuação de sindicatos e associações, em sede administrativa e/ou judicial, para impedir a
+participação de empresas sob o argumento de inadequação da empresa ou propostas
+inexequíveis.
+(III) Indícios nos comportamentos dos licitantes durante/no certame e nas condições
+comerciais das propostas:
+48• Licitantes vencedores subcontratam concorrentes que perderam, retiraram ou se recusaram
+a apresentar propostas na licitação e/ou contratam recorrentemente o mesmo concorrente.
+• Analisando uma série de licitações, os fornecedores periodicamente vencem as mesmas ou
+quantidades semelhantes de licitações.
+• Há uma margem de preço estranha e pouco racional entre a proposta vencedora e as demais.
+• Uma empresa solicita os documentos do procedimento para si e para outro(s) concorrente(s)
+ou então uma empresa apresenta a proposta junto com outro(s) concorrente(s).
+• O valor das propostas é significativamente reduzido quando um novo concorrente entra no
+processo ou, ao contrário, aumenta significativamente sem alteração dos concorrentes ou
+sem variação nos custos.
+(IV) Indícios no resultado do procedimento:
+• Existência de um padrão de rodízio entre os vencedores das licitações e seus lotes e padrão
+de distribuição geográfica das propostas vencedoras.
+• Uma mesma empresa sempre vence as licitações de certo órgão público e outras continuam
+participando mesmo que sempre percam.
+• Verificação de preços muito díspares ofertados em diferentes licitações, apesar de o objeto
+e as características dos certames serem parecidos. Atenção para comparar licitações
+semelhantes em termos de quantidade, produto e período de tempo.
+Diante de indícios de configuração de cartel em licitação, o agente de compras públicas deve acionar
+o Cade, mediante representação fundamentada ou por meio do Clique-Denúncia, para que seja
+aberto inquérito administrativo para apuração dos fatos.
+PARTE III – PREVENÇÃO CONTRA FORMAÇÃO DE CARTÉIS EM LICITAÇÕES
+III.1. A contribuição dos agentes de compras públicas no combate a cartéis
+A experiência do Cade demonstra que a elaboração de editais pró-competitivos deve fundar-se em
+princípio que busca o desenho de regras editalícias que, simultaneamente, (i) reduzam a
+previsibilidade acerca dos principais parâmetros da contratação (tais como valor de referência,
+49quantidade a ser contratada, divisão em lotes, critérios técnicos de habilitação, etc.) e (ii) introduzam,
+assim, elementos desestabilizadores em mercados nos quais há maior propensão à atuação de
+cartéis.
+Tal princípio não deve ser interpretado como uma afronta à estabilidade das normas que regem as
+contratações públicas ou à segurança jurídica, que visam a garantir previsibilidade aos agentes
+econômicos, requisito essencial à realização de investimentos de forma eficiente e eficaz.
+Desse modo, os agentes de compras públicas devem atentar, desde o momento da elaboração do
+edital, para os itens apresentados a seguir, com vistas a reduzir o risco de cartel em licitações e a
+detectar possíveis condutas anticompetitivas entre os participantes do certame.
+III.2. O que pode ser feito para reduzir o risco de cartel em licitações41
+Tendo em vista tudo o que já foi exposto, segue breve checklist com medidas que podem ser
+adotadas para prevenção e redução do risco de formação de conluios em contratações públicas:
+(I) Recomendações gerais:
+• Adoção da Declaração de Elaboração Independente de Proposta, nos termos da Instrução
+Normativa do Ministério do Planejamento, Orçamento e Gestão nº 02, de 16 de setembro
+de 2009, de forma a exigir que cada licitante garanta, por intermédio de documento assinado
+por seu representante legal, que sua proposta comercial e lances tenham sido elaborados
+sem qualquer tipo de compartilhamento de informação comercial sensível com empresa
+concorrente.
+• Vedação da divulgação do valor de reserva/valor de referência, nos moldes do Regime
+Diferenciado de Contratação (RDC), conforme Lei nº 12.462, de 4 de agosto de 2011.
+• Avaliar a pertinência da adoção de leilões simultâneos - quando houver mais de uma
+concessão relativa a objeto semelhante – de forma a dificultar a divisão de mercado
+(estratégia facilitada pela eventual adoção de leilões sequenciais).
+• Planejamento de leilões simultâneos que busquem licitar projetos complementares – seja
+complementaridade intra-leilão, seja com projetos já licitados anteriormente – de maneira a
+41 Ver Contribuições do CADE “Medidas para estimular o ambiente concorrencial dos processos licitatórios”. Disponível
+em: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-institucionais/contribuicoes-cade-ppi.pdf/view>.
+50possibilitar que seja(m) criada(s) situação(ões) de valoração super-aditiva nos leilões,
+atraindo tanto empresas já atuantes no mercado, quanto possíveis entrantes.
+• Avaliar possibilidade de utilizar desenhos híbridos de leilão, nos moldes do “modo
+combinado de disputa” do Regime Diferenciado de Contratação (RDC), conforme artigos 23
+e 24 do Decreto nº 7.581, de 11 de outubro de 2011.
+• Garantir que os esclarecimentos relacionados ao Edital – prestados aos interessados na fase
+que antecede a apresentação das propostas – sejam realizados em ambiente virtual, de
+forma a não permitir a identificação das empresas.
+• Evitar, tanto na fase interna quanto na fase externa, que existam oportunidades para que
+representantes das eventuais empresas interessadas se encontrem presencialmente.
+(II) Recomendações para desenho de editais:
+• Consórcios: avaliar a adoção de critérios que estimulem a competitividade, de forma a
+incentivar a participação de “entrantes” no mercado e evitar que tal instituto seja utilizado
+para “redução estratégica da demanda” (fato prejudicial para a valoração do ativo, na
+perspectiva do concedente).
+• Subcontratação: estabelecer critério para controle e cadastro de empresas subcontratadas,
+com registro obrigatório, a fim de evitar a utilização do instituto como forma de pagamento
+lateral e cartelização.
+• Criação de incentivos para empresas “entrantes” no que tange aos critérios de pontuação
+para avaliação técnica das propostas.
+• Exigências diferenciadas quanto ao seguro-garantia (Agência Brasileira Gestora de Fundos
+Garantidores e Garantias S.A. e Fundo Garantidor de Infraestrutura), de forma a incentivar a
+competitividade nos leilões.
+(III) Recomendações para durante o certame:
+• Utilizar sistema informatizado específico para realização do leilão, que contemple as
+especificidades das regras42, de forma a garantir:
+42 Nesse sentido, ver experiência da Agência Nacional de Energia Elétrica (ANEEL).
+51Ambiente de teste para simular o leilão.
+o
+Sigilo em relação aos participantes e aos lances apresentados.
+o
+• Evitar que existam momentos presenciais, de forma a impedir que representantes das
+empresas participantes se encontrem durante o leilão.
+(IV) Recomendações sobre a especificidade de cada mercado e certame:
+• Cada mercado possui especificidades, regulamentações e necessidades que podem impactar,
+de forma distinta, o desenho licitatório. A título de exemplo, necessidades regulatórias,
+técnicas, de qualidade, de segurança e até mesmo de concorrência no mercado durante o
+período de concessão devem ser sopesados em face da necessidade de estímulo à
+concorrência no processo licitatório em si, a fim de se atingir um equilíbrio ideal para o
+desenho da concessão e do edital.
+• Ter uma base de dados que consolide informações relevantes sobre licitações é essencial
+para uma persecução a cartéis em licitações efetiva, seja por parte dos órgãos licitantes, seja
+por parte de outras autoridades. Isso porque, o efetivo monitoramento dos procedimentos
+licitatórios pode ter um efeito dissuasório, além de facilitar a detecção de cartéis.
+PARTE IV – ILICITOS RELACIONADOS AOS CARTÉIS EM LICITAÇÃO
+IV.1. Cartel em licitações e fraude a licitações
+Não é incomum que fraude a licitação e cartel em licitação sejam tratados como uma só coisa, como
+sinônimos para um mesmo ilícito. Contudo, como brevemente explicado no item I.2., tratam-se de
+figuras jurídicas distintas, embora coincidentes em diversas situações.
+Logo, é importante reconhecer corretamente os contornos jurídicos de um e outro, seus pontos de
+congruências e divergência, pois desta identificação decorrem consequências relevantes, como, por
+exemplo, a autoridade competente para investigar e punir e a espécie de sanção aplicável a cada
+caso.
+A fraude à licitação está prevista no artigo 46 da Lei do TCU (Lei nº 8.443/1992) e no artigo 93 da
+Lei de Licitações e Contratos Públicos (Lei nº 8.666/1993):
+52Art. 46. Verificada a ocorrência de fraude comprovada à licitação, o Tribunal
+declarará a inidoneidade do licitante fraudador para participar, por até cinco anos,
+de licitação na Administração Pública Federal.
+Art. 93. Impedir, perturbar ou fraudar a realização de qualquer ato de
+procedimento licitatório:
+Pena - detenção, de 6 (seis) meses a 2 (dois) anos, e multa.
+A Lei de Licitações prevê pena de detenção de seis meses a dois anos e multa a quem fraudar a
+realização de qualquer ato de procedimento licitatório. A caracterização do ato fraudulento ocorre
+na hipótese de se constatar, no bojo de um procedimento licitatório, qualquer ato ardiloso,
+enganoso, de má-fé, com o intuito de lesar ou ludibriar, ou de se furtar a cumprir um dever previsto
+na lei ou no instrumento convocatório do certame.
+Note-se que, em qualquer das suas espécies (seja na falsificação de documento obrigatório, na
+entrega de uma mercadoria por outra, etc.), o ato fraudulento cometido em um procedimento
+licitatório sempre irá lesar a lisura e incolumidade dos atos e procedimentos públicos, bens jurídicos
+estes protegidos pela Lei de Licitações.
+Importante destacar que a Lei de Licitações prevê diversas espécies de condutas fraudulentas. Dentre
+elas existem aquelas que lesam, simultaneamente, a integridade dos atos administrativos e o caráter
+competitivo do certame público, i.e., a fraude realizada mediante ajuste ou combinação (cartel), que
+está disposta especificamente no artigo 90 da Lei.
+Assim, compete ao Ministério Público, cuja função é zelar pelo efetivo respeito dos Poderes Públicos
+e defender a ordem jurídica, investigar, perseguir e promover a ação penal em desfavor daqueles
+agentes (públicos ou privados) cuja conduta se enquadre nas formas de fraude tipificadas na Lei nº
+8.666/1993, seja na sua forma mais genérica (do artigo 93) ou na forma específica de fraude ao
+caráter competitivo das licitações (do artigo 90). Após apreciação das denúncias pelo Poder
+Judiciário, garantida a ampla defesa, poderão incidir sobre os agentes fraudadores as sanções penais
+correspondentes. Também tem competência, na seara administrativa, para investigar e punir a
+fraude o Tribunal de Contas, conforme Lei do TCU, que poderá declarar a inidoneidade do licitante.
+Na medida em que visa a ludibriar a Administração Pública, o cartel em procedimentos licitatórios é,
+ao mesmo tempo, uma espécie de fraude sujeita às sanções criminais supracitadas e também uma
+53infração à ordem econômica, o que atrai a competência do Cade para investigar e eventualmente
+punir tal conduta.
+Abaixo, é possível observar algumas situações nas quais a infração antitruste e a fraude podem se
+confundir:
+(I) Empresas participantes de uma licitação com sócios comuns, que integrem o mesmo grupo
+societário: não haveria, a priori, uma infração antitruste (cartel), mas possivelmente uma
+fraude ao caráter competitivo do procedimento licitatório;
+(II) Empresas com sócios comuns, que não constituem claramente o mesmo grupo societário: é
+possível que haja tanto infração antitruste quanto fraude licitatória, sendo a proximidade
+entre concorrentes um indício de cartel a ser cotejado com outras provas; ou
+(III) Empresas com relação de parentesco ou afinidade entre sócios: pode caracterizar infração
+antitruste e fraude licitatória, pois a relação entre sócios é apenas indício de proximidade
+entre concorrentes, a ser cotejado com outras provas.
+Embora ocorra aparente confusão, observa-se, contudo, que a questão principal está em reconhecer
+duas situações distintas: (i) agentes econômicos concorrentes que passam a combinar previamente
+a atuação conjunta em licitações – caso de cartel; versus (ii) agentes econômicos que nunca
+concorreram (por terem sócios comuns, fantasmas, laranjas, etc.) e que passam a atuar em licitações
+como se concorrentes fossem – caso de fraude.
+Além disso, existem formas de se fraudar uma licitação que além de não envolverem acordo entre
+concorrentes, podem ser feitas unilateralmente, a exemplo da prestação de informações falsas pela
+empresa vencedora.
+Nestes dois últimos casos mencionados, de fraude entre agentes que são distintos, mas em realidade
+não são concorrentes e fraude que não envolveu sequer um acordo entre empresas, não estamos
+diante de um caso de cartel em licitação e, portanto, a investigação e punição não é de competência
+do Cade, mas sim do Ministério Público e do TCU.
+Dessa forma, observa-se que, apesar de fraude e cartel possuírem aspectos congruentes, eles
+permanecem sendo situações que não se confundem e em cada caso haverá uma norma aplicável,
+um órgão competente para investigação e julgamento.
+54Fraude à licitação nos termos das Leis nºs 8.666/1993 e 8.443/1992
+IV.2. Cartel em licitação e corrupção
+Os cartéis em licitação apresentam diversas peculiaridades que tornam o tema mais complexo.
+Dentre elas, uma é especialmente desafiadora: a eventual coexistência dos ilícitos de cartéis em
+licitação e corrupção (entre cartelistas e agentes públicos).
+A coexistência e interrelação entre as práticas pode ocorrer de diferentes maneiras. Uma forma
+possível é, por exemplo, quando um agente público pretende auferir vantagens indevidas e entra
+em contato com uma empresa ou um grupo de empresas para oferecer um direcionamento de
+55contratações. De outro lado, também é possível que os membros de um cartel, visando garantir o
+sucesso de seu acordo, socorram-se de práticas de corrupção para garantir “vista-grossa” ou
+colaboração do agente público responsável pela licitação ao seu acordo anticoncorrencial.
+Assim, nota-se que no contexto das contratações públicas, é relativamente comum a coexistência
+dessas práticas ilícitas, as quais podem se reforçar mutuamente, criando uma espécie de círculo
+vicioso que agrava ainda mais os danos já profundos causados por cada prática isoladamente.
+Entretanto, é preciso entender que ainda que interconectadas as práticas de corrupção e colusão são
+ilícitos autônomos, i.e., uma não é condição para a existência da outra, podendo, nesse sentido,
+existir de maneira completamente independente.
+Consequentemente, cartéis em licitações e atos de corrupção são infrações de natureza diversa e
+recebem tratamento próprio no ordenamento jurídico brasileiro. Logo, é muito importante
+reconhecer corretamente as condutas que caracterizam um e outro e os efeitos daí decorrentes, como
+a espécie de sanção aplicável a cada caso, os órgãos competentes para investigar e aplicar punições,
+e etc.
+Os cartéis em licitação, como já explicado, têm natureza de acordos entre concorrentes que têm por
+objetivo restringir ou neutralizar a competição entre eles no âmbito do procedimento licitatório. No
+limite, trata-se da mais grave espécie de atentado à ordem econômica, em que os agentes são
+movidos pela racionalidade de que os concorrentes possuem um objetivo em comum, enquanto o
+consumidor (além de, no caso da licitação, o próprio poder público) sai prejudicado.
+A competência para prevenir e reprimir infrações à ordem econômica, inclusive cartéis, é do Conselho
+Administrativo de Defesa Econômica (CADE) que, nos termos da Lei nº 12.529/2011, é a entidade
+judicante incumbida de impor sanções administrativas às condutas anticompetitivas descritas no
+artigo 36 da Lei de Defesa da Concorrência, dentre as quais o cartel em licitação.
+A corrupção, por sua vez é um crime contra a Administração Pública, previsto no Código Penal,
+podendo ser praticado por funcionário público (corrupção passiva – art. 317) ou por particular
+(corrupção ativa – art. 333), com pena de 2 a 12 anos de reclusão e multa em ambos os casos.
+Nesse sentido, a Lei Anticorrupção (Lei Federal n° 12.846/2013) criou uma interface administrativa
+complementar às atuações do CADE e dos Ministérios Públicos, com foco na responsabilização
+objetiva de pessoas jurídicas na esfera administrativa e civil, em decorrência da prática de atos
+lesivos à Administração Pública.
+56De acordo com a Lei Anticorrupção, consistem em atos lesivos à Administração (dentre outros
+previstos no artigo 5º):
+(I) Prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a agente público,
+ou a terceira pessoa a ele relacionada – o que corresponde à conduta de corrupção ativa;
+(II) Frustrar ou fraudar, mediante ajuste, combinação ou qualquer outro expediente, o
+caráter competitivo de procedimento licitatório público – o que corresponde à prática de
+cartel em licitações.
+Na modalidade passiva, a corrupção consiste em solicitar ou receber, para si ou para outrem, direta
+ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem
+indevida, ou aceitar promessa de tal vantagem. Já a corrupção ativa consiste na conduta de oferecer
+ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou
+retardar ato de ofício.
+A persecução penal dos agentes envolvidos, seja na corrupção passiva ou ativa, cabe ao Ministério
+Público, que deverá encaminhar denúncia ao Poder Judiciário, sem prejuízo da atuação dos demais
+órgãos administrativos de controle interno e externo, como tribunais de contas, controladorias,
+conselhos de ética, etc.
+Nestas hipóteses em que há congruências entre cartel em licitação e atos de corrupção, é ainda mais
+importante que a defesa da concorrência e o combate à corrupção ocorram simultaneamente,
+demandando uma atuação complementar de todas as autoridades competentes.
+Um bom exemplo de atuação conjunta é o Memorando de Entendimentos firmado entre o MPF/SP e
+o Cade, visando ao combate de cartéis e especialmente as negociações de acordos de leniência.
+Como a celebração dos acordos de leniência na esfera administrativa produzem efeitos benéficos
+também na esfera penal, é importante que a autoridade antitruste e o Ministério Público atuem na
+construção de uma convergência institucional na matéria.
+Sendo assim, cartéis em licitações e atos de corrupção, apesar de serem infrações de natureza diversa
+e atingirem bens jurídicos distintos, podem ser orquestrados conjuntamente e por isso demandam
+atuação complementar das autoridades competentes, cujas interfaces podem ser descritas no
+quadro-resumo abaixo. Importa ressaltar que a relação entre as esferas se trata de ação coordenada,
+pois o combate à corrupção, ainda que a prática esteja intimamente ligada a um ilícito de cartel, não
+é competência do Cade.
+5758

@@ -1,0 +1,369 @@
+Ministério da Justiça
+Conselho Administrativo de Defesa Econômica
+GUIA PARA ANÁLISE DA CONSUMAÇÃO PRÉVIA DE ATOS DE
+CONCENTRAÇÃO ECONÔMICA
+Gabinete da Presidência do Cade
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.brCoordenação:
+Vinicius Marques de Carvalho
+Eduardo Frade Rodrigues
+Edição:
+Ana Carolina Lopes de Carvalho
+Revisão:
+Ana Frazão
+Gilvandro Vasconcelos Coelho de Araújo
+Márcio de Oliveira Júnior
+Colaboradores Internos:
+Amanda Athayde Linhares Martins
+Daniel Gustavo Santos Roque
+Colaboradores Externos:
+Caio Mario da Silva Pereira Neto
+Eduardo Caminati Anders
+Patricia Avigni
+Planejamento Gráfico:
+Assessoria de Comunicação SocialSUMÁRIO
+Introdução 5
+Atividades que podem levar à caracterização da consumação
+Seção 1. 7
+prévia de atos de concentração econômica (gun jumping)
+Procedimentos para diminuição do risco de consumação
+Seção 2. 10
+prévia de atos de concentração econômica
+2.1 Protocolo antitruste 10
+2.2 Clean Team e Comitê Executivo 10
+2.3 Acesso à informação 11
+2.4 Confidencialidade 12
+2.5 Tratamento de informações 12
+2.6 Parlor Room 13
+Possíveis punições em caso de verificação da consumação
+Seção 3. 14
+prévia de atos de concentração econômica
+3.1 Da aplicação da pena pecuniária 14
+3.2 Da instauração de processo administrativo 15
+3.3 Nulidade dos atos praticados 15Introdução
+A Lei 12.529/2011 (Lei de Defesa da Concorrência – LDC) instituiu no Brasil o controle prévio
+de atos de concentração econômica (artigo 88, §2o, da LDC). Esses atos de concentração
+econômica foram definidos no artigo 90 da LDC como operações nas quais: (i) duas ou mais
+empresas anteriormente independentes se fundem; (ii) uma ou mais empresas adquirem,
+direta ou indiretamente, por compra ou permuta de ações, quotas, títulos ou valores
+mobiliários conversíveis em ações, ou ativos, tangíveis ou intangíveis, por via contratual ou
+por qualquer outro meio ou forma, o controle ou partes de uma ou outras empresas; (iii)
+uma ou mais empresas incorporam outra ou outras empresas; ou (iv) duas ou mais empresas
+celebram contrato associativo, consórcio ou joint venture.
+Por sua vez, a consumação de atos de concentração econômica antes da decisão final da
+autoridade antitruste (prática também conhecida como gun jumping pela literatura e
+jurisprudência estrangeiras) é vedada pelo artigo 88, §3º da LDC. Esse dispositivo obriga as
+partes a absterem-se de concluir o ato de concentração antes de finalizada a análise prévia
+do Cade, sob pena de possível declaração de nulidade da operação, imposição de multa
+pecuniária em valores que variam entre R$ 60.000,00 e R$ 60.000.000,00 – a depender da
+condição econômica dos envolvidos, dolo, má-fé e do potencial anticompetitivo da operação,
+entre outros – e a possibilidade de abertura de processo administrativo contra as partes
+envolvidas. Assim, devem ser preservadas até a decisão final da operação as condições de
+concorrência entre as empresas envolvidas (artigo 88, §4º da LDC).
+Essas provisões do artigo 88, caput e §3º, da Lei 12.529/2011, foram regulamentadas pelo
+Regimento Interno do Cade (RiCade). No artigo 108, §1º, determinou-se que as notificações
+dos atos de concentração devem ser protocoladas, preferencialmente, após a assinatura do
+instrumento formal que vincule as partes e antes de consumado qualquer ato relativo à
+operação. Ademais, seu artigo 108, §2º determina às partes envolvidas em um ato de
+concentração manter as estruturas físicas e as condições competitivas inalteradas até a
+avaliação final do órgão antitruste. Em especial, restam vedadas “quaisquer transferências
+de ativos e qualquer tipo de influência de uma parte sobre a outra, bem como a troca de
+informações concorrencialmente sensíveis que não seja estritamente necessária para a
+celebração do instrumento formal que vincule as partes”.
+Essa disposição é propositalmente genérica, haja vista a grande diversidade de
+configurações de negócios jurídicos que se caracterizam como atos de concentração
+econômica para fins legais. Assim, cabe inicialmente às partes determinar com maior clareza
+quais os limites no trato entre agentes econômicos que impeçam a alteração das estruturas
+físicas e as condições competitivas subjacentes a um ato de concentração econômica.
+5Não obstante, de forma a melhor orientar os agentes privados, promover segurança jurídica,
+diminuir os custos de transação envolvidos em atos de concentração e facilitar a integração
+lícita entre atividades de agentes econômicos, este Guia busca estabelecer alguns
+parâmetros sobre os quais as partes de um ato de concentração podem se basear no
+desenho de suas operações. Tais orientações são feitas tanto com base na experiência obtida
+pelo Cade durante o período inicial de vigência da Lei 12.529/2011 como com base em
+outras fontes de direito comparado sobre o tema, que apontam para precauções quanto a
+atividades conjuntas e trocas de informações prévias entre diferentes empresas.
+Deve-se destacar também que, por suas próprias características, eventual prática de gun
+jumping deve ser sempre analisada e verificada conforme as particularidades de cada caso,
+não sendo possível fazer generalizações em abstrato que sejam aplicáveis a todas as
+situações. Não obstante, os parâmetros abaixo podem ser utilizados como referências para
+agentes econômicos em suas negociações e avaliações de atos de concentração.
+Este guia é dividido em três seções. A primeira aborda a definição de gun jumping e quais
+atividades podem levar a sua caracterização. A segunda aborda procedimentos específicos
+que podem ser adotados pelos agentes econômicos de forma a minimizar riscos de
+verificação de gun jumping, tais como o estabelecimento de times limpos (clean teams) e
+salas de conversa (parlor rooms). A terceira seção finaliza com discussão de possíveis
+punições que possam ser impostas aos agentes econômicos pelo descumprimento dos
+preceitos estabelecidos no artigo 88, caput e §3º, da LDC.
+Este Guia tem por finalidade servir de mecanismo de transparência administrativa e
+orientação, não possuindo caráter vinculante.
+6Seção 1. Atividades que podem levar à caracterização da consumação
+prévia de atos de concentração econômica (gun jumping)
+Esta seção busca estabelecer diretrizes sucintas em relação a tipos de atividades
+empresariais relacionadas a concentrações econômicas que gerem preocupações envolvendo
+gun jumping. Essas atividades podem ser separadas em três grandes grupos: (i) trocas de
+informações entre os agentes econômicos envolvidos em um determinado ato de
+concentração; (ii) definição de cláusulas contratuais que regem a relação entre agentes
+econômicos; e (iii) atividades das partes antes e durante a implementação do ato de
+concentração.
+No que tange à (i) troca de informações entre os agentes econômicos envolvidos em um
+determinado ato de concentração, busca-se evitar que informações concorrencialmente
+sensíveis sejam desnecessariamente transmitidas entre as partes, de forma a prejudicar a
+concorrência entre elas caso o ato de concentração não seja consumado (seja por falta de
+aprovação do Cade, seja por questões inerentes à própria negociação). Nesse ponto,
+reconhece-se que qualquer ato de concentração implica algum nível de troca de informações
+entre os agentes, especialmente na condução de auditorias legais (due diligence) que
+i
+geralmente precedem fusões e aquisições. A extensão da troca de informações, porém, é que
+pode variar conforme o grau de integração das partes em decorrência do ato e o quão
+complexo é o negócio sendo desenvolvido. Não obstante, a jurisprudência do Cade e de
+outras autoridades estrangeiras tende a identificar certas informações particularmente
+sensíveis à dinâmica competitiva, motivo pelo qual o abuso na troca de informações pode
+caracterizar prática de gun jumping.
+De um modo geral, as informações concorrencialmente sensíveis (e, portanto, merecedoras
+de maior atenção pelas partes) são informações específicas (por exemplo, não agregadas) e
+que versam diretamente sobre o desempenho das atividades-fim dos agentes econômicos.
+Essas informações podem incluir especialmente dados específicos sobre:
+a) custos das empresas envolvidas;
+b) nível de capacidade e planos de expansão;
+c) estratégias de marketing;
+d) precificação de produtos (preços e descontos);
+e) principais clientes e descontos assegurados;
+f) salários de funcionários;
+g) principais fornecedores e termos de contratos com eles celebrados;
+h) informações não públicas sobre marcas e patentes e Pesquisa e Desenvolvimento
+(P&D);
+i) planos de aquisições futuras;
+j) estratégias competitivas, etc.
+7Importante destacar que preocupações no trato de informações comercialmente sensíveis
+podem ser minimizadas com a agregação/anonimização dos dados para apresentação às
+contrapartes, apresentação de dados com certa defasagem de tempo e também o
+estabelecimento de clean teams e parlor rooms (em especial para operações mais complexas,
+em que há necessidade de maior troca de informações entre as partes), conforme será
+destacado na Seção 2 deste Guia.
+Por sua vez, as preocupações relacionadas com a (ii) definição de cláusulas contratuais que
+regem a relação entre agentes econômicos têm seu foco no teor das regras que regerão a
+relação entre os agentes econômicos antes de terminada eventual análise antitruste pelo
+Cade. Como visto acima, a preocupação das partes deve ser sempre no sentido de manter,
+até o término da revisão pelas autoridades, o mais intacto possível o ambiente concorrencial
+existente antes da celebração do ato de concentração. Neste sentido, tais cláusulas
+contratuais estão intrinsecamente ligadas às atividades concorrencialmente sensíveis
+descritas mais abaixo.
+Existe uma miríade de disposições contratuais possíveis para se formalizar atos de
+concentração, impossibilitando a listagem de quais cláusulas devem ser entendidas como
+ilícitas pela autoridade antitruste. Não obstante, entre aquelas que são merecedoras de
+maior atenção estão todas que podem implicar a integração prematura das atividades das
+partes envolvidas no ato de concentração. Essas disposições contratuais incluem:
+a) cláusula de anterioridade da data de vigência do contrato em relação à sua data de
+celebração, que implique alguma integração entre as partes;
+b) cláusula de não-concorrência prévia;
+c) cláusula de pagamento antecipado integral ou parcial de contraprestação pelo objeto
+da operação, não reembolsável, com exceção de (c.i.) pagamento de um sinal típico
+de transações comerciais, (c.ii.) depósito em conta bloqueada (escrow), ou (c.iii.)
+cláusulas de break-up fees (pagamentos devidos caso a operação não seja
+consumada);
+d) cláusulas que permitam a ingerência direta de uma parte sobre aspectos estratégicos
+dos negócios da outra, tais como a submissão de decisões sobre preços, clientes,
+política comercial/vendas, planejamento, estratégias de marketing e outras decisões
+sensíveis (que não sejam mera proteção contra o desvio do curso normal dos
+negócios e, consequentemente, proteção do próprio valor do negócio alienado);
+e) de forma mais genérica, quaisquer cláusulas que prevejam atividades que não
+possam ser revertidas em um momento posterior ou cuja reversão implique em
+dispêndio de uma quantidade significativa de recursos por parte dos agentes
+envolvidos ou da autoridade, etc.
+8Por fim, em relação às (iii) atividades das partes antes e durante a implementação do ato de
+concentração, essas versam principalmente sobre a consumação efetiva de ao menos parte
+da operação antes da sua devida aprovação pela autoridade antitruste. Algumas práticas
+que podem suscitar maiores preocupações por parte do Cade são, entre outras:
+a) transferência e/ou usufruto de ativos em geral (inclusive de valores mobiliários com
+direito a voto);
+b) exercício de direito de voto ou de influência relevante sobre as atividades da
+contraparte (tais como a submissão de decisões sobre preços, clientes, política
+comercial/vendas, planejamento, estratégias de marketing, interrupção de
+investimentos, descontinuação de produtos e outras);
+c) recebimento de lucros ou outros pagamentos vinculados ao desempenho da
+contraparte;
+d) desenvolvimento de estratégicas conjuntas de vendas ou marketing de produtos que
+configurem unificação da gestão;
+e) integração de força de vendas entre as partes;
+f) licenciamento de uso de propriedade intelectual exclusiva à contraparte;
+g) desenvolvimento conjunto de produtos;
+h) indicação de membros em órgão de deliberação; e
+i) interrupção de investimentos, etc.
+Novamente importante destacar que a lista acima apresenta apenas alguns exemplos de
+atividades que, a depender das circunstâncias, após análise caso a caso das características
+particulares da operação, podem ser consideradas como ilícitas pelo Cade enquanto
+caracterizadoras da consumação prévia de atos de concentração econômica (gun jumping).
+9Seção 2. Procedimentos para diminuição do risco de consumação
+prévia de atos de concentração econômica
+Existem alguns modelos de relacionamento que poderão ser adotados pelas empresas
+envolvidas em um ato de concentração enquanto a operação estiver sob negociação ou
+análise antitruste. Esta Seção aborda os possíveis procedimentos para a diminuição do risco
+de verificação do gun jumping.
+Com o exclusivo propósito de examinar a viabilidade da operação, os concorrentes podem
+trocar informações comercialmente sensíveis, tanto na fase de negociação quanto durante a
+análise do ato de concentração pelo Cade. De forma a assegurar que a troca de informações
+possa ocorrer em atenção às regras previstas na Lei 12.529/2011, é recomendável que as
+empresas, dentre outras possíveis medidas, estabeleçam, por exemplo, um procedimento
+específico a ser observado por comitês independentes para tratar tais informações
+(“Protocolo Antitruste”). A preocupação subjacente a essas medidas é evitar que executivos,
+funcionários ou representantes de uma empresa tenham acesso a informações
+concorrencialmente sensíveis da outra.
+2.1 Protocolo Antitruste
+Os procedimentos específicos a serem observados pelas partes até a decisão final do Cade
+podem ser formalizados em um "Protocolo Antitruste", isto é, um documento que reflita os
+procedimentos sugeridos neste Guia.
+2.2 Clean Team e Comitê Executivo
+Os comitês independentes podem ser formados tanto por funcionários, consultores
+independentes ou ambos ("clean team" ) quanto por executivos de cada empresa ("comitê
+executivo").
+O clean team é indicado para operações complexas, (i) quando há significativa concentração
+entre as empresas, (ii) quando é necessário trocar um volume grande de informações ou (iii)
+quando a operação gera potenciais riscos concorrenciais.
+O clean team deve ser responsável por enviar, receber, reunir, analisar e tratar as
+informações relativas ao ato de concentração. Por esse motivo, é recomendável que seus
+membros firmem um termo de confidencialidade e sigam rigorosamente o protocolo
+antitruste previamente acordado entre as partes.
+10Os membros do clean team podem comunicar-se com funcionários das empresas envolvidas
+no ato de concentração, porém não devem divulgar informações de uma empresa para
+outra. Caso alguns membros do clean team sejam funcionários das empresas, eles devem
+solicitar e receber informações apenas de sua empresa de origem. É recomendável que esses
+funcionários atuem no clean team em regime de exclusividade ou prioridade.
+Qualquer comunicação ou solicitação/envio de informações deve ser feita por escrito, e cada
+membro do clean team deve ter um endereço específico de e-mail para essa finalidade.
+O clean team deve classificar as informações recebidas das empresas como: (i) pública, (ii)
+confidencial ou (iii) concorrencialmente sensível. Toda informação confidencial e
+concorrencialmente sensível deve ser tratada conforme previsto no protocolo antitruste.
+Com base nas informações recebidas dos funcionários das empresas, o clean team pode
+elaborar um relatório sobre a viabilidade da operação que será encaminhado ao comitê
+executivo (composto pelos executivos das empresas envolvidas na operação).
+O comitê executivo receberá os dados encaminhados pelo clean team para exame e poderá
+solicitar esclarecimentos, dentro dos limites do protocolo antitruste.
+O clean team deve reportar-se direta e exclusivamente aos membros do comitê executivo,
+que devem receber, ao mesmo tempo, informações idênticas para avaliação.
+Os membros do clean team não poderão fazer parte do comitê executivo ou vice-versa.
+Todo esse processo de troca de informações deve ser registrado formalmente, com as partes
+expressamente se comprometendo com a confidencialidade dos dados.
+2.3 Acesso à informação
+A troca de informações deve ocorrer exclusivamente por intermédio do clean team, que deve
+ser o único ponto de contato entre as empresas.
+O fluxo de dados deve ser feito por meio de canais de comunicação distintos e
+independentes entre si. Por exemplo: (i) clean team – empresa A; (ii) clean team – empresa
+B; (iii) clean team - comitê executivo.
+As informações solicitadas pelo clean team para os funcionários das empresas devem
+restringir-se ao estritamente necessário para a realização do ato de concentração. Isso
+11significa dizer que nenhum dado relacionado às demais atividades desenvolvidas pelas
+empresas deve ser objeto de análise pelo clean team ou comitê executivo.
+Qualquer alteração na composição do clean team ou do comitê executivo deve ser
+comunicada por escrito aos demais membros, comprometendo-se o novo integrante a
+assinar um termo de confidencialidade e cumprir o protocolo antitruste.
+2.4 Confidencialidade
+Todos os membros do clean team e do comitê executivo devem comprometer-se a manter
+absoluto sigilo dos dados relacionados ao ato de concentração, especialmente das
+informações classificadas como confidenciais ou concorrencialmente sensíveis, mesmo diante
+da hipótese de deixarem seus respectivos comitês ou empresas. Nenhum dado ou
+informação poderá ser usado, copiado, transferido, publicado ou mencionado sem a
+expressa anuência das empresas.
+Todas as informações relativas ao ato de concentração devem ser consideradas
+confidenciais, exceto aquelas que sejam de domínio público ou que sejam consideradas
+públicas pela empresa detentora.
+Serão consideradas "informações" quaisquer dados provenientes das empresas, originais ou
+cópias, que tenham sido fornecidos em papel ou via eletrônica, em formato de texto,
+planilha, gráfico ou imagem.
+O acesso às informações é restrito ao clean team, que deve: (i) tratar as informações com
+alto grau de cuidado, adotando medidas protetivas de armazenamento de dados a fim de
+evitar o acesso de terceiros não autorizados; (ii) manter o inventário de todas as informações
+recebidas das empresas, identificando sua natureza, destinação e armazenamento.
+2.5 Tratamento de informações
+O clean team poderá receber das empresas informações consideradas concorrencialmente
+sensíveis. Ao receber dados dessa natureza, o clean team deve mantê-los em absoluto sigilo,
+sem repassá-los ao comitê executivo ou qualquer outra pessoa.
+Caso julgue pertinente para o exame de viabilidade do negócio, o clean team deverá
+processar os dados concorrencialmente sensíveis a fim de torná-los agregados e/ou
+históricos, com periodicidade recomendável de no mínimo 3 (três) meses de sua ocorrência.
+Somente depois de processados, os dados concorrencialmente sensíveis devem ser
+repassados ao comitê executivo.
+12É recomendável que o clean team reúna-se e mantenha todas as informações relativas ao
+ato de concentração em uma sala exclusiva, preferivelmente situada em um local fora das
+dependências das empresas.
+Caso a negociação termine sem que o ato de concentração tenha sido concluído, as
+empresas devem solicitar ao clean team a devolução ou destruição integral das informações
+enviadas e/ou processadas, de forma que nenhum dado permaneça arquivado ou possa ser
+reutilizado no futuro.
+Caso a negociação termine sem que o ato de concentração tenha sido concluído, as
+empresas poderão realocar os seus funcionários em suas atividades originais, permanecendo
+válida a obrigação de sigilo, inclusive para com a própria empresa.
+2.6 Parlor Room
+Os membros do comitê executivo poderão reunir-se com o propósito de tratar do futuro
+processo de integração entre as empresas envolvidas no ato de concentração, em reuniões
+específicas para essa finalidade.
+As reuniões no parlor room devem ser monitoradas de forma a garantir que nenhuma
+informação concorrencialmente sensível seja objeto das discussões. Para tanto, é
+recomendável que todas as atividades do parlor room sejam registradas e supervisionadas
+por um membro independente.
+As discussões no parlor room não podem resultar em nenhum tipo de ingerência ou parceria
+entre as empresas antes de aprovado o ato de concentração pelo Cade. Por exemplo, não
+poderão ser tomadas medidas ou providências que impliquem na transferência ou
+compartilhamento de funcionários; restrições à atividade ou iniciativa da outra parte junto ao
+mercado, seus clientes ou fornecedores; modificações contratuais da outra parte, ou
+comunicados conjuntos a terceiros em nome da empresa integrada ou constituída.
+13Seção 3. Possíveis punições em caso de verificação da consumação
+prévia de atos de concentração econômica
+O artigo 88, §3º, da Lei 12.529/2011 estabelece, ao tratar do gun jumping, que:
+§ 3o Os atos que se subsumirem ao disposto no caput deste artigo não podem ser
+consumados antes de apreciados, nos termos deste artigo e do procedimento
+previsto no Capítulo II do Título VI desta Lei, sob pena de nulidade, sendo ainda
+imposta multa pecuniária, de valor não inferior a R$ 60.000,00 (sessenta mil reais)
+nem superior a R$ 60.000.000,00 (sessenta milhões de reais), a ser aplicada nos
+termos da regulamentação, sem prejuízo da abertura de processo administrativo, nos
+termos do art. 69 desta Lei.
+A análise do dispositivo permite concluir que foram estipuladas 3 (três) consequências
+decorrentes da decisão do Cade que reconhece a prática do gun jumping, quais sejam:
+a) aplicação de pena de multa pecuniária, em valor não inferior a R$ 60.000,00
+(sessenta mil reais) nem superior a R$ 60.000.000,00 (sessenta milhões de reais);
+b) abertura de processo administrativo, nos termos do artigo 69 da Lei 12.529/2011;
+c) nulidade dos atos que se subsumirem ao disposto no caput do artigo 88 da Lei
+12.529/2011, quando consumados antes de apreciados pelo Cade.
+Esta Seção 3 tem por objetivo discorrer sobre a aplicação de cada uma dessas sanções
+fixadas pela lei e, especificamente no que se refere à aplicação de penalidade pecuniária,
+apontar alguns fatores que podem nortear o Cade por ocasião da dosimetria da pena a ser
+imposta.
+3.1 Da aplicação da pena pecuniária
+A parametrização da dosimetria da pena, em hipótese de gun jumping, deve ter em
+consideração os requisitos contidos na regra geral do artigo 45 da Lei 12.529/2011 sobre a
+imposição de sanções. Ao prestigiar os requisitos do mencionado artigo 45, assegura-se que
+o racional da dosimetria da pena em caso de gun jumping esteja em sintonia com a LDC.
+Em linhas gerais, entende-se que, dentro dos estritos parâmetros do artigo 45 da LDC, os
+seguintes fatores, dentre outros, devem ser considerados:
+a) a situação da operação quando suscitada a questão de gun jumping pelo Cade deve
+ser considerada, por exemplo, se (i) a operação não foi notificada e foi consumada
+14sem notificação; (ii) a operação foi notificada ao Cade apenas após a consumação e
+após o Cade ter instaurado um procedimento administrativo para apuração de ato de
+concentração (“APAC”); (iii) a operação foi notificada ao Cade apenas após a
+consumação, mas sem que o Cade já tivesse conhecimento de sua existência e (iv) a
+operação foi notificada ao Cade e consumada posteriormente, antes da decisão
+proferida;
+b) a natureza da decisão do Cade (reprovação, aprovação com restrições e aprovação
+sem restrições), bem como a existência de sobreposição horizontal ou integração
+vertical a resultar da operação; e
+c) o tempo e o porte econômico do infrator.
+Em qualquer hipótese, a multa nunca deve ser inferior a R$ 60.000,00 nem superior a
+R$ 60.000.000,00, na medida em que esses são os valores mínimo e máximo fixados pelo
+legislador para a situação.
+3.2 Da instauração de processo administrativo
+Quanto à instauração de processo administrativo, deve-se ter em consideração a
+caracterização de possível conduta infrativa partir da integração de estruturas decorrente do
+ato de concentração. São exemplos de práticas que podem levar a essa situação: troca de
+informações sensíveis, combinação de preço entre concorrentes, ingerência nas decisões da
+empresa adquirida, especialmente nos casos em que houver integração vertical ou
+sobreposição horizontal.
+O processo administrativo deverá ser instaurado pela Superintendência-Geral do Cade,
+seguindo o rito previsto no artigo 69 e seguintes da Lei 12.529/2011.
+3.3 Nulidade dos atos praticados
+Por fim, com relação à nulidade dos atos praticados, deve-se considerar, dentre outros
+possíveis pontos, o aspecto temporal da conduta (a projeção da nulidade sobre os atos
+praticados no período compreendido entre a consumação da operação e o julgamento pelo
+Cade); a proporcionalidade da medida e a possibilidade ou não de convalidação dos atos
+empresariais praticados.
+15

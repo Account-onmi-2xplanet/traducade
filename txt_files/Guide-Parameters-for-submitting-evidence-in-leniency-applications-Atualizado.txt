@@ -1,0 +1,1025 @@
+1Ministry of Justice and Public Security
+Administrative Council for Economic Defense
+Parameters for submitting evidence in leniency applications
+Administrative Council for Economic Defense (CADE)
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip Code: 70770-504 – Brasília/DF
+www.gov.br/cade
+2Institutional Presentation
+President of Brazil
+Jair Messias Bolsonaro
+Minister of Justice and Public Security
+Anderson Gustavo Torres
+CADE President
+Alexandre Cordeiro Macedo
+CADE Commissioners
+Paula Farani de Azevedo Silveira
+Lenisa Rodrigues Prado
+Luis Henrique Bertolino Braido
+Sérgio Costa Ravagnani
+Luiz Augusto Azevedo de Almeida Hoffmann
+CADE Interim Superintendent General
+Diogo Thomson de Andrade
+CADE Attorney General
+Walter de Agra Junior
+CADE Chief Economist
+Guilherme Mendes Resende
+3Editorial Information
+Coordination:
+Alden Caribé de Sousa
+Priscilla Craveiro da Costa Campos
+Roxeli Lalla Rosa
+Proofreading:
+Diogo Thomson de Andrade
+Collaboration:
+Braulio Cavalcanti Ferreira
+Fernanda Andraus Vilela
+Fernanda Garcia Machado
+Flávia Tapajós Teixeira
+Jennifer Salge Duarte
+Joice Arantes Luciano
+Juliano Pimentel Duarte
+Pablo Rodrigues Mendes
+Paulo Ernani Verona Lemos
+Ricardo de Lins e Horta
+Stéfane Alves da Silva
+Editing and Graphic Designing
+Communications Unit of CADE
+Translation
+Arianne Mesquita Rodrigues
+Ariel Daltrozo Menezes
+Editing and Proofreading (English)
+Arianne Mesquita Rodrigues
+Bruna Queiroz Assunção
+4Content
+1. Introduction ...................................................................................................... 6
+2. Standard of Proof .............................................................................................. 8
+3. Absence of a predetermined legal value for evidence....................................... 11
+4. Review of CADE’s case law ............................................................................... 12
+4.1. Evidence from cartel cases heard by the CADE Tribunal ............................. 13
+4.2. Direct evidence of na agreement............................................................... 18
+4.3. Indirect evidence of an agreement ............................................................ 21
+4.3.1. Economic evidence ............................................................................ 22
+4.3.2. Evidence of collusive agreement oversight ......................................... 23
+4.3.3. Evidence of ignorance of the law ........................................................ 25
+4.4. Evidence of a practice's effects in Brazil .................................................... 26
+4.5. Sufficient evidence ................................................................................... 27
+4.6. Insufficient evidence, when presented in isolation .................................... 29
+4.7. Validity of evidence presented .................................................................. 31
+4.8. Evidence of a practice's degree of coordination ......................................... 34
+5. Conclusion ....................................................................................................... 35
+51. Introduction
+Leniency agreements signed with the Office of the Superintendent General of
+CADE (SG/CADE), provided for in Article 86 of Law 12529/2011 (the Brazilian
+Competition Law), must result in (a) the identification of other parties involved in the
+antitrust practice and (b) the gathering of evidence in the form of information and
+documents that prove the violation reported or under investigation.
+For this purpose, CADE accepts any data or record that provides a reasonably clear
+description of an incident that can be assigned into a category of violation provided in
+Article 36 of Law 12529/2011 (the Brazilian Competition Law).
+The agreement is signed considering the outcome of proceedings, i.e. a future
+situation. The Competition Law establishes that documents and information of a
+proceeding initiated from a leniency agreement will prove the violation (in the future);
+however, they do not need to prove it at the moment the agreement is signed. It is only
+after the due process that the violation should be proven. Taking into account the time
+gap between the moment the leniency application is assessed and the moment the
+proceeding is heard, we can presume at least two hypotheses in which the expectations
+of proof fall short.
+The first hypothesis is a leniency agreement that lacks evidence at the time of its
+execution but that has high expectations that ex officio administrative actions carried
+out during fact-finding will suffice to prove the violation, which includes defendants
+collaborating through other means, such as Cease and Desist Agreements. Nevertheless,
+the investigative actions or defendants' collaboration may not achieve the expected
+outcome.
+A second hypothesis is the possibility that the Office of the Superintendent
+General and the Tribunal have different positions about the pieces of evidence of a
+proceeding.
+Although both bodies concur in which type of data proves an anticompetitive
+practice, they may have opposing opinions as to which pieces of evidence provide a
+reasonable degree of certainty about an antitrust practice in a given case.
+6As a procedural rule, in signing a leniency agreement, the Office of the
+Superintendent General analyses the evidence presented in the application. On the
+other hand, the Tribunal of CADE is the one that renders the judgement.
+The leniency agreement is of great advantage to the Tribunal of CADE for its ability
+to find against wrongdoers based on information and documents presented by one of
+those involved in the violation. Therefore, the Office of the Superintendent General
+works to better assess the probability that a given leniency agreement will lead to a
+guilty judgement.
+This goal may be achieved by providing a clearer definition of the evidential criteria
+for conviction, which derives from precedent decisions of the Tribunal of CADE. As
+precedents set standards for future decisions, by knowing them in detail, the Office of
+the Superintendent General increases its ability to sign agreements that will result in a
+judgement against the non-signatories.
+Thus, analyzing the case law of CADE’s Tribunal on cartel conduct is important in
+leveraging the ability to assess leniency applications.
+It should be stressed, however, that investigative actions are preeminently
+dynamic. Therefore, the Office of the Superintendent General may consider accepting
+leniency applications even when they fall short of the case law standards, provided it
+offers a plausible strategy to produce evidence later. Leniency applications may not have
+evidence enough to result in a decision against the defendant if the evidence presented
+in the applications allows for investigative measures that, in CADE's experience, have
+led to complementary information and documents that ultimately prove the facts.
+Without prejudice to other circumstances observed in the proceeding at issue, the
+practice is more easily investigated if it comprises a fairly recent and highly coordinated
+violation with known suspects.
+72. Standard of Proof
+Standard of proof can be understood as the level of certainty1 necessary to prove
+a legal fact2 based on the evaluation of one or more pieces of evidence.
+Discussions on the standard of proof arise from the common law system3.
+One of the reasons for it is historical. In the 12th century, England had itinerant
+justices who had to trust the fact-finding of local communities to adjudicate cases. Thus,
+in this scenario, the jury arises as a trier of fact.4
+The other reason, resulting from the first one, regards a relevant legal distinction
+in Common Law between decreeing the law (a judge's duty) and finding the facts (jurors'
+duty) 5. Therefore, the standards are instructions a judge gives to juries and that the
+juries should consider during the evaluation of evidence.
+Continental law disregarded these standards as for centuries each kind of
+evidence had a predetermined and fixed probative value (the so-called "legal proof"
+system). This system was mostly abandoned at times of liberal revolutions and
+1 “It is said to be given by (1) the degree of confidence in the evidence; (2) the fact-finder's subjective degree of belief,
+i.e. the mental or psychological state of the decision-maker; or (3) the strength of evidence, i.e. how much the
+evidence confirms an allegation.” Susan Haack, Evidence Matters: Science, Proof, and Truth in the Law (New York:
+Cambridge University Press, 2014), p. 17, 52.
+Several authors criticise the standards for their reliance on the subjective conviction of the decision-maker,
+considering its lack of criteria and the resulting impossibility of an intersubjective control of the decision. Jordi Ferrer
+Beltrán, Valoração racional da prova (Salvador: JusPodivm, 2021), p. 247.
+2 An event that comes within the scope of a legal provision and leads to legal consequences. In leniency agreement
+negotiations, violations are the most important legal facts.
+3 Maria João Melícias, ‘Did They Do It? The Interplay between the Standard of Proof and the Presumption of Innocence
+in EU Cartel Investigations’, World Competition Law and Economics Review, 35/3 (2012), pp. 471–509.
+Frederick E. Vars makes a good distinction between different standards of proof. "Did O.J. Simpson kill his ex-wife
+Nicole Brown Simpson and her friend Ronald Goldman? A criminal jury said no; a civil jury said yes.' These seemingly
+inconsistent verdicts can be reconciled because the juries answered different questions. The issue before the criminal
+jury was whether O.J. was proved guilty beyond a reasonable doubt. The issue before the civil jury was whether it
+was more likely than not that O.J. killed Nicole and Ronald. Taken together, the juries indicated that they believed
+O.J. probably did it, but that there was room for reasonable doubt. Absolute certainty is generally unattainable in
+legal proceedings. As a result, triers of fact, like the O.J. juries, are given guidance on how to resolve uncertainty. A
+primary guide is the standard of proof-the level of confidence or type of evidence required to decide a case one way
+or another.” Fredrick E. Vars, ‘Toward a General Theory of Standards of Proof’, Catholic University Law Review, 60/1
+(2011).
+4 Michele Taruffo, Uma simples verdade: o juiz e a construção dos fatos, (São Paulo: Marcial Pons, 2016), p. 37.
+5 Frederick Schauer, Thinking like a lawyer: a new Introduction to Legal Reasoning, (Cambridge: Harvard University
+Press, 2009), p. 206.
+8codification, in the 18th and 19th centuries, in favour of a system of "free conviction",
+"intimate conviction", or the free assessment of evidence6.
+In the common law system, instructions to jurors in jury trials have a degree of
+legal certainty that varies according to what is intended (the production of evidence, a
+compensation order, a prison sentence, etc). In this way, they have the function of
+“distributing the risk of error” throughout the proceeding.
+Of course, any mistake in evidence assessment is not welcomed in the exercise of
+governmental power, whether the mistakes are false positives or false negatives.
+Nevertheless, as errors are inevitable, not fully knowing the facts imply consequences
+that vary according to the values scale of different contemporary democracies. An error
+in the criminal law leads to the imprisonment of an innocent person; in civil law, the
+error of not compensating a victim is no less serious than the error of finding a defendant
+wrongfully held liable for civil wrongdoing7. In the common law system, this generally
+means there is a greater standard of proof in criminal proceedings than in civil
+proceedings.
+The preponderance of the evidence, commonly applied in civil proceedings, only
+demands the decision-maker is convinced the legal fact is more probable than not. For
+this reason, research quantified it like 51% probability of truth8. Naturally, this
+percentage is merely illustrative and does not consider a detailed assessment of facts.
+The probabilities intend to determine how jury instructions should be given to reach a
+verdict that satisfies the judgement criteria.
+The second standard of proof is "clear and convincing evidence", i.e. evidence that
+shows the assessed fact is highly probable9 – with at least 71% probability of truth10.
+6 Giovanni Tuzet, 'Assessment criteria or standards of proof? An effort in clarification', Artificial Intelligence and Law,
+28/1 (2020), pp. 91–109.
+7 See Schauer (n. 5 above), p. 222; John Kaplan, ‘Decision theory and the factfinding process’, Stanford Law Review,
+20 (1968), pp. 1065–1092; In re Winship, 397 U.S. 358 (1970) and Speiser v. Randall, 357 U.S. 513 (1958).
+8 Dorothy K. Kagehiro and W. Clark Stanton, ‘Legal vs. quantified definitions of standards of proof’, Law Hum Behav,
+9 (1985), pp. 159–178, DOI: 10.1007/BF01067049
+9 Colorado v. New Mexico, 467 U.S. 310 (1984).
+10 Kagehiro and Stanton (n. 8 above).
+9This standard is usual in civil actions that produce graver effects, such as concerning
+citizenship, involuntary commitment, parental rights, succession matters, etc11. Finally,
+criminal trials1213 require the highest standard of proof, requiring confidence in the
+evidence is beyond a reasonable doubt (illustrated as 91% probability of truth or
+over)1415.
+Although the idea of formalising standards of proof in this manner is particular to
+the common law system, the civil law system, which Brazil adopts, also requires a
+reasonable level of confidence and coherent precedents. The idea comes from the
+principle of isonomy that requires that, in facing the same situation, different people
+should make the same decisions, except when a modification is justifiable.
+Thus, we can use here the notion that rules also demand a certain standard of
+proof to have a practical effect. Regardless of the legal system, both legal precedents
+and rules need a coherent application to be truly enforced, including in the evaluation
+of evidence.
+11 Tuzet (n. 6 above).
+12 Search and seizures and other criminal provisional measures may require a lower standard of proof, such as
+probable cause (fair expectations of finding proof of a crime in private premises). In the event a police authority has
+reasons to believe there is some risk, the standards are also lower, such as reasonable belief or reasonable suspicion.
+13 The contemporary use of the beyond-a-reasonable-doubt standard faces much criticism in the literature: from the
+fact that it is not sufficiently clear to guide the jury about how to decide on facts to difficulties in discerning the
+strength of a subjective belief that does not need any justification (jury decisions demand no explanation) from that
+of a rationally justified belief. Moreover, even in criminal law, many of the currently imposed penalties (fines,
+alternative punishment, etc.) are not as serious as when this demanding standard was set (times in which death
+penalties were common). Additionally, today there are resources to correct a miscarriage of justice we did not have
+before. Larry Laudan, ‘Is Reasonable doubt reasonable?’, U of Texas Law, Public Law Research Paper No. 144, 2003,
+DOI: 10.1017/S1352325203000132
+14 Kagehiro and Stanton (n. 8 above).
+15 For Tillers and Gottfried the probability of truth is around 95%. Peter Tillers and Jonathan Gottfried ‘Case Comment–
+United States v. Copeland, 369 F. Supp. 2d 365(E.D.N.Y. 2005): A Collateral Attack on the Legal Maxim That Proof
+Beyond a Reasonable Doubt Is Unquantifiable?’, Law, Probability and Risk, 5 (2006), pp. 135–157. On the other hand,
+Franklin considers the highest standard above 80%. James Franklin, ‘Case Comment–United States v. Copeland, 369
+F. Supp. 2d 365 (E.D.N.Y. 2005): Quantification of the “proof beyond reasonable doubt” standard’, Law, Probability
+and Risk, 5 (2006), pp. 159–165.
+103. Absence of a predetermined legal value for evidence
+As a rule, the Brazilian procedural law includes no legal provision that attributes
+fixed values to evidence16. There are, however, a few exceptions, such as Article 158 of
+the Brazilian Criminal Procedure Code and Article 1227 of the Brazilian Civil Code. The
+former determines that a direct or indirect corpus delicti test is required if there is indicia
+of violation and that a guilty plea is not enough evidence to circumvent it. The latter
+establishes interest in real property and transfer of property between living persons are
+only legal if registered at the Land Registry in which the real property is registered,
+except in the cases provided in the same Civil Code. In the exceptions, the law requires
+a specific kind of evidence for certain legally relevant facts.
+For facts that do not demand specific evidence, the rule is to admit any type of
+evidence and require explicit and rational grounds for the decisions. In short, judges
+state the grounds for their decisions based on rationality, carefully described beliefs,
+and accordingly to observed and proven experience. This methodology is known in Brazil
+as convencimento motivado, which establishes judges should give the reasons for their
+decisions. Frequently, similar evidence is given an identical value in different cases.
+Adopting criteria previously used in other proceedings, such as in the system of binding
+case law, provide law enforcement bodies with consistent judicial decisions; thus,
+people know what to expect when presenting a body of evidence in court. To some
+extent, experience grants value to evidence – although decision-makers can have some
+liberty as to precedents, whether because they believe the legal reasoning of a
+precedent case does not entirely appl to the case at issue due to different facts, or even
+because they understand this legal reasoning should be reviewed.17
+16 There are, however, exceptions, such as the fact that an individual's marriage is proved only by its registration at a
+register office. We call "legal proof" the system of rules that predetermine the value of evidence.
+17 The Federal Administrative Proceeding Law (Law 9784/1999) establishes administrative rulings should include its
+reasoning – not only as a principle but as a compulsory requirement:
+"Article 50. Administrative acts should be well reasoned, making the legal facts and reasons explicit whenever
+they
+I. deny, limit, or affect rights or interests;
+II. impose or aggravate rights, duties, or sanctions;
+III. decide administrative proceedings for civil-servant examinations or selection processes;
+11Below, we mention evidence that was essential to decisions to dismiss
+proceedings or find against the defendants. We took into consideration cases from 1993
+to 2020 in which one or more defendants were found guilty of antitrust violations. We
+picked the proceedings in which CADE found against the defendants because they made
+explicit what evidence effectively proved the existence of violations18. As leniency
+agreements usually happen in cartel cases, cartels were the predominant violation in
+the examples we provided.
+4. Review of CADE's case law
+Based on its experience with leniency negotiations and comparative and
+regulatory analyses, CADE research of its Tribunal's precedent decisions for
+administrative proceedings of cartels and induction of concerted practices issued
+between 1993 and 2020.
+To this end, first, examples of evidence the Tribunal used in demonstrating cartel
+activities were collected. Next, the Tribunal's considerations were divided into the
+following categories: (1) direct evidence of agreement; (2) indirect evidence of
+agreement; (3) evidence of the practice's effects in Brazil; (4) sufficient evidence; (5)
+insufficient evidence, when presented in isolation; (6) valid evidence; (7) evidence used
+to distinguish hard-core and soft-core cartels.
+See each of these topics below, with the most relevant precedent decisions for
+each of them.
+IV. exempt from procurement requirements due to specific circumstances provided by law or declare
+procurement processes infeasible in the situation in question.
+V. decide administrative appeals;
+VI. derive from a mandatory review;
+VII. fail to apply a well-established precedent on the matter or differ from official expert opinions, reports, and
+proposals;
+VIII. annul, revoke, stay, or confirm an administrative act."
+18 Except for Item 4.6, "Insufficient evidence, when presented in isolation", in which we used precedents from
+proceedings that, due to insufficient evidence, were dismissed or had the allegations against one or more defendants
+dismissed.
+124.1. Evidence from cartel cases heard by the CADE Tribunal
+There have been many examples of evidence of cartel practices throughout the
+last 27 years. Understanding these cases can assist in finding and selecting documents,
+as well as in private or public investigations.
+1. Agreements signed with foreign antitrust authorities: cooperation
+agreements signed by cartel participants with foreign antitrust authorities. See cases no.
+08012.001395/2011-00, 08012.001376/2006-16, 08012.001127/2010-0719,
+08012.001029/2007-66, 08012.005255/2010-11, and 08012.004599/1999-18.
+2. Schedule/notebook notes: handwritten notes in a cartel participant's
+schedule, notebook, or equivalent, suggesting contact/agreement between
+competitors. See cases no. 08700.010769/2014-64, 08012.011980/2008-12,
+08012.005882/2008-38, 08012.004674/2006-50, 08012.006130/2006-22,
+08012.000820/2009-11, 08012.011142/2006-79, 08012.004702/2004-77, and
+08012.002493/2005-16.
+3. Suppliers' declarations to customers: printed or electronic individual
+communication sent to customers about price rises or other trade conditions that derive
+from an anticompetitive agreement. See cases no. 08012.000820/2009-11,
+08012.001020/2003-21, 08012.004365/2010-66, and 08012.004039/2001-68.
+4. Suppliers' joint declaration to customers: printed or electronic joint
+communication sent to customers, through membership associations or unions, about
+price rises or other trade conditions that derive from an anticompetitive agreement. It
+does not include declarations via mass media such as radio, TV, or written media. See
+cases no. 08700.002632/2015-1720, 08012.007011/2006 97, 08012.006685/2004-11,
+and 08012.005004/2004-99.
+5. Presentations or other documents used in meetings: printed or electronic
+documents elaborated to present data and support discussions held in meetings of
+19 Administrate proceeding split from case no. 08012.010932/2007-18.
+20 Administrate proceeding split from case no. 08012.006764/2010-61.
+13unions, membership associations, or competitors. See cases no. 08700.004617/2013-41
+and 08012.002127/2002-14.
+6. Meeting minutes: formal written records of the issues discussed and
+agreed in meetings held in membership associations, unions, or amongst competitors.
+Usually, meeting participants expressly or tacitly validate minutes. At times, signatures
+are omitted for different reasons. See cases no. 08012.001377/2006-52,
+08700.004617/2013-41, 08700.002632/2015-1721, 08012.004674/2006-50,
+08012.005882/2008-38, 08012.002812/2010-42, 08012.001127/2010-0722,
+08012.009606/2011-44, 08012.005928/2003-12, 08012.003745/2010-83,
+08012.000283/2006-66, 08012.009088/1999-48, and 08012.002127/2002-14.
+7. Printed invitations and agendas for membership association or union
+meetings: printed meeting invitations and agendas sent or personally delivered to
+members of membership associations/unions. See case no. 08012.004039/2001-68.
+8. Foreign antitrust authorities' decisions against defendants: foreign
+jurisdictions' decisions on whether a violation was commited and its perpetrators. See
+cases no. 08012.005930/2009-79, 08012.010932/2007-18, and 08012.004599/1999-18.
+9. Bilateral or multilateral documents for agreements between competitors:
+documents that stipulate the general terms for market competitors to coordinate their
+behaviour. Formally, these documents are called Agreements, Memorandums of
+Understanding, Cooperation Plans, amongst others. Note these are typically legal
+agreements; however, if they deviate from their purposes in their elaboration or
+enforcement, the result is an antitrust violation. See cases no. 08700.004617/2013-41,
+08012.001377/2006-52, 08012.001376/2006-16, 08012.005930/2009-79,
+08012.005882/2008-38, 08012.009885/2009-21, 08012.010932/2007-18,
+08012.010362/2007-66, 08012.009888/2003-70, 08012.002127/2002-14,
+08012.006989/1997-43, and 08012.009118/1998-26.
+21 Administrate proceeding split from case no. 08012.006764/2010-61.
+22 Administrate proceeding split from case no. 08012.010932/2007-18.
+1410. Printed or electronic internal documents (except for e-mails): printed or
+electronic communication documents exchanged between members of the same
+company or membership association, suggesting contact/agreement between
+competitors. See cases no. 08012.011980/2008-12, 08700.004617/2013-41,
+08012.001376/2006-16, 08012.005255/2010-11, 08012.004702/2004-77, and
+08012.009888/2003-70.
+11. Bilateral or multilateral e-mail exchange between competitors: electronic
+messages sent to or received from competitors through the internet. See cases no.
+08012.001395/2011-00, 08012.004280/2012-40, 08012.001377/2006-52,
+08012.011980/2008-12, 08700.004073/2016-61, 08700.004617/2013-41,
+08700.007938/2016-4123, 08012.002812/2010-42, 08012.005882/2008-38,
+08012.004674/2006-50, 08012.001376/2006-16, 08012.006130/2006-22,
+08012.001127/2010-0724, 08012.008821/2008-22, 08012.000820/2009-11,
+08012.010932/2007-18, 08700.011276/2013-6025, 08012.011853/2008-13,
+08012.011142/2006-79, 08012.011027/2006-02, 08012.004702/2004-77,
+08012.009888/2003-70, and 08012.001826/2003-10.
+12. Internal e-mails that mention communication between competitors: e-
+mails exchanged between employees of the same company or business group that
+mention contact between competitors. See cases no. 08700.004073/2016-61,
+08700.007938/2016-4126, 08012.001377/2006-52, 08700.004617/2013-41,
+08012.005882/2008-38, 08012.006130/2006-22, 08012.005255/2010-11,
+08012.011027/2006-02, and 08012.004702/2004-77.
+13. Economic evidence: economic analyses of market behaviour, price levels,
+profit margin changes, amongst others. See cases no. 08700.010769/2014-64,
+08012.011668/2007-30, and 08012.011142/2006-79.
+23 Administrate proceeding split from case no. 08700.004631/2015-15.
+24 Administrate proceeding split from case no. 08012.010932/2007-18.
+25 Administrate proceeding split from case no. 08012.009611/2008-51.
+26 Administrate proceeding split from case no. 08700.004631/2015-15.
+1514. Fax sent to competitor(s): telephonic transmission of documents or
+pictures sent to competitors via a facsimile device. See cases no. 08012.001377/2006-
+52, 08700.004617/2013-41, 08012.004674/2006-50, 08012.001127/2010-0727, and
+08012.008850/2008-94.
+15. Legally authorised sound recordings: legally authorised recordings of oral
+communication made by a third party in a given environment without the interlocutors'
+knowledge. See cases no. 08012.004039/2001-68 and 08012.010215/2007-96.
+16. Sound recordings made by a participant to an antitrust practice: oral
+communication between two cartelist interlocutors recorded without their knowledge
+by another cartelist who was in the same environment. See cases no.
+08012.009382/2010-90, 08012.007356/2010-27, and 08012.009462/2006-69.
+17. Legally authorised telephone tapping: legally authorised recordings of
+phone communication by a third party without interlocutors' knowledge. See cases no.
+08700.010769/2014-64, 08012.009382/2010-90, 08700.002821/2014 09,
+08012.008821/2008-22, 08012.008850/2008-94, 08012.011853/2008-13,
+08012.011668/2007-30, 08012.004573/2004-17, 08012.010215/2007-96,
+08012.007149/2009-39, 08012.009888/2003-70, 08012.000283/2006-66,
+08012.001826/2003-10, 08012.004036/2001-24, and 08012.002299/2000-18.
+18. Meeting attendance list: printed or electronic attendance list with the
+names of the participants who attended a meeting between competitors. See case no.
+08012.004039/2001-68.
+19. Instant messages exchanged between competitors: real-time text
+conversations between competitors via internet-based software or short message
+service (SMS). See case no. 08700.011276/2013-6028.
+27 Administrate proceeding split from case no. 08012.010932/2007-18.
+28 Administrate proceeding split from case no. 08012.009611/2008-51.
+1620. Tax receipt or other document proving conditions of sale: documents
+detailing the customer, number of sold products, price, and conditions of sale. See case
+no. 08012.004036/2001-24.
+21. Media news or interviews: media statements indicating the coordination
+of prices or other commercial conditions. See case no. 08012.004712/2000-89.
+22. Bids or their drafts: bids and draft bids submitted by companies within
+the scope of government procurement. See case no. 08012.004280/2012-40.
+23. Phone records of telecommunication companies: call detail records
+(made and/or received calls) between two telephones. The cases selected included
+phone calls made or received by two representatives of competing companies, or
+between representatives and a party relevant to the adoption of the coordinated
+practice. See case no. 08012.001395/2011-00.
+24. Reports, notices, or newsletters sent to members: documents produced
+by membership associations or unions and sent to its members covering market news,
+competitively sensitive information, and/or suggestions for anticompetitive
+agreements. See case no. 08012.004674/2006-50.
+25. Spreadsheets/tables/lists organising shared or agreed information
+between competitors: documents in the form of spreadsheets, tables, or lists providing
+details on prices, price rises, discounts, cost analyses, market division, the allocation of
+projects and market quotas, amongst others. See cases no. 08012.001377/2006-52,
+08700.004617/2013-41, 08012.011980/2008-12, 08700.007938/2016-4129,
+08012.001376/2006-16, 08012.005882/2008-38, 08012.001127/2010-0730,
+08700.011276/2013-6031, 08012.010932/2007-18, 08012.004365/2010-66,
+08012.004086/2000-21, and 08012.002493/2005-16.
+26. Testimonies: reports by participants of leniency programmes and
+signatories of cease and desist agreements, as well as testimonies and charges grounded
+29 Administrate proceeding split from case no. 08700.004631/2015-15.
+30 Administrate proceeding split from case no. 08012.010932/2007-18.
+31 Administrate proceeding split from case no. 08012.009611/2008-51.
+17on their memory. See cases no. 08012.011980/2008-12, 08700.004073/2016-61,
+08700.010769/2014-64, 08012.001377/2006-52, 08012.004674/2006-50,
+08012.009382/2010-90, 08012.005255/2010-11, 08012.001127/2010-0732,
+08012.000820/2009-11, 08012.006685/2004-11, 08700.011276/2013-6033,
+08012.004365/2010-66, 08012.011142/2006-79, 08012.011668/2007-30,
+08012.004039/2001-68, 08012.004573/2004-17, 08012.004702/2004-77,
+08012.009888/2003-70, 08012.000283/2006-66, 08012.001826/2003-10,
+08012.002493/2005-16, 08012.004086/2000-21, 08012.009088/1999-48, and
+08000.015337/1997-48.
+4.2. Direct evidence of an agreement
+"A cartel is any agreement or concerted practice between competitors to fix prices,
+divide markets, allocate market quotas or restrict production, rig bids in government
+procurement, or that has any competitively sensitive information as its object. By causing
+price rises and supply restrictions and offering no economic benefit, cartels inflict serious
+harm to consumers, making goods and services unavailable for some and unnecessarily
+expensive for others". 34
+We consider direct the kind of evidence that is directly linked to the illegal practice
+it attempts to prove, that is, an agreement to coordinate competitors' behaviour and
+thus avoid or diminish competition.
+There are several ways to provide direct evidence of collusive agreements in
+cartels: reports and testimonies; communication between competitors (e-mails, chat
+messages, fax, mail, etc.); internal communication mentioning the agreement (e-mails,
+chat messages, etc.); unilateral documents providing information on the agreement
+(notes in a schedule, spreadsheets, etc.); documents shared between competitors
+32 Administrate proceeding split from case no. 08012.010932/2007-18.
+33 Administrate proceeding split from case no. 08012.009611/2008-51.
+34 Brasil, CADE, Perguntas Frequentes. http://en.cade.gov.br/cade/servicos/perguntas-frequentes/perguntas-sobre-
+infracoes-a-ordem-economica. Retrieved: 31 May 2021.
+18(meeting minutes, spreadsheets, etc.); transcriptions of tapped calls; amongst others.
+This type of evidence has a high probative value.
+The content (or the body) of evidence must include competitors' coordinated
+actions, interests, and intent especially aimed to:
+i. Fix prices: competitors agree on prices, price rises, or discounts. See cases no.
+08700.001422/2017-73, 08700.004073/2016-61, 08012.011980/2008-12,
+08700.010769/2014-64, 08012.002812/2010-42, 08012.005930/2009-79,
+08012.000820/2009-11, 08012.008847/2006-17, 08012.010932/2007-18,
+08012.007818/2004-6835, 08012.007033/2006-57, 08012.004365/2010-66,
+08012.011668/2007-30, 08012.007149/2009-39, 08012.005495/2002-14,
+08012.009888/2003-70, 08012.000283/2006-66, 08012.002493/2005-16,
+08012.004599/1999-18, 08012.000099/2003-73, 08012.004036/2001-24,
+08012.002299/2000-18, and 08000.015337/1997-48.
+ii. Limit the number of products: competitors agree on limiting the volume of
+production or sales of a product or the frequency in which a service is supplied. See
+cases no. 08012.011980/2008-12, 08012.000820/2009-11, 08012.005930/2009-79,
+08012.010932/2007-18, 08012.004599/1999-18, and 08012.002127/2002-14.
+iii. Divide the market: competitors divide the market by customers, suppliers,
+regions, or periods amongst themselves. See cases no. 08012.002812/2010-42,
+08012.001376/2006-16, 08012.005930/2009-79, 08012.004365/2010-66,
+08012.009888/2003-70, 08012.000283/2006-66, 08012.004599/1999-18,
+08012.004086/2000-21, and 08012.002127/2002-14.
+iv. Fix prices, conditions, or benefits in public procurement or abstaining from
+participating: the strategies adopted by bidders to restrain, distort, or harm competition
+35 Administrate proceeding split from case no. 08012.004702/2004-77.
+19comprise cover bidding36; bid suppression37, at times through fake consortia; bid
+rotation38; market, bid, or procurement lot allocation39; and subcontracting40. See cases
+no. 08700.010409/2015-4341, 08700005615/2016-1242, 08012.001377/2006-52,
+08700.004617/2013-41, 08012.004280/2012-40, 08012.001376/2006-16,
+08012.006130/2006-22, 08012.009382/2010-90, 08012.009645/2008-46,
+08012.008850/2008-94, 08012.010932/2007-18, 08012.001273/2010-24,
+08700.011276/2013-6043, 08012.008184/2011-90, 08012.009885/2009-21,
+08012.000030/2011-50, 08012.010362/2007-66, 08012.008507/2004-16,
+08012.011853/2008-13, 08012.006199/2009-07, 08012.006989/1997-43, and
+08012.009118/1998-26.
+Inciting concerted practices is also illegal per the Brazilian antitrust legislation.
+Thus, the following are also relevant evidence:
+v. Influencing the adoption of concerted practices: unions, membership
+associations and outsourced consulting firms can exceed their organisational roles and
+36 Cover bidding is "arranged to give an appearance that bidders are competing against each other. This sort of
+arrangement happens when individuals or companies agree on submitting proposals concerning at least one of the
+following: (1) One of the competitors agrees on submitting a proposal with prices higher than the ones offered in the
+proposal submitted by the bidder chosen to win the procurement process; (2) A competitor deliberately submits a
+proposal that is too overpriced to be accepted; or (3) A competitor submits a proposal with specificities that are
+known to be unacceptable to the purchaser". (CADE's Guide for Fighting Cartels in Procurements, 2019. Available at:
+https://cdn.cade.gov.br/Portal/centrais-de-conteudo/publicacoes/guias-do-cade/guide-for-fighting-cartels-in-
+procurements_version_01-10.pdf).
+37 "Bid-suppression schemes involve agreements among competitors in which one or more companies agree to refrain
+from bidding or to withdraw a previously submitted bid so that the designated winner's bid will be accepted. In
+essence, bid suppression means that a company does not submit a bid for final consideration. In essence, bid
+suppression means that a company does not submit a bid for final consideration." (Guidelines for Fighting Bid Rigging
+in Public Procurement. OECD, 2012).
+38 "Conspiring firms continue to bid, but they agree to take turns being the winning (i.e., lowest qualifying) bidder."
+(Guidelines for Fighting Bid Rigging in Public Procurement. OECD, 2012).
+39 "Competitors carve up the market and agree not to compete for certain customers or in certain geographic areas.
+Competing firms may, for example, allocate specific customers or types of customers to different firms, so that
+competitors will not bid (or will submit only a cover bid) on contracts offered by a certain class of potential customers
+which are allocated to a specific firm. In return, that competitor will not competitively bid to a designated group of
+customers allocated to other firms in the agreement." (Guidelines for Fighting Bid Rigging in Public Procurement.
+OECD, 2012).
+40 The designated contract winner undertakes to compensate the companies that cooperated through bid
+suppression or cover bidding by subcontracting, thus sharing the uncommonly high profits earned with the illegal
+collusive agreement. (Guidelines for Fighting Bid Rigging in Public Procurement. OECD, 2012).
+41 Administrate proceeding split from case no. 08012.003321/2004-71.
+42 Administrate proceeding split from case no. 08012.001273/2010-24.
+43 Administrate proceeding split from case no. 08012.009611/2008-51.
+20coordinate or facilitate the adoption of agreements or concerted practices between
+their members. See cases no. 08700.004617/2013-41, 08012.008507/2004-16,
+08000.010791/1994-41, 08012.002127/2002-14, 08012.003208/1999-85,
+08012.004036/2001-24, 08012.007515/2000-31, 08012.004712/2000-89,
+08012.002299/2000-18, 08012.005769/1998-92, 08000.008994/1994-96,
+08000.020238/1994 62, 0145/1993, 0158/1994, 0155/1994, and 0157/1994.
+Cartel agreements and concerted practices usually aim at developing many
+activities other than the collusive agreements, such as monitoring compliance with the
+agreement and sanctioning deviating participants, submission of bids at a fixed price,
+suppression of bids, entry barriers, creation of fake consortia, amongst others. Evidence
+related to such actions directly prove cartels but are only considered direct evidence
+inasmuch as the records confirm the content of the arrangement. Moreover, one should
+note that affirming the existence of a collusive practice is a prerequisite for the analysis
+of the evidence of cartel activities; that is, direct evidence of other activities depends on
+the existence of a collusive agreement.
+4.3. Indirect evidence of an agreement
+Indirect evidence (also known as circumstantial evidence) does not directly prove
+an agreement but is useful to understand the conduct under investigation, possibly
+leading to a finding that results from logical inference. The indirect evidence is "not the
+principal fact but a different one from which a rational conclusion on the principal fact
+can be reached." Hence, "this type of evidence offers adjudicators information that can
+only be used to draw an inference that ultimately leads to the principal fact of the
+case"44.
+A kind of circumstantial evidence often used in cases adjudicated by the authority
+is the probability of a cartel being formed in a specific market, according to the structure
+and history of this market. Although not as robust as direct evidence or even other types
+44 Michele Taruffo, A prova, (São Paulo: Marcial Pons, 2014), p. 58.
+21of indirect evidence, such information helps understand a communication proved by
+direct evidence or other indirect evidence.
+Signs of a collusive agreement's monitoring can be considered direct or indirect
+evidence, according to the content and circumstances of the communication.
+4.3.1. Economic evidence
+Some market features facilitate collusive agreements. Additionally, certain
+economic phenomena of a market have collusion as their most probable cause.
+Researched by the economics, these situations – together with other assessed evidence
+– help develop a comprehensive understanding of the phenomenon under investigation.
+The Tribunal of CADE has repeatedly found the following to be circumstances that
+facilitate collusion:
+1. Features of the market: Product homogeneity, similar cost structure,
+transparent prices or conditions of sale, high barriers to entry, low price elasticity of
+demand, and market concentration are structural conditions that facilitate collusion.
+See cases no. 08700.010769/2014-64, 08012.001377/2006-52, 08012.010744/2008-71,
+08012.000820/2009-11, 08012.011791/2010-56, 08012.008847/2006-17,
+08012.009885/2009-21, 08012.010932/2007-18, 08012.011853/2008-13,
+08012.011142/2006-79, 08012.006199/2009-07, 08012.007149/2009-39,
+08012.009888/2003-70, 08012.001826/2003-10, and 08012.002127/2002-14.
+2. Close personal or professional relations: Having family or common
+business partners in companies' management positions may enable the sharing of
+information and create a situation in which there is no competition, possibly giving rise
+to actions to fake competition. See cases no. 08012.000742/2011-79,
+08012.011791/2010-56, 08012.008184/2011-90, and 08012.011142/2006-79.
+3. Membership associations: They are bodies that inherently coordinate the
+activities of companies or members45. However, it is common that they deviate from
+45 As to the anticompetitive risks of membership associations' meetings, Gesner Oliveira and João Grandino Rodas
+paraphrased Adam Smith, saying: "In its classic 1776 work, The Wealth of Nations, Smith stated that ‘People of the
+same trade seldom meet together, even for merriment and diversion, but the conversation ends in a conspiracy
+22their functions and illegally coordinate anticompetitive practices such as cartels or the
+sharing of sensitive information. See cases no. 08012.011791/2010-56,
+08012.009462/2006-69, 08012.001273/2010-24, 08012.005004/2004-99,
+08012.001826/2003-10, and 08012.002299/2000-18.
+4.3.2. Evidence of collusive agreement oversight
+The stability of an anticompetitive agreement depends on mechanisms to monitor
+its implementation and punish participants who deviate from its rules. The sharing of
+sensitive information is, at large, what enables these mechanisms.
+If a piece of evidence that proves monitoring activities also confirms the content
+of these arrangements, it is direct evidence. If the content of the arrangements cannot
+be confirmed but only inferred, it is indirect evidence. Even in case one cannot safely
+infer the existence of an agreement from a piece of evidence, this piece may
+nonetheless prove an infraction of exchange of sensitive information, considering its
+potential effects. A third hypothesis is that the practice constitutes lawful
+communication if it cannot potentially lessen competition.
+Therefore, to prove illegal cartel activity, the evidence must indicate the existence
+of the following:
+1. Mechanisms to monitor an agreement and to punish nonconforming
+participants: There must be formal or informal manners to oversee the implementation
+of the anticompetitive agreement, in addition to sanctions imposed on participants who
+deviate from it. Coercion, threats, and even reprisals are usual whenever a non-
+complying participant is discovered. See cases no. 08700.010409/2015-4346,
+08700.010769/2014-64, 08012.001377/2006-52, 08012.011980/2008-12,
+08012.001376/2006-16, 08700.002632/2015-1747, 08012.002414/2009-92,
+08700.002821/2014 09, 08012.010744/2008-71, 08012.000820/2009-11,
+against the public, or in some contrivance to raise prices’.” Gesner Oliveira and João Grandino Rodas, Direito e
+economia da concorrência, (São Paulo: Renovar, 2005), p.40.
+46 Administrate proceeding split from case No. 08012.003321/2004-71.
+47 Administrate proceeding split from case 08012.006764/2010-61.
+2308012.003321/2004-71, 08012.005930/2009-79, 08012.008850/2008-94,
+08012.011791/2010-56, 08012.005255/2010-11, 08012.001127/2010-0748,
+08012.006764/2010-61, 08012.008847/2006-17, 08700.011276/2013-6049,
+08012.007356/2010-27, 08012.010932/2007-18, 08012.011668/2007-30,
+08000.009354/1997-82, 08012.011142/2006-79, 08012.004573/2004-17,
+08012.007149/2009-39, 08012.002959/1998-11, 08012.001003/2000-41,
+08012.004472/2000-12, 08012.004039/2001-68, 08012.010215/2007-96,
+08012.001826/2003-10, 08012.004086/2000-21, 08012.002127/2002-14,
+08012.004036/2001-24, and 08012.002299/2000-18.
+2. Sharing of competitively sensitive information, even when there is no
+evidence of sanctions: These are interactions between competitors, whether direct or
+mediated by third parties (such as unions or membership associations), aimed at sharing
+competitively strategic data, such as prices, conditions of sale, and customer portfolios.
+The shared data is disaggregated, not public, and may refer to a current or a future
+situation; it is employed to monitor compliance with the agreement50. See cases no.
+08700.001422/2017-73, 08700.010769/2014-64, 08012.001377/2006-52,
+08700.007938/2016-4151, 08012.004280/2012-40, 08700.004617/2013-41,
+08700.004073/2016-61, 08012.011980/2008-12, 08012.001395/2011-00,
+08012.001376/2006-16, 08012.002414/2009-92, 08012.004674/2006-50,
+08012.010744/2008-71, 08012.009382/2010-90, 08012.000820/2009-11,
+08012.003321/2004-71, 08012.005930/2009-79, 08012.008850/2008-94,
+08012.011791/2010-56, 08012.005255/2010-11, 08012.001029/2007-66,
+08012.008821/2008-22, 08012.010932/2007-18, 08012.008847/2006-17,
+48 Administrate proceeding split from case No. 08012.010932/2007-18.
+49 Administrate proceeding split from case No. 08012.009611/2008-51.
+50 When cartels cannot be inferred from the evidence, this practice can be deemed an independent violation of
+sharing competitively sensitive information. See case no. 08700.001486/2017-74 and the definition rendered by the
+rapporteur of case no. 08700.001422/2017-73: "Thus, there is a distinction between the sharing of competitively
+sensitive information and a softcore cartel. To distinguish between these practices, one should analyse not only how
+sensitive the shared information is but also if the evidence collected in the proceeding – i.e. the elements of the case
+at issue – prove the existence of coordination or a structured agreement between market players. If that is not the
+case, I believe the practice should be classified as the sharing of competitively sensitive information, which calls for an
+examination of its effects. However, if the communication is essentially about an agreement or arrangement, the
+practice should be considered a cartel and, thus, examined as a per se violation".
+51 Administrate proceeding split from case no. 08700.004631/2015-15.
+2408700.011276/2013-6052, 08012.001273/2010-24, 08012.009462/2006-69,
+08012.007818/2004-6853, 08012.011853/2008-13, 08012.011142/2006-79,
+08012.001794/2004-33, 08012.002959/1998-11, 08012.004039/2001-68,
+08012.010215/2007-96, 08012.001826/2003-10, 08012.004086/2000-21, and
+08012.002127/2002-14.
+4.3.3. Evidence of ignorance of the law
+In making a finding that a given violation happened and a defendant is guilty of it,
+it is useful to prove the defendant knew the practice was illegal. Demonstrating a
+wrongdoer understood the illegality of the practice, was concerned with this fact and
+tried to conceal the practice usually are grounds for inferring the existence of an
+agreement. Moreover, in calculating the sanction, a defendant's understanding of the
+illegality of an act is an aggravating factor as it suggests a lack of good faith. Therefore,
+one should look for evidence that demonstrates the following:
+1. Mechanisms to conceal the agreement: Parties to an anticompetitive
+agreement employ abbreviations, aliases, codes, and other strategies to conceal or
+make it difficult to identify the terms and participants. See cases no.
+08012005069/2010-8254, 08012.001395/2011-00, 08012.001376/2006-16,
+08012.006130/2006-22, 08012.008821/2008-22, 08012.008847/2006-17,
+08012.010932/2007-18, 08700.011276/2013-6055, 08012.011853/2008-13,
+08012.009611/2008-51, 08012.010215/2007-96, 08012.007149/2009-39,
+08012.002127/2002-14, and 08012.007515/2000-31.
+2. Concern with the investigations or knowledge of the investigations:
+Participants of collusion who know they are under investigation or show concern
+about being investigated by competent authorities. See cases no.
+52 Administrate proceeding split from case no. 08012.009611/2008-51.
+53 Administrate proceeding split from case no. 08012.004702/2004-77.
+54 Administrate proceeding split from case no. 08012.000820/2009-11.
+55 Administrate proceeding split from case no. 08012.009611/2008-51.
+2508700.010769/2014-64, 08012.011142/2006-79, 08012.001003/2000-41,
+08012.005495/2002-14, and 08012.001826/2003-10.
+3. Express reference to the illegality of a practice or repeat offences:
+Participants show, in their communication, familiarity with antitrust legislation and
+state the practice is illegal or have undisputed knowledge of its illegality due to
+previous conviction. See cases no. 08012.005255/2010-11, 08012.000820/2009-11,
+08012.006969/2000-75, 08012.011027/2006-02, and 08012.004472/2000-12.
+4.4. Evidence of a practice's effects in Brazil
+CADE's precedents agree that cartels are punishable because they are per se
+violations, that is, the authority presumes they have a deleterious effect on competition
+or consumer welfare.56
+Debate on international cartels, however, demands not only evidence of the
+practice, but also that CADE demonstrates it has jurisdiction over the matter by showing
+the connection between the international cartel and the Brazilian market. An
+international cartel is one whose activities are managed from abroad. The link with the
+Brazilian market exists when the practice effectively or potentially affects transactions
+in the Brazilian territory (Article 2 of Law 12529/2011).
+In establishing CADE's jurisdiction over a practice carried out abroad, one should
+look for evidence with these characteristics:
+1. Direct or indirect mentions of Brazil or Brazilian customers: Documents
+that demonstrate the agreement included Brazil, South America, Latin America or even
+the global market without expressly excluding Brazil. The same applies to mentions of
+56 As an example, see the opinion of Commissioner Marcos Paulo Verissimo in case no. 08012.006923/2002-18 and
+the following documents: document no. SEI 0752279 (Commissioner Mauricio Bandeira Maia's opinion in case no.
+08700.009879/2015-64); document no. SEI 0793414 (Commissioner Luiz Braido's opinion in case no.
+08012.007011/2006-97); document no. SEI 0534141 (Commissioner Paula Azevedo's opinion in case no.
+08012.000758/2003-71); document no. SEI 0264382 (Commissioner Alexandre Cordeiro's opinion in case no.
+08012.009645/2008-46); and document no. SEI 0583001 (Commissioner João Paulo Resende's opinion in case no.
+08012.001377/2006-52).
+26Brazilian customers. See cases no. 08012.003970/2010-10, 08700.003735/2015-02,
+08012.002414/2009-92, 08012.010932/2007-18, and 08012.004599/1999-18.
+2. Dependence on the affected product's imports: The data must show
+Brazil's dependence on the importation of the affected product, in addition to the
+defendants' broad participation in supplying the product. Whenever the practice has an
+impact on intermediate goods, it is important to demonstrate the input constitutes a
+great part of the final good's value. See cases no. 08700.009167/2015-45,
+08012.011980/2008-12, 08012.001395/2011-00, 08012.001376/2006-16,
+08012.005255/2010-11, and 08012.004599/1999-18.
+3. Meetings in the Brazilian territory: If proved that meetings between
+participants happened in the Brazilian territory, one should also indicate its effects on
+the country, as the territory criterion is met as per Article 2 of Law 12529/2011. See
+cases no. 08012.002414/2009-92, 08012.011027/2006-02, and 08012.004702/2004-77.
+4.5. Sufficient evidence
+To prove a cartel and to be convinced the defendants are guilty of it, CADE's
+Administrative Tribunal requires the administrative proceeding has strong and robust
+evidence of the conduct. Such body of evidence must preferably include the following
+features:
+1. Diverse evidence and/or indicia: A body of evidence made of several
+pieces of evidence and/or indicia of many kinds that come from a variety of sources is
+usually recognised and persuasive. See cases no. 08012005069/2010-8257,
+08700.003735/2015-02, 08012.000820/2009-11, 08012.001029/2007-66,
+08012.011142/2006-79, 08012.010215/2007-96, 08012.000283/2006-66, and
+08012.002127/2002-14.
+2. Corroborating evidence and/or indicia: Evidence and/or indicia that
+confirm each other in a proceeding make up a cohesive, coherent, and harmonic body
+of evidence. See cases no. 08012.001395/2011-00, 08012.011980/2008-12,
+57 Administrate proceeding split from case no. 08012.000820/2009-11.
+2708700.010320/2012-34, 08700.007938/2016-41, 08012.001376/2006-16,
+08012.006130/2006-22, 08012.010744/2008-71, 08012.001029/2007-66,
+08012.000820/2009-11, 08012.009611/2008-51, 08012.011142/2006-79, and
+08012.011027/2006-02.
+3. Decisions reached solely on the grounds of indirect evidence: A firm body
+of evidence solely made up of indirect evidence can lead to a guilty verdict. See cases
+no. 08012.005069/2010-82, 08700.005615/2016-12, 08012.004422/2012-79,
+08012.000820/2009-11, and 08012.001273/2010-24.
+4. The existence of an agreement to manipulate the market is beyond a
+reasonable doubt: Cases dismissed once the Tribunal found a reasonable doubt about
+the existence of arrangements to manipulate the market. See cases no.
+08012005069/2010-8258, 08700.001422/2017-73, 08700.007938/2016-4159,
+08700.010769/2014-64, 08700.011276/2013-6060, and 08012.007149/2009-39.
+5. Agreement/guilty verdict in other jurisdictions: The fact in another
+jurisdiction a defendant was found guilty or signed an agreement pleading guilty of a
+violation, in addition to evidence proving said violation had effects on Brazil, favours the
+conclusion on the existence of an illegal agreement – whether totally or partially
+executed abroad – punishable in the Brazilian territory. See cases no.
+08012.001395/2011-00, 08012.001376/2006-16, 08012.001127/2010-0761,
+08012.001029/2007-66, 08012.005930/2009-79, 08012.010932/2007-18,
+08012.005255/2010-11, 08012.011027/2006-02, and 08012.004599/1999-18.
+6. Confession: A confession or admission of participation in an antitrust
+practice, especially in settlement agreements executed with CADE or other Brazilian
+authorities in charge of cartel prosecution, in addition to other evidence that shows
+signs of an agreement to manipulate competition, have helped to make a finding of a
+58 Administrate proceeding split from case no. 08012.000820/2009-11.
+59 Administrate proceeding split from case no. 08700.004631/2015-15.
+60 Administrate proceeding split from case no. 08012.009611/2008-51.
+61 Administrate proceeding split from case no. 08012.010932/2007-18.
+28cartel. See cases no. 08700.007938/2016-4162, 08012.006685/2004-11,
+08700.006551/2015-9663, 08012.010932/2007-18, 08012.003745/2010-83, and
+08012.011027/2006-02.
+4.6. Insufficient evidence, when presented in isolation
+Often, some evidence presented in isolation, without corroboration of other direct
+or indirect evidence, has been considered insufficient to prove either that a violation
+has been committed or that the defendant has partaken in it. See the most frequent
+cases below:
+1. Unilateral documents or accounts: Accounts from employees or third
+parties, as well as notes and internal communication recorded by a single party to a
+proceeding, especially if an employee, is not considered sufficient evidence of
+anticompetitive conduct in isolation. See cases no. 08012.011980/2008-12,
+08012.001395/2011-00, 08012.004674/2006-50, 08012.004422/2012-79,
+08012.001029/2007-66, and 08012.009906/1999-94.
+2. Economic evidence and parallel behaviour: Similar behaviour as to prices
+and price rises may have reasons other than a cartel; thus, they cannot be considered in
+isolation to find a defendant guilty. See cases no. 08012.007866/2007-07,
+08700.003447/2015-40, 08012.007196/2009-82, 08012.009988/2006-49,
+08012.002921/2007-64, 08012.002925/2009-12, 08012.009906/1999-94,
+08012.000444/2002-98, 08012.000921/2000-53, 08012.006059/2001-73,
+08012.005545/1999-16 08012.001198/2007-04, 08012.001112/2000-42,
+08012.008166/1999-14, and 08012.004241/2003-51.
+3. Phone records: One cannot infer the anticompetitive content of
+communication between competitors solely based on phone call records if the topic of
+these calls is unknown. See cases no. 08012.001395/2011-00, 08012.004422/2012-79,
+and 08700.009161/2014-9764.
+62 Administrate proceeding split from case no. 08700.004631/2015-15.
+63 Administrate proceeding split from case no. 08012.000030/2011-50.
+64 Administrate proceeding split from case No. 08012.000774/2011-74.
+294. Reference to an individual or legal entity in third parties' communication:
+The mere mention of an individual or legal entity in third parties' communication, such
+as intercepted communication, cannot prove the participation of the individual or entity
+in an anticompetitive practice. See cases no. 08700.009879/2015-64,
+08700.000729/2016-76, and 08012.007356/2010-27.
+5. Documents without date and/or authorship: The lack of signature or
+author and impossibility of proving its date of publication (if before or after the alleged
+practice), or even difficulties in checking its veracity, make it impossible to prove in
+isolation someone guilty. See cases no. 08700.004617/2013-41 and
+08012.006667/2009-35.
+6. Being copied in an email: It is not possible to determine whether a
+defendant participated in an anticompetitive practice based only on emails in which he
+or she was copied. Even if a defendant is the main recipient of an email, this fact may
+not be enough to find he or she was engaged in the violation, especially if the defendant
+does not answer it or does not show agreement. In assessing this kind of evidence, one
+should also consider the position the defendant holds in the company. See cases no.
+08700.011474/2014-05, 08700.004617/2013-41, and 08012.002812/2010-42.
+7. Scheduled meetings or mentions of meetings: By themselves, the mere
+scheduling of meetings or reference to them in communication between competitors
+cannot allow inference of its anticompetitive goal or content. See cases no.
+08012.011980/2008-12, 08700.004617/2013-41, 08012.004422/2012-79, and
+08012.004241/2003-51.
+8. Anonymous tips: The credibility and evidential value of anonymous tips
+derive from the substantial evidence collected, not from mere accounts (Article 5,
+Paragraph 4 of the Brazilian Constitution of 1988). See cases no. 08012.007196/2009-
+82, 08012.000998/1999-83, and 08012.006768/2000-78.
+We highlight that this document presents precedents in which proceedings have
+been dismissed in their entirety or concerning one or more defendants due to
+insufficient evidence. The precedents shown here only include decisions by the collegial
+30body and only the positions that were affirmed by different judgements. We did not
+consider positions adopted in dissenting opinions.
+4.7. Validity of evidence presented
+In a proceeding, we only admit lawfully obtained evidence. Evidence obtained by
+infringing rights is considered illegal. In some cases, the evidence demands a special
+procedure that, if not followed, affects its validity. This may occur, for instance, if the
+production of certain evidence requires legal authorisation (e.g. a search and seizure
+without a warrant or a recording of a phone conversation that breaches the law).
+In admitting evidence, another frequent and relevant question concerns granting
+the right to full answer and defence65 in the administrative proceeding.
+The CADE Tribunal has often mentioned the validity of evidence concerning the
+topics below:
+1. Evidence produced by other bodies66: CADE also admits evidence
+produced in proceedings adjudicated by different bodies that may corroborate other
+evidence presented in the administrative proceeding. For this purpose, the evidence
+must have been admitted in the original proceeding (and thus have fulfilled the legal
+requirements for that). If a piece of evidence demands legal authorisation to be
+produced, the same applies to be used in the administrative proceeding adjudicated by
+CADE. See below a few instances of this kind of evidence and their respective
+precedents:
+a. Telephone tapping: When none of the parties to a conversation knows it
+is being recorded. Thus, legal authorization is required. The following administrative
+proceedings used evidence from criminal cases, authorised by the competent authority.
+65 Constitution of Brazil of 1998, Article 5, Item LV: "in judicial or administrative proceedings, litigants and defendants,
+in general, are ensured the right to make full answer and defence, with all the means and resources inherent to it".
+66 Precedent 591: "Using evidence from administrative disciplinary proceedings, provided it is legally authorised and
+that the right to make full answer and defence is granted". (PRECEDENT 591, FIRST SECTION, adjudicated on 13
+September 2017, published in Diário de Justiça Eletrônico in 18 September 2017.
+31See cases no. 08700.010409/2015-4367, 08700.010409/2015-4368, 08700.010769/2014-
+64, 08700.002821/2014-09, 08012.009382/2010-90, 08012.008850/2008-94,
+08012.008847/2006-17, 08012.011853/2008-13, 08012.011668/2007-30,
+08012.007149/2009-39, 08012.004472/2000-12, 08012.010215/2007-96,
+08012.002959/1998-11, 08012.005495/2002-14, 08012.001826/2003-10,
+08012.004036/2001-24, and 08012.002299/2000-18.
+b. (Criminal) search and seizure: Search and seizures of documents in
+premises where they may be located must be previously authorised by law. The
+following proceedings used evidence from criminal cases, with the competent
+authority's permission. See cases no. 08012.004280/2012-40, 08012.004674/2006-50,
+and 08012.000820/2009-11.
+c. Evidence produced in other administrative proceedings: It is also possible
+to use the evidence collected in other administrative proceedings. See case no.
+08012.005928/2003-12.
+d. Evidence produced in a foreign jurisdiction: Evidence presented in an
+administrative proceeding can come from a different jurisdiction. See case no.
+08012.004599/1999-18.
+2. Recordings made by one of the parties to the communication: Audio and
+video recordings made by one of the parties to the communication can be used even
+without authorisation from the other parties to the communication. Producing this kind
+of evidence does not require legal authorisation, except in the cases of telephone
+tapping and interception of data from third parties' communication. See cases no.
+08012.008215/2006-45, 08012.009382/2010-90, 08012.002568/2005-51,
+08012.009462/2006-69, 08012.007356/2010-27, 08012.002921/2007-64,
+08012.006019/2002-11, 08012.001826/2003-10, and 08012.007515/2000-31.
+67 Administrate proceeding split from case no. 08012.003321/2004-71.
+68 Administrate proceeding split from case no. 08012.003321/2004-71.
+323. Civil search and seizures: This kind of measure, set forth in Law
+12629/201169 (the Brazilian Competition Law), is adopted at the fact-finding stage of an
+administrative proceeding and aims to select and confiscate documents in targeted
+premises. It depends on previous legal approval. As the success of a search may depend
+on the investigated party's knowledge of it, the right to full answer is delayed. See cases
+no. 08012.006130/2006-22, 08012.009611/2008-51, 08012.004702/2004-77, and
+08012.001826/2003-10. All evidence discovered during a lawful search is admitted, even
+if fortuitous, as seen in case no. 08012.006130/2006-22.
+4. Documents in foreign languages: If a practice was committed abroad and
+has had anticompetitive effects in Brazil, any foreign-language document presenting
+evidence of this practice is admitted, including judgements and settlement agreements
+from other jurisdictions. To be valid in CADE's administrative proceedings, the
+documents must be written in Portuguese or be accompanied by a sworn translation70.
+See cases no. 08700.004617/2013-41, 08012.005255/2010-11, 08012.010932/2007-18,
+and 08012.002925/2009-12.
+5. Expert report: It is a study on a fact or document prepared by someone
+with technical knowledge of the matter at issue. A particularly complex object of analysis
+can increase the quantity and quality of the information in a proceeding. CADE admits
+reports that respect the right to make full answer and defence. See cases no.
+08012.008215/2006-4571, 08012.010744/2008-71, 08012.002921/2007-6472, and
+08012.001826/2003-10.
+69 Article 13, Item VI, Subitem d: "request from the judicial branch, through the Office of the Attorney General at
+CADE, search and seizure warrants for objects, documents of any sort, as well as ledgers, computers and electronic
+files belonging to firms or individuals, which are of interest to any administrative enquiry or administrative proceeding
+launched to impose sanctions for antitrust violations. Article 839 to 843 of Law 5869/1973 is to be applied, when
+appropriate, without the need for filing a proceeding within the judicial branch".
+70 Law 6015/1973, "Article 129. To be binding upon third parties, the following documents must be notarised: (...)
+Paragraph 6: All foreign documents, accompanied by their respective translations, to be effective in bodies of the
+Union, States, Federal District, Cities, and Territories in any instance, court, or appellate court".
+71 Although the expert report presented in case no. 08012.008215/2006-45 was admitted in the body of evidence, it
+could not be considered evidence because it failed to observe the right to full answer and defence in its production.
+72 Although the expert report presented in case no. 08012.002921/2007-64 was admitted in the body of evidence, it
+could not demonstrate the existence of any illegal activity as it lacked the dates, the company involved and the name
+of its employees. Moreover, it included inaudible passages, noise, and had no anticompetitive content.
+334.8. Evidence of a practice's degree of coordination
+CADE's precedents categorise cartel conduct into softcore and hardcore cartels
+depending on how organised a cartel is. Penalties imposed by CADE grow according to
+a cartel's degree of coordination. It is important to remember that "the difference
+between a hardcore and a softcore cartel is in the coordination of the agreement, and
+not in its presumed negative effects"73. The CADE Tribunal assigned the following cartels
+into these categories:
+i. Hardcore cartel: It is an agreement between competitors "with a certain degree
+of coordination, aimed at fixing prices and conditions of sale, allocating customers, fixing
+production levels, or preventing the entry of new companies into the market. This kind
+of cartel operates through an established mechanism of coordination, e.g. regular
+meetings, operational guidelines, codes of conduct, etc. Therefore, it does not occur by
+accident but by formulating lasting mechanisms to attain its goals"74. Hardcore cartels
+often, but not necessarily, have monitoring and retaliation mechanisms. Since these
+cartels intend to perpetuate market manipulation, they tend to be considered
+particularly serious, although it is always necessary to analyse the case at issue and the
+practice's circumstances. The Tribunal found defendants guilty of participating in
+hardcore cartels in the following proceedings: Cases no. 08012.011980/2008-12,
+08700.010769/2014-64, 08012.002812/2010-42, 08012.004674/2006-50,
+08700.001859/2010-31, 08012.001376/2006-16, 08012.007011/2006-97,
+08012.006130/2006-22, 08012.000820/2009-11, 08012.001600/2006-61,
+08012.002568/2005-51, 08012.008847/2006-17, 08012.010932/2007-18,
+08012.001273/2010-24, 08012.005004/2004-99, 08012.011668/2007-30,
+08012.011142/2006-79, 08012.003745/2010-83, 08012.002959/1998-11,
+08012.004702/2004-77, 08012.005495/2002-14, 08012.002127/2002-14, and
+08012.002299/2000-18.
+73 Syllabus of case no. 08700.001422/2017-73.
+74 Case no. 08012.002127/2002-14. Document no. SEI 0124996, opinion by the rapporteur of the case, Commissioner
+Luiz Carlos Delorme Prado. The case was heard in 2005; nonetheless, the position taken in this opinion has been
+adopted in recent decisions, such as in case no. 08012.001376/2006-16, heard in 2018.
+34ii. Softcore cartel: This kind of cartel is "an act of coordination between companies
+with a similar goal to that of a hardcore cartel, but of a fortuitous, not organised, nature.
+This is the case when a group of companies decides to gather to agree on a price rise,
+often as a result of an external event that affected them at the same time. The action
+may be considered fortuitous as it was not based on a permanent arrangement to
+coordinate the actions of the involved companies"75. Since it is a one-time event, it is
+usually not as serious as a hardcore cartel – although it can be, depending on the
+circumstances. Softcore cartels were seen in the following proceedings: Cases no.
+08700.001422/2017-73, 08012.004280/2012-40, 08012.004422/2012-79,
+08012.008215/2006-45, and 08012.006019/2002-11.
+5. Conclusion
+The above research on precedents represents an important tool to help the Office
+of the Superintendent General negotiate leniency agreements. It assists CADE in
+examining the probability of discovering an anticompetitive practice and finding non-
+signatories of the leniency agreement guilty of the practice. Therefore, the conclusions
+and cases listed above should be taken into account when screening leniency
+applications filed with the Office of the Superintendent General.
+The Tribunal has admitted several types of evidence in deciding on the existence
+of cartels and their participants. In this regard, leniency applicants have several kinds of
+evidence to consider using when heading towards internal investigations. Ranging from
+the minutes of a meeting to internal and external email exchanges, from economic
+evidence to expert reports, there are many ways of substantiating claims with evidence.
+Amongst the several types of evidence presented, CADE particularly values direct
+evidence, as it is directly connected to the allegedly illegal practice. Nonetheless, CADE
+may enter a judgement against a defendant based on pieces of indirect evidence76, as
+75 Case no. 08012.002127/2002-14, document no. SEI 0124996, heard in 2005. Case no. 08012.006019/2002-11,
+document SEI No. 128309, heard in 2008. These are opinions rendered by the rapporteur of these cases,
+Commissioner Luiz Carlos Delorme Prado. Despite being issued some time ago, the same position has been adopted
+by recent decisions, such as in case no. 08012.004422/2012-79, heard in 2018.
+76 Evidence that proves the circumstances through which one can infer a violation.
+35long as there are many of them and they converge to the same understanding of the
+facts.
+Moreover, the research showed the Tribunal prefers a holistic77 and systemic
+assessment of the evidence. Thus, a body of evidence with a diversity of mutually
+corroborated direct/indirect evidence can be considered sufficient to prove a defendant
+is guilty of an antitrust violation. If these conditions are met, a violation can be proved
+even on the grounds of indirect evidence alone. Additionally, guilty decisions,
+agreements signed with other jurisdictions, and offenders' confessions can assist an
+adjudicator in making findings regarding an antitrust violation and its wrongdoer.
+For practices that occurred abroad, it is crucial to show the practice potentially or
+effectively affected the Brazilian market.
+77 The holistic approach should not be understood as a perspective to support narratives irrespective of their quality
+or their relevance in a body of evidence. The holistic approach is defended in Susan Haack's take on civil liability, for
+instance:
+"The epistemological argument is that, under certain conditions, a congeries of evidence warrants a conclusion to a
+higher degree than any of its components alone would do; the legal argument, interlocking with this, is that our
+evidence law encourages a kind of atomism that can actually impede the process of arriving at the conclusion most
+warranted by the evidence".
+What would be these conditions? According to Susan Haack, a combination of pieces of evidence allow for a more
+conclusive finding than the individual pieces of evidence when, and only when,
+(i) it helps support a finding (the evidence and conclusion fit in the same narrative);
+(ii) it enhances the "independent security" of evidence favourable to the conclusion (the evidence is
+secure, independently from parties' allegations about it) or reduces the "independent security" of
+evidence unfavourable to the conclusion;
+(iii) it enhances comprehensiveness of the body of evidence (e.g. evidence obtained from different sources
+or through different methods that points in the same direction).
+Thus, this idea covers three different dimensions as to the way each piece of evidence is integrated into the
+conclusion.
+However, Ronald Allen is even closer to a holistic approach, as he defends the merits of the explanatory narratives as
+an important part of the decision-making process,
+"An explanation is, others things being equal, better to the extent that it is consistent, simpler, explains
+more (consilience), better accords with background beliefs (coherence), is less ad hoc, and so on; and is
+worse to extent it betrays these criteria (...) Explanations do not explain evidence in its entirety;
+explanations explain aspects of evidence. Explanations rarely explain why A; they explain why A rather
+than B. The inferential interests at stake pick out the appropriate contrasts (or “foils”) – whether we want
+to explain why A rather than B or why A rather than C (or D, etc.). A verdict will (and should) be rendered
+for the better (or best available) explanation, whether one of the parties’ or another constructed by the
+fact-finder. If the proffered explanations truly are equally bad (or good), including additionally constructed
+ones, judgment will (and should) go against the party with the burden of persuasion."
+36Some evidence presented in isolation, however, was deemed insufficient for a
+guilty verdict. The Tribunal's most commonly rejected evidence are the following:
+documents presented by a single party, especially when the party is an employee of the
+reported company (the signatory of a leniency agreement or cease and desist
+agreement); documents with financial records showing parallel behaviour; telephone
+records; references to individuals or legal entities in third parties' communication;
+documents without an author and/or a date; being copied in an email; scheduled
+meetings and/or reference to meetings; and anonymous tips.
+In contrast, these have regularly been admitted as evidence by the Tribunal:
+telephone recordings made by a party to the call; evidence produced in non-criminal
+search and seizures, as long as legally authorised, including evidence found by chance;
+evidence produced in other proceedings, including criminal proceedings that include
+legally authorised telephone tapping and search and seizures; documents in foreign
+languages; and expert reports. It is important to highlight the right to full answer and
+defence must always be respected.
+Finally, the evidence presented influences the Tribunal's assessment of the level
+of coordination of a cartel and, consequently, the levied punishment. When the
+evidence is at least able to show that an anticompetitive arrangement is lasting and well
+organised, with a structure that includes mechanisms to monitor compliance and punish
+deviating behaviour, the practice is considered a hardcore cartel. Conversely, when the
+evidence demonstrates it is a one-time and not organised practice, the practice is
+considered a softcore cartel.
+37

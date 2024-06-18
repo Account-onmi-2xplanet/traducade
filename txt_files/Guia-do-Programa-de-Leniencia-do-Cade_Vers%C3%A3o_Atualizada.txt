@@ -1,0 +1,2228 @@
+1Ministério da Justiça e Segurança Pública
+Conselho Administrativo de Defesa Econômica
+Atualizado em dezembro de 2021
+Programa de Leniência Antitruste do Cade
+Coordenação-Geral de Análise Antitruste 10
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+2FICHA TÉCNICA
+Coordenação: Colaboradores Internos:
+Vinicius Marques de Carvalho Andressa Lin Fidelis
+Eduardo Frade Rodrigues Christiana Chianca Pereira
+Amanda Athayde Linhares Martins Daniel Costa Rebello
+Lívia Dias de Melo
+Edição: Fernando Amorim Soares de Mello
+Amanda Athayde Linhares Martins
+Andressa Lin Fidelis Atualização de Dezembro de
+2021:
+Revisão: Alden Caribé de Sousa
+Diogo Thomson de Andrade Joice Arantes Luciano
+Victor Santos Rufino Celso Eduardo Santos De Melo
+Conselheiros do Cade: Planejamento Gráfico
+Alexandre Cordeiro Macedo Assessoria de Comunicação Social
+João Paulo Resende
+Cristiane Alkmin Junqueira Schmidt
+Márcio de Oliveira Júnior
+Paulo Burnier da Silveira
+Gilvandro Vasconcelos Coelho de
+Araujo
+3SUMÁRIO
+INTRODUÇÃO ......................................................................................................... 10
+PARTE I. ASPECTOS GERAIS DO PROGRAMA DE LENIÊNCIA ANTITRUSTE DO
+CONSELHO ADMINISTRATIVO DE DEFESA ECONÔMICA .......................................... 11
+1. O que é o Programa de Leniência Antitruste do Conselho Administrativo de Defesa Econômica? ..
+....................................................................................................................................................... 11
+2. Para quais infrações o Acordo de Leniência Antitruste é aplicável? ............................................. 12
+3. O cartel é um ilícito administrativo ou criminal? .......................................................................... 13
+4. Quem são as autoridades competentes para investigar e punir a prática de cartel nas esferas
+administrativas e criminal? ........................................................................................................................ 13
+5. É possível celebrar Acordos de Leniência Antitruste diretamente com os Ministérios Públicos
+e/ou na esfera judicial?.............................................................................................................................. 14
+6. Quais são as sanções aplicáveis à prática de cartel? ..................................................................... 14
+7. Por que fazer um Acordo de Leniência no Cade? .......................................................................... 15
+8. É possível celebrar um Acordo de Leniência com relação a condutas ocorridas fora do Brasil? .......
+....................................................................................................................................................... 16
+9. Desde quando existe o Programa de Leniência no Brasil? ............................................................ 16
+10. Houve alguma alteração legislativa no Programa de Leniência Antitruste com a Lei nº
+12.529/2011? ............................................................................................................................................. 17
+11. O líder do cartel pode propor um Acordo de Leniência? .............................................................. 18
+12. Quais são os requisitos para a propositura de um Acordo de Leniência Antitruste? ................... 18
+13. Como deve ser realizada a confissão pelo proponente do Acordo de Leniência? ........................ 18
+14. Quem pode propor um Acordo de Leniência? .............................................................................. 19
+15. Existe diferença caso a proposta de Acordo de Leniência seja feita por empresas ou por pessoas
+físicas? ....................................................................................................................................................... 19
+16. É possível denunciar um eventual cartel ainda que o denunciante não tenha participado da
+infração a ser denunciada? ........................................................................................................................ 20
+17. Quem coordena o Programa de Leniência do Cade? .................................................................... 20
+18. Quais são os benefícios concedidos a quem assina e cumpre o Acordo de Leniência?................ 20
+19. Quando os benefícios do Acordo de Leniência serão concedidos de forma total e quando serão
+concedidos de forma parcial? .................................................................................................................... 21
+20. Quando os benefícios do Acordo de Leniência serão efetivamente concedidos? ........................ 22
+421. Os benefícios conferidos ao signatário do Acordo de Leniência estendem-se a quais crimes? ... 22
+22. Os benefícios conferidos ao signatário do Acordo de Leniência estendem-se a outras infrações
+administrativas? ......................................................................................................................................... 23
+23. Os participantes do cartel que não se qualificam para celebrar Acordo de Leniência podem
+cooperar e receber algum outro tipo de benefício do Cade? ................................................................... 23
+24. Qual a diferença entre o Acordo de Leniência e o Termo de Compromisso de Cessação (TCC)? .....
+....................................................................................................................................................... 23
+25. No que consiste o acordo de colaboração premiada? .................................................................. 25
+26. Qual a relação entre o Acordo de Leniência do Cade e o Acordo de Leniência previsto na Lei nº
+12.846/2013 (“Lei da Empresa Limpa”/“Lei Anticorrupção”)?.................................................................. 26
+27. Há um modelo de Acordo de Leniência? ....................................................................................... 27
+PARTE II. FASES DA NEGOCIAÇÃO DO ACORDO DE LENIÊNCIA NO CADE ................ 27
+28. Como se negocia um Acordo de Leniência no Cade? .................................................................... 27
+PARTE II.1. PRIMEIRA FASE: PEDIDO DE MARKER .................................................... 28
+29. O que é o pedido de marker? ........................................................................................................ 28
+30. Quem deve ser procurado na Superintendência-Geral do Cade para o pedido de marker? ........ 28
+31. O que deve ser reportado à Superintendência-Geral do Cade para o pedido de marker? .......... 29
+32. O pedido de marker deve estar acompanhado de documentos comprobatórios da infração
+noticiada? .................................................................................................................................................. 29
+33. Por que é importante fazer o pedido de marker o quanto antes? ............................................... 30
+34. Como a Superintendência-Geral do Cade verifica a disponibilidade da marker? ......................... 30
+35. Qual é o prazo para a Superintendência-Geral do Cade responder se há ou não disponibilidade
+de um marker para negociação do Acordo de Leniência? ........................................................................ 30
+36. O que ocorre caso o primeiro lugar na fila esteja disponível? ...................................................... 31
+37. O que ocorre caso o primeiro lugar na fila não esteja disponível? ............................................... 31
+38. O que acontece se a Superintendência-Geral do Cade já tiver conhecimento prévio da infração
+reportada no pedido de marker? .............................................................................................................. 32
+39. O Termo de Marker pode ser alterado? ........................................................................................ 32
+40. Pode o proponente desistir da celebração de Acordo de Leniência? ........................................... 33
+41. O que ocorre em caso de desistência da proposta de Acordo de Leniência? ............................... 33
+42. A obtenção de um Termo de Marker garante a celebração do Acordo de Leniência? ................. 34
+43. Quem tem acesso ao Termo de Marker? ...................................................................................... 34
+44. Qual o período de duração do pedido de marker? ....................................................................... 34
+45. Quais são os procedimentos de confidencialidade do Cade na fase de pedido de marker? ........ 34
+5PARTE II.2. SEGUNDA FASE: APRESENTAÇÃO DE INFORMAÇÕES E DOCUMENTOS
+QUE COMPROVEM A INFRAÇÃO NOTICIADA OU SOB INVESTIGAÇÃO .................... 35
+46. Em que consiste a apresentação de informações e documentos que comprovem a infração
+noticiada ou sob investigação? .................................................................................................................. 35
+47. Normalmente, quais são as informações que devem ser fornecidas pelo proponente do Acordo
+de Leniência? ............................................................................................................................................. 36
+48. Normalmente, quais documentos devem ser apresentados pelo proponente do Acordo de
+Leniência? .................................................................................................................................................. 37
+49. Quais os cuidados que o proponente do Acordo de Leniência deve ter na coleta dos documentos
+eletrônicos e físicos? .................................................................................................................................. 38
+50. Como acontece a apresentação de informações e documentos pelo proponente do Acordo de
+Leniência à Superintendência-Geral do Cade? .......................................................................................... 39
+51. Se, durante o curso da negociação, o proponente, em sua investigação interna, descobre
+evidências de que a atividade anticompetitiva era mais ampla do que a inicialmente relatada, a
+negociação poderá ser ampliada para incluir a recém-descoberta conduta? .......................................... 40
+52. O que é o Histórico da Conduta? ................................................................................................... 41
+53. Qual o prazo total para a negociação do Acordo de Leniência? ................................................... 41
+54. Uma proposta de Acordo de Leniência pode ser rejeitada pelo Cade? ........................................ 41
+55. Em caso de rejeição da proposta de Acordo de Leniência, quais as garantias dos proponentes? 42
+56. Em que momento a negociação do Acordo de Leniência será encerrada pela Superintendência-
+Geral do Cade e o caso encaminhado para assinatura? ............................................................................ 42
+57. Quais são os procedimentos de confidencialidade do Cade na fase de apresentação de
+informações e documentos que comprovem a infração noticiada ou sob investigação? ........................ 43
+58. As pessoas físicas podem ser entrevistadas pela Superintendência-Geral do Cade? ................... 44
+59. Quais são os procedimentos para realização de entrevistas com Signatários? ............................ 44
+PARTE II.3. TERCEIRA FASE: FORMALIZAÇÃO DO ACORDO DE LENIÊNCIA ............... 45
+60. Em que consiste a fase de formalização do Acordo de Leniência? ............................................... 45
+61. Como ocorre a participação do(s) Ministério(s) Público(s) no Acordo de Leniência? .................. 45
+62. Como e quando é feito o contato com o(s) Ministério(s) Público(s)? ........................................... 45
+63. Como é definido qual Ministério Público atuará no caso concreto? ............................................ 47
+64. Onde ocorre a assinatura do Acordo de Leniência? ...................................................................... 47
+65. O Acordo de Leniência pode ser firmado em formato bilíngue? .................................................. 47
+66. Em que momento o proponente do Acordo de Leniência deve entregar a versão física definitiva
+dos documentos que evidenciam a infração noticiada? ........................................................................... 48
+667. Quais documentos de representação legal devem ser apresentados pelas empresas e/ou
+pessoas físicas para a assinatura do Acordo de Leniência? ....................................................................... 48
+68. Caso as pessoas físicas decidam não assinar o Acordo de Leniência junto com a empresa, isso
+prejudica a formalização do acordo com o Cade? ..................................................................................... 48
+69. O que é a adesão ao Acordo de Leniência? ................................................................................... 49
+70. O que pode ser feito se alguma das pessoas físicas não se comunicar em português? ............... 50
+71. As pessoas físicas que se encontrem fora do Brasil devem comparecer pessoalmente para a
+assinatura do Acordo de Leniência? .......................................................................................................... 50
+72. A empresa signatária deverá ser representada por advogado ou por um preposto? .................. 50
+73. Quais condições e cláusulas são previstas no Acordo de Leniência? ............................................ 50
+74. Há um modelo de Acordo de Leniência? ....................................................................................... 52
+75. Quais são os procedimentos de confidencialidade do Cade na fase de formalização do Acordo de
+Leniência? .................................................................................................................................................. 52
+PARTE III. APÓS A CELEBRAÇÃO DO ACORDO DE LENIÊNCIA .................................. 53
+76. O que acontece depois que o Acordo de Leniência é assinado? .................................................. 53
+77. O que ocorre se não forem cumpridas as condições e cláusulas estipuladas no Acordo de
+Leniência? .................................................................................................................................................. 54
+78. Quando da instauração do Inquérito ou Processo Administrativo, quais informações sobre o
+Acordo de Leniência são tornadas públicas? ............................................................................................. 54
+79. Quando da realização de uma busca e apreensão ou de outras diligências junto ao Poder
+Judiciário, quais informações do Acordo de Leniência são tornadas públicas? ........................................ 55
+80. O signatário pode disponibilizar as informações e/ou documentos negociados no âmbito do
+Acordo de Leniência para terceiros, outros órgãos governamentais, ou autoridades estrangeiras? ....... 56
+81. O que o signatário deve fazer se, após a assinatura do Acordo de Leniência, novas informações
+ou documentos sobre a infração noticiada forem descobertos? .............................................................. 56
+82. Quando o cumprimento do Acordo de Leniência é declarado pelo Cade e quando termina o
+dever de cooperação do signatário? ......................................................................................................... 57
+83. O signatário de um Acordo de Leniência pode responder por ação de reparação de danos? ..... 57
+84. A confidencialidade das informações e documentos submetidos no curso da negociação do
+Acordo de Leniência permanece após o julgamento do processo administrativo pelo Tribunal do Cade? ..
+....................................................................................................................................................... 58
+85. Quais são os procedimentos de confidencialidade do Cade após a assinatura do Acordo de
+Leniência? .................................................................................................................................................. 59
+PARTE IV. LENIÊNCIA PLUS ..................................................................................... 60
+86. O que é Leniência Plus? ................................................................................................................. 60
+787. Como funciona o pedido de marker para negociação de acordo que enseja desconto de
+Leniência Plus? ........................................................................................................................................... 61
+88. É possível obter uma Leniência Plus em um processo administrativo se o proponente já tiver
+assinado anteriormente um Acordo de Leniência em um outro mercado? ............................................. 63
+89. É possível conjugar os descontos de Termo de Compromisso de Cessação e de Leniência Plus? 63
+90. O desconto da Leniência Plus é vinculado à celebração de Termo de Compromisso de Cessação? .
+....................................................................................................................................................... 65
+91. É possível obter descontos de duas Leniências Plus em um mesmo processo administrativo? ... 65
+92. Se fui habilitado a celebrar um Novo Acordo de Leniência, mas este ainda está em fase de
+negociação, posso utilizá-lo para obter o benefício da Leniência Plus em TCC?....................................... 66
+93. Caso o proponente que se habilite para Leniência Plus esteja negociando mais de um Novo
+Acordo de Leniência e seja investigado em mais de um caso, como será a definição sobre a aplicação do
+benefício? .................................................................................................................................................. 66
+94. Leniência parcial pode ser usada para o desconto da Leniência Plus? ......................................... 69
+95. Quando o benefício da Leniência Plus é efetivamente recebido? ................................................ 69
+PARTE V. ACORDO DE LENIÊNCIA PARA CARTÉIS INTERNACIONAIS ........................ 70
+96. Para casos de cartel internacional, há alguma peculiaridade quanto ao pedido de marker
+(“marker”)? ................................................................................................................................................ 70
+97. É possível a adoção de procedimento oral pelos proponentes e pela Superintendência-Geral do
+Cade, durante a fase de apresentação de informações e documentos que comprovem a infração
+noticiada ou sob investigação? .................................................................................................................. 70
+98. O Cade compartilha informações de um Acordo de Leniência com autoridades de outros países? .
+....................................................................................................................................................... 71
+99. No interesse da manutenção do sigilo das negociações e/ou das investigações em outros países,
+poderá o Cade coordenar o momento da publicização de sua investigação com autoridades
+estrangeiras? .............................................................................................................................................. 72
+100. Os representados podem disponibilizar informações e/ou documentos negociados no âmbito do
+Acordo de Leniência para autoridades estrangeiras? ............................................................................... 72
+8TERMOS E SIGLAS
+Cade – Conselho Administrativo de Defesa Econômica
+CGAA – Coordenação-Geral de Análise Antitruste da Superintendência-Geral do Cade.
+CGU – Controladoria-Geral da União
+DOU – Diário Oficial da União
+GEDEC - Grupo Especial de Delitos Econômicos
+MP – Ministério Público
+MPE – Ministério Público Estadual
+MPF – Ministério Público Federal
+MPF/SP – Ministério Público Federal no Estado de São Paulo
+RiCade – Regimento Interno do Cade
+SDE/MJ – Secretaria de Direito Econômico do Ministério da Justiça
+SG-Cade – Superintendência-Geral do Cade
+TCC – Termo de Compromisso de Cessação
+9INTRODUÇÃO
+O presente Guia sobre o Programa de Leniência Antitruste do Cade (Programa de
+Leniência) consiste em um documento consolidado com as melhores práticas e
+procedimentos usualmente adotados para negociação de Acordos de Leniência
+Antitruste do Cade (Acordo de Leniência). O objetivo é registrar a memória institucional
+e servir de referência para negociações futuras, norteando servidores, advogados e
+sociedade nos procedimentos dessa relevante atividade para a política brasileira de
+defesa da concorrência e de combate a cartéis e práticas anticoncorrenciais coletivas.
+É importante destacar que este documento não é vinculativo e não possui o caráter de
+norma. As práticas e procedimentos ora descritos podem ser alteradas a juízo de
+conveniência e oportunidade da Superintendência-Geral do Cade (SG/Cade), a
+depender das circunstâncias do caso concreto. Não obstante, grande parte da temática
+deste Guia resulta diretamente da Lei nº 12.529/2011 e do Regimento Interno do Cade
+(RiCade), estes sim de caráter vinculante.
+A estrutura do presente Guia será baseada nas principais fases percorridas para a
+negociação e celebração do Acordo de Leniência nos termos dos artigos 86 e 87 da Lei
+nº 12.529/2011 e 196 a 210 do RiCade:
+(I) Aspectos Gerais sobre o Programa de Leniência Antitruste do Cade
+(Perguntas 1 a 27)
+(II) Fases da negociação do Acordo de Leniência do Cade (Pergunta 28)
+(II.1.) Primeira fase: pedido de marker (Perguntas 29 a 45)
+(II.2.) Segunda Fase: apresentação de informações e documentos que
+comprovem a infração noticiada ou sob investigação (Perguntas 46 a
+59)
+(II.3.) Terceira Fase: formalização do Acordo de Leniência (Perguntas
+60 a 75)
+(III) Após a celebração do Acordo de Leniência (Perguntas 76 a 86)
+(IV) Leniência Plus (Perguntas 86 a 95)
+(V) Acordo de leniência para cartéis internacionais (Perguntas 96 a 100)
+10PARTE I. ASPECTOS GERAIS DO PROGRAMA DE LENIÊNCIA
+ANTITRUSTE DO CONSELHO ADMINISTRATIVO DE DEFESA
+ECONÔMICA
+1. O que é o Programa de Leniência Antitruste do Conselho Administrativo de Defesa
+Econômica?
+O Programa de Leniência Antitruste (Programa de Leniência) do Conselho Administrativo
+de Defesa Econômica (Cade) é um conjunto de iniciativas com vistas a detectar, investigar
+e punir infrações contra a ordem econômica; informar e orientar permanentemente as
+empresas e os cidadãos em geral a respeito dos direitos e garantias previstos nos artigos
+86 e 87 da Lei nº 12.529/2011 (Lei de Defesa da Concorrência – LDC) e nos artigos 196 a
+210 do RiCade; e incentivar, orientar e assistir os proponentes à celebração de Acordo de
+Leniência Antitruste do Cade (Acordo de Leniência).
+O Programa de Leniência permite que empresas e/ou pessoas físicas envolvidas ou que
+estiveram envolvidas em um cartel ou em outra prática anticoncorrencial coletiva
+obtenham benefícios na esfera administrativa e criminal por meio da celebração de acordo
+de leniência com o Cade, comprometendo-se a cessar a conduta ilegal, a denunciar e
+confessar sua participação no ilícito, bem como a cooperar com as investigações
+apresentando informações e documentos relevantes à investigação.
+Na esfera administrativa, desde que colaborem com a investigação e o resultado desta
+colaboração ocasione a identificação dos demais envolvidos na infração e a obtenção de
+informações e documentos que comprovem a infração noticiada ou sob investigação, o
+signatário do acordo de leniência será beneficiado com a extinção da ação punitiva da
+administração pública (se a Superintendência-Geral do Cade não tiver conhecimento prévio
+da infração noticiada) ou a redução de um a dois terços das penas administrativas aplicáveis
+(se a SG/Cade já tiver conhecimento prévio da infração notificada) (art. 86, §4º da Lei nº
+12.529/2011 c/c art. 208, I e II do RiCade). Sobre “conhecimento prévio” (vide pergunta
+19).
+Já na esfera criminal, a celebração de acordo de leniência determina a suspensão do curso
+do prazo prescricional e impede o oferecimento da denúncia com relação ao agente
+beneficiário da leniência no que tange aos crimes contra a ordem econômica tipificados na
+Lei de Crimes Contra a Ordem Econômica (Lei nº 8.137/1990), e nos demais crimes
+diretamente relacionados à prática de cartel, tais como os tipificados na Lei Geral de
+Licitações (Lei nº 14.133/2021) e no artigo 288 do Código Penal (associação criminosa).
+Cumprido o acordo de leniência, extingue-se automaticamente a punibilidade dos crimes
+11acima (art. 87 da Lei nº 12.529/2011 c/c art. 208, parágrafo único do RiCade) (vide
+perguntas 18 a 20).
+Com relação a esfera civil, a Lei nº 12.529/2011 não impõe ao signatário do acordo de
+leniência a obrigação de ressarcir eventuais consumidores lesados como uma condição sine
+qua non para a celebração do acordo de leniência. Todavia, a lei também não exime o
+beneficiário da leniência de responder por danos concorrenciais em eventual ação civil
+pública e/ou ação privada de ressarcimento de danos movida em face do beneficiário da
+leniência e demais coautores.
+2. Para quais infrações o Acordo de Leniência Antitruste é aplicável?
+O acordo de leniência antitruste é aplicável às infrações previstas no artigo 36 da Lei nº
+12.529/2011, anteriormente previstas nos artigos 20 e 21 da Lei nº 8.884/1994. Em geral,
+são celebrados Acordos de Leniência em relação à prática de cartel, ou seja, quando
+empresas concorrentes se coordenam e realizam acordos com o objetivo ou com a
+potencialidade de produzir os efeitos, ainda que não alcançados, de: (I) limitar, falsear ou
+de qualquer forma prejudicar a livre concorrência ou a livre iniciativa; (II) dominar mercado
+relevante de bens ou serviços; (III) aumentar arbitrariamente os lucros; e (IV) exercer de
+forma abusiva posição dominante (art. 36, caput, I a IV da Lei nº 12.529/2011).
+Entre outras, o acordo de leniência aplica-se às condutas anticoncorrenciais coletivas
+previstas no artigo 36, §3º, inciso I, alíneas “a”, “b”, “c” e “d” e inciso II da Lei nº
+12.529/2011, quais sejam: (I) acordar, combinar, manipular ou ajustar com concorrente,
+sob qualquer forma, (a) os preços de bens ou serviços ofertados individualmente; (b) a
+produção ou a comercialização de uma quantidade restrita ou limitada de bens ou a
+prestação de um número, volume ou frequência restrita ou limitada de serviços; (c) a
+divisão de partes ou segmentos de um mercado atual ou potencial de bens ou serviços,
+mediante, dentre outros, a distribuição de clientes, fornecedores, regiões ou períodos;
+e/ou (d) os preços, condições, vantagens ou abstenção em licitação pública; e (II) promover,
+obter ou influenciar conduta comercial uniforme ou concertada entre concorrentes (como
+acontece, por exemplo, no âmbito de associações e sindicatos).
+Ressalte-se que, de acordo com o caput do artigo 36 da Lei nº 12.529/2011 e com a
+jurisprudência atual do Cade, a prática de cartel é considerada um “ilícito pelo objeto”. Isso
+significa que não é necessário que o cartel gere efeitos no mercado, sendo suficiente que
+tenha a potencialidade de produzir tais efeitos, ainda que não sejam alcançados. Além
+12disso, a infração da ordem econômica existe independentemente de culpa com relação às
+empresas envolvidas.
+3. O cartel é um ilícito administrativo ou criminal?
+A prática de cartel é tanto um ilícito administrativo (art. 36, §3º, I da Lei nº 12.529/2011)
+quanto um ilícito criminal (art. 4º, II da Lei nº 8.137/1990), além de poder sujeitar os
+infratores ao pagamento de indenização no âmbito civil, por meio das ações civis públicas
+e/ou ações privadas de reparação de dano (art. 47 da Lei nº 12.529/2011).
+4. Quem são as autoridades competentes para investigar e punir a prática de cartel nas
+esferas administrativas e criminal?
+Na esfera administrativa, a competência para investigar e instaurar processos
+administrativos para a investigação de cartéis e outras condutas anticoncorrenciais
+coletivas é da Superintendência-Geral (art. 13, V da Lei nº 12.529/2011), sendo a decisão
+condenatória ou absolutória de competência do Plenário do Tribunal do Cade (art. 9º, III
+da Lei nº 12.529.2011). A celebração do acordo de leniência candidata as empresas e/ou
+pessoas físicas à obtenção dos benefícios da extinção da ação punitiva ou da redução da
+penalidade aplicável pelo Cade, benefícios estes concedidos definitivamente quando do
+julgamento do processo administrativo pelo Plenário do Tribunal do Cade (art. 86, §4o da
+Lei nº 12.529.2011) (vide perguntas 18 a 20).
+Já na esfera criminal, a competência para investigar e oferecer denúncia ao Poder Judiciário
+sobre a prática de cartel é do Ministério Público (art. 16 da Lei nº 8.137/1990), sendo a
+decisão final proferida por juízo criminal. A celebração de acordo de leniência determina,
+na esfera criminal, a suspensão do curso do prazo prescricional e impede o oferecimento
+da denúncia com relação ao agente beneficiário da leniência no que tange aos crimes
+tipificados na Lei de Crimes Contra a Ordem Econômica (Lei nº 8.137/1990), e nos demais
+crimes diretamente relacionados à prática de cartel, tais como os tipificados na Lei Geral
+de Licitações (Lei nº 14.133/2021) e no artigo 288 do Código Penal (associação criminosa).
+Cumprido o acordo de leniência, extingue-se automaticamente a punibilidade dos crimes
+acima, nos termos do artigo 87 da Lei nº 12.529/2011 (vide perguntas 18 a 20).
+135. É possível celebrar Acordos de Leniência Antitruste diretamente com os Ministérios
+Públicos e/ou na esfera judicial?
+Não. Para a celebração de Acordos de Leniência Antitruste, a Lei nº 12.529/2011 determina
+que a autoridade competente é a Superintendência-Geral do Cade (vide pergunta 30).
+Assim, ainda que haja o contato direto com o Ministério Público e/ou na esfera judicial para
+a negociação de Acordos de Leniência relativos em todo ou em parte a outros ilícitos, é
+necessária a negociação específica com o Cade do acordo de leniência antitruste, que
+contará com a participação do Ministério Público como interveniente anuente (vide
+perguntas 60 a 62).
+A celebração de outros Acordos de Leniência com outras instituições (como por exemplo
+com o Ministério Público ou com a Controladoria Geral da União), não excluem a
+competência da Superintendência-Geral do Cade na celebração dos Acordos de Leniência
+Antitruste nos termos da Lei 12.529/2011.
+6. Quais são as sanções aplicáveis à prática de cartel?
+A prática de cartel é um ilícito administrativo e penal (vide perguntas 3 e 4).
+Na esfera administrativa, nos termos do artigo 37, incisos I a III da Lei nº 12.529/2011, as
+sanções pecuniárias (multas) aplicáveis às infrações contra a ordem econômica são as
+seguintes:
+I. no caso de empresas, multa de 0,1% a 20% do faturamento bruto da empresa, grupo
+ou conglomerado, obtido no último exercício anterior à instauração do processo
+administrativo, no ramo de atividade empresarial em que ocorreu a infração, a qual
+nunca será inferior à vantagem auferida, quando for possível sua estimação;
+II. no caso de pessoas físicas ou jurídicas de direito público ou privado, bem como de
+associações, e sindicatos que não exerçam atividade empresarial, não sendo possível
+utilizar-se o critério do valor do faturamento bruto, multa entre R$ 50.000,00 e R$
+2.000.000.000,00; e
+III. no caso de administradores direta ou indiretamente responsáveis pela infração
+cometida, quando comprovada sua culpa ou dolo, multa de 1% a 20% daquela
+aplicada à empresa.
+Conforme previsto no artigo 38 da mesma Lei, além das multas, outras sanções podem ser
+aplicadas isoladas ou cumulativamente na esfera administrativa, tais como: (i) a exigência
+de publicação da decisão de condenação em jornal de grande circulação; (ii) a proibição de
+14contratar com instituições financeiras e de participar de licitações realizadas por órgãos
+públicos; (iii) a cisão de sociedade ou venda de ativos; (iv) a recomendação para que seja
+concedida licença compulsória de direito de propriedade intelectual; (v) a proibição de
+concessão de parcelamento de tributos; (vi) a proibição de exercer comércio e/ou qualquer
+outro ato ou providência necessários para a eliminação dos efeitos nocivos à ordem
+econômica.
+Já na esfera criminal, nos termos do artigo 4º, inciso II da Lei nº 8.137/1990 (Lei de Crimes
+Contra a Ordem Econômica), a prática de crime de cartel sujeita os indivíduos envolvidos
+às penas de reclusão de dois a cinco anos e multa. De acordo com o artigo 12 da mesma
+Lei, tal sanção pode ser aumentada de um terço até a metade se o crime causar grave dano
+à coletividade, for cometido por um servidor público no exercício de suas funções, ou se
+relacionar a bens ou serviços essenciais para a vida ou para a saúde.
+7. Por que fazer um Acordo de Leniência no Cade?
+A celebração de um acordo de leniência no Cade concede benefícios significativos aos
+signatários – empresas e/ou pessoas físicas (vide perguntas 14 e 15) – nas esferas
+administrativas e criminais (vide perguntas 18 e 19), a partir do momento em que o
+Tribunal do Cade reconhece o cumprimento das obrigações avençadas no acordo. Não
+tendo sido proposto e firmado acordo de leniência, todas as empresas e/ou pessoas físicas
+que participaram da conduta anticoncorrencial coletiva sob investigação são passíveis de
+condenação administrativa e criminal.
+Os envolvidos em tais condutas estão sujeitos a severas sanções administrativas (art. 37 da
+Lei nº 12.529/2011), e, no caso de empresa, a infração da ordem econômica existe
+independentemente de culpa. A condenação administrativa de tais infrações da ordem
+econômica é consolidada na jurisprudência do Cade, tanto na aplicação da atual Lei nº
+12.529/2011 quanto da legislação anterior (Lei nº 8.884/1994). O Tribunal do Cade tem
+sido claro em condenar acordos entre concorrentes com o objetivo ou com a
+potencialidade de produzir os efeitos, ainda que não alcançados, de (I) limitar, falsear ou
+de qualquer forma prejudicar a livre concorrência ou a livre iniciativa; (II) dominar mercado
+relevante de bens ou serviços; ou (III) aumentar arbitrariamente os lucros. Além disso, os
+envolvidos também podem ser punidos criminalmente pela infração, dado que cartel
+também é crime tipificado no artigo 4º da Lei no 8.137/1990 (vide perguntas 3 a 6).
+Ademais, os participantes da conduta anticoncorrencial coletiva devem ter em mente que,
+ainda que não haja proposta de acordo de leniência, o Cade pode ter conhecimento de um
+15acordo ilícito entre concorrentes por meio de diversas outras fontes (por exemplo,
+representações de clientes ou de terceiros, notícias e informações da mídia, cooperação
+com autoridades setoriais no Brasil, cooperação entre autoridades antitruste sobre
+investigações em curso em outras jurisdições, investigações ex officio, entre outras) ou,
+ainda, por meio de medidas administrativas diversas (por exemplo, operações de busca e
+apreensão, inspeções, requisição de informações e utilização de procedimentos de
+inteligência para detectar cartéis em licitações), fatores que representam mais um
+incentivo à propositura e celebração de acordo de leniência com o Cade.
+8. É possível celebrar um Acordo de Leniência com relação a condutas ocorridas fora do
+Brasil?
+Sim. Conforme previsto no artigo 2º, caput, da Lei de Defesa da Concorrência, o Programa
+de Leniência do Cade se aplica às condutas que foram no todo ou em parte praticadas no
+território nacional ou mesmo às condutas praticadas em outra jurisdição, desde que
+produzam ou possam produzir efeitos no Brasil.
+Para que seja possível a celebração do acordo de leniência com relação a condutas
+ocorridas fora do Brasil, a empresa e/ou pessoa física proponente deve indicar provas de
+que os efeitos foram produzidos ou poderiam ser produzidos no território nacional,
+estabelecendo uma conexão entre a conduta anticoncorrencial coletiva e tais efeitos no
+Brasil.
+9. Desde quando existe o Programa de Leniência no Brasil?
+O benefício da leniência foi introduzido no Brasil pela Lei nº 10.149/2000, que alterou a
+antiga Lei de Defesa da Concorrência (Lei nº 8.884/94, arts. 35-B e C), com o objetivo de
+fortalecer a atividade de repressão de infrações à ordem econômica. Na vigência da Lei
+nº 8.884/94, o benefício da leniência foi disciplinado pela Portaria do Ministério da
+Justiça nº 4/2006 (art. 61) e pela Portaria do Ministério da Justiça nº 456/2010 (art. 59).
+Desde 2003, a persecução criminal de cartel tornou-se prioridade no Brasil e o Cade tem
+cooperado com o Ministério Público e a Polícia Federal para garantir que dirigentes,
+administradores e empregados de empresas envolvidas que não assinarem Acordos de
+Leniência sejam processados por crime de cartel, para o qual a pena de reclusão prevista
+é de dois a cinco anos e multa (art. 4º, II da Lei nº 8.137/1990, Lei de Crimes Contra a
+Ordem Econômica).
+16Com a entrada em vigor da nova Lei de Defesa da Concorrência (Lei nº 12.529/2011),
+em 29 de maio de 2012, foi instituído o atual Programa de Leniência do Cade, com um
+Capítulo específico da Lei (Capitulo VII, Título VI), cujos direitos e garantias estão
+previstos em seus artigos 86 e 87, bem como nos artigos 196 a 210 do RiCade.
+O primeiro candidato à leniência antitruste no Brasil apresentou-se à extinta Secretaria
+de Direito Econômico do Ministério da Justiça (SDE/MJ) – cujas funções eram
+semelhantes às atualmente exercidas pela Superintendência-Geral do Cade – em 2003,
+após a realização de duas operações de busca e apreensão naquele ano, momento no
+qual a Secretaria já havia obtido reputação positiva perante a comunidade empresarial
+quanto à sua habilidade de expor e apurar práticas anticompetitivas. Desde então, o
+Cade tem aperfeiçoado o instituto da leniência antitruste no Brasil com o intuito de
+torná-lo mais transparente, eficiente e seguro.
+Dados atualizados sobre o total de Acordos de Leniência assinados ano a ano com o
+Cade podem ser acessados aqui.
+10. Houve alguma alteração legislativa no Programa de Leniência Antitruste com a Lei nº
+12.529/2011?
+Sim. A Lei nº 12.529/2011 que instituiu o atual Programa de Leniência do Cade (Capítulo
+VII, Título VI), trouxe algumas mudanças em relação à legislação anterior (Lei nº
+8.884/1994), destacando-se:
+I. a alteração da autoridade competente: na Lei nº 8.884/1994, era a União, por
+intermédio da Secretaria de Direito Econômico – SDE/MJ, que celebrava o acordo de
+leniência. Já na Lei nº 12.529/2011 passou a ser o Cade, por intermédio da
+Superintendência-Geral;
+II. o fim do impedimento para que o líder do cartel seja proponente do acordo; e
+III. explicitação dos efeitos do acordo de leniência no âmbito penal: a Lei nº 12.529/2011
+define que a celebração de acordo de leniência determina a suspensão do curso do
+prazo prescricional e impede o oferecimento da denúncia com relação ao agente
+beneficiário da leniência no que tange aos crimes tipificados na Lei de Crimes Contra
+a Ordem Econômica (Lei nº 8.137/1990) e nos demais crimes diretamente
+relacionados à prática de cartel, tais como os tipificados na Lei Geral de Licitações (Lei
+nº 14.133/2021) e no artigo 288 do Código Penal (associação criminosa). Cumprido o
+acordo de leniência, extingue-se automaticamente a punibilidade dos crimes acima,
+nos termos do artigo 87 da Lei nº 12.529/2011.
+1711. O líder do cartel pode propor um Acordo de Leniência?
+Sim. A Lei nº 12.529/2011 eliminou o impedimento para que o líder do cartel seja
+proponente do acordo de leniência (vide pergunta 10). Assim, a Superintendência-Geral
+do Cade poderá celebrar acordo de leniência com o líder do cartel desde que o
+proponente satisfaça os requisitos legais para tanto (art. 86 da Lei nº 12.529/2011 c/c art.
+197 do RiCade) (vide pergunta 12).
+12. Quais são os requisitos para a propositura de um Acordo de Leniência Antitruste?
+Os artigos 86 da Lei nº 12.529/2011 e 197 do RiCade elencam os requisitos para a assinatura
+de um acordo de leniência no Brasil. Em seus termos, é necessário que:
+I. a empresa seja a primeira a se qualificar com respeito à infração noticiada ou sob
+investigação;
+II. a empresa e/ou pessoa física cesse sua participação na infração noticiada ou sob
+investigação;
+III. no momento da propositura do acordo, a Superintendência-Geral não disponha de
+provas suficientes para assegurar a condenação da empresa e/ou da pessoa física;
+IV. a empresa e/ou pessoa física confesse sua participação no ilícito;
+V. a empresa e/ou pessoa física coopere plena e permanentemente com a investigação
+e o Processo Administrativo, comparecendo, sob suas expensas, sempre que
+solicitado, a todos os atos processuais, até a decisão final sobre a infração noticiada
+proferida pelo Cade; e
+VI. da cooperação resulte a identificação dos demais envolvidos na infração e a obtenção
+de informações e documentos que comprovem a infração noticiada ou sob
+investigação.
+13. Como deve ser realizada a confissão pelo proponente do Acordo de Leniência?
+A confissão pode ser feita oralmente ou por escrito. Todavia, o acordo de leniência é, em
+si, um documento escrito, que contém cláusula expressa referente à confissão de
+participação da empresa e/ou pessoa física na conduta anticoncorrencial coletiva
+denunciada. A cláusula de confissão possui a seguinte redação:
+“Confissão de Participação na Conduta Reportada
+7. Cada Signatári(o/a) confessa ter participado da infração conforme descrito no ‘Histórico da
+Conduta”. ” (vide pergunta 72)
+1814. Quem pode propor um Acordo de Leniência?
+De acordo com o artigo 86 da Lei nº 12.529/2011, tanto as empresas quanto as pessoas
+físicas envolvidas ou que estiveram envolvidas na infração à ordem econômica podem ser
+proponentes do acordo de leniência, desde que preenchidos os requisitos previstos nos
+artigos 86 da Lei nº 12.529/2011 e 197 do RiCade (vide pergunta 11).
+A negociação do acordo de leniência junto à Superintendência-Geral do Cade é
+normalmente feita por meio do representante legal do proponente. O proponente do
+acordo de leniência deve conferir ao seu advogado poderes específicos para negociar e
+celebrar acordo de leniência com o Cade e com o Ministério Público.
+15. Existe diferença caso a proposta de Acordo de Leniência seja feita por empresas ou por
+pessoas físicas?
+Sim. Na hipótese de o proponente do acordo de leniência ser empresa, os benefícios do
+acordo podem ser estendidos aos seus dirigentes, administradores e empregados (atuais
+ou passados), bem como às empresas do mesmo grupo econômico, de fato ou de direito,
+envolvidas na infração, desde que cooperem com as investigações e firmem o instrumento
+em conjunto com a empresa proponente (art. 86, §6º da Lei nº 12.529/2011 c/c art. 197,
+§1º do RiCade).
+A assinatura das pessoas físicas e de empresas do mesmo grupo econômico pode ser
+realizada conjuntamente com a empresa proponente ou em adesão posterior formalizada
+em documento apartado, quando autorizada pelo Cade, segundo critério de conveniência
+e oportunidade (art. 197, §2o do RiCade). As empresas e seus dirigentes, administradores e
+empregados podem ter representantes legais iguais ou serem representados por
+advogados diferentes.
+Já na hipótese de o proponente do acordo de leniência ser pessoa física e o acordo ser
+celebrado sem a participação da pessoa jurídica, os seus benefícios não se estenderão à
+empresa a que o funcionário está ou estava vinculado (art. 86, §6º, Lei nº 12.529/2011 c/c
+art. 197, §3º do RiCade). A não extensão automática dos benefícios é um fator que objetiva
+aumentar a instabilidade do cartel, de modo que todos os participantes envolvidos, sejam
+eles empresas ou pessoas físicas, permaneçam incentivados em denunciar a prática
+anticompetitiva ao Cade o mais cedo possível.
+1916. É possível denunciar um eventual cartel ainda que o denunciante não tenha participado
+da infração a ser denunciada?
+Sim. Caso um terceiro não participante da infração tome conhecimento do cartel, ou de
+outra conduta anticoncorrencial, é possível fazer uma representação à Superintendência-
+Geral do Cade acerca do fato. Essa representação pode ser feita tanto por meio de uma
+petição protocolada junto ao Cade quanto por meio do site do Cade, na ferramenta "Clique
+Denúncia". É importante que a representação seja fundamentada e acompanhada de
+informações e documentos que possam comprovar a prática ilícita, a fim de auxiliar a
+investigação da SG/Cade. Ressalte-se que a representação não é uma proposta de acordo
+de leniência, já que esse acordo só se aplica aos participantes do cartel.
+17. Quem coordena o Programa de Leniência do Cade?
+De acordo com o artigo 86 da Lei nº 12.529/2011, o órgão responsável pela negociação e
+pela assinatura do acordo de leniência é a Superintendência-Geral do Cade. O Tribunal do
+Cade não participa da negociação e/ou da celebração do acordo de leniência, competindo-
+lhe apenas decretar, ao final, o cumprimento do acordo quando do julgamento do Processo
+Administrativo correspondente (art. 86, §4º da Lei nº 12.529/2011).
+Muito embora os artigos 86 e 87 da Lei nº 12.529/2011 não exijam expressamente a
+participação do Ministério Público para a celebração de acordo de leniência antitruste, a
+experiência consolidada do Cade é no sentido de viabilizar a participação do Ministério
+Público, titular privativo da ação penal pública e detentor de atribuição criminal, tendo em
+vista as repercussões criminais derivadas da leniência. Assim, o Ministério Público (Estadual
+e/ou Federal) pode participar da assinatura do acordo como agente interveniente, mesmo
+nos casos de cartéis internacionais, a fim de conferir maior segurança jurídica aos
+signatários do acordo de leniência, além de facilitar a investigação criminal do cartel em
+face dos demais envolvidos (vide perguntas 60 a 62).
+18. Quais são os benefícios concedidos a quem assina e cumpre o Acordo de Leniência?
+Na esfera administrativa, a celebração do acordo de leniência candidata as empresas e/ou
+pessoas físicas signatárias à obtenção dos benefícios da extinção da ação punitiva da
+administração pública ou da redução da penalidade aplicável, benefícios estes concedidos
+definitivamente quando do julgamento do processo administrativo instaurado para apurar
+as condutas ilícitas denunciadas pelo Tribunal do Cade (art. 86, §4o da Lei nº 12.529.2011).
+20Nos termos do artigo 86, §4º, da Lei nº 12.529/2011 c/c artigo 208 do RiCade, uma vez
+declarado o cumprimento do acordo de leniência pelo Tribunal do Cade, os signatários
+beneficiam-se:
+I. da extinção da ação punitiva da Administração Pública em relação à Lei nº
+12.529/2011, nas hipóteses em que a proposta do acordo de leniência for
+apresentada à Superintendência-Geral do Cade em momento em que essa autoridade
+ainda não tenha conhecimento prévio da infração noticiada; ou
+II. da redução de um a dois terços das penas aplicáveis no âmbito da Lei nº 12.529/2011,
+nas hipóteses em que a proposta do acordo de leniência for apresentada à SG/Cade
+após o conhecimento desta autoridade sobre a infração noticiada (vide pergunta 38).
+Na esfera criminal, a celebração de acordo de leniência determina a suspensão do curso do
+prazo prescricional e impede o oferecimento da denúncia com relação ao indivíduo
+beneficiário da leniência no que tange aos crimes tipificados na Lei de Crimes Contra a
+Ordem Econômica (Lei nº 8.137/1990), e nos demais crimes diretamente relacionados à
+prática de cartel, tais como os tipificados na Lei Geral de Licitações (Lei nº 14.133/2021) e
+no artigo 288 do Código Penal (associação criminosa). Cumprido o acordo de leniência,
+extingue-se automaticamente a punibilidade dos crimes acima (art. 87 da Lei nº
+12.529/2011).
+19. Quando os benefícios do Acordo de Leniência serão concedidos de forma total e quando
+serão concedidos de forma parcial?
+A extinção da ação punitiva da administração pública – leniência total – ou a redução de
+um a dois terços das penas aplicáveis – leniência parcial (art. 86, §4o da Lei nº 12.529/2011)
+–, depende do “conhecimento prévio” da Superintendência-Geral do Cade a respeito da
+conduta (art. 208, I e II do RiCade):
+I. se a SG/Cade não tinha conhecimento prévio da infração, a empresa e/ou pessoa
+física receberá, com a declaração de cumprimento do acordo de leniência pelo
+Plenário do Tribunal do Cade, o benefício da extinção da ação punitiva da
+administração pública em relação à infração noticiada;
+II. se a SG/Cade já tinha conhecimento prévio da conduta, mas não dispunha de provas
+para assegurar a condenação dos envolvidos, a empresa e/ou pessoa física poderá
+celebrar um acordo de leniência com benefícios parciais (Leniência Parcial, vide
+pergunta 38) e receberá, com a declaração de cumprimento do acordo de leniência
+pelo Plenário do Tribunal do Cade, o benefício da redução de um a dois terços da
+21penalidade aplicável, a depender da efetividade da colaboração prestada e da boa-fé
+do infrator no cumprimento do acordo de leniência.
+Apesar de não haver na legislação brasileira o conceito expresso de “conhecimento prévio”
+da conduta pela Superintendência-Geral do Cade, entende-se que o conhecimento prévio
+apenas ocorre na hipótese de haver, à época da apresentação da proposta de acordo de
+leniência, procedimento administrativo aberto (arts. 66 e 69 da Lei nº 12.529/2011) com
+indícios razoáveis de prática anticompetitivas para apurar a infração objeto da proposta de
+acordo de leniência. Representações feitas por meio do “Clique Denúncia”, notícias na
+mídia ou informação sobre a existência de investigação em outro órgão da Administração
+Pública ainda não apuradas pelo Cade, dentre outras situações, em regra, não configuraram
+“conhecimento prévio” por parte da Superintendência-Geral do Cade, exceto se trouxerem
+elementos probatórios suficientes para ensejar a abertura de procedimento
+administrativo.
+20. Quando os benefícios do Acordo de Leniência serão efetivamente concedidos?
+Na esfera administrativa, os benefícios serão efetivamente concedidos com a declaração
+de cumprimento do acordo de leniência pelo Tribunal do Cade, por ocasião do julgamento
+do Processo Administrativo (art. 86, §4º, I e II da Lei nº 12.529/2011). A declaração de
+cumprimento do acordo de leniência pelo Tribunal do Cade não precisa ser homologada
+em juízo.
+Na esfera criminal, a celebração do acordo de leniência determina a suspensão do curso do
+prazo prescricional e impede o oferecimento da denúncia com relação aos signatários em
+relação, por exemplo, aos crimes elencados pelo artigo 87 da Lei nº 12.529/11. A extinção
+da punibilidade, por sua vez, ocorre automaticamente quando o acordo de leniência é
+declarado cumprido.
+21. Os benefícios conferidos ao signatário do Acordo de Leniência estendem-se a quais
+crimes?
+Os benefícios do acordo de leniência são estendidos aos crimes diretamente relacionados
+à prática de cartel. Na esfera criminal, a celebração do termo do acordo de leniência
+determina a suspensão do curso do prazo prescricional e impede o oferecimento da
+denúncia com relação ao indivíduo beneficiário da leniência no que tange aos crimes
+tipificados na Lei de Crimes Contra a Ordem Econômica (Lei nº 8.137/1990), e nos demais
+crimes diretamente relacionados à prática de cartel, tais como os tipificados na Lei Geral
+22de Licitações (Lei nº 14.133/2021) e no artigo 288 do Código Penal (associação criminosa),
+nos termos do artigo 87, caput da Lei nº 12.529/2011. Trata-se, portanto, de rol
+exemplificativo de crimes diretamente relacionados à prática de carte. Por sua vez,
+extingue-se automaticamente a punibilidade dos crimes acima quando declarado cumprido
+o acordo de leniência.
+22. Os benefícios conferidos ao signatário do Acordo de Leniência estendem-se a outras
+infrações administrativas?
+Não há previsão legal de que os benefícios concedidos no âmbito do acordo de leniência
+resultem em extinção da punibilidade ou redução das penas administrativas em outros
+ilícitos administrativos além daqueles previstos no artigo 87, caput da Lei nº 12.529/2011,
+embora este rol seja exemplificativo.
+23. Os participantes do cartel que não se qualificam para celebrar Acordo de Leniência
+podem cooperar e receber algum outro tipo de benefício do Cade?
+Sim. As empresas e/ou pessoas físicas investigadas por prática anticoncorrencial entre
+concorrentes que não se qualificam para celebrar acordo de leniência (vide pergunta 12)
+podem, a princípio, propor a celebração de Termo de Compromisso de Cessação (TCC)
+com o Cade (art. 85 da Lei nº 12.529/2011 c/c arts. 183 a 188 do RiCade) (vide pergunta
+24).
+24. Qual a diferença entre o Acordo de Leniência e o Termo de Compromisso de Cessação
+(TCC)?
+O acordo de leniência é instrumento disponível apenas ao primeiro agente infrator a
+reportar a conduta anticoncorrencial entre concorrentes ao Cade (art. 86, §1º, I da Lei nº
+12.529/2011) (vide pergunta 12) e cujos benefícios são tanto administrativos quanto
+criminais (art. 86, §4º c/c art. 87 da Lei nº 12.529/2011).
+O TCC, por sua vez, é acessível a todos os demais investigados na conduta anticompetitiva
+(art. 85 da Lei nº 12.529/2011), gerando benefícios na seara administrativa, mas sem
+previsão de benefícios automáticos na seara criminal. Especificamente para os casos de
+acordo, combinação, manipulação ou ajuste entre concorrentes, como é o caso de cartel.
+Assim, o TCC possui os seguintes requisitos:
+23I. pagamento de contribuição pecuniária ao Fundo de Defesa de Direitos Difusos, nos
+termos dos artigos 85, §1º, III da Lei nº 12.529/2011 e 183, caput, do RiCade, que é
+estabelecida com base no valor da multa esperada, sobre o qual incidirá uma redução
+percentual que varia conforme o momento da propositura do TCC e a amplitude e
+utilidade da colaboração do compromissário com a instrução processual, de acordo
+com o artigo 186, incisos I, II, III e artigo 187 do RiCade, nos seguintes termos:
+a. logo após a instauração de procedimento administrativo e antes de o
+processo ser remetido ao Tribunal do Cade, a contribuição pecuniária
+será calculada com base na multa esperada, sobre a qual incidirá:
+i. uma redução de 30% a 50% para o primeiro proponente de TCC;
+ii. uma redução de 25% a 40% para o segundo proponente de TCC;
+iii. uma redução de até 25% para os demais proponentes de TCC; e
+b. depois de os autos serem remetidos ao Tribunal do Cade: a contribuição
+pecuniária será calculada com base na multa esperada, sobre a qual
+incidirá uma redução de até 15% (esses parâmetros podem sofrer
+alteração se também houver Leniência Plus, vide pergunta 89)
+II. é necessário o reconhecimento de participação na conduta investigada por parte do
+proponente, nos termos do artigo 184 do RiCade;
+III. deve haver colaboração do proponente com a instrução processual, nos termos do
+artigo 185 do RiCade;
+IV. o proponente obrigar-se-á a não praticar a conduta investigada, nos termos do §1º
+do artigo 85 da Lei nº 12.529/2011;
+V. será fixada multa para o caso de descumprimento, total ou parcial, das obrigações
+compromissadas.
+Como o TCC não gera benefícios automáticos na seara criminal, o Ministério Público não é
+interveniente no acordo e pode propor ação penal contra os compromissários. Não
+obstante, caso o interessado em celebrar TCC com o Cade queira também negociar,
+paralelamente, acordo de colaboração premiada com o Ministério Público e/ou a Polícia
+Federal (vide pergunta 25), a Superintendência-Geral do Cade pode auxiliar a interlocução
+com o Ministério Público e/ou a Polícia Federal, sendo que a negociação e a assinatura de
+eventuais acordos de colaboração premiada ocorrem a critério dessas autoridades.
+Com o objetivo de facilitar a interlocução entre o compromissário e o Ministério Público, o
+Cade, em 16 de março de 2016, assinou Memorando de Entendimentos com o Grupo de
+Combate a Cartéis do Ministério Público Federal em São Paulo formalizando a possibilidade
+de coordenação institucional caso os proponentes tenham interesse em colaborar tanto no
+24âmbito do TCC com o Cade quanto em acordo de colaboração com o MPF/SP. Foram
+previstas duas possibilidades de acordos no âmbito criminal paralelamente à celebração de
+TCCs: (i) Acordo de Colaboração Premiada, nos termos da Lei 12.850/2013 (Art. 4º), e (ii)
+Confissão qualificada pela delação, nos termos da Lei 8.137/90 (Art. 16).
+Pontue-se que, ainda que não haja acordo de leniência celebrado com o Cade, é possível
+que apenas a negociação de um Termo de Compromisso de Cessação (TCC) esteja
+disponível para a empresa e/ou indivíduos, a depender do preenchimento ou não dos
+requisitos para a negociação e celebração de cada um desses tipos de acordo (vide
+pergunta 12).
+25. No que consiste o acordo de colaboração premiada?
+A “colaboração premiada” no Brasil consta em diferentes leis especiais do ordenamento
+jurídico brasileiro, como na Lei nº 7.492/86 (sobre os crimes contra o sistema financeiro
+nacional, em seu art. 25, § 2º), na Lei nº 8.072/90 (sobre crimes hediondos, em seu art. 8º,
+§ único), na Lei nº 8.137/90 (crimes contra a ordem tributária, econômica e relações de
+consumo, art. 16, § único), na Lei nº 9.613/1998 (sobre os crimes de “lavagem” e ocultação
+de bens, direitos e valores, em seu art. 1º, §5º), na Lei nº 9.807/1999 (sobre a organização
+e a manutenção de programas especiais de proteção a vítimas e testemunhas ameaçadas,
+em seu art. 14), na Lei nº 11.343/2006 (sobre crimes previstos na lei de drogas, art. 41), no
+Código Penal (em seu art. 159) e na Lei nº 12.850/2013 (sobre crimes de organização
+criminosa, em seu art. 4º).
+O acordo de colaboração premiada, especificamente no âmbito da Lei nº 12.850/2013
+(sobre crimes de organização criminosa), trata de acordo no âmbito criminal, possível de
+ser celebrado com a pessoa física denunciante que aceite colaborar voluntariamente com
+a investigação da autoridade competente e com o processo criminal, o que pode resultar
+no benefício do perdão judicial ou da redução de até dois terços da pena privativa de
+liberdade ou da substituição por restritiva de direitos. Ademais, o instituto deve ser objeto
+de homologação pelo juiz, por meio de requerimento do Delegado de Polícia, do membro
+do Ministério Público ou do colaborador assistido por seu defensor.
+Assim, o acordo de colaboração premiada não deve ser confundido com o acordo de
+leniência antitruste, uma vez que se tratam de institutos distintos, com diferentes normas
+e características.
+2526. Qual a relação entre o Acordo de Leniência do Cade e o Acordo de Leniência previsto na
+Lei nº 12.846/2013 (“Lei da Empresa Limpa”/“Lei Anticorrupção”)?
+O acordo de leniência previsto na Lei nº 12.846/2013 (“Lei da Empresa Limpa”/”Lei
+Anticorrupção”) beneficia as empresas responsáveis pela prática de atos lesivos à
+Administração Pública nacional e estrangeira definidos no artigo 5º e é celebrado pela
+autoridade máxima de cada órgão ou entidade, sendo que, no âmbito do Poder Executivo
+Federal, a Controladoria-Geral da União (CGU) é o órgão competente.
+Esse tipo de acordo pode ser celebrado apenas com a pessoa jurídica, a qual deverá atender
+a cinco critérios:
+I. ser a primeira a manifestar interesse em cooperar para a apuração de ato lesivo
+específico, quando tal circunstância for relevante;
+II. ter cessado completamente seu envolvimento no ato lesivo a partir da data da
+propositura do acordo;
+III. admitir sua participação na infração administrativa;
+IV. cooperar plena e permanentemente com as investigações e o processo
+administrativo e comparecer, sob suas expensas e sempre que solicitada, aos atos
+processuais, até o seu encerramento; e
+V. fornecer informações, documentos e elementos que comprovem a infração
+administrativa.
+Uma vez cumprido o acordo de leniência previsto na Lei nº 12.846/2013, a empresa poderá
+ter os seguintes benefícios:
+I. isenção da publicação extraordinária da decisão administrativa sancionadora;
+II. isenção da proibição de receber incentivos, subsídios, subvenções, doações ou
+empréstimos de órgãos ou entidades públicos e de instituições financeiras
+públicas ou controladas pelo Poder Público;
+III. redução do valor final da multa aplicável, observado o disposto no art. 23; ou
+IV. isenção ou atenuação das sanções administrativas previstas nos arts. 86 a 88 da Lei
+no 8.666, de 1993, ou de outras normas de licitações e contratos.
+Observa-se que na hipótese de a empresa ou pessoa física ter participado de ilícito
+envolvendo, concomitantemente, os crimes de cartel e outros ilícitos, não há regra legal
+pré-definida sobre qual órgão deve ser primeiramente procurado pelo proponente do
+acordo. Se o proponente buscar primeiramente o Cade, a Superintendência-Geral do Cade
+poderá realizar a coordenação com o Ministério Público, a CGU e/os outros órgãos
+investigadores, a pedido do proponente do acordo de leniência antitruste. Já na hipótese
+26de o proponente buscar primeiramente o Ministério Público, a CGU e/ou outros órgãos,
+esses também poderão, na sequência, buscar a SG/Cade para negociar o acordo de
+leniência antitruste, a pedido do proponente do acordo.
+Todavia, observa-se que as negociações de acordo de leniência previstas na Lei nº
+12.529/2011 e na Lei nº 12.846/2013 ocorrem no âmbito de autoridades distintas e as
+negociações são independentes entre si. A negociação e a assinatura de ambos os acordos
+de leniência, portanto, ocorrem a critério das autoridades competentes e não dependem
+da celebração ou de acordos com outras autoridades. Assim, embora a Superintendência-
+Geral do Cade possa auxiliar os proponentes do acordo de leniência nessa interlocução com
+a autoridade competente para a investigação de outros ilícitos, a negociação e a assinatura
+de eventuais acordos ocorrem a critério das autoridades competentes.
+27. Há um modelo de Acordo de Leniência?
+Sim. Um modelo padrão de acordo de leniência antitruste pode ser acessado aqui.
+Destaca-se que, em regra, deve ser adotada a redação padrão do acordo de leniência do
+Cade, a fim de agilizar as negociações e manter isonomia nos acordos. Pedidos de alteração
+pelo proponente devem ser excepcionais e devidamente fundamentados em vista de
+circunstâncias do caso concreto. A SG/Cade também se reserva o direito de fazer alterações
+e atualizações no modelo padrão conforme as circunstâncias do caso concreto.
+PARTE II. FASES DA NEGOCIAÇÃO DO ACORDO DE LENIÊNCIA
+NO CADE
+28. Como se negocia um Acordo de Leniência no Cade?
+Em linhas gerais, a negociação de um acordo de leniência é realizada em 3 (três) fases,
+as quais serão analisadas detalhadamente ao longo deste Guia:
+I. Fase do pedido de marker;
+II. Fase de apresentação de informações e documentos que comprovem a infração
+noticiada ou sob investigação; e
+III. Fase de formalização do acordo de leniência.
+27Segunda Fase:
+apresentação de
+informações e Terceira Fase:
+Primeira Fase:
+documentos que formalização do Acordo
+pedido de marker
+comprovem a infração de Leniência
+noticiada ou sob
+investigação
+PARTE II.1. PRIMEIRA FASE: PEDIDO DE MARKER
+29. O que é o pedido de marker?
+O pedido de marker é o ato em que o proponente do acordo de leniência entra em contato
+com a Superintendência-Geral do Cade a fim de comunicar o interesse em propor acordo
+de leniência em relação a uma determinada conduta anticoncorrencial coletiva e, assim,
+garantir que é o primeiro proponente em relação a essa conduta. Trata-se, portanto, de
+uma espécie de corrida entre os participantes da conduta anticompetitiva para contatar a
+autoridade antitruste e reportar a infração e, com isso, se candidatar aos benefícios do
+acordo de leniência – os quais são conferidos apenas ao primeiro proponente a se qualificar
+junto a SG/Cade, nos termos da Lei 12.529/2011.
+30. Quem deve ser procurado na Superintendência-Geral do Cade para o pedido de marker?
+O proponente poderá oferecer proposta de Acordo de Leniência acessando a plataforma
+Clique Leniência para preencher ao questionário de forma simples, prática e segura.
+Poderá também realizar o pedido de marker ao Coordenador-Geral da Coordenação-Geral
+de Análise Antitruste 10, ou, na sua ausência, ao Superintendente Adjunto da
+Superintendência-Geral, pelo telefone +55 61 3221-8563. Sugere-se informar
+expressamente que a ligação tem como objetivo realizar pedido de marker para a
+negociação de uma nova proposta de acordo de leniência.
+28Também é possível realizar o pedido de marker de forma presencial (no endereço SEPN
+515, Conjunto D, Lote 4, Ed. Carlos Taurisano, Brasília/DF) e por escrito (mediante
+apresentação de requerimento), ou ainda pelo email leniencia@cade.gov.br, devendo
+informar expressamente se tratar de pedido de marker, conforme artigos 198, caput e 200
+do RiCade.
+Ressalte-se que o proponente não deve realizar o pedido de marker a nenhum outro
+servidor do Cade, pois tais pedidos são considerados inválidos. Essa medida visa,
+principalmente, a garantir a segurança do Programa de Leniência.
+31. O que deve ser reportado à Superintendência-Geral do Cade para o pedido de marker?
+Conforme o artigo 198, §1º do RiCade, e independentemente de o pedido ser feito
+oralmente ou por escrito, o proponente deve apresentar as seguintes informações, ainda
+que parciais, acerca da infração noticiada:
+I. “Quem?”: a qualificação completa do proponente do acordo de leniência, bem como
+a identidade dos outros autores conhecidos da infração denunciada. Em regra,
+portanto, não é possível verificar a disponibilidade do marker de forma anônima;
+II. “O quê?”: o mercado e os produtos ou serviços afetados pela infração denunciada;
+III. “Quando?”: a duração estimada da infração denunciada, quando possível;
+IV. “Onde?”: a área geográfica afetada pela infração denunciada. Na hipótese de um
+cartel internacional, deve ser informado que a conduta tem o potencial de gerar
+efeitos no Brasil, nos termos do art. 2º, caput da Lei nº 12.529/2011.
+Importa destacar que a quantidade de informações necessárias para assegurar o pedido de
+marker pode variar conforme o caso, uma vez que haverá circunstâncias nas quais a
+Superintendência-Geral do Cade necessitará de mais ou menos informações para saber se
+o marker se encontra ou não disponível para a infração denunciada ou sob investigação.
+32. O pedido de marker deve estar acompanhado de documentos comprobatórios da
+infração noticiada?
+Não necessariamente. A Superintendência-Geral do Cade não exige que o pedido de
+marker esteja acompanhado de documentos e/ou evidências que atestem a existência da
+infração noticiada, uma vez que estes deverão ser exibidos na fase de apresentação de
+informações e documentos que comprovem a infração noticiada ou sob investigação (vide
+Parte II.2.). Nessa fase inicial, para que o pedido de marker (Termo de Marker) seja
+29concedido, o proponente deve ser o primeiro a se qualificar perante a SG/Cade (vide
+pergunta 31).
+33. Por que é importante fazer o pedido de marker o quanto antes?
+O tempo é essencial para um pedido de marker bem-sucedido. A Superintendência-Geral
+do Cade celebra apenas um acordo de leniência por infração concorrencial entre
+concorrentes, de modo que os infratores - sejam empresas, sejam pessoas físicas - estão
+em uma corrida entre si para ser o primeiro a pleitear os benefícios do Programa de
+Leniência do Cade. Ainda que o proponente não disponha imediatamente de todas as
+informações necessárias para a celebração da proposta de acordo de leniência, é
+recomendável que o interessado contate a SG/Cade (vide pergunta 29) o quanto antes,
+pois outro participante da mesma infração poderá fazê-lo a qualquer momento, tornando
+o marker indisponível, mesmo com uma diferença de minutos entre ambas as propostas.
+34. Como a Superintendência-Geral do Cade verifica a disponibilidade da marker?
+Após o recebimento de um pedido de marker denunciando uma conduta, a
+Superintendência-Geral do Cade averiguará internamente a sua disponibilidade,
+verificando:
+I. se houve pedido de marker anterior por parte de outra empresa ou pessoa física
+relacionado à mesma conduta;
+II. se há negociação de acordo de leniência em andamento com outra empresa ou
+pessoa física relacionada à mesma conduta;
+III. se possui conhecimento prévio sobre a conduta – se houver, a SG/Cade verificará se
+dispõe de provas suficientes para assegurar a condenação da empresa ou pessoa
+física envolvida na infração ou se há a possibilidade de negociar uma Leniência Parcial
+(vide pergunta 38); e
+IV. se há acordo de leniência assinado com outra empresa ou pessoa física, com ou sem
+a instauração de Inquérito ou Processo Administrativo.
+35. Qual é o prazo para a Superintendência-Geral do Cade responder se há ou não
+disponibilidade de um marker para negociação do Acordo de Leniência?
+A Superintendência-Geral do Cade verifica a disponibilidade do marker para negociação de
+acordo de leniência no prazo máximo de 5 (cinco) dias úteis (art. 198, §2º do RiCade), mas,
+em geral, a resposta é informada no mesmo dia ou no dia seguinte ao pedido.
+3036. O que ocorre caso o primeiro lugar na fila esteja disponível?
+O primeiro a comparecer perante a Superintendência-Geral do Cade para denunciar uma
+infração obterá uma declaração que atesta o seu comparecimento naquela data para
+apresentar informações referentes a práticas anticompetitivas praticadas por determinada
+empresa e/ou pessoa física no mercado, na área geográfica e no período reportados
+(“Termo de Marker”). Ainda, a declaração certifica que o proponente reúne os requisitos
+para negociar um acordo de leniência e sinaliza, se for o caso, se já há investigação em
+curso (vide pergunta 19). Na data de emissão da declaração é agendada uma nova reunião,
+a fim de que seja apresentada à SG/Cade a primeira proposta de acordo de leniência pelo
+proponente (art. 198, §3º do RiCade). Para acessar o modelo do Termo de Marker, clique
+aqui. Vale ressaltar que a simples concessão do marker não confere ao proponente
+nenhum dos benefícios da celebração do acordo de leniência.
+37. O que ocorre caso o primeiro lugar na fila não esteja disponível?
+Caso o proponente não seja o primeiro a comparecer perante a Superintendência-Geral ou,
+por outra razão, não haja mais disponibilidade para a propositura do acordo de leniência
+para a conduta noticiada, o Superintendente-Geral, o Coordenador-Geral da CGAA 10 ou
+outro servidor expressamente designado para essa finalidade, informará tal
+indisponibilidade ao proponente, podendo certificá-lo de que consta na fila de espera para
+eventual proposição de um acordo de leniência sobre a mesma infração noticiada (art. 199,
+caput do RiCade).
+Nessa hipótese, a certidão emitida pela SG/Cade conterá a qualificação completa do
+proponente, os outros autores conhecidos da infração a ser noticiada, os produtos ou
+serviços afetados, a área geográfica afetada e, quando possível, a duração estimada da
+infração noticiada, além da data e horário do comparecimento perante a
+Superintendência-Geral, sem qualquer informação sobre a identidade dos demais
+proponentes e sobre a ordem cronológica de espera do proponente com relação a
+eventuais outros proponentes anteriores ou subsequentes (art. 199, §1º do RiCade). Assim,
+a “fila de espera” mantida pela SG/Cade é organizada por ordem de chegada (2º, 3º e 4º
+colocados, por exemplo), mas os demais proponentes não têm conhecimento da posição
+exata em que se encontram na fila de espera.
+Constar em “fila de espera” pode ser importante por pelo menos dois motivos. Em primeiro
+lugar porque o próximo proponente da fila (2º, 3º, 4º, etc., conforme a ordem cronológica)
+31será convidado a negociar novo acordo de leniência caso a negociação do acordo de
+leniência antitruste em andamento seja rejeitada, seja por desistência do proponente
+detentor do marker, seja por descumprimento dos requisitos legais ou dos prazos previstos
+no §3º do art. 198 e do artigo 204 do RiCade (art. 199, §2º do RiCade).
+Em segundo lugar, é importante constar na “fila de espera” porque, caso a negociação do
+acordo de leniência em andamento seja aceita e o acordo seja assinado, os proponentes
+que ainda estiverem “em fila de espera” terão seus pedidos de marker automaticamente
+convertidos em pedidos para negociação de Termo de Compromisso de Cessação (TCC)
+(vide perguntas 23 e 24) (art. 199, §4º do RiCade). Nesse caso, os proponentes serão
+convocados, também segundo a ordem dos pedidos de marker para negociação de
+leniência, para manifestar interesse na negociação de TCC, podendo obter os benefícios
+advindos da assinatura deste acordo, tais como a redução da contribuição pecuniária
+devida, conforme artigo 85 da Lei nº 12.529/2011 e artigos 183 a 188 do RiCade. Assim,
+caso os proponentes manifestem interesse na negociação de TCC, o pedido será
+encaminhado à Coordenação-Geral da SG/Cade responsável pelo caso até mesmo antes da
+instauração do Processo Administrativo.
+Às informações fornecidas pelos proponentes na fila de espera serão dadas as garantias do
+artigo 205 (art. 199, §3º do RiCade).
+38. O que acontece se a Superintendência-Geral do Cade já tiver conhecimento prévio da
+infração reportada no pedido de marker?
+Se já houver procedimento administrativo aberto com indícios razoáveis de práticas
+anticompetitivas (vide pergunta 19), mas as provas forem insuficientes para garantir a
+condenação da empresa e/ou da pessoa física por ocasião da propositura do acordo de
+leniência, o marker também poderá ser concedida, mas apenas para uma Leniência Parcial.
+39. O Termo de Marker pode ser alterado?
+É possível que o Termo de Marker seja alterado. É importante que as informações
+constantes do Termo de Marker sejam as mais completas possíveis (vide perguntas 29).
+Todavia, se novas informações e documentos forem descobertos ao longo das
+investigações conduzidas pelo proponente, é possível alterar o Termo de Marker para
+incluir tais informações e, assim, alterar o seu escopo, conforme as circunstâncias do caso
+concreto. Por exemplo, poderá ser ampliado o período estimado da conduta ou a área
+geográfica afetada, dentre outras informações sobre as condutas reportadas. O Termo de
+32Marker pode eventualmente ser alterado inclusive para incluir condutas que não haviam
+sido consideradas inicialmente, desde que não haja negociação de acordo de leniência
+celebrado e/ou em andamento abrangendo tais condutas e desde que faça parte da mesma
+dinâmica anticompetitiva.
+A ampliação do escopo do Termo de Marker poderá ser realizada apenas se satisfeitos os
+requisitos constantes dos artigos 86 da Lei nº 12.529/2011 e 197 do RiCade (vide pergunta
+12) e se o proponente não agiu de má-fé nem tentou ocultar ou dissimular as informações
+posteriormente relatadas. Caso haja novas informações – entendidas como informações
+ou documentos desconhecidos ou não disponíveis no início das negociações – sobre a
+conduta já reportada em acordo de leniência em negociação (vide pergunta 52) ou em
+acordo de leniência já assinado (vídeo pergunta 81), o acordo de leniência antitruste deve
+ser complementado.
+Se as informações recém descobertas configurarem uma nova e distinta conduta
+anticompetitiva, o proponente do acordo de leniência deve submeter à Superintendência-
+Geral do Cade um novo pedido de Termo de Marker, o qual será avaliado de forma
+autônoma (vide pergunta 52).
+40. Pode o proponente desistir da celebração de Acordo de Leniência?
+Sim. Ao proponente também é facultado desistir da proposta de acordo de leniência a
+qualquer momento, antes de sua assinatura (art. 205, RiCade) (vide perguntas 41, 55 e 56).
+41. O que ocorre em caso de desistência da proposta de Acordo de Leniência?
+Em caso de desistência do proponente – assim como em caso de rejeição da proposta de
+acordo pela Superintendência-Geral do Cade (vide perguntas 55 e 56) –, todos os
+documentos apresentados ao Cade serão devolvidos ao proponente e todas as
+informações prestadas serão mantidas sob sigilo, não sendo permitido ao Cade
+compartilhar ou fazer uso dessas informações para nenhum fim, inclusive investigatório
+(art. 86, §9º da Lei nº 12.529/2011), salvo na hipótese de serem voluntariamente
+apresentadas em sede de eventual Termo de Compromisso de Cessação.
+Ou seja, o Cade não poderá instaurar qualquer investigação com base nas informações
+prestadas pelo proponente no âmbito da negociação fracassada de acordo de leniência. A
+Superintendência-Geral, poderá, todavia, abrir investigação para apurar fatos relacionados
+33à proposta de acordo de leniência quando a nova investigação decorrer de indícios ou
+provas autônomas (art. 205, § 4º, RiCade).
+Além disso, a desistência ou rejeição da proposta não importam em reconhecimento de
+ilicitude da conduta analisada ou confissão quanto à matéria de fato (art. 86, §10 da Lei nº
+12.529/2011).
+Caso haja outros proponentes na “fila de espera”, a SG/Cade entrará em contato com o
+próximo proponente, na ordem da fila, para que seja aberta nova negociação (vide
+pergunta 37).
+42. A obtenção de um Termo de Marker garante a celebração do Acordo de Leniência?
+Não. A obtenção de um “Termo de Marker” não garante a celebração do acordo de
+leniência, pois para isso devem ser preenchidos todos os requisitos legais (vide pergunta
+12) e superadas todas as fases de negociação do acordo de leniência no Cade.
+43. Quem tem acesso ao Termo de Marker?
+O acesso ao Termo de Marker, bem como às informações e aos documentos apresentados
+no âmbito da negociação do acordo de leniência – todos de caráter confidencial –, são
+restritos ao Superintendente-Geral, ao Superintendente Adjunto e ao Coordenador-Geral
+e servidores da CGAA 10, responsáveis pela condução da negociação do acordo de
+leniência. Via de regra, nenhum outro servidor do Cade tem acesso aos documentos e
+informações recebidas no âmbito da negociação com a SG/Cade.
+44. Qual o período de duração do pedido de marker?
+No primeiro Termo de Marker, a Superintendência-Geral indicará prazo para que o
+proponente apresente a “Proposta de acordo de leniência”. As extensões da validade da
+proposta serão definidas caso a caso, segundo os prazos intermediários definidos pela
+SG/Cade (art. 198, §3º c/c art. 204 do RiCade).
+45. Quais são os procedimentos de confidencialidade do Cade na fase de pedido de marker?
+A confidencialidade da proposta e de todo o processo de negociação de acordo de leniência
+é tanto uma garantia dada ao proponente pela Superintendência-Geral do Cade (art. 86,
+34§9o da Lei no 12.529/2011 c/c art. 200, §§ 1º e 2º do RiCade) quanto um dever do
+proponente, sob pena de prejudicar o andamento das investigações.
+A SG/Cade segue um conjunto de procedimentos visando à garantia de confidencialidade
+durante a fase de pedido de marker, tais como:
+I. o acesso à informação sobre o pedido de marker é restrito ao Superintendente-Geral,
+ao Superintendente Adjunto e ao Coordenador-Geral e servidores da CGAA 10,
+responsáveis pela condução da negociação do acordo de leniência;
+II. os dados anotados no controle interno da CGAA 10 para a análise do pedido de
+marker são acessados apenas por servidores dessa unidade;
+III. os documentos eventualmente apresentados para o pedido de marker são
+guardados em sala-cofre, que apenas são acessados por servidores da CGAA 10;
+IV. a apresentação e guarda dos documentos e/ou evidências para análise da SG/Cade
+poderá ser combinada caso a caso entre os proponentes e a SG/Cade; e
+V. a comunicação com os proponentes do acordo de leniência é realizada, sobretudo,
+oralmente.
+PARTE II.2. SEGUNDA FASE: APRESENTAÇÃO DE INFORMAÇÕES E
+DOCUMENTOS QUE COMPROVEM A INFRAÇÃO NOTICIADA OU SOB
+INVESTIGAÇÃO
+46. Em que consiste a apresentação de informações e documentos que comprovem a
+infração noticiada ou sob investigação?
+A apresentação de informações e documentos que comprovem a infração noticiada ou sob
+investigação representa a primeira proposta de acordo de leniência, que pode ser realizada
+oralmente ou por escrito (art. 200 do RiCade). A apresentação dessas informações e
+documentos é feita posteriormente à solicitação do pedido de marker e obtenção do
+Termo de Marker (vide pergunta 29 e 36), devendo o proponente indicar, necessariamente
+(arts. 201, 202 e 203 do RiCade):
+I. sua qualificação completa;
+II. o detalhamento da infração notificada ou sob investigação;
+III. a identificação dos outros autores da infração notificada ou sob investigação;
+IV. os produtos ou serviços afetados;
+V. a área geográfica afetada;
+VI. a duração estimada da infração notificada ou sob investigação;
+35VII. uma descrição das informações e dos documentos que serão apresentados por
+ocasião da assinatura do acordo de leniência;
+VIII. informação sobre outras propostas de Acordos de Leniência sobre a mesma prática
+apresentadas em outras jurisdições, salvo vedação para tanto por parte da
+autoridade estrangeira;
+IX. que foi orientado a respeito de seus direitos, garantias e deveres legais;
+X. que foi orientado a se fazer acompanhar de advogado;
+XI. que está ciente de que o não atendimento às determinações da Superintendência-
+Geral do Cade implicará a desistência da proposta de acordo de leniência.
+Assim, após a obtenção do Termo de Marker e a submissão da proposta inicial de acordo
+de leniência, tem início a fase de negociação strictu sensu. Durante este período de
+negociação, o proponente deve fornecer informações detalhadas e documentos a respeito
+da prática denunciada (vide perguntas 47 e 48), conforme detalhado no item seguinte
+abaixo.
+47. Normalmente, quais são as informações que devem ser fornecidas pelo proponente do
+Acordo de Leniência?
+Via de regra, pelo menos as seguintes informações devem ser fornecidas pelo proponente
+do acordo de leniência:
+I. descrição sumária da infração noticiada ou sob investigação;
+II. identificação dos proponentes do acordo de leniência – empresas e/ou pessoas
+físicas, bem como descrição detalhada da participação de cada uma delas;
+III. identificação dos demais participantes da infração noticiada ou sob investigação –
+empresas e/ou pessoas físicas, bem como descrição detalhada da participação de
+cada uma delas, indicando, ainda, se possível, a hierarquia de atuação entre essas
+pessoas e as alterações de representação ao longo dos anos;
+IV. identificação dos concorrentes e clientes no mercado afetado;
+V. duração da infração noticiada ou sob investigação;
+VI. descrição detalhada da infração noticiada ou sob investigação – explicação sobre o
+objetivo da conduta anticompetitiva (por exemplo, fixação de preços e/ou condições
+comerciais, divisão de clientes e/ou troca de informações concorrencialmente
+sensíveis); a dinâmica da conduta (por exemplo, explicação da conduta
+anticompetitiva por cliente afetado, por licitação, por produto, a depender de como
+ocorriam os ajustes com os concorrentes); as datas e locais das reuniões; a frequência
+e o modo das comunicações; a organização do cartel (por exemplo, explicando os
+36documentos que embasavam e/ou auxiliavam os ajustes realizados entre
+concorrentes); mecanismos de monitoramento e/ou de punição implementados pelo
+cartel, etc;
+VII. descrição dos efeitos no território brasileiro, se a conduta for internacional –
+explicação sobre os efeitos diretos ou indiretos da infração no Brasil;
+VIII. descrição do mercado afetado com explicação sobre o produto ou serviço objeto da
+infração noticiada; e
+IX. indicação dos documentos existentes que comprovem a infração noticiada.
+A estrutura e a quantidade de informações e documentos requeridos pela
+Superintendência-Geral do Cade podem ser alteradas no caso concreto para que a infração
+noticiada seja descrita da maneira mais clara possível.
+Na fase inicial de negociação, o proponente do acordo de leniência deve apresentar à
+SG/Cade as informações do modo mais completo possível, ainda que não disponha
+imediatamente da totalidade das informações necessárias para o aperfeiçoamento da
+proposta de acordo de leniência. Para que a proposta de acordo de leniência seja aceita
+pela SG/Cade, as informações apresentadas pelo proponente devem ser consideradas
+suficientes. O proponente tem o dever de apresentar todas as informações das quais tem
+conhecimento a respeito da infração noticiada, agir com boa-fé e não ocultar ou dissimular
+informações ou apresentar informações falsas/enganosas.
+O proponente do acordo de leniência só deve relatar outras infrações criminais ou
+administrativas que não configurem conduta anticoncorrencial se tais informações forem
+imprescindíveis para a compreensão da SG/Cade com relação à infração noticiada.
+Observa-se, contudo, que os benefícios do acordo de leniência só alcançarão as condutas
+devidamente reportadas à SG/Cade e que sejam objeto de acordo de leniência (vide
+perguntas 18 a 20).
+48. Normalmente, quais documentos devem ser apresentados pelo proponente do Acordo
+de Leniência?
+O proponente do acordo de leniência deve apresentar todos os documentos de que
+disponha e que considere hábeis a comprovar a infração denunciada. Os tipos de
+documentos mais comumente recebidos pela Superintendência-Geral do Cade para
+comprovação da conduta anticoncorrencial coletiva noticiada ou sob investigação são os
+seguintes:
+37I. troca de e-mails entre concorrentes;
+II. troca de e-mails entre pessoas da mesma empresa, relatando os ajustes entre
+concorrentes;
+III. troca de correspondências entre concorrentes;
+IV. troca de correspondências entre pessoas da mesma empresa, relatando ajustes entre
+concorrentes;
+V. troca de mensagens de texto e/ou voz eletrônicas (SMS, WhatsApp, Skype, etc.);
+VI. agendas, anotações manuscritas, cadernos;
+VII. gravações;
+VIII. tabelas e planilhas Excel;
+IX. comprovantes de reuniões (atas, compromisso de Outlook, agendamento de salas,
+reservas de hotéis, extrato de cartão de crédito, comprovantes de viagens etc.);
+X. extratos telefônicos;
+XI. cartões de visita de concorrentes;
+XII. editais e atas de julgamento de certames, etc.
+Ademais, a SG/Cade pode solicitar, de acordo com critérios de conveniência e
+oportunidade, a realização de entrevistas com as pessoas físicas proponentes do acordo de
+leniência para obter mais informações e detalhes a respeito dos documentos apresentados
+e dos fatos reportados ao Cade (vide pergunta 51 ).
+A não apresentação de documentos minimamente aptos a comprovar a infração relatada
+poderá ensejar a rejeição da proposta de acordo de leniência pela SG/Cade, sendo que esta
+avaliação é realizada caso a caso (vide pergunta 55 ).
+49. Quais os cuidados que o proponente do Acordo de Leniência deve ter na coleta dos
+documentos eletrônicos e físicos?
+É importante que os proponentes do acordo de leniência tomem cuidados técnicos durante
+a coleta das evidências. Via de regra, o proponente deve registrar a cadeia de custódia dos
+documentos eletrônicos e físicos que serão submetidos ao Cade, ou seja, a história
+cronológica da evidência, apresentando informações específicas dos responsáveis pela
+coleta.
+Além disso, para documentos eletrônicos, o proponente do acordo de leniência deve, via
+de regra, ser capaz de descrever o método de extração das evidências, ou seja: a) identificar
+os dispositivos (CPU, Servidor de e-mails, notebook e pendrive) de onde foram obtidas as
+evidências e quem eram os proprietários/custodiantes/usuários dos equipamentos e/ou
+38dos arquivos extraídos; b) identificar os procedimentos adotados e
+equipamentos/softwares utilizados na extração da evidência. Descrever, por exemplo, se
+foi realizada uma imagem forense do HD, detalhando qual tipo de imagem (AD1, E01, DD);
+se foi utilizado bloqueador de escrita, detalhando qual modelo; qual hash obtido da
+imagem (MD5, SHA1); e qual a data da coleta e o local; c) identificar os tipos de arquivos
+extraídos e softwares compatíveis para abri-los com as versões (por exemplo, arquivos de
+e-mail, Lotus Notes, Outlook, arquivo de banco de dados); d) informar outros dados
+relevantes para o caso. Ademais, via de regra, o proponente do acordo de leniência deve
+ser capaz de descrever o método de análise/perícia das evidências eletrônicas, explicitando
+qual(is) software(s) foi(ram) utilizado(s) e quem realizou a análise.
+Em se tratando de e-mails, além das informações acima, devem ser apresentadas as
+informações de metadados do cabeçalho (Header) de cada e-mail, tais como: From, To, Cc,
+Bcc, Subject, Date, Delivery Date, Received, Return-Path, Envelop-to, Message-id, Mime-
+version, Content-type, etc.
+Ressalte-se que o proponente do acordo de leniência deve preservar, sempre que possível,
+os discos rígidos ou equipamentos originais (de onde foram extraídas as evidências) e/ou
+sua imagem forense autenticada preservada sem alterações; bem como extrair números
+hash dos documentos originais, pois podem ser solicitados pela Superintendência-Geral do
+Cade durante as investigações. É possível apresentar ao Cade os discos rígidos ou
+equipamentos originais, sempre que isso for factível.
+Em regra, quando os documentos apresentados não forem os originais, deve ser fornecida,
+comprovação de que os originais existem ou, então, a justificativa de sua inexistência.
+A SG/Cade avaliará, caso a caso, os cuidados tomados para garantir a autenticidade dos
+documentos ao original. Ressalta-se, de todo modo, que eventual impossibilidade no
+prosseguimento de alguns dos procedimentos mencionados não invalida a possibilidade de
+utilização dos documentos apresentados.
+50. Como acontece a apresentação de informações e documentos pelo proponente do
+Acordo de Leniência à Superintendência-Geral do Cade?
+A comunicação entre a Superintendência-Geral do Cade e os proponentes do acordo de
+leniência e/ou seus procuradores é realizada, sobretudo, de modo oral (presencialmente
+ou por telefone). Caso sejam necessárias trocas de e-mails entre a SG/Cade e os advogados,
+não há menção ao nome da empresa e/ou das pessoas físicas e do mercado objeto da
+negociação do acordo de leniência, de modo a resguardar a confidencialidade da
+39negociação. Maiores detalhes sobre os procedimentos de confidencialidade adotados na
+fase de apresentação de informações e documentos podem ser encontrados na pergunta
+57 .
+Ademais, a apresentação de informações e documentos que comprovem a infração
+noticiada ou sob investigação é feita via pendrive, via física ou por outro meio a ser
+acordado entre o proponente e a SG/Cade, podendo ser inclusive criptografada. Os
+documentos eventualmente apresentados são guardados em sala-cofre, que apenas são
+acessados por servidores da CGAA 10, e a apresentação e guarda dos documentos e/ou
+evidências para análise da SG/Cade poderá ser combinada caso a caso entre os
+proponentes e a SG/Cade.
+51. Se, durante o curso da negociação, o proponente, em sua investigação interna, descobre
+evidências de que a atividade anticompetitiva era mais ampla do que a inicialmente
+relatada, a negociação poderá ser ampliada para incluir a recém-descoberta conduta?
+É importante que as informações constantes do Termo de Marker sejam as mais completas
+possíveis (vide perguntas 31 e 39). Todavia, se novas informações e/ou documentos forem
+descobertos ao longo das investigações conduzidas pelo proponente, é possível ampliar o
+escopo da negociação para incluir tais informações. Por exemplo, poderá ser ampliada a
+data da conduta ou a área geográfica afetada, dentre outras informações sobre as condutas
+reportadas.
+A ampliação do escopo da negociação, porém, poderá ser realizada apenas se satisfeitos
+os requisitos constantes dos artigos 86 da Lei nº 12.529/2011 e 197 do RiCade (vide
+pergunta 12) e se o proponente não agiu de má-fé ou tentou ocultar ou dissimular as
+informações posteriormente relatadas. Caso haja novas informações – entendidas como
+informações ou documentos desconhecidos ou não disponíveis no início das negociações
+– sobre a conduta já reportada em acordo de leniência já assinado (vide pergunta 81), o
+acordo de leniência deve ser complementado.
+Se as informações recém-descobertas configurarem uma nova e distinta conduta
+anticompetitiva, o proponente do acordo de leniência deve submeter à Superintendência-
+Geral do Cade um novo pedido de marker, o qual será avaliado de forma autônoma (vide
+pergunta 29).
+4052. O que é o Histórico da Conduta?
+O Histórico da Conduta é um documento elaborado pela Superintendência-Geral do Cade
+que contém a descrição detalhada da conduta anticompetitiva, conforme entendimento
+da SG/Cade, com base nas informações e nos documentos apresentados pelo proponente
+do acordo de leniência (vide perguntas 46 e 47). Trata-se de documento elaborado e
+assinado pela SG/Cade, o qual não é assinado pelo proponente do acordo de leniência ou
+por seus advogados.
+53. Qual o prazo total para a negociação do Acordo de Leniência?
+À medida que as informações e os documentos sejam apresentados pelo proponente, a
+negociação pode ser prorrogada por meio de “Termos de Reunião” (art. 201, III e IV do
+RiCade). Assim, a negociação será concluída quando finalizados os prazos intermediários
+definidos pela SG/Cade, nos termos do art. 198 §3º do RiCade (art. 204, caput, do RiCade).
+Os demais proponentes constantes em “fila de espera”, via de regra, apenas serão
+contatados após finalizada a negociação, nos termos dos §§ 2º, 3º e 4º do art. 199 do
+RiCade.
+54. Uma proposta de Acordo de Leniência pode ser rejeitada pelo Cade?
+Sim. Uma proposta de acordo de leniência pode ser rejeitada pelo Cade por diversas razões,
+dentre as quais se exemplifica as seguintes:
+I. não apresentação da proposta do acordo de leniência no prazo determinado quando
+da concessão do Termo de Marker (vide pergunta 44);
+II. ausência de cooperação, ao longo da negociação, seja pelo não fornecimento das
+informações e documentos requisitados pela Superintendência-Geral do Cade, seja
+pela obstrução às investigações, de qualquer modo (vide pergunta 53);
+III. insuficiência das informações e/ou documentos para evidenciar a prática noticiada
+ou sob investigação;
+IV. não demonstração dos efeitos da infração praticada em território estrangeiro no
+território nacional.
+A critério da SG/Cade, pode ser dada ciência prévia ao proponente a respeito da intenção
+em rejeitar o pedido de marker, conferindo-lhe uma última oportunidade para apresentar
+as informações e os documentos requeridos sobre o caso.
+4155. Em caso de rejeição da proposta de Acordo de Leniência, quais as garantias dos
+proponentes?
+Nos termos dos artigos 86, §10º da Lei nº 12.529/2011 e 205 do RiCade, na hipótese de
+rejeição da proposta pelo Superintendente-Geral do Cade – ou de desistência por parte do
+proponente (vide perguntas 40 e 41) –, a mesma não poderá ser divulgada, sendo que
+todos os documentos serão devolvidos e as informações e os documentos apresentados
+pelo proponente durante a negociação não poderão ser utilizados para quaisquer fins pelas
+autoridades que a eles tiveram acesso. Fica, todavia, ressalvada a possibilidade de ser
+instaurado procedimento investigativo baseado em indícios ou provas autônomas que
+chegarem ao conhecimento da SG/Cade por outros meios, conforme o art. 205, §4º do
+RiCade.
+Caso a proposta de acordo de leniência seja finalmente rejeitada pela SG/Cade, o
+proponente receberá um documento formal denominado “Termo de Rejeição”, no qual a
+SG/Cade declarará que as informações e documentos apresentados pelo proponente não
+foram capazes de comprovar a infração noticiada ou sob investigação, ou que não foram
+cumpridos quaisquer outros requisitos exigidos pelo artigo 86, §1º da Lei no 12.529/2011.
+Para acessar o modelo do Termo de Rejeição, clique aqui.
+Ademais, na hipótese de rejeição da proposta pelo SG/Cade – ou de desistência por parte
+do proponente (vide perguntas 40 e 41) –, caso haja outros proponentes na “fila de
+espera”, o Coordenador-Geral da CGAA 10 entrará em contato com o próximo proponente
+do acordo de leniência, na ordem de registro do seu pedido, para que sejam convidados a
+negociar novo acordo de leniência (vide pergunta 37).
+56. Em que momento a negociação do Acordo de Leniência será encerrada pela
+Superintendência-Geral do Cade e o caso encaminhado para assinatura?
+A negociação do acordo de leniência poderá ser prorrogada por meio de “Termos de
+Reunião” (art. 201, III e IV do RiCade).
+Uma vez apresentadas todas as informações e os documentos requeridos, o Coordenador-
+Geral da CGAA 10 encaminhará a proposta de acordo de leniência para a apreciação do
+Superintendente Adjunto. O Superintendente Adjunto poderá solicitar novos ajustes e/ou
+esclarecimentos ao proponente ou poderá encaminhar a proposta ao Superintendente-
+Geral para análise final. Se a análise for positiva, a proposta será considerada completa pela
+Superintendência-Geral do Cade e se inicia a fase de formalização do acordo de leniência
+(vide Parte II.3).
+4257. Quais são os procedimentos de confidencialidade do Cade na fase de apresentação de
+informações e documentos que comprovem a infração noticiada ou sob investigação?
+A confidencialidade da proposta e de todo o processo de negociação de acordo de leniência
+é tanto uma garantia dada ao proponente pela Superintendência-Geral do Cade (art. 86,
+§9o da Lei no 12.529/2011 c/c art. 200, §§ 1º e 2º do RiCade) quanto um dever do
+proponente, sob pena de prejudicar o bom andamento das investigações.
+A SG/Cade segue um conjunto de procedimentos visando à garantia de confidencialidade
+durante a fase de apresentação de informações e documentos, tais como:
+I. o acesso à informação sobre a negociação é restrito ao Superintendente-Geral, ao
+Superintendente Adjunto e ao Coordenador-Geral e servidores da CGAA 10,
+responsáveis pela condução da negociação do acordo de leniência;
+II. as informações apresentadas à CGAA 10 são acessados apenas por servidores dessa
+unidade;
+III. os documentos apresentados para análise da SG/Cade durante a negociação são
+guardados em sala-cofre e são acessados apenas por servidores da CGAA 10;
+IV. a apresentação e guarda dos documentos e/ou evidências para análise da SG/Cade
+poderá ser combinada caso a caso entre os proponentes e a SG/Cade;
+V. a comunicação com os proponentes do acordo de leniência é realizada, sobretudo,
+de modo oral. Caso sejam necessárias trocas de e-mails entre a SG/Cade e os
+advogados, não há menção ao nome da empresa, dos funcionários e/ou do mercado
+objeto da negociação do acordo de leniência, de modo a resguardar a
+confidencialidade da negociação;
+VI. no Histórico da Conduta elaborado pela SG/Cade (vide pergunta 52) não há menção
+direta ao nome da empresa e/ou das pessoas físicas como signatárias do acordo de
+leniência – elas são identificadas como participantes da conduta, assim como as
+demais empresas, e o nome das pessoas físicas é identificado por siglas;
+VII. a identificação da empresa e/ou das pessoas físicas signatárias do acordo de leniência
+é realizada em apartado ao Histórico da Conduta; e
+VIII. os servidores da CGAA 10 mantêm atualizado relatório de custódia interno, que
+registra passo a passo as pessoas que têm acesso às informações e documentos da
+negociação do acordo de leniência.
+4358. As pessoas físicas podem ser entrevistadas pela Superintendência-Geral do Cade?
+Sim. A Superintendência-Geral do Cade pode solicitar, de acordo com critérios de
+conveniência e oportunidade, a realização de entrevistas com as pessoas físicas
+proponentes do acordo de leniência para obter mais informações e detalhes a respeito dos
+documentos apresentados (vide pergunta 59).
+59. Quais são os procedimentos para realização de entrevistas com Signatários?
+Quando a Superintendência-Geral entender como convenientes e oportunas, as
+entrevistas realizadas no âmbito da negociação de Acordos de Leniência devem ser
+agendadas com a CGAA 10, sendo realizadas nos termos dos artigos 86 e 87 da Lei nº
+12.529/2011. Quando da realização de 2 (duas) ou mais entrevistas, orienta-se o
+agendamento em dias consecutivos.
+Após o agendamento da entrevista, deve(m) ser designado(s) o(s) advogado(s) que
+irá(irão) acompanhar o Signatário, sendo recomendada a presença de, no máximo, 3
+advogados, e fortemente sugerida a intervenção de apenas 1 advogado durante a
+realização da entrevista. O(s) advogado(s) devem ser designados por procuração
+pessoal, com expressa outorga de poderes para o(s) advogado()s designado(s).
+A entrevista terá início pontual no horário agendado, sem definição a priori de término.
+Orienta-se que eventuais passagens aéreas sejam compradas para o último horário
+disponível do dia ou para o dia seguinte, de modo a não haver restrição de tempo, seja
+pelo entrevistado, seja pelos advogados. Antes do início da entrevista é necessário que
+todos os celulares sejam desligados e que, durante a realização da entrevista o advogado
+não interrompa o entrevistador. Caso queiram fazer considerações adicionais ou
+perguntas, deverão fazê-las ao final da condução de toda a entrevista pelo
+entrevistador, para que o caráter colaborativo da entrevista não seja prejudicado.
+Por fim, a colaboração do entrevistado deve ser ampla e irrestrita com a
+Superintendência-Geral, nos termos do art. 86, §1º, inciso IV, da Lei 12.529/2011. Isso
+inclui a colaboração sobre todas as práticas anticompetitivas que o entrevistado tenha
+praticado e que já tenha manifestado interesse em colaborar com a Superintendência-
+Geral, seja a colaboração prestada à CGAA 10 ou a qualquer outra Coordenação-Geral
+de Análise Antitruste. Caso o entrevistado se recuse a colaborar em casos nos quais ele
+possui marker, a Superintendência-Geral pode entender que há violação à obrigação de
+colaboração plena e permanente do proponente (vide art. 86 §1º, inciso IV e art. 85,
+§1º, inciso I da Lei 12.529/2011) e interromper as negociações com o entrevistado.
+Esclarece-se que a colaboração é voluntária, de modo que não será exigida nos casos
+nos quais o entrevistado não manifestou interesse em colaborar.
+44PARTE II.3. TERCEIRA FASE: FORMALIZAÇÃO DO ACORDO DE LENIÊNCIA
+60. Em que consiste a fase de formalização do Acordo de Leniência?
+Após o encerramento da fase de apresentação de informações e documentos sobre a
+prática noticiada ou sob investigação (vide perguntas 46 a 48), são iniciados os trâmites de
+formalização do acordo de leniência, tanto por parte do proponente quanto pela SG/Cade.
+O proponente do acordo de leniência deve providenciar, por exemplo, a autenticação de
+documentos, tradução juramentada e a consularização de documentos estrangeiros, bem
+como tomar as cautelas necessárias em relação ao manuseio dos documentos eletrônicos
+(vide pergunta 49). Devem comparecer para a assinatura do acordo de leniência todos os
+seus proponentes, incluindo a empresa e/ou as pessoas físicas, ou seus respectivos
+representantes legais com poderes específicos para confessar, propor, , negociar e celebrar
+o acordo de leniência (vide pergunta 64 e 71). Para acessar modelos de Procuração, clique
+aqui.
+Nesta fase, a SG/Cade também inicia o contato com o(s) Ministério(s) Público(s) para
+apresentação do acordo de leniência (vide perguntas 61 e 62).
+61. Como ocorre a participação do(s) Ministério(s) Público(s) no Acordo de Leniência?
+Apesar de os arts. 86 e 87 da Lei nº 12.529/2011 não exigirem expressamente a
+participação do Ministério Público para a celebração de acordo de leniência, a experiência
+consolidada do Cade é no sentido de viabilizar a participação do Ministério Público, titular
+privativo da ação penal pública e detentor de atribuição criminal, tendo em vista as
+repercussões criminais derivadas da leniência. Assim, o Ministério Público Estadual e/ou o
+Federal participa como agente interveniente no acordo, a fim de conferir maior segurança
+jurídica aos signatários do acordo de leniência, além de facilitar a investigação criminal do
+cartel (vide perguntas 17; e 62).
+62. Como e quando é feito o contato com o(s) Ministério(s) Público(s)?
+Com vistas a resguardar o sigilo da proposta de acordo de leniência, nos termos do artigo
+86, §9º da Lei nº 12.529/2011, bem como racionalizar o processo de negociação, em regra,
+somente após o encerramento da fase de apresentação de informações e documentos
+sobre a prática noticiada ou sob investigação (vide Parte II.2 e pergunta 57), a SG/Cade
+inicia o contato com o(s) Ministério(s) Público(s) para apresentação do caso.
+45Eventualmente, no interesse do caso e diante de circunstâncias específicas, a SG/Cade, o
+proponente e o Ministério Público podem, em comum acordo, optar por iniciar o contato
+com o Ministério Público em uma etapa inicial da negociação do acordo de leniência.
+As tratativas com o(s) Ministério(s) Público(s) apresentam, via de regra, três fases:
+I. definição de qual Ministério Público atuará no caso (vide pergunta 61);
+II. ofício ao(s) Ministério(s) Público(s) para agendamento de reunião – nesse ofício, a
+SG/Cade indica que recebeu informações da prática de infrações contra a ordem
+econômica previstas nos artigos 36, § 3º, I da Lei nº 12.529/2011, que eventualmente
+podem caracterizar os crimes previstos no artigo 4º da Lei nº. 8.137/90, e que o
+denunciante manifestou interesse em participar do Programa de Leniência. A
+SG/Cade não encaminha as informações e os documentos objeto da proposta de
+acordo de leniência, em razão do seu caráter confidencial. Com esse ofício, é realizada
+a distribuição interna do caso no Ministério Público Estadual e/ou Federal
+competente para posterior agendamento de reunião com o Promotor e/ou com o
+Procurador da República ; e
+III. realização de reunião com o(s) Ministério(s) Público(s) para apresentação do caso e
+definição de estratégia de atuação articulada dos dois órgãos.
+É facultado ao Ministério Público, como interveniente signatário, realizar
+questionamentos, solicitar alterações e requerer complementos ao acordo de leniência.
+Todavia, eventuais solicitações de alteração por parte do Ministério Público são geralmente
+intermediadas pela SG/Cade, tendo em vista a competência legal da SG/Cade para celebrar
+Acordos de Leniência (art. 86 da Lei nº 12.529/2011).
+Pelo fato de a Lei nº 12.529/2011 designar a SG/Cade como o órgão competente para
+celebrar o acordo de leniência antitruste, o Ministério Público não tem acesso às
+informações e aos documentos negociados com o proponente do acordo de leniência
+durante a fase de apresentação de informações e documentos sobre a prática noticiada ou
+sob investigação.
+Após a realização de reunião com o(s) Ministério(s) Público(s) e realizados os ajustes
+eventualmente propostos pelo Promotor e/ou Procurador da República, as partes
+validarão os termos do acordo de leniência e será marcada uma data para a sua assinatura
+(vide pergunta 64).
+Vale destacar que, eventualmente, as partes podem, primeiramente, procurar o Ministério
+Público e, em um segundo momento, buscar a SG/Cade para negociar o acordo de leniência
+46antitruste sobre o cartel – prática que configura tanto um crime, quanto uma infração
+administrativa (vide perguntas 3 a 5). A negociação do acordo de leniência, porém,
+permanece sujeito à disponibilidade do marker (vide pergunta 34) e do preenchimento dos
+requisitos legais (vide pergunta 12).
+63. Como é definido qual Ministério Público atuará no caso concreto?
+Tal definição deriva das atribuições fixadas em lei e em jurisprudência para
+desdobramentos criminais das infrações à ordem econômica. Frequentemente se trata de
+ofensa que agride o mercado de forma ampla e por isso atrai competência do Ministério
+Público Federal (ainda mais evidente quando envolvidos recursos federais). Em casos
+envolvendo interesses locais, contudo, é possível a interveniência de Ministério Público
+Estadual. Em qualquer circunstância a definição do Ministério Público anuente demanda
+colaboração com o proponente e manifestação de interesse por parte do respectivo órgão
+ministerial.
+64. Onde ocorre a assinatura do Acordo de Leniência?
+A assinatura do acordo de leniência pode acontecer na sede do Cade em Brasília, na cidade
+em que se localize o Ministério Público Estadual e/ou Federal que atuará como
+interveniente no caso (vide pergunta 62) ou em outro local acordado entre as partes.
+O proponente, acompanhado ou representado por seu advogado e munido dos
+documentos de representação (vide pergunta 59), deverá comparecer na data e local
+previamente designado para a assinatura do acordo de leniência, oportunidade em que
+comparecerão também o(s) representantes(s) do Cade e o membro do Ministério Público
+interveniente.
+65. O Acordo de Leniência pode ser firmado em formato bilíngue?
+Sim. O acordo de leniência antitruste pode ser firmado em formato bilíngue (português e
+inglês), ainda que não se trate de cartel internacional. Em caso de dúvida, a versão em
+português prevalecerá sobre a versão em inglês. Um modelo público padrão de acordo de
+leniência pode ser acessado aqui.
+4766. Em que momento o proponente do Acordo de Leniência deve entregar a versão física
+definitiva dos documentos que evidenciam a infração noticiada?
+A entrega definitiva à SG/Cade e ao Ministério Público dos documentos que evidenciam a
+infração noticiada deverá ser feita apenas no ato da assinatura do acordo de leniência.
+Neste momento é ainda solicitado que o proponente providencie cópias digitalizadas dos
+documentos acrescidos de marcas de rastreabilidade cuja matriz é fornecida pela SG/Cade.
+Para documentos registrados originariamente em suportes eletrônicos, são exigidos
+preservação do suporte ou, quando da existência de impedimento, fornecimento de cópias
+eletrônicas certificadas como idênticas às originais em perícia técnica.
+Em caso de desistência ou rejeição da proposta de acordo de leniência, a SG/Cade garante
+o sigilo das informações e documentos apresentados (vide perguntas 40 e 41, bem como
+55 e 56, respectivamente).
+67. Quais documentos de representação legal devem ser apresentados pelas empresas e/ou
+pessoas físicas para a assinatura do Acordo de Leniência?
+Para a assinatura do acordo de leniência, devem ser apresentados pelas empresas e/ou
+pessoas físicas os seguintes documentos:
+I. cópia autenticada dos documentos societários que demonstram o cumprimento das
+exigências legais e contratuais pela empresa (por exemplo, estatuto ou contrato
+social) e cópia autenticada do RG e CPF dos representantes legais da empresa;
+II. cópia autenticada do documento de identificação pessoal das pessoas físicas; e
+III. procuração com firma reconhecida e com poderes específicos para confessar, propor,
+negociar e celebrar acordo de leniência com o Cade e o Ministério Público Federal
+e/ou Estadual. Para acessar modelos de Procuração, clique aqui.
+68. Caso as pessoas físicas decidam não assinar o Acordo de Leniência junto com a empresa,
+isso prejudica a formalização do acordo com o Cade?
+Não. Na hipótese de o proponente do acordo de leniência ser empresa, os benefícios do
+acordo podem ser estendidos aos seus dirigentes, administradores e empregados (atuais
+ou passados), bem como às empresas do mesmo grupo econômico, de fato ou de direito,
+envolvidas na infração, desde que cooperem com as investigações e firmem o instrumento
+48em conjunto com a empresa proponente (art. 86, §6º da Lei nº 12.529/2011 c/c art. 197,
+§1º do RiCade) (vide pergunta 15).
+A assinatura das pessoas físicas e de empresas do mesmo grupo econômico pode ser
+realizada conjuntamente com a empresa proponente ou em adesão posterior formalizada
+em documento apartado, quando autorizada pelo Cade, segundo critério de conveniência
+e oportunidade (art. 197, §2º do RiCade). As empresas e seus dirigentes, administradores
+e empregados podem ser representadas pelos mesmos procuradores ou por procuradores
+diferentes.
+Caso, porém, os dirigentes, administradores e empregados (atuais ou passados) decidam
+não assinar o acordo de leniência, isso não prejudica a formalização do acordo de leniência
+com a empresa. Nesse caso, os benefícios do acordo (vide pergunta 18) não se estendem
+às pessoas físicas não signatárias. Assim, é altamente recomendável que a empresa
+explique aos seus funcionários (atuais ou passados) que eles somente obterão os benefícios
+do acordo de leniência antitruste caso assinem o acordo com a empresa e cooperem com
+as investigações.
+69. O que é a adesão ao Acordo de Leniência?
+Chama-se adesão ao acordo de leniência a assinatura de Aditivo ao acordo de leniência
+para a inclusão de pessoas físicas após a assinatura do acordo de leniência pela empresa.
+Caso o proponente do acordo de leniência seja empresa (vide pergunta 15), os benefícios
+do acordo podem ser estendidos aos seus dirigentes, administradores e empregados
+(atuais ou passados), bem como às empresas do mesmo grupo econômico, de fato ou de
+direito, envolvidas na infração, desde que cooperem com as investigações e firmem o
+instrumento em conjunto com a empresa proponente (art. 86, §6º da Lei nº 12.529/2011
+c/c art. 197, §1º do RiCade).
+A assinatura das pessoas físicas e de empresas do mesmo grupo econômico pode ser
+realizada conjuntamente com a empresa proponente ou em adesão formalizada em
+documento apartado e em momento subsequente, quando admitida pela autoridade,
+segundo critério de conveniência e oportunidade (art. 197, §2o do RiCade). Caso, porém,
+seja oportunizado à pessoa física a possibilidade de assinar o acordo de leniência junto com
+a empresa e a pessoa física decida por não o fazer (vide perguntas 15 e 67) , a adesão ao
+acordo de leniência em momento posterior se torna menos provável.
+49Vale destacar que a adesão ao acordo de leniência só será possível mediante o
+preenchimento dos requisitos para a celebração de um acordo de leniência (vide pergunta
+12), como, por exemplo, ter participado da conduta, confessar a participação no ilícito e
+colaborar com as investigações e, além disso, a SG/Cade não dispor de provas suficientes
+para assegurar a sua condenação. Um modelo público padrão de Termo de Adesão ao
+acordo de leniência pode ser acessado aqui – “Anexo I do Modelo de Acordo de Leniência”.
+Caso o signatário do acordo de leniência seja uma pessoa física, os benefícios não se
+estenderão à pessoa jurídica (art. 197, §3º do RiCade), que não poderá aderir ao acordo de
+leniência celebrado pela pessoa física (vide pergunta 15).
+70. O que pode ser feito se alguma das pessoas físicas não se comunicar em português?
+A pessoa física que não se comunicar em português é orientada a ser representada por
+advogado ou preposto (vide pergunta 71) e, por sua conta, poderá dispor de tradutor
+durante todo o processo de negociação do acordo de leniência. Excepcionalmente, caso
+não seja representado por advogado brasileiro, a Superintendência-Geral do Cade poderá
+avaliar a situação no caso concreto.
+71. As pessoas físicas que se encontrem fora do Brasil devem comparecer pessoalmente para
+a assinatura do Acordo de Leniência?
+O comparecimento de pessoas físicas estrangeiras para a assinatura do acordo de leniência
+depende do caso concreto. Via de regra, as pessoas físicas que se encontrarem fora do
+Brasil podem ser representadas por advogado ou preposto brasileiro (vide pergunta 70).
+72. A empresa signatária deverá ser representada por advogado ou por um preposto?
+A empresa e/ou pessoas físicas são instadas a fazerem-se acompanhar por um advogado
+ou por um preposto com procuração com firma reconhecida e com poderes específicos
+para a negociação e a celebração do acordo de leniência com o Cade e o Ministério Público
+Federal e/ou Estadual ( art. 203, II do RiCade).
+73. Quais condições e cláusulas são previstas no Acordo de Leniência?
+Preenchidas as condições legais para a celebração do acordo de leniência, devem constar
+do acordo as cláusulas arroladas nos incisos de I a VIII do art. 206, RiCade, a saber:
+50I. qualificação completa das empresas e pessoas físicas que assinarão o acordo de
+leniência e qualificação completa do representante legal (incluindo nome,
+denominação ou razão social, documento de identidade, CPF ou CNPJ, endereço
+completo, telefone, fax e correio eletrônico);
+II. qualificação do representante legal com poderes para receber intimações durante o
+curso do processo administrativo;
+III. fax e endereço de e_mail para intimações durante o curso do processo
+administrativo;
+IV. exposição dos fatos relativos à infração noticiada, com a identificação de seus
+autores, dos produtos ou serviços afetados, área geográfica afetada e duração da
+infração noticiada ou sob investigação, nos termos das informações e documentos
+apresentados pelos signatários – informações estas que são normalmente
+apresentadas no documento denominado Histórico da Conduta, elaborado pela
+Superintendência-Geral do Cade (vide pergunta 52);
+V. confissão expressa da participação da empresa e/ou da pessoa física signatária do
+acordo de leniência na infração noticiada;
+VI. declaração da empresa e/ou da pessoa física signatária do acordo de leniência de que
+cessou seu envolvimento na infração noticiada;
+VII. lista com todos os documentos e informações fornecidos pela empresa e/ou pela
+pessoa física signatária do acordo de leniência, com o intuito de comprovar a infração
+noticiada ou sob investigação;
+VIII. obrigações da empresa e/ou da pessoa física signatária do acordo de leniência:
+ apresentar à SG/Cade e a eventuais outras autoridades intervenientes do
+acordo de leniência todas as informações, documentos ou outros materiais
+de que detenham a posse, custódia ou controle, capazes de comprovar a
+infração noticiada ou sob investigação;
+ apresentar à SG/Cade e a eventuais outras autoridades intervenientes do
+acordo de leniência todas as informações, documentos ou outros materiais
+relevantes de que venham a ter conhecimento no curso das investigações;
+ apresentar todas as informações, documentos ou outros materiais
+relacionados à infração noticiada de que detenham a posse, custódia ou
+controle, sempre que solicitado pela SG/Cade e por eventuais outras
+autoridades intervenientes do acordo de leniência no curso das
+investigações;
+ cooperar plena e permanentemente com as investigações e o processo
+administrativo relacionado à infração relatada a ser conduzido pela SG/Cade
+e eventuais outras autoridades intervenientes do acordo de leniência;
+51 comparecer, quando solicitado, sob suas expensas, a todos os atos
+processuais até a decisão final sobre a infração noticiada, proferida pelo
+Tribunal do Cade;
+ comunicar à SG/Cade e a eventuais outras autoridades intervenientes do
+acordo de leniência toda e qualquer alteração dos dados constantes no
+instrumento de acordo de leniência, inclusive os qualificadores; e
+ portar-se com honestidade, lealdade e boa-fé durante o cumprimento
+dessas obrigações.
+IX. disposição de que o não cumprimento pelo signatário das obrigações previstas no
+acordo de leniência resultará em perda da imunidade com relação a multas e outras
+sanções;
+X. declaração da SG/Cade de que a empresa e/ou pessoa física signatária do acordo de
+leniência foi a primeiro a se qualificar com respeito à infração noticiada ou sob
+investigação, conforme o caso;
+XI. declaração da SG/Cade de que não dispunha de provas suficientes para assegurar a
+condenação da empresa e/ou da pessoa física signatária do acordo de leniência pela
+infração noticiada no momento da propositura do acordo de leniência;
+XII. declaração da SG/Cade a respeito de seu conhecimento prévio, ou não, sobre a
+infração noticiada, no momento da propositura do acordo de leniência; e
+XIII. outras obrigações que, diante das circunstâncias do caso concreto, forem reputadas
+necessárias.
+74. Há um modelo de Acordo de Leniência?
+Sim. Um modelo padrão de acordo de leniência pode ser acessado aqui. Destaca-se que,
+em regra, deve ser adotada a redação padrão do acordo de leniência a fim de agilizar as
+negociações e manter a isonomia nos acordos. Pedidos de alteração pelo proponente
+devem ser excepcionais e devidamente fundamentados em vista de circunstâncias do caso
+concreto. A SG/Cade também se reserva o direito de fazer alterações e atualizações no
+modelo padrão conforme as circunstâncias do caso concreto.
+75. Quais são os procedimentos de confidencialidade do Cade na fase de formalização do
+Acordo de Leniência?
+A confidencialidade da proposta de acordo de leniência é tanto uma garantia dada ao
+proponente pela Superintendência-Geral do Cade (art. 86, §9o da Lei no 12.529/2011 c/c
+52200, §§ 1º e 2º do RiCade) quanto um dever do proponente, sob pena de prejudicar o bom
+andamento das investigações.
+A SG/Cade segue um conjunto de procedimentos visando à garantia de confidencialidade
+durante a fase de formalização do acordo de leniência, tais como:
+I. ao enviar ofício ao(s) Ministério(s) Público(s) para agendamento de reunião, a
+SG/Cade indica que recebeu informações da prática de infrações contra a ordem
+econômica previstas nos artigos 36, §3º, I da Lei nº 12.529/2011, que eventualmente
+podem caracterizar os crimes previstos no artigo 4º da Lei nº 8.137/90, e que o
+denunciante manifestou interesse em participar do Programa de Leniência. A
+SG/Cade não encaminha as informações e os documentos objeto da proposta de
+acordo de leniência, em razão do seu caráter confidencial. Com esse ofício, é realizada
+a distribuição interna do caso no Ministério Público Estadual e/ou Federal
+competente para posterior agendamento de reunião com o Promotor e/ou com o
+Procurador da República (vide pergunta 61);
+II. no momento da apresentação da proposta de acordo de leniência ao representante
+do Ministério Público, é colhido “Termo de Recebimento” que atesta que o Promotor
+e/ou com o Procurador da República está ciente do sigilo das informações de que
+tenha tido conhecimento (art. 86 §§6o c/c 9o da Lei nº 12.529/2011);
+III. na interação da SG/Cade com órgãos externos, são apresentadas versões de
+documentos passíveis de rastreamento;
+IV. quando for necessário solicitar medida de busca e apreensão, não há menção direta
+ao nome da empresa como signatária do acordo de leniência na petição inicial da
+Procuradoria Federal Especializada no Cade (ProCade), sendo a empresa identificada
+como participante da conduta, assim como as demais empresas e o nome das pessoas
+físicas identificado por siglas; a identificação da empresa e das pessoas físicas
+signatárias do acordo de leniência é realizada em apartado ao Histórico da Conduta,
+elaborado pela SG/Cade (vide pergunta 52);
+PARTE III. APÓS A CELEBRAÇÃO DO ACORDO DE LENIÊNCIA
+76. O que acontece depois que o Acordo de Leniência é assinado?
+Após a assinatura do acordo de leniência, o Cade poderá instaurar Inquérito ou Processo
+Administrativo para apurar a infração noticiada no acordo de leniência, bem como realizar
+outras medidas de investigação do caso, como, por exemplo, a realização de busca e
+apreensão e/ou inspeção, requisição de informações e procedimentos de inteligência para
+detectar carteis em licitação (vide perguntas 78 e 79).
+53Em quaisquer cenários, ao longo de todo o processo as empresas e/ou pessoas físicas
+signatárias do acordo de leniência devem colaborar plena e permanentemente com as
+investigações e o processo administrativo, comparecendo, sob suas expensas, sempre que
+solicitada, a todos os atos processuais, até seu encerramento (art. 86 da Lei nº 12.529/2011
+e 197 c/c art. 206, I a VIII do RiCade)
+77. O que ocorre se não forem cumpridas as condições e cláusulas estipuladas no Acordo de
+Leniência?
+A Superintendência-Geral do Cade, quando da remessa do processo administrativo ao
+Tribunal do Cade, opina no sentido do cumprimento ou do descumprimento das obrigações
+dos signatários do acordo de leniência. A decisão final, proferida pelo Tribunal do Cade
+quando do julgamento do processo administrativo, avalia se as condições e cláusulas
+estipuladas no acordo de leniência (vide pergunta 72) foram ou não cumpridas e se a
+empresa e/ou a pessoa física signatária responsável pelo descumprimento perderá os
+benefícios com relação às multas e demais sanções cabíveis (art. 206, §1º, IX do RiCade). É
+o que ocorrerá, por exemplo, se o signatário deixar de cooperar com o Cade ou apresentar
+informações falsas. Não se considera, via de regra, descumprimento do acordo de leniência
+o fato de o Tribunal do Cade não condenar todas as empresas e/ou pessoas físicas
+identificadas como participantes da infração noticiada pelos signatários.
+Eventual não cooperação de um dos proponentes do acordo de leniência, seja ele empresa
+e/ou pessoa física, não contamina o acordo com relação aos demais beneficiários do
+acordo.
+Até hoje, nenhum dos Acordos de Leniência celebrados foi declarado descumprido pelo
+Tribunal do Cade. A verificação de eventual descumprimento é competência do
+Conselheiro-Relator, quando do julgamento do processo administrativo resultante da
+celebração do acordo de leniência, com a aprovação do plenário do Tribunal do Cade.
+78. Quando da instauração do Inquérito ou Processo Administrativo, quais informações
+sobre o Acordo de Leniência são tornadas públicas?
+Via de regra, o conteúdo do acordo de leniência e de todos os seus documentos
+relacionados são de acesso restrito e não serão divulgados ao público, mesmo após a
+eventual instauração de Inquérito ou Processo Administrativo pelo Cade, ressalvada a
+ordem judicial ou autorização expressa dos signatários. A identidade dos signatários será
+54tratada, via de regra, como de acesso restrito perante o público até o julgamento final pelo
+Cade do Processo Administrativo relativo à infração denunciada.
+Os representados no Processo Administrativo instaurado em decorrência de acordo de
+leniência, não poderão disponibilizar informações e/ou documentos para terceiros, outros
+órgãos governamentais ou autoridades estrangeiras. Os representados, ou seja, as pessoas
+físicas e jurídicas investigadas pela infração denunciada, terão acesso à identidade dos
+signatários e às demais informações e documentos do acordo de leniência. O acesso a tais
+informações, todavia, deverá ser usado estritamente para fins de exercício do direito ao
+contraditório e da ampla defesa no procedimento administrativo em trâmite perante o
+Cade (art. 207, §2º, I do RiCade).
+Caso haja necessidade de divulgação ou compartilhamento da informação de acesso
+restrito, por determinação judicial ou qualquer outra obrigação legal indisponível, os
+signatários deverão informar previamente à SG/Cade – ou serem informados pela SG/Cade
+– da necessidade de publicidade do conteúdo e o acesso será concedido exclusivamente
+para o destinatário da ordem judicial e/ou para o detentor da prerrogativa legal
+indisponível, preservando-se o acesso restrito ao público em geral.
+Em situações específicas, ainda é possível que a empresa e/ou as pessoas físicas signatárias
+abdiquem à confidencialidade da sua identidade e/ou do conteúdo do acordo de leniência
+e/ou de seus documentos e outros materiais anexados, em todo ou em parte, caso assim
+seja acordado entre os signatários, o Cade e o Ministério Público Estadual e/ou Federal, no
+interesse dos signatários ou da investigação. O Cade, porém, não requererá aos signatários
+que abdiquem da sua garantia de sigilo, caso desejem mantê-lo.
+A Superintendência-Geral do Cade segue um conjunto de procedimentos visando a
+garantia de confidencialidade após a assinatura do acordo de leniência e quando da
+instauração do Inquérito Administrativo ou do Processo Administrativo (vide pergunta 85).
+79. Quando da realização de uma busca e apreensão ou de outras diligências junto ao Poder
+Judiciário, quais informações do Acordo de Leniência são tornadas públicas?
+O acordo de leniência e as informações contidas nos documentos e outros materiais
+anexados poderão servir para subsidiar, por solicitação da Superintendência-Geral do Cade
+e/ou das autoridades criminais competentes, requerimento perante o Poder Judiciário de
+mandado de busca e apreensão, assim como outras diligências, de acordo com a Lei nº
+12.529/11. Quando apresentado requerimento perante o Poder Judiciário, a SG/Cade e/ou
+55as autoridades criminais competentes requererão a garantia de acesso restrito a
+informações e documentos apresentados pelos signatários e diligenciarão junto ao Poder
+Judiciário com o objetivo de resguardar o sigilo no âmbito da ação judicial.
+A SG/Cade segue um conjunto de procedimentos visando a garantia de confidencialidade
+aplicáveis também após a assinatura do acordo de leniência (vide pergunta 85).
+80. O signatário pode disponibilizar as informações e/ou documentos negociados no âmbito
+do Acordo de Leniência para terceiros, outros órgãos governamentais, ou autoridades
+estrangeiras?
+Não. A proteção da confidencialidade do acordo de leniência também é um dever do
+signatário, o qual tem a obrigação de cooperação e não pode comprometer o sigilo das
+investigações (art. 206, § 1º, VIII, “d”, e art. 207, § 2º, II do RiCade, c/c art. 86, § 9º da Lei
+nº 12.529/2011), a não ser que de outro modo seja expressamente acordado com a
+Superintendência-Geral do Cade.
+Tampouco os representados no Processo Administrativo instaurado em decorrência de
+acordo de leniência poderão disponibilizar informações e/ou documentos para terceiros,
+outros órgãos governamentais ou autoridades estrangeiras. Os representados, ou seja, as
+pessoas físicas e jurídicas investigadas pela infração denunciada, terão acesso à identidade
+dos signatários e às demais informações e documentos do acordo de leniência. O acesso a
+tais informações, todavia, deverá ser usado estritamente para fins de exercício do direito
+ao contraditório e da ampla defesa no procedimento administrativo em trâmite perante o
+Cade (art. 207, §2º, I do RiCade).
+81. O que o signatário deve fazer se, após a assinatura do Acordo de Leniência, novas
+informações ou documentos sobre a infração noticiada forem descobertos?
+Mesmo após a assinatura do acordo de leniência o signatário tem o dever de reportar à
+Superintendência-Geral do Cade novas informações e documentos referentes à infração
+noticiada (art. 206, § 1º, VIII, “d” do RiCade).
+A complementação da informação e apresentação de novos documentos faz parte da
+obrigação contínua de cooperação com as investigações e não ensejará alegação de
+descumprimento das obrigações do signatário do acordo de leniência, a menos que o
+proponente tenha tentado ocultar ou dissimular as informações posteriormente relatadas
+– entendidas como informações ou documentos desconhecidos ou não disponíveis no
+início das negociações. Podem ensejar o descumprimento do dever de cooperação, porém,
+56a hipótese de o signatário ocultar documentos dos quais já dispunha à época da negociação
+do acordo ou a apresentação de informações incoerentes sobre o mesmo fato.
+Se as informações recém descobertas configurarem uma nova e distinta conduta
+anticompetitiva, o proponente do acordo de leniência deve submeter à SG/Cade um novo
+pedido de marker, o qual será avaliado de forma autônoma (vide perguntas 29).
+82. Quando o cumprimento do Acordo de Leniência é declarado pelo Cade e quando termina
+o dever de cooperação do signatário?
+O acordo de leniência é considerado cumprido e cessa o dever de cooperação do signatário
+com o Cade após o julgamento do Processo Administrativo pelo Tribunal do Cade,
+oportunidade em que será atestado o cumprimento de todas as obrigações do signatário e
+conferidos os benefícios do acordo de leniência (art. 87 da Lei nº 12.529/2011 c/c art. 208
+do RiCade). Todavia, caso haja algum desmembramento do Processo Administrativo, os
+signatários do acordo de leniência também devem permanecer cooperando com as
+investigações.
+O dever de cooperação do signatário do acordo de leniência com o Cade não se estende a
+eventuais ações judiciais resultantes do processo administrativo decidido pelo Tribunal do
+Cade, salvo se houver entendimento contrário entre as partes e o Cade no caso concreto.
+O signatário deve, todavia, informar ao Cade sobre a existência de todas as ações judiciais,
+bem como acordos judiciais e extrajudiciais, no Brasil ou no exterior, que versem sobre
+quaisquer aspectos da conduta objeto do acordo de leniência celebrado que seja do seu
+conhecimento.
+83. O signatário de um Acordo de Leniência pode responder por ação de reparação de danos?
+Sim. Os prejudicados pela conduta anticompetitiva poderão ingressar em juízo para, em
+defesa de seus interesses individuais ou individuais e homogêneos, obter a cessação de
+práticas que constituam infração da ordem econômica, bem como o recebimento de
+indenização por perdas e danos sofridos, independentemente do Inquérito ou Processo
+Administrativo em curso, que não será suspenso em virtude do ajuizamento de ação de
+ressarcimento (art. 47 da Lei nº 12.529.2011).
+A Lei nº 12.529/2011 não impõe ao signatário do acordo de leniência a obrigação de
+ressarcir eventuais consumidores lesados como uma condição sine qua non para a
+celebração do acordo de leniência. Todavia, a lei também não exime o beneficiário da
+57leniência de responder por danos concorrenciais em eventual ação civil pública e/ou ação
+privada de ressarcimento de danos movida em face do beneficiário da leniência e demais
+coautores.
+Na hipótese de o material apresentado voluntariamente pelo signatário do acordo de
+leniência ser solicitado por ordem judicial para embasar pretensão indenizatória no âmbito
+de uma ação de reparação de danos concorrenciais, a ProCade, via de regra, irá intervir
+para garantir a manutenção da confidencialidade das informações e documentos
+apresentados pelo proponente da leniência enquanto a investigação do Cade estiver em
+curso. Após a decisão final do Tribunal do Cade acerca do Processo Administrativo oriundo
+de acordo de leniência, a ProCade também intervirá no âmbito das ações de reparação de
+danos para garantir que o acesso ao material de leniência seja razoável, proporcional e
+legítimo quanto às informações essenciais para a compreensão do caso – presentes, via de
+regra, no voto do Conselheiro Relator.
+84. A confidencialidade das informações e documentos submetidos no curso da negociação
+do Acordo de Leniência permanece após o julgamento do processo administrativo pelo
+Tribunal do Cade?
+O Cade segue seus procedimentos de confidencialidade do acordo de leniência mesmo
+após o julgamento do processo administrativo pelo Plenário do Tribunal do Cade. O
+julgamento do processo administrativo torna pública a identidade da empresa e/ou das
+pessoas físicas beneficiárias do acordo de leniência, oportunidade em que também
+poderão ser divulgadas informações essenciais para a compreensão e deslinde do caso, por
+meio da divulgação do voto público do Conselheiro Relator. Via de regra, o voto é detalhado
+e pode incluir informações e imagens dos documentos necessários para a imputação da
+conduta anticompetitiva a todos os representados, sejam eles Signatários do acordo de
+leniência, Compromissários do TCC ou não. Mesmo após o julgamento pelo Tribunal, o
+Cade envidará seus melhores esforços para a manutenção da confidencialidade dos
+documentos e informações submetidos voluntariamente pelo beneficiário do acordo de
+leniência que configurarem segredo comercial das empresas.
+Assim, com relação aos terceiros interessados (por exemplo, clientes e consumidores que
+se sentirem prejudicados pela infração noticiada), o Cade, via de regra, não confere acesso
+a informações e aos documentos voluntariamente apresentados no âmbito do acordo de
+leniência para além dos que já constam no voto público do Conselheiro Relator. O Cade,
+todavia, tem o dever de prestar informações, a qualquer tempo, inclusive envolvendo
+documentos derivados de Acordos de Leniência, se houver ordem judicial nesse sentido.
+58Nesta hipótese, se houver decisão judicial com tal ordem, as informações e os documentos
+adicionalmente disponibilizados deverão ser de acesso restrito às partes beneficiárias da
+ordem, no bojo daquela ação específica e não poderão ser disponibilizados a terceiros
+(inclusive no exterior), sendo que a ProCade intervirá no processo judicial para garantir a
+manutenção do Programa de Leniência (vide pergunta 83).
+85. Quais são os procedimentos de confidencialidade do Cade após a assinatura do Acordo
+de Leniência?
+Via de regra, o conteúdo do acordo de leniência e de todos os seus documentos e outros
+materiais anexados são de acesso restrito e não serão divulgados ao público, tanto na
+instauração do Inquérito ou Processo Administrativo, quanto na realização de medida de
+busca e apreensão (vide perguntas 75 e 78).
+A Superintendência-Geral do Cade segue um conjunto de procedimentos visando à
+garantia de confidencialidade após a assinatura do acordo de leniência e quando da
+instauração do Inquérito ou Processo Administrativo, tais como:
+I. possibilidade de não ser publicada sequer a informação de que o caso é oriundo da
+celebração de um acordo de leniência;
+II. o despacho de instauração do processo administrativo, ao ser publicado no Diário
+Oficial da União, via de regra, não contém o nome das pessoas físicas e dos advogados
+do caso, mas apenas das pessoas jurídicas envolvidas em ordem alfabética;
+III. as informações e os documentos confidenciais do acordo de leniência permanecem
+em autos de acesso restritos no sistema eletrônico do Cade (SEI) e existe um único
+apartado público;
+IV. as informações referentes ao acordo de leniência são tarjadas e/ou destacadas como
+sendo de acesso restrito nas Notas Técnicas; e
+V. na interação com órgãos externos, são apresentadas versões de documentos
+passíveis de rastreamento.
+Ainda, caso seja realizada busca e apreensão, outros procedimentos de confidencialidade
+são adotados, tais como: (i) solicitação de grau máximo de sigilo no judiciário brasileiro; (ii)
+despacho pessoal da Procuradoria Federal Especializada do Cade (ProCade) com o juiz
+distribuidor e com o juiz distribuído para o caso e alerta específico sobre o sigilo do acordo
+de leniência; (iii) não há menção direta ao nome da empresa e/ou das pessoas físicas como
+signatárias do acordo de leniência – ela é identificada como participante da conduta, assim
+como as demais empresas, e o nome das pessoas físicas é identificado por siglas; (iv) a
+59identificação da empresa e das pessoas físicas signatárias do acordo de leniência é realizada
+em apartado ao Histórico da Conduta elaborado pela SG/Cade (vide pergunta 52); e (v)
+atuação pró-ativa da ProCade junto aos Tribunais em caso de recursos judiciais, após a
+implementação da medida de busca e apreensão.
+PARTE IV. LENIÊNCIA PLUS
+86. O que é Leniência Plus?
+A leniência plus consiste em um benefício de redução em um terço da penalidade
+aplicável à empresa e/ou à pessoa física que fornecer informações acerca de uma nova
+prática sobre a qual a Superintendência-Geral do Cade (“SG/Cade”) não tinha
+conhecimento prévio (novo acordo de leniência) (art. 86, §7º e §8º da Lei nº
+12.529/2011 c/c art. 209 do RiCade), quando esta mesma empresa e/ou pessoa física
+não se qualificar para um acordo de leniência com relação a uma outra infração da qual
+tenha participado (acordo de leniência Original).
+Seria o caso, por exemplo, de uma empresa e/ou pessoa física, já investigada por cartel
+em um 1º mercado (1º cartel), que não se habilita para a negociação de acordo de
+leniência (vide pergunta 37 acima). Se essa empresa e/ou pessoa física tiver interesse
+em colaborar com a investigação no 1º mercado, poderá fazê-lo por meio de um TCC
+(vide pergunta 23). Para além disso, essa empresa e/ou pessoa física pode reportar à
+SG/Cade outro cartel, em outro mercado (2º cartel), do qual a SG/Cade não tenha
+qualquer conhecimento prévio. Neste caso, além de obter todos os benefícios do acordo
+de leniência com relação ao 2º cartel, poderá obter uma redução de um terço da
+penalidade aplicável no 1º cartel. Visualmente, tem-se o seguinte:
+60Em termos cronológicos, a linha do tempo que deve ser percorrida pela empresa e/ou
+pessoa física que pretende se beneficiar de uma leniência plus é a seguinte:
+Investigação do 1o
+cartel em curso na
+SG/Cade (seja a B não se qualifica
+investigação pública para um Acordo de
+ou sigilosa) Leniência com B solicita marker
+relação ao 1o cartel sobre um 2o cartel,
+na mesma data ou em SG/Cade
+data posterior, em disponibiliza termo
+outro mercado do
+de marker para B e
+qual a SG/Cade não
+tinha qualquer inicia a negociação
+conhecimento prévio de um novo
+Acordo de
+Leniência no 2º
+cartel
+Esse instituto da leniência plus se coaduna com o objetivo maior da função repressiva
+do Cade, especificamente na persecução a cartéis, dado que a colaboração da empresa
+e/ou das pessoas físicas permite a obtenção de informações e documentos de condutas
+anticompetitivas distintas e ainda não descobertas pela SG/Cade.
+Assim, em relação à nova infração denunciada (2º cartel), uma vez satisfeitos os requisitos
+legais (vide pergunta 12), o proponente receberá todos os benefícios do acordo de
+leniência (art. 86, §1º e art. 86, §4º, I e II da Lei nº 12.529.2011). Em relação à infração já
+sob investigação da SG/Cade (1º cartel), o proponente poderá beneficiar-se com a redução
+de um terço da penalidade aplicável (“plus”).
+87. Como funciona o pedido de marker para negociação de acordo que enseja desconto de
+Leniência Plus?
+A solicitação de marker pela empresa e/ou pessoa física para negociação de acordo que
+enseja desconto de leniência plus segue as mesmas exigências que a solicitação de
+qualquer outro marker de acordo de leniência (vide pergunta 29 e seguintes). Caso
+disponível, o proponente passará a deter o referido Marker (vide pergunta 36).
+A especificidade deste pedido é que, ao solicitar um Marker com pedido adicional de
+aplicação de desconto de leniência plus, o proponente deve expressamente indicar em qual
+potencial multa pretende utilizar o benefício da leniência plus. A indisponibilidade pode se
+referir tanto a procedimentos administrativos em que já é investigado pela SG/Cade quanto
+a filas de espera em que eventualmente conste (vide pergunta 37).
+61Novamente, em termos cronológicos, a linha do tempo que deve ser percorrida pela
+empresa e/ou pessoa física que pretende solicitar um marker para negociação de acordo
+que enseja desconto de leniência plus é a seguinte:
+Investigação do 1o
+cartel em curso na
+SG/Cade (seja a B não se qualifica B solicita marker
+investigação pública para um Acordo de sobre um 2o cartel,
+ou sigilosa) Leniência com na mesma data ou em
+relação ao 1o cartel data posterior, em
+outro mercado do SG/Cade
+qual a SG/Cade não disponibiliza termo
+tinha qualquer
+de marker para B e
+conhecimento prévio
+e expressamente inicia a negociação
+indica que pretende de um novo
+utilizar o benefício
+Acordo de
+da leniência plusno
+Leniência no 2º
+1o cartel
+cartel
+Isso significa que, caso a empresa e/ou pessoa física tenha celebrado anteriormente um
+acordo de leniência em um mercado e, posteriormente, venha a ser investigado em
+outro processo administrativo em outro mercado, não será a ele aplicável o benefício
+da leniência plus de forma retroativa, pois não estará trazendo ao conhecimento do
+Cade qualquer informação nova, facultando-lhe a celebração de um TCC. Também em
+termos cronológicos, a linha do tempo que não concederá à empresa e/ou pessoa física
+o benefício da leniência plus é a seguinte:
+B solicita marker
+sobre um 1o cartel,
+em mercado do qual SG/Cade
+a SG/Cade não tem disponibiliza termo
+qualquer de marker para B e Investigação de um
+conhecimento prévio inicia a negociação 2o cartel em curso
+de um Acordo de na SG/Cade em que Pedido de B para que
+Leniência no 1º B seja investigado
+receba benefícios da
+cartel (seja a investigação
+leniência plus para o
+pública ou sigilosa)
+2º cartel será negado
+62Assim, a empresa e/ou pessoa física, ao solicitar um marker que enseja desconto de
+leniência plus, portanto, deverá se esforçar para trazer ao conhecimento da SG/Cade
+todas as condutas anticompetitivas em que tenha participado, alterando o seu
+comportamento em termos concorrenciais, sob pena de ter essa situação considerada
+nos termos do art. 39 c/c art. 45, II da Lei 12.529/2011.
+Ademais, cumpre ressaltar que, nos termos do art. 86, §7º da Lei n. 12.529/2011, para
+obter do benefício da leniência plus, é necessário que a solicitação de pedido de marker
+para o 2º cartel seja feita à SG/Cade antes da remessa do processo administrativo que
+investiga o 1º cartel para julgamento pelo Tribunal do Cade.
+88. É possível obter uma Leniência Plus em um processo administrativo se o proponente já
+tiver assinado anteriormente um Acordo de Leniência em um outro mercado?
+Não. A leniência plus é benefício concedido à empresa ou pessoa física que não obtiver,
+no curso de investigação ou processo administrativo em andamento, habilitação para a
+celebração do acordo de leniência e que, com isso, forneça informações acerca de um
+outro cartel sobre o qual a Superintendência-Geral do Cade não tenha qualquer
+conhecimento prévio (art. 209 do RiCade c/c art. 86, §9º da Lei 12.529/2011).
+Dessa maneira, caso a empresa e/ou pessoa física já tenha celebrado um acordo de
+leniência a respeito de um mercado e, após, é representada em um outro processo
+administrativo relativo a sua participação em uma conduta anticompetitiva em outro
+mercado, o benefício da leniência plus não lhe será concedido retroativamente, uma vez
+que não trará qualquer nova informação ao Cade, restando-lhe apenas a possibilidade
+de celebrar um TCC (vide questões 23, 36 e 87).
+Portanto, quando uma empresa e/ou pessoa física solicita ao Cade marker que enseja
+desconto de leniência plus, ela deve envidar seus melhores esforços para trazer à SG/Cade
+informações a respeito de todas as condutas anticompetitivas em que tenha participado, e
+também estimular o compliance e a prática das melhores condutas concorrenciais. Do
+contrário, podem ser aplicadas as penalidades previstas no art. 39 c/c art.45, da Lei n.
+12.529/2011.
+89. É possível conjugar os descontos de Termo de Compromisso de Cessação e de Leniência
+Plus?
+Sim. Nos termos do art. 209, §3º do RiCade, a empresa e/ou pessoa física que celebre
+um TCC com relação a determinada conduta anticompetitiva já em investigação (1º
+63cartel) pode ser beneficiada pela conjugação dos benefícios da leniência plus e do TCC,
+caso, até a remessa do processo para julgamento, se habilite para celebração de acordo
+de leniência relacionado a uma outra infração, da qual o Cade não tenha qualquer
+conhecimento prévio (2º cartel).
+A aplicação de ambos os descontos é realizada de modo subsequente (ou seja, primeiro
+incide o desconto de uma leniência plus e, posteriormente, o desconto do TCC) e não
+cumulativa (ou seja, não se trata de uma simples adição de ambos os descontos). A
+aplicação cumulativa poderia trazer benefício excessivo à empresa e/ou pessoa física que
+praticou cartel em diversos mercados, com possível redução do efeito dissuasório e com
+possível desincentivo à ágil apresentação de novas propostas de acordo de leniência. A
+aplicação subsequente possui interpretação que se extrai da própria legislação, e mantém
+a consistência entre o valor máximo de descontos da leniência plus e do TCC em
+comparação com a hipótese de leniência parcial (vide questão 19)..
+Assim, no mesmo exemplo apresentado na questão 86, se a empresa investigada por
+participar de cartel (1º cartel) no 1º mercado desejar celebrar TCC no processo
+administrativo originado pela investigação do 1º cartel e também denunciar à SG/Cade
+uma nova infração anticoncorrencial de que tenha participado (2º cartel) em um 2º
+mercado, da qual o Cade não possui conhecimento prévio, esta poderá, em relação ao 1º
+cartel, usufruir do benefício da leniência plus (redução de 1/3 da pena aplicacável) e assim,
+subsequentemente, mas sem acúmulo, receber o desconto pela celebração de TCC.
+Considerando que a negociação do TCC prevê faixas de descontos (vide Guia de TCC), a
+aplicação subsequente da leniência plus com o TCC pode resultar nos seguintes
+parâmetros totais de desconto sobre a multa esperada:
+ caso seja o primeiro proponente de TCC com leniência plus: de 53,33% a 66,67%;
+ caso seja o segundo proponente de TCC com leniência plus: de 50% a 60%; e
+ para os demais proponentes de TCC com leniência plus: até 50%.
+Ademais, relembra-se que nenhum requerimento poderá prever redução percentual
+superior àquela estabelecida em TCCs com leniência plus já celebrados no âmbito do
+mesmo processo administrativo, dada a aplicação subsidiária das regras do TCC (art. 209,
+§4º do RiCade).
+6490. O desconto da Leniência Plus é vinculado à celebração de Termo de Compromisso de
+Cessação?
+Não. A redução de um terço pertinente à leniência plus é aplicável sobre a multa
+esperada no procedimento administrativo em que é investigado no 1º cartel (art. 209,
+§1º do RiCade), não sendo necessário que o investigado negocie um TCC no âmbito do
+cartel em investigação para que seja aplicado o desconto da leniência plus, afinal este
+não está condicionado à existência de TCC. Contudo, caso o signatário do novo acordo
+de leniência também seja requerente de TCC, poderá receber ambos os benefícios.
+91. É possível obter descontos de duas Leniências Plus em um mesmo processo
+administrativo?
+Não. O benefício da leniência plus é aplicado apenas uma vez em cada investigação
+existente. A relação é um para um, ou seja, a cada novo acordo de leniência celebrado,
+obtém-se o benefício plus em uma das investigações.
+Caso, por exemplo, a empresa e/ou pessoa física já seja investigada por cartel em um 1º
+mercado (1º cartel), e não se habilite para a negociação de acordo de leniência e reporta
+à SG/Cade outro cartel, em outro mercado (2º cartel), do qual a SG/Cade não tenha
+qualquer conhecimento prévio, além de obter todos os benefícios do acordo de
+leniência com relação ao 2º cartel, poderá obter uma redução de um terço da
+penalidade aplicável no 1º cartel.
+Em outro exemplo, caso essa empresa e/ou pessoa física seja investigada por cartel em
+dois mercados (1º e 2º cartel), e não se habilite para a negociação de acordo de leniência
+em ambos, pode reportar à SG/Cade outros dois ou mais cartéis, do qual a SG/Cade não
+tenha qualquer conhecimento prévio. Assim, poderá obter uma redução de um terço da
+penalidade aplicável no 1º e no 2º cartel, após declaração de cumprimento dos novos
+Acordos de Leniência referentes aos 3º e 4º cartéis. Eventual 5º cartel reportado à
+SG/Cade não será hábil a conceder desconto de leniência plus, mas continua
+preservando todos os benefícios do novo acordo de leniência quanto ao 5º mercado.
+Visualmente, tem-se o seguinte:
+65Caso o proponente esteja negociando mais de um novo acordo de leniência junto à
+SG/Cade, via de regra, deverá ser utilizado para a leniência plus aquele referente ao
+primeiro pedido de marker cronologicamente obtido pelo proponente.
+92. Se fui habilitado a celebrar um Novo Acordo de Leniência, mas este ainda está em fase
+de negociação, posso utilizá-lo para obter o benefício da Leniência Plus em TCC?
+Sim, desde que a Superintendência-Geral, em análise de conveniência e oportunidade,
+verifique a forte probabilidade de êxito da proposta de novo acordo de leniência, é possível
+a concessão de uma “leniência plus condicional”. Trata-se de benefício que pode ser
+aplicado sob condição suspensiva, ou seja, caso o novo acordo de leniência em negociação
+não seja celebrado ou seja declarado o seu descumprimento pelo Tribunal do Cade, o
+desconto concedido antecipadamente em sede do TCC deverá ser recolhido como
+contribuição pecuniária complementar ao Fundo de Defesa dos Direitos Difusos (art. 209,
+§§2º e 3º, do RiCade). Além disso, especificamente para a hipótese de declaração de não
+cumprimento, o signatário perderá também os benefícios pertinentes ao novo acordo de
+leniência (art. 206, §1º, inciso IX do RiCade). Essa situação é expressamente prevista no
+Guia de TCC, seção V, item V.7 Modelo Anexo II – Detalhamento das Contribuições dos
+Compromissários, “Da contribuição complementar” [leniência plus condicional].
+93. Caso o proponente que se habilite para Leniência Plus esteja negociando mais de um
+Novo Acordo de Leniência e seja investigado em mais de um caso, como será a definição
+sobre a aplicação do benefício?
+Neste caso, a SG/Cade aplicará os seguintes critérios, observados os princípios da
+eficiência e da celeridade, a depender do caso concreto, para avaliar em qual
+investigação anterior será aplicado o benefício da leniência plus:
+ a ordem cronológica de solicitação dos pedidos de marker (vide pergunta 88), se
+aplicável;
+ o novo acordo de leniência que já tiver sido celebrado, se aplicável; e
+ se não houver nenhum novo acordo de leniência firmado, mas houver mais de
+uma negociação em paralelo de Novos Acordos de Leniência, existirão duas
+possibilidades, a depender de os pedidos de marker serem solicitados (a) em
+uma mesma data ou (b) em datas distintas.
+A. Quando os pedidos de marker são realizados em uma mesma data (“pedidos de
+marker de mesmo dia”), preponderará aquele que estiver mais avançado na
+negociação, a critério do proponente. O critério da ordem cronológica dos pedidos
+66de marker não é aplicável, restando para análise do benefício da leniência plus em
+multa esperada os seguintes critérios: o novo acordo de leniência já foi assinado? Se
+não, qual negociação está mais avançada? Assim, são possíveis os quatro cenários
+dispostos no Quadro 1 abaixo:
+Quadro 1. Cenários para pedidos de marker realizados em uma mesma data
+Marker 1 e Marker 2 - Indiferente para a aplicação dos
+benefícios da leniência plus do
+Ambos os acordos de
+Acordo de Leniência 1 ou do 2
+leniência assinados
+nas investigações em curso
+Marker 1 com Acordo de
+Necessariamente aplica-se o
+Leniência assinado e benefício da leniência plusdo
+Marker 1 e Marker 2 com Acordo em Acordo de Leniência 1 assinado
+Marker 2 negociação na investigação em curso
+(solicitados
+na mesma Marker 1 com Acordo em Necessariamente aplica-se o
+data) negociação e Marker 2 com benefício da leniência plusdo
+Acordo de Leniência Acordo de Leniência 2 assinado
+assinado na investigação em curso
+Necessariamente o Marker cuja
+negociação está mais avançada
+Marker 1 e Marker 2 com
+será utilizado para a aplicação
+Acordos em negociação
+do benefício da leniência plus
+na investigação em curso
+Os quatro cenários acima podem ser sintetizados da seguinte forma:
+i. Se os Novos Acordos de Leniência já estiverem assinados, qualquer um pode ser
+escolhido para obtenção de desconto de leniência plus, já que os pedidos de
+marker são do mesmo dia e os Novos Acordos de Leniência já foram assinados;
+ii. Se apenas um novo acordo de leniência já estiver assinado, o proponente
+necessariamente deverá usá-lo para pleitear a leniência plus; e
+iii. Se ainda não houver novo acordo de leniência celebrado, o proponente
+necessariamente deverá usar o marker cuja negociação está mais avançada para
+pleitear desconto de leniência plus. A avaliação de qual negociação está mais
+avançada caberá à SG/Cade.
+B. Quando os pedidos de marker são realizados em datas distintas (“pedidos de marker
+de dias distintos”), deverá, em regra, ser usado para a leniência plus o novo acordo
+de leniência referente ao primeiro pedido de marker. Devem ser analisados para
+eventual benefício de leniência plus três critérios: qual a ordem cronológica de
+solicitação dos pedidos de marker? O novo acordo de leniência já foi assinado? Se
+não, qual negociação está mais avançada? Assim, são possíveis os quatro cenários
+dispostos no Quadro 2 abaixo:
+67Quadro 2. Cenários para pedidos de marker realizados em datas distintas
+Necessariamente aplica-se o
+Marker 1 e Marker 2 -Ambos os benefício da leniência plusdo
+acordos de leniência assinados Marker1, mais antigo, na
+investigação em curso
+Necessariamente aplica-se o
+Marker 1 e Marker 1 com Acordo de
+benefício da leniência plusdo
+Marker 2 Leniência assinado e Marker 2
+Acordo de Leniência 1 assinado
+com Acordo em negociação
+(solicitados na investigação em curso
+em datas
+distintas,
+Necessariamente aplica-se o
+sendo o Marker 1 com Acordo em
+benefício da leniência plusdo
+Marker 1 negociação e Marker 2 com
+Acordo de Leniência 2 assinado
+solicitado Acordo de Leniência assinado
+na investigação em curso
+antes do
+Marker 2)
+Via de regra, aplica-se o benefício
+da leniência plusdo Marker 1,
+mais antigo. Excepcionalmente,
+Marker 1 e Marker 2 com
+será possível utilizar o benefício
+Acordos em negociação
+daquele Marker cujo Acordo
+esteja mais avançado na
+negociação.
+Para pedidos de marker de datas diferentes (“pedidos de marker de dias distintos”), os
+quatro cenários acima podem ser sintetizados da seguinte forma:
+(i) Se os Novos Acordos de Leniência já estiverem assinados, o pleito do
+benefício da leniência plus estará vinculado ao primeiro pedido de marker do
+proponente. Nesse caso, prepondera o critério cronológico do pedido de
+marker;
+(ii) Se apenas um novo acordo de leniência já estiver assinado e outro em
+negociação, o proponente necessariamente deverá usá-lo para pleitear a
+leniência plus;
+(iii) Se ainda não houver novo acordo de leniência celebrado, o pleito do
+benefício da leniência plus estará vinculado ao primeiro pedido de marker do
+proponente. Excepcionalmente, a SG/Cade poderá avaliar se é oportuno e
+conveniente que se aplique ao proponente o benefício daquele pedido de
+marker cujo Acordo estiver mais avançado na negociação, independente do
+critério cronológico. Nesse caso, serão observados os princípios da eficiência
+e da celeridade. A avaliação de qual negociação está mais avançada caberá à
+SG/Cade.
+6894. Leniência parcial pode ser usada para o desconto da Leniência Plus?
+Não. Leniência parcial trata-se de hipótese em que a SG/Cade tem conhecimento prévio da
+infração noticiada, mas não dispõe de provas suficientes para assegurar a condenação da
+empresa ou pessoa física por ocasião da propositura do acordo de leniência. Como previsto
+no art. 86, §7º, da Lei n. 12.529/2011 c/c o art. 209, caput, do RiCade, o novo acordo de
+leniência deve-se relacionar a uma nova infração da qual a SG/Cade não tenha qualquer
+conhecimento prévio. Nesse sentido, uma leniência parcial não faz jus à obtenção do
+benefício da leniência plus, uma vez que a SG/Cade já dispõe de conhecimento prévio da
+conduta anticompetitiva (art. 86, §1º, inciso III, § 4º inciso II da Lei n. 12.529/2011 c/c o art.
+197, incisos III e VI, e o art. 208, inciso II do RiCade).
+95. Quando o benefício da Leniência Plus é efetivamente recebido?
+Nos termos do art. 209, §1º do RiCade, a redução de um terço da pena aplicável à
+investigação do 1º cartel será concedida, via de regra, quando do julgamento do
+processo administrativo em relação ao 2º cartel, objeto do novo acordo de leniência
+reportado pela empresa e/ou pessoa física. Nesta oportunidade, o Tribunal do Cade
+apreciará o cumprimento das obrigações dos signatários do novo acordo de leniência
+(2º cartel) e, caso declare o cumprimento, será concedido o benefício da leniência plus
+no mercado do 1º cartel.
+Se, porém, o julgamento do processo administrativo referente ao 1º cartel for realizado
+pelo Tribunal do Cade anteriormente ao julgamento do processo administrativo em
+relação ao 2º cartel, objeto do novo acordo de leniência reportado pela empresa e/ou
+pessoa física, o art. 209, §2º do RiCade prevê uma alternativa. O julgamento do 1º cartel
+pelo Tribunal do Cade poderá então conter disposições no sentido de que, caso não seja
+verificado o cumprimento do novo acordo de leniência no processo administrativo do
+2º cartel, o desconto concedido antecipadamente deverá ser recolhido como
+contribuição pecuniária complementar ao Fundo de Defesa dos Direitos Difusos (art.
+209, §2º do RiCade).
+Por sua vez, também há a hipótese de o signatário do novo acordo de leniência ser
+também requerente de Termo de Compromisso de Cessação (TCC) e obter naquele
+Requerimento os benefícios da leniência plus (vide pergunta 90).
+69PARTE V. ACORDO DE LENIÊNCIA PARA CARTÉIS
+INTERNACIONAIS
+Será abordado a seguir o procedimento de acordo de leniência para cartéis internacionais,
+considerando as três fases da negociação do acordo de leniência no Cade (vide Parte II),
+que contemplam a fase de pedido de marker, a fase de apresentação de informações e
+documentos que comprovem a infração noticiada ou sob investigação e a fase de
+formalização do acordo de leniência.
+96. Para casos de cartel internacional, há alguma peculiaridade quanto ao pedido de marker
+(“marker”)?
+Não. Com relação à fase de pedido de marker, o proponente poderá apresentar-se à
+SG/Cade para formalizar um pedido de marker na forma oral ou escrita acerca de
+determinada infração a ser noticiada ou sob investigação, conforme artigo 198 do RiCade
+(vide Parte II.1).
+97. É possível a adoção de procedimento oral pelos proponentes e pela Superintendência-
+Geral do Cade, durante a fase de apresentação de informações e documentos que
+comprovem a infração noticiada ou sob investigação?
+Sim. Durante a segunda fase da negociação, os proponentes poderão apresentar
+informações e documentos que comprovem a infração noticiada ou sob investigação,
+por meio de duas formas: oral ou por escrito. Estas possibilidades (escrita ou oral)
+constarão no Termo de Marker a ser concedido pela SG/Cade (vide pergunta 36).
+Sob a forma oral, os proponentes poderão prestar depoimentos orais à SG/Cade
+fornecendo informações detalhadas e documentos a respeito da prática denunciada
+(vide pergunta 46), que subsidiarão a elaboração do documento denominado Histórico
+da Conduta, a ser assinado apenas pela Superintendência-Geral do Cade (vide pergunta
+52).
+Por sua vez, sob a forma escrita, há a possibilidade de os representantes legais dos
+proponentes comparecerem ao Cade, para apresentar os fatos relativos à infração
+noticiada, nos termos das informações e documentos fornecidos pelos signatários. O
+período necessário para a completude dessa apresentação deverá ser combinado
+previamente entre os representantes legais e a SG/Cade, caso a caso, para que sejam
+reservados o notebook e a sala nas dependências do Cade.
+70A fim de resguardar a confidencialidade da negociação, eventuais dúvidas e/ou
+comentários que a SG/Cade tenha durante a elaboração do Histórico da Conduta serão
+comunicadas, sobretudo, de modo oral (presencialmente ou por telefone) aos
+proponentes e/ou seus representantes legais. Alternativamente, a SG/Cade poderá
+encaminhar suas observações em documento à parte que não identifique a pessoa
+jurídica e/ou pessoas físicas, bem como o mercado afetado pela prática denunciada
+(vide pergunta 50).
+Não haverá, portanto, troca de minutas do Histórico da Conduta entre proponentes e a
+Superintendência-Geral do Cade, sendo este documento elaborado internamente pela
+CGAA 10 e mantido sob seus cuidados, seguindo os procedimentos de confidencialidade
+da proposta e de todo o processo de negociação do acordo de leniência (vide pergunta
+57).
+98. O Cade compartilha informações de um Acordo de Leniência com autoridades de outros
+países?
+Não. O Cade não compartilha informações de um acordo de leniência com autoridades
+antitruste de outros países, salvo na hipótese de a empresa e/ou as pessoas físicas
+proponentes ou signatárias permitirem expressamente o compartilhamento das
+informações prestadas com autoridades de outras jurisdições por meio de um termo de
+renúncia (“waiver”). Esse compartilhamento de informações, por sua vez, pode ser tanto
+sobre aspectos formais (“procedural waiver”) quanto sobre aspectos materiais da
+investigação (“full waiver”).
+No contexto dos cartéis internacionais, em situações que a proposta de acordo de
+leniência é feita em múltiplas jurisdições, o waiver pode atender aos interesses dos
+proponentes, já que tal procedimento visa a evitar a duplicação de informação a ser por
+eles gerada e também pode atender aos interesses das autoridades antitruste,
+permitindo acelerar as investigações e coordenar os procedimentos no âmbito
+internacional.
+Tal compartilhamento de informações, porém, deve ter a concordância prévia tanto do
+signatário do acordo de leniência quanto da Superintendência-Geral do Cade. Ademais,
+a SG/Cade não divulga informações e documentos decorrentes de acordo de leniência a
+pedido elaborado diretamente por juiz ou autoridade estrangeira, os quais não têm foro
+ou competência no Brasil.
+7199. No interesse da manutenção do sigilo das negociações e/ou das investigações em outros
+países, poderá o Cade coordenar o momento da publicização de sua investigação com
+autoridades estrangeiras?
+Sim. A fim de preservar investigações em outras jurisdições e/ou não prejudicar
+eventuais negociações de acordos pelo signatário em outros países, é desejável,
+oportuna e usual a cooperação entre o Cade e autoridades antitruste estrangeiras, para
+negociarem o momento da publicização do Acordo, ou mesmo o momento da
+instauração do Processo Administrativo, o qual torna a investigação pública. Assim,
+poderá ser dado tratamento sigiloso aos autos, documentos, objetos ou informações e
+atos processuais, desde que no interesse das investigações, a critério da
+Superintendência-Geral do Cade (artigo 50 c/c artigo 140, §1º do RiCade).
+Por sua vez, a instauração do Processo Administrativo pela SG/Cade garantirá aos
+representados o contraditório e a ampla defesa, conferindo-lhes pleno acesso aos
+documentos utilizados para a formação da convicção do Cade (parágrafo único do artigo
+50 c/c o §2º do artigo 207 do RiCade). No despacho que determinar sua instauração,
+constarão as indicações dos representados, a imputação da infração a cada
+representado, com a indicação dos fatos a serem apurados, ou seja, mercado afetado
+pela conduta ilícita, período da conduta e dinâmica do cartel (artigo 186 do RiCade).
+Via de regra, após a celebração do acordo de leniência, o conteúdo do Acordo e de todos
+os seus documentos relacionados permanecerão, via de regra, de acesso restrito e não
+serão divulgados ao público, mesmo depois de eventual instauração de Inquérito ou
+Processo Administrativo pelo Cade, ressalvada ordem judicial ou autorização expressa
+dos signatários. A identidade dos signatários será tratada, via de regra, como de acesso
+restrito perante o público até o julgamento do Processo Administrativo pelo Tribunal do
+Cade (artigo 207 do RiCade) (vide pergunta 78).
+100. Os representados podem disponibilizar informações e/ou documentos negociados no
+âmbito do Acordo de Leniência para autoridades estrangeiras?
+Não. Os representados no Processo Administrativo instaurado em decorrência de
+acordo de leniência não poderão divulgar ou compartilhar, total ou parcialmente,
+informações e/ou documentos para terceiros, ainda que sejam outros órgãos
+governamentais ou autoridades estrangeiras, sem a autorização do Cade (artigo 207,
+§2º, inciso II do RiCade). Os representados, ou seja, as pessoas físicas e jurídicas
+investigadas pela infração denunciada, terão acesso à identidade dos signatários e às
+demais informações e documentos do acordo de leniência. Contudo, o acesso a tais
+informações deverá ser usado estritamente para fins de exercício do direito ao
+72contraditório e da ampla defesa no procedimento administrativo em trâmite perante o
+Cade (artigo 207, §2º, inciso I do RiCade).
+73

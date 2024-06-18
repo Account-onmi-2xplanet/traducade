@@ -1,0 +1,1361 @@
+Proposta de Guia de Análise de ACs de concentração Horizontal (2015)
+1Ministério da Justiça
+Conselho Administrativo de Defesa Econômica
+GUIA PARA ANÁLISE DE ATOS DE CONCENTRAÇÃO HORIZONTAL
+Conselho Administrativo de Defesa Econômica
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+2INSTITUCIONAL
+Presidente interino da República
+Michel Miguel Elias Temer Lulia
+Ministro da Justiça e Cidadania
+Alexandre de Moraes
+Presidente interino do Cade
+Márcio de Oliveira Júnior
+Conselheiros do Cade
+Gilvandro Vasconcelos Coelho de Araújo
+Alexandre Cordeiro Macedo
+João Paulo de Resende
+Paulo Burnier da Silveira
+Cristiane Alkmin Junqueira Schmidt
+Superintendente-Geral do Cade
+Eduardo Frade Rodrigues
+Procurador-Chefe do Cade
+Victor Santos Rufino
+Economista-Chefe
+Guilherme Mendes Resende
+3FICHA TÉCNICA
+Coordenação
+Márcio de Oliveira Júnior
+Luiz Alberto Esteves
+Simone Maciel Cuiabano
+Eduardo Frade Rodrigues
+Edição
+Ricardo Medeiros de Castro
+Renata Patriota de Albuquerque
+Revisão
+Simone Maciel Cuiabano
+Gerson Carvalho Bênia
+Marcela Mattiuzzo
+Juliana Rafaela Sara Sales D’Araújo
+Colaboração
+Kenys Menezes Machado
+Mário Sérgio Rocha Gordilho Júnior
+Cristiane Landerdahl de Albuquerque
+Daniel Costa Rebello
+Projeto Gráfico
+Assessoria de Comunicação Social do Cade
+4SUMÁRIO
+1 INTRODUÇÃO .............................................................................................................................. 7
+2 ANÁLISE ..................................................................................................................................... 9
+2.1 Introdução ........................................................................................................................... 9
+2.1.1 Análise clássica ...................................................................................................................................... 9
+2.1.2 Análises alternativas ............................................................................................................................ 10
+2.2 Origem das informações usadas na análise ................................................................ 10
+2.2.1 Requerentes ......................................................................................................................................... 11
+2.2.2 Consumidores e clientes ...................................................................................................................... 12
+2.2.3 Outros agentes..................................................................................................................................... 12
+2.3 Mercado relevante (MR) ............................................................................................ 13
+2.3.1 Introdução ........................................................................................................................................... 13
+2.3.2 Dimensões do MR ................................................................................................................................ 13
+2.3.3 Substitutibilidade sob a ótica da oferta ............................................................................................... 16
+2.3.4 Conceitos gerais ................................................................................................................................... 17
+2.3.5 Metodologia ........................................................................................................................................ 18
+2.3.6 Ponderações ........................................................................................................................................ 21
+2.4 Nível de concentração .............................................................................................. 22
+2.4.1 Participação de mercado ...................................................................................................................... 22
+2.4.2 Índice de concentração e nexo de causalidade .................................................................................... 24
+2.5 Efeitos unilaterais ..................................................................................................... 27
+2.5.1 Análise de entrada ............................................................................................................................... 27
+2.5.2 Análise de rivalidade ........................................................................................................................... 33
+2.5.3 Poder de portfólio ................................................................................................................................ 39
+2.6 Poder de compra ............................................................................................................... 40
+2.7 Efeitos coordenados .......................................................................................................... 42
+3 GANHOS DE EFICIÊNCIA ........................................................................................................... 45
+3.1 Benefícios prováveis e verificáveis .................................................................................... 45
+3.2 Bem-estar do consumidor ................................................................................................. 45
+3.3 Eficiências específicas ....................................................................................................... 46
+3.4 Externalidades ................................................................................................................... 47
+4 MÉTODOS COMPLEMENTARES E ALTERNATIVOS DE ANÁLISE ................................................ 49
+4.1 Análise de contrafactual .................................................................................................... 49
+54.2 Uso de simulações ............................................................................................................ 50
+4.3 Outros fatores de análise .................................................................................................. 51
+4.3.1 Eliminação de mavericks ..............................................................................................51
+4.3.2 Concorrência potencial ................................................................................................51
+4.3.3 Integração vertical vs. sobreposição horizontal ..................................................................52
+4.3.4 Empresa atuante em mercado de dois lados ......................................................................52
+4.3.5 Aquisições parciais .....................................................................................................53
+5 PROCESSO CONCURSAL ............................................................................................................ 54
+5.1 Teoria da Empresa Insolvente (Failing Firm Defence - FFD) ...................................................... 54
+6 CLÁUSULA DE NÃO CONCORRÊNCIA ........................................................................................ 55
+7 CONSIDERAÇÕES FINAIS .......................................................................................................... 56
+6Guia para Análise de Atos de Concentração Horizontal
+1 INTRODUÇÃO
+Compete ao Conselho Administrativo de Defesa Econômica (Cade) apreciar atos de
+concentração econômica (ACs) que preencham os requisitos previstos nos artigos 88 e 90, incisos I
+a IV, da Lei nº 12.529, de 30 de novembro de 2011. Tal obrigação já existia em leis anteriores (como
+a Lei no 8.884/94), embora seguisse requisitos distintos. O primeiro Guia de Análise de Concentração
+Horizontal (Guia H) foi elaborado em 2001, pela Portaria conjunta Seae/SDE no 50, de 01/08/2001,
+para alcançar os objetivos da Lei de 1994. Este Guia, por sua vez, é uma segunda versão, com foco
+na Lei de 2011, amplamente atualizada, de acordo com as melhores práticas adotadas em
+importantes jurisdições como a norte-americana e a europeia.
+Este Guia, assim, refere-se exclusivamente a ACs horizontais, ou seja, a operações que
+envolvam a integração econômica entre empresas concorrentes ou potenciais concorrentes entre si
+e possui os seguintes objetivos:
+(i) dotar de maior transparência a análise empreendida pelo Cade;
+(ii) orientar os membros do Cade a empregar as melhores práticas de análise econômica de ACs
+que produzam concentração horizontal; e
+(iii) auxiliar os agentes de mercado a compreender as etapas, técnicas e critérios adotados nas
+análises realizadas pelo Cade.
+A metodologia apresentada não possui caráter obrigatório ou vinculante, nem busca exaurir
+todos os possíveis métodos de análise. O processo analítico empreendido pelo Cade se adequará ao
+caso concreto.
+De acordo com os §5º e §6º do Artigo 88, Lei nº 12.529/2011, os ACs que impliquem a
+eliminação da concorrência em parte substancial do Mercado Relevante (MR), a criação ou reforço
+de uma posição dominante ou que possam resultar na dominação do MR de bens ou serviços só
+poderão ser autorizados se, na análise de ganhos de eficiência específica da operação (item 3 deste
+Guia), puder ser observado:
+(i) cumulada ou alternadamente:
+7Guia para Análise de Atos de Concentração Horizontal
+(a) aumentar a produtividade ou a competitividade;
+(b) melhorar a qualidade de bens ou serviços;
+(c) propiciar a eficiência e o desenvolvimento tecnológico ou econômico; e
+(ii) repassar aos consumidores parte relevante dos benefícios decorrentes do ato.
+ACs podem gerar efeitos negativos e positivos simultaneamente. Entre os efeitos negativos
+de uma concentração, por um lado, é possível mencionar os seguintes: elevação de preços aos
+consumidores; diminuição da quantidade, de qualidade e/ou de variedade de produtos ou serviços
+a um dado preço; contração do ritmo de inovações com relação aos níveis que vigoravam antes da
+operação.
+Por outro lado, é possível também que exista uma série de efeitos positivos específicos da
+operação, tais como: eventuais incrementos de produtividade e competitividade derivados dos
+ganhos de eficiência específica da operação; melhorias na qualidade dos produtos; maior
+diversidade de produtos, introdução de uma tecnologia melhor, etc.
+Cumpre ao Cade verificar se os efeitos negativos do AC não superam seus efeitos positivos.
+Ou seja, se o resultado líquido for não-negativo para os consumidores, haverá condições de aprová-
+lo.
+Não é possível definir, a priori, se a concentração será benéfica ou prejudicial, sendo
+necessária a análise específica caso a caso, com a ponderação das eficiências específicas da operação
+vis-à-vis seus efeitos negativos derivados de uma maior probabilidade do exercício do poder de
+mercado. Trata-se da condição de efeito líquido não-negativo sobre o bem-estar econômico dos
+consumidores.
+8Guia para Análise de Atos de Concentração Horizontal
+2 ANÁLISE
+2.1 Introdução
+ACs horizontais resultam na sobreposição das atividades de empresas atuantes em um
+mesmo elo da cadeia produtiva. A análise sobre a existência ou não de sobreposição requer das
+partes envolvidas na operação (e seus respectivos grupos econômicos) informar todas as atividades
+econômicas que desempenham no Brasil, indicando os produtos e serviços vendidos da forma mais
+desagregada possível.1
+De posse das descrições das atuações das requerentes, o Cade agregará produtos
+semelhantes para verificar a existência de sobreposições horizontais.
+Há vários caminhos para proceder às etapas descritas e para empreender a análise
+concorrencial, conforme explicitado abaixo e referido graficamente no Anexo 1.
+2.1.1 Análise clássica
+O Cade, em geral, procede a análise em 4 ou 5 etapas, quais sejam:
+(i) definição do MR;
+(ii) análise do nível de concentração horizontal, que aponta se é possível que a nova empresa
+tenha condições de exercer o seu poder de mercado;
+(iii) avaliação da probabilidade do uso de poder de mercado adquirido por meio de maior
+concentração na operação, considerando variáveis como:
+ a possibilidade de uma entrada tempestiva, provável e suficiente;
+ o nível de rivalidade restante no mercado;
+1 Entende-se que há sobreposição entre as partes ainda que exista apenas remuneração indireta pela venda de produtos
+ou serviços. Ou seja, a requerente faz parte de um mercado, mesmo que ofereça o produto “X” como “brinde” (gratuito),
+de forma vinculada à aquisição de outro produto que esteja em mercado distinto. Nesses casos, o faturamento talvez
+não se mostre a melhor forma de mensurar o desempenho das partes no mercado, mas, a depender de seu segmento
+de atuação, podem-se considerar (i) as quantidades das unidades distribuídas; (ii), o número de anúncios veiculados;
+(iii) a participação da empresa em outros segmentos de atuação; dentre outros elementos. Destaque-se ainda que há
+casos em que a conduta de venda casada pode representar uma prática anticompetitiva e/ou uma discordância com o
+Código de Defesa do Consumidor.
+9Guia para Análise de Atos de Concentração Horizontal
+(iv) avaliação do poder de compra existente no mercado ou criado pela operação, quando for o
+caso de se tratar do mercado de insumo;
+(v) ponderação das eficiências econômicas inerentes ao AC.
+Essas etapas não são obrigatórias e não necessitam seguir qualquer sequência. Na maior
+parte dos casos, estas etapas são suficientes para que o Cade decida se a operação pode ser
+aprovada sem restrições, se são necessários remédios, ou se a operação não pode ser autorizada.
+2.1.2 Análises alternativas
+A participação de mercado não constitui o único instrumento a ser utilizado na avaliação da
+concentração horizontal, como será apresentado na parte 4 deste Guia.
+Com efeito, a análise do AC pode considerar os métodos complementares e alternativos de
+exame (tais como análise de contrafactual e simulações) e/ou outros fatores de análise (nos casos de
+eliminação de mavericks2, de mercado de dois lados, entre outros).
+2.2 Origem das informações usadas na análise
+O Cade pode, a critério, instruir o AC com manifestação dos agentes de mercado e outras
+provas usualmente admitidas em direito sem, contudo, ter que consultar todos os agentes do
+mercado.
+São fontes relevantes de informações para a análise do AC informações advindas das
+requerentes, dos consumidores, das concorrentes, dos fornecedores, das agências reguladoras, dos
+sindicatos e associações, dos ministérios executivos, dos especialistas do mercado, dos institutos
+setoriais, entre outras fontes.
+A manifestação dos agentes de mercado e a análise documental podem constituir um
+caminho analítico autônomo e trazer informações relevantes não captadas por outros instrumentos
+de análise.
+2 Empresas mavericks são aquelas que apresentam um nível de rivalidade do tipo disruptivo, isto é, possuem um maior
+incentivo a desviar que a maioria dos rivais.
+10Guia para Análise de Atos de Concentração Horizontal
+2.2.1 Requerentes
+As requerentes do AC são encorajadas a apresentarem documentos, relatos, dados, estudos
+quantitativos e/ou qualitativos, além de planos estratégicos, relatórios e outros documentos
+elaborados no desenvolvimento da operação. Informações prestadas por acionistas ou investidores
+auxiliam a dimensionar o impacto da fusão. Os termos financeiros da transação também são
+informativos sobre os efeitos competitivos do AC.
+As requerentes e o Cade devem desenvolver um diálogo aberto e objetivo. As respostas
+apresentadas precisam ser justificadas e as informações, exatas e completas, com a indicação da
+fonte para os cálculos e a apresentação de documentos comprobatórios disponíveis. Na
+impossibilidade de fornecer informações exatas, as requerentes podem apresentar estimativas com
+a indicação das respectivas fontes e metodologia de cálculo utilizada, de forma a possibilitar a
+replicação de tais estimativas. Este ponto é de fundamental importância tanto para operações
+apresentadas sob o rito ordinário quanto sob o rito sumário.
+Espera-se que as requerentes apresentem ao Cade, quando possível3:
+(i) estudos de mercado, pesquisas, relatórios, projeções e qualquer outro documento, elaborado
+por terceiros ou não, que estejam relacionados: ao posicionamento competitivo da empresa e
+de suas concorrentes; às condições de demanda e oferta; à disputa por clientes; ao
+comportamento estratégico (como preço, venda, lançamentos, inovação e entradas/saídas); às
+denúncias de comportamento anticompetitivo de empresas que integram o MR, entre outros;
+(ii) relatório de marketing, relatório comercial, planos e estratégias de divulgação da marca,
+relatório de posicionamento de produto e qualquer outro similar;
+(iii) planejamento estratégico, plano de negócios, planos de expansão e contenção, e qualquer
+outro similar4
+As requerentes podem antecipar-se a solicitações do Cade e apresentar na notificação da
+operação: mapa informativo da localização de suas plantas produtivas e das plantas de suas
+3 Adicionalmente, as requerentes também podem auxiliar o Cade na elaboração das perguntas a serem realizadas aos
+demais agentes de mercado.
+4 Anexo I, da Resolução 2/12 do Cade (item IV.2)
+11Guia para Análise de Atos de Concentração Horizontal
+concorrentes, com as respectivas medidas latitudinais e longitudinais; abrangência das vendas de
+cada requerente e de suas concorrentes individualizados; estimativa do raio ao qual os consumidores
+estão dispostos a se locomover para adquirir os produtos desejados.
+Tais informações e estimativas devem basear-se em contratos prévios, custo relativo do
+produto/transporte, características do produto, e em outras ponderações relevantes.
+2.2.2 Consumidores e clientes
+Os consumidores podem ser consultados quanto a questionamentos sobre a operação e o
+mercado envolvido, como: em que medida desviam sua demanda ou consideram a possibilidade de
+desviá-la em função de mudanças nos preços relativos; se, no passado, desviaram ou cogitaram
+desviar compras, em resposta a tais mudanças; se há possibilidade de segmentação de mercado
+(com diferenciação de preços ou qualquer outra forma de discriminação) que permita às empresas
+adotarem estratégias comerciais diferentes.
+2.2.3 Outros agentes
+Concorrentes, fornecedores, agências reguladoras, associações, especialistas envolvidos no
+mercado, entre outros, podem oferecer informações, por meio de documentos, estudos de mercado
+e análise de condições de mercado (preços, quantidades, qualidade, distribuição ou inovações).
+Concorrentes podem prover informações sobre diferenças nas estruturas de oferta e/ou
+preços entre áreas geográficas vizinhas, possibilidade de importações, entrada, rivalidade.
+Fornecedores podem prover evidências do poder de compra das partes; da possibilidade de
+entrada.
+Instituições de governo (por exemplo, ministérios, agências reguladoras e institutos setoriais)
+podem subsidiar informações sobre registro de produtos comercializados, número de empresas
+credenciadas, requisitos para entrada entre outras.
+12Guia para Análise de Atos de Concentração Horizontal
+2.3 Mercado relevante (MR)
+2.3.1 Introdução
+A delimitação do MR é o processo de identificação do conjunto de agentes econômicos
+(consumidores e produtores) que efetivamente reagem e limitam as decisões referentes a estratégias
+de preços, quantidades, qualidade (entre outras) da empresa resultante da operação.
+O Cade pode definir os limites do MR ou deixar a definição do MR em aberto, em especial
+quando houver baixa concentração em todos os cenários possíveis, considerando diferentes
+delimitações geográficas e/ou de produtos.
+A delimitação de mercado é uma ferramenta útil, entretanto, não é um fim em si mesmo. A
+identificação dos possíveis efeitos competitivos envolve avaliar condicionantes que, por vezes, estão
+fora do mercado relevante pré-definido. Assim, a delimitação do MR não vincula o Cade, seja porque
+é um mero instrumento de análise, seja porque o mercado é dinâmico.
+2.3.2 Dimensões do MR
+Na definição do MR, serão consideradas as dimensões produto e geográfica.
+Dimensão produto
+Sob a ótica da demanda, a dimensão do produto do MR compreende bens e serviços
+considerados, pelo consumidor, substituíveis entre si devido a suas características, preços e
+utilização. Para auferir essa substitutibilidade, examina-se a possibilidade de os consumidores
+desviarem sua demanda para outros produtos.
+Para tal exame, o Cade considera diversos fatores, tais como:
+ perfis dos clientes (renda, idade, sexo, educação, profissão, localização, mobilidade ou
+outras características observáveis);
+ dimensionamento do mercado desses clientes (quantidade ou faturamento);
+ natureza e características dos produtos e/ou serviços;
+13Guia para Análise de Atos de Concentração Horizontal
+ importância dos preços dos produtos e/ou serviços;
+ importância da qualidade dos produtos e/ou serviços;
+ importância da marca, do crédito, de prazos de pagamento, de forma e momentos de
+consumo;
+ evidências de alteração do padrão de compra dos consumidores no passado, em
+resposta a aumento de preços ou termos de comercialização;
+ informações de pesquisas realizadas com consumidores, concorrentes, entre outros;
+ documentos das requerentes, em relação a como eles compreendem o grau de
+substituição dos produtos quando apresentam o mercado a acionistas ou ao público em
+geral;
+ evidências de discriminação de preços entre consumidores, entre localidades e entre
+marcas.
+Dimensão geográfica
+A dimensão geográfica refere-se à área em que as empresas ofertam seus produtos ou que
+os consumidores buscam mercadorias (bens ou serviços) dentro da qual um monopolista conseguirá,
+lucrativamente, impor elevações de preços significativas.
+Para fazer tal exame, o Cade pode considerar diversos fatores, tais como:
+ onde as requerentes estão localizadas;
+ onde as concorrentes estão localizadas;
+ onde os consumidores estão situados;
+ onde ocorrem as vendas;
+ qual o hábito de compra dos consumidores (se são os consumidores que se deslocam
+para adquirir produtos ou se são os vendedores que se deslocam para vender os seus
+produtos, ou ambos);
+14Guia para Análise de Atos de Concentração Horizontal
+ que distância os consumidores geralmente se deslocam para adquirir o produto;
+ que distância os fornecedores geralmente se deslocam para vender seu produto;
+ diferenças nas estruturas de oferta e/ou preços entre áreas geográficas vizinhas, inclusive
+a possibilidade de importações;
+ custo, em relação ao preço da mercadoria, de distribuição/transporte;
+ tempo e outras dificuldades de transporte da mercadoria (em termos de segurança do
+transporte, da viabilidade do transporte, das questões referentes a aspectos regulatórios
+e tributários);
+ custos envolvidos na troca de fornecedores localizados em outro mercado geográfico;
+ necessidade da proximidade dos fornecedores em relação aos consumidores;
+ participação das importações na oferta doméstica;
+ evidências sobre migração de consumidores entre áreas geográficas distintas em
+resposta a aumento de preços ou alterações de termos de comercialização.
+Tais informações são utilizadas para implementação do teste do monopolista hipotético (vide
+item 2.3.4).
+Em relação à classificação geográfica dos mercados, há aqueles baseados na localização do
+consumidor; na localização dos fornecedores; e na localização de ambos (mercados mistos).
+ Mercados à distância (baseados na localização do consumidor) são aqueles aos quais o
+vendedor, por meio de uma logística de distribuição, disponibiliza seus produtos na
+localidade dos consumidores. Dada a importância da distribuição nesses mercados, deve-
+se informar custos de frete, modais disponíveis, tempo de entrega, as especificidades do
+produto, entre outros elementos. Será computado o total da mercadoria disponibilizada na
+região do consumidor, independentemente de onde se encontra o fornecedor do produto.
+ Mercados tradicionais (baseados na localização dos fornecedores) são aqueles nos quais o
+consumidor se locomove ao local de venda para adquirir o produto. Aqui, computam-se as
+15Guia para Análise de Atos de Concentração Horizontal
+vendas realizadas na região do vendedor, independentemente da localização dos
+consumidores. A mesma empresa pode atuar em diferentes mercados geográficos, sem que
+isso implique agregação geográfica.5
+ Mercados Mistos são aqueles onde há uma mescla dos sentidos acima referidos. Lojas
+tradicionais com serviços de delivery são estabelecimentos em que consumidores tanto se
+deslocam à empresa [varejo tradicional], quanto a empresa, por meio de uma distribuidora,
+disponibiliza o produto na localidade dos consumidores [varejo à distância]. Neste tipo de
+situação, o Cade considerará: qual tipo de venda prevalece no comércio (se o fluxo do
+comércio tradicional ou à distância); qual tipo de mercado é mais envolvido com as partes
+da operação; se o perfil dos consumidores que adquirem diretamente no estabelecimento
+é distinto daquele que adquire à distância; e qual a elasticidade cruzada entre ambos tipos
+de compra.
+2.3.3 Substitutibilidade sob a ótica da oferta
+A definição do MR sob a ótica da oferta se relaciona à avaliação da capacidade e
+disponibilidade de outras empresas começarem a produzir e ofertar a mercadoria em questão na
+área considerada, após um “pequeno, porém significativo e não transitório aumento de preços”
+(small but significant and non-transitory increase in price – doravante apenas SSNIP) e em um curto
+espaço de tempo.
+Em outras palavras, é avaliado se, diante de um aumento do preço de venda, outras
+empresas passam a ofertar o bem, no mesmo mercado geográfico em que atuam as requerentes. A
+análise da substitutibilidade pelo lado da oferta é a mesma feita na análise de barreiras à entrada
+(vide item 2.5.1), com algumas especificações: (i) a oferta deve ocorrer em menos de um ano e (ii)
+sem a necessidade de incorrer em custos irrecuperáveis.
+5 Ou seja: não é porque a mesma empresa oferta em diversos municípios de um mesmo estado que o escopo geográfico
+deva ser considerado estadual. Se, após um “pequeno, porém significativo e não transitório aumento de preços” (small
+but significant and non-transitory increase in price), conhecido como SSNIP, os consumidores alterarem suas demandas
+para fornecedores localizados em outra região a ponto de tornarem a elevação de preços não lucrativa, então o escopo
+geográfico adotado abarcará ambas as regiões.
+16Guia para Análise de Atos de Concentração Horizontal
+Em linha com a prática internacional, o Cade privilegia a definição do MR pelo lado da
+demanda e entende que ponderações da substitutibilidade sob a ótica da oferta são complementares
+na análise dos impactos da operação.
+2.3.4 Conceitos gerais
+Teste do monopolista hipotético (TMH)
+O TMH é empregado para auxiliar na definição do MR equiparando-o ao menor grupo de
+produtos e à menor área geográfica necessária para que um ofertante único hipotético esteja em
+condições de impor um SSNIP. O instrumental analítico utilizado envolve a avaliação da reação do
+consumidor ao hipotético aumento de preços. A partir daí, procura-se aferir o grau de
+substitutibilidade entre bens ou serviços para a definição do mercado relevante.
+Considera, inicialmente, os bens produzidos e vendidos pelas empresas participantes da
+operação e toda a extensão territorial em que essas empresas atuam.
+Passa-se, então, para conjuntos sequencialmente mais amplos de produtos e mercados
+geográficos até o momento em que se defina um mercado no qual seria possível um “pequeno,
+porém significativo e não transitório” aumento dos preços (SSNIP) para um suposto monopolista
+destes bens nesta área.
+Se o resultado for tal que o suposto monopolista não considere o aumento de preços
+rentável, então será acrescentado à definição do MR o produto que for o seu mais próximo substituto
+e/ou adicionada à região de onde provêm os produtos em questão (seus substitutos próximos em
+dimensão espacial).
+O primeiro grupo de produtos e localidades identificado será o menor grupo de produtos e
+localidades necessário para que um suposto monopolista esteja em condições de impor um SSNIP,
+sendo este o MR delimitado, em sua dimensão geográfica e do produto. Caso exista informação
+suficiente, o Cade utiliza-se da metodologia da “perda crítica” para implementar o TMH. Entretanto,
+mesmo que não se utilize o TMH, a lógica do referido teste deve estar sempre presente no âmbito
+da escolha do MR, isto é, deve-se tentar identificar os produtos e as regiões geográficas que possam
+limitar a capacidade de decisão da nova firma criada quanto a preços e quantidades.
+17Guia para Análise de Atos de Concentração Horizontal
+Teste do monopsonista hipotético
+O teste do monopsonista hipotético é aplicável para investigar efeitos unilaterais de poder
+de compra.
+Tal teste se destina a delimitar uma área geográfica, um produto e um período, em que a
+criação de um monopsônio hipotético no mercado intermediário poderia gerar incentivo e
+possibilidade significativa e não transitória de imprimir um decréscimo do preço de compra de seus
+insumos em valor, no mercado à montante.
+A situação acima traria preocupação antitruste, em especial, se gerasse incentivo ao
+monopsonista para restringir a oferta e aumentar preço no mercado à jusante. Portanto, o poder de
+monopsônio do mercado intermediário, mesmo hipotético, pode ser analisado em conjunto com
+projeções do poder de mercado na cadeia à jusante.
+2.3.5 Metodologia
+O Cade pode definir o mercado relevante considerando, de forma simultânea ou alternada:
+a) a análise de informações qualitativas; b) o uso de informações de preços; c) a análise do fluxo de
+mercadorias e consumidores; d) a definição de raios; e) quando necessário e possível, métodos
+quantitativos podem ser adotados, como a análise da perda crítica (ou da elasticidade crítica)6.
+As metodologias aqui citadas não limitam o Cade de usar outras formas de verificação e
+definição de MR que venham a ser desenvolvidas.
+a) Análise de informações qualitativas
+A análise qualitativa é o ponto inicial para qualquer definição de MR de modo a permitir a
+análise das características dos produtos e sua utilização final para verificação de substitutibilidade
+funcional.
+6 Avalia, de maneira quantitativa, se um aumento de preço (geralmente definido em 5%) é ou não lucrativo, considerando
+a margem de lucro e a elasticidade preço da demanda do mercado. Um exemplo de aplicação pode ser encontrado em
+WERDEN G. J., Beyond Critical Loss: Tailoring Applications of the Hypothetical Monopolist Paradigm. US DOJ Antitrust
+Division Economic Analysis Group Discussion Paper no. 02-9. 2002.
+18Guia para Análise de Atos de Concentração Horizontal
+Na análise de informações e evidências qualitativas para definição de MR busca-se, além das
+informações acima, observar a dinâmica dos mercados conforme informações dos fornecedores, das
+concorrentes e dos clientes das requerentes (vide itens 2.2 e 2.3.2).
+Informações como estudos de mercado sobre desvios de demanda e dados sobre produtos
+substitutos mais próximos permitem, por exemplo, a elaboração de cenários plausíveis de MR.
+Sendo as respostas dos agentes de mercado consistentes e fundamentadas, esses dados
+possibilitam uma definição razoável do MR ou, ao menos, a elaboração de cenários que permitam a
+análise dos efeitos da operação.
+b) Informações de preços
+A análise da diferença de preços é um fator que influencia a decisão de compra dos
+consumidores e, portanto, delimitações de MR. Não é possível responder, a priori, quão grande deve
+ser essa diferença, a ponto de sugerir segmentações do MR.
+É possível haver certa competição entre produtos com características e com preços diferentes.
+Por isso, do ponto de vista antitruste, determinados produtos podem ser substitutos mesmo quando
+exista diferença de preços e qualidades. A existência de elevada dispersão de preços, contudo, é
+relevante para eventuais segmentações de nichos de mercado.
+A análise de como os preços se movimentam de forma conjunta pode contribuir para a
+compreensão do mercado, tanto do ponto de vista da dimensão produto como no âmbito geográfico.
+Produtos substitutos tendem a ter produtos com preços relacionados entre si, ou seja, preços que se
+movimentam conjuntamente7.
+Todavia, essa análise pode não ser suficiente para definir um mercado relevante, visto que
+movimentos comuns de preços podem ser derivados de outros fatores, como choques de custos
+comuns (preços dos insumos), deslocamentos da demanda (variação na renda), inflação, entre
+outros. Para tal esclarecimento, existem modelos empíricos que possibilitam dirimir tal questão,
+numa eventual disponibilidade de dados.
+7 Exemplos de modelos empíricos na definição de MR são as análises de correlação e de cointegração de preços.
+19Guia para Análise de Atos de Concentração Horizontal
+c) Análise de fluxo de mercadorias e consumidores
+A análise do fluxo de mercadorias e consumidores contribui para a identificação geográfica
+dos mercados.
+Métodos que permitam a análise desse fluxo possibilitam avaliar, por exemplo, as medidas
+de penetração de importações no MR considerado e a intensidade das exportações, a fim de
+mensurar a influência e relação entre regiões e a possibilidade de os mercados serem integrados.
+Complementam-se esses exercícios com outros instrumentos, envolvendo não apenas o
+fluxo, mas, principalmente, a reação das importações e exportações em relação ao preço relativo das
+mercadorias.
+d) Definição de raios
+Quando possível e necessário, a metodologia visa a estimar a distância máxima que o
+consumidor está disposto a percorrer para adquirir o produto ou acessar o serviço desejado.
+Essa metodologia pode valer-se de pesquisas de opinião, de cadastro dos clientes nas lojas,
+da localização de anúncios publicitários, entre outras evidências quantitativas e qualitativas.
+e) Análise de perda crítica
+A análise de perda crítica está relacionada ao TMH e representa um dos métodos
+quantitativos que podem ser aplicados, se possível e necessário, se valendo de informações da
+demanda e da elasticidade preço da demanda para fazer inferências sobre a possibilidade de dois
+ou mais produtos fazerem parte do mesmo MR.
+A análise busca avaliar o quanto as vendas precisam cair de modo a render um aumento
+percentual de preço que torne o negócio não lucrativo.
+Em geral, avalia-se se um aumento de 5% (sem prejuízo de outros parâmetros) nos preços
+torna o negócio não lucrativo, considerando as margens de lucro e poder de mercado pré-fusão8.
+8 Detalhes metodológicos podem ser encontrados em DAVIS, P., GARCES, E. Quantitative Techniques for Competition
+and Antitrust Analysis. Princenton University Press. Capitulo 4.
+20Guia para Análise de Atos de Concentração Horizontal
+2.3.6 Ponderações
+Aspecto temporal/sazonal
+Relaciona-se com o período no qual o mercado opera. É possível, por exemplo, que as
+estações do ano e as datas comemorativas venham a alterar a estrutura de produção, de consumo
+e de preços de um determinado mercado. Este tipo de discussão pode vir a ocorrer em: indústrias
+em que há picos de serviço e produção versus períodos naturais de ociosidade (como indústria de
+transportes e de energia elétrica); e indústrias em que há variações sazonais (como indústria de
+alimentos).
+Este aspecto é válido quando (i) os consumidores não conseguem substituir decisões de
+compra entre diferentes períodos de tempo; (ii) quando produtores não conseguem estocar seus
+produtos ao longo do tempo.
+O aspecto sazonal importa para a correta delimitação do MR, para a análise de entrada e
+também para a análise de rivalidade.
+MR e discriminação de consumidores
+A possibilidade de as empresas discriminarem consumidores impacta na definição de MR a
+ser adotada pelo Cade.
+Caso uma empresa possa implementar um aumento de preços para um subconjunto de
+consumidores (e manter o preço anterior para o restante do mercado, por exemplo), pode-se definir
+o mercado apenas em torno do subconjunto de consumidores afetados.
+Esta avaliação considera (i) a elasticidade preço dos produtos para os diferentes grupos de
+consumidores; (ii) a possibilidade de negociação individual das condições de venda/compra do
+produto; (iii) a possibilidade de segmentação em nichos de mercado, em oposição à necessidade de
+uma política única de preços, além de outros elementos relevantes.
+21Guia para Análise de Atos de Concentração Horizontal
+MR e Medidas de Comércio Exterior
+A interação entre análise antitruste e medidas de defesa comercial/alterações na Tarifa
+Externa Comum (TEC) são importantes, já que a ordem em que cada uma é executada faz diferença
+no resultado final.
+Se a análise antitruste ocorrer primeiro, o Cade analisará um determinado mercado nacional,
+com menores barreiras à entrada. Caso, após a aprovação do Cade, se verifique a aplicação de uma
+medida de defesa comercial ou de uma elevação da TEC, tal aspecto tenderá a modificar as variáveis
+mercadológicas, podendo dificultar a importação de produtos.
+O Cade irá considerar as atuais barreiras à entrada e as potenciais/futuras barreiras à entrada
+(como a possibilidade de deferimento de direito antidumping, o que pode modificar a rivalidade
+entre mercadorias nacionais em relação às internacionais).
+Mercados de Tecnologia
+O direito patentário tem permitido a criação de monopólios temporários para que se
+incentive a criação de novas tecnologias.
+Fusões entre empresas de tecnologia podem ser analisadas como uma concentração de
+empresas prestadoras de serviços de pesquisa. A concentração entre “centros de pesquisas” de um
+determinado setor pode ser problemática, ainda que tal preocupação seja decorrente de rivalidade
+futura e potencial no mercado de tecnologia.
+A aplicação de testes tradicionais de definição de MR (baseados em testes como perda crítica)
+pode não captar o efeito deste tipo de operação, o que requer sua ponderação em qualquer etapa
+da análise.
+2.4 Nível de concentração
+2.4.1 Participação de mercado
+Definido o MR, pode o Cade analisar as participações de mercado dos produtores.
+Em mercados envolvendo poder de venda, os dados refletirão a estrutura da oferta, podendo
+ser referentes à capacidade produtiva, à quantidade de vendas do produto em unidades, ou ao valor
+22Guia para Análise de Atos de Concentração Horizontal
+das vendas, ou outra medida que seja mais adequada ao caso para indicar as condições de
+competição no MR.
+No que diz respeito às quantidades, sempre que possível as partes devem apresentar
+diversas formas de mensuração como peso, volume, caixas, embalagens, dentre outros.
+Em casos envolvendo poder de compra, as participações de mercado dos consumidores
+refletirão a estrutura da demanda à montante, podendo ser calculadas a partir, por exemplo, do
+volume ou do valor de compra de cada agente. Tais dados poderão ser conjugados com a estrutura
+de oferta à jusante.
+As parcelas de mercado estimadas devem considerar a maturação do mercado e sua
+estabilidade ou não ao longo do tempo. A esse respeito, em alguns casos pode ser considerada a
+existência de contratos de curto e de longo prazo com os consumidores.
+Nos casos de produtos homogêneos, a capacidade instalada e a produção ofertada são
+indicadores da relevância dos produtores no mercado, enquanto que, em mercados de produtos
+diferenciados9, os indicadores baseados no valor das vendas tendem a ser mais adequados.
+9 Mercados de produtos diferenciados são aqueles em que os produtos ofertados não se diferenciam somente em preços,
+mas também por outras características específicas dos produtos (marca, peso, durabilidade, design, versatilidade, entre
+outros) ou por características relacionadas a políticas de venda, distribuição ou mesmo serviços pré e pós-venda, ou seja,
+outros fatores definem o desempenho do produto no mercado que não os preços de uma dada oferta. A associação dos
+produtos a marcas e ênfase em propaganda sinaliza um mercado de produtos diferenciados.
+23Guia para Análise de Atos de Concentração Horizontal
+Fornecimento de insumos a concorrente
+As requerentes, além de fornecerem a parcela do mercado detida à jusante, devem informar
+ao Cade quanto venderam de insumos para suas concorrentes e quanto dessas vendas pode ser
+refletido no market share do seu concorrente, quando for o caso10.
+Empresa A e B pretendem se fusionar, ambas atuam na produção (à montante) e na comercialização no varejo (à
+jusante) do produto X, vendendo o referido produto para outros agentes [supermercados “C” e “D”], que também
+competem no varejo, os quais revendem X com marcas próprias (com embalagens diferentes).
+Ao preencher o formulário ao Cade, as empresas A e B devem informar não apenas suas respectivas participações
+no mercado à jusante (varejo), mas também devem relatar quais os market shares dos supermercados “C” e “D”
+referentes aos seus produtos reembalados. Esta é uma conduta esperada dos agentes de mercado, quando se solicita
+a estrutura de oferta à jusante e à montante, uma vez que a participação das partes no mercado compreende market
+share direto e indireto (via agentes dependentes, quase-verticalizados ou vinculados contratualmente), mesmo que
+via estimação.
+2.4.2 Índice de concentração e nexo de causalidade
+HHI
+O Índice Herfindahl-Hirschman (HHI) pode ser utilizado para o cálculo do grau de
+concentração dos mercados.
+O HHI é calculado com base no somatório do quadrado das participações de mercado de
+todas as empresas de um dado mercado. O HHI pode chegar até 10.000 pontos, valor no qual há
+um monopólio, ou seja, em que uma única empresa possua 100% do mercado.
+10 Este tipo de situação afetará a concorrência à jusante. Com efeito, dado que as requerentes atuantes na cadeia à
+montante passam (considerando-se sua condição de fornecedora) a ter interesse no sucesso de seus rivais não-
+integrados, parte da rivalidade do mercado à jusante diminui (à semelhança de uma participação societária passiva nos
+rivais).
+24Guia para Análise de Atos de Concentração Horizontal
+Operações simultâneas ou em datas próximas podem ser somadas para fins de avaliação da
+variação do HHI.
+Compreende-se que os mercados são:
+(i) Mercados não concentrados: com HHI abaixo de 1500 pontos;
+(ii) Mercados moderadamente concentrados: com HHI entre 1.500 e 2.500 pontos;
+(iii) Mercados altamente concentrados: com HHI acima de 2.500.
+Ademais, compreendem-se as seguintes definições:
+(i) Pequena alteração na concentração: operações que resultem em variações de HHI inferiores
+a 100 pontos (ΔHHI < 100) provavelmente não geram efeitos competitivos adversos e,
+portanto, usualmente não requerem análise mais detalhada;
+(ii) Concentrações que geram preocupações em mercados não concentrados: se o mercado, após
+o AC, permanecer com HHI inferior a 1.500 pontos, a operação não deve gerar efeitos
+negativos, não requerendo, usualmente, análise mais detalhada;
+(iii) Concentrações que geram preocupações em mercados moderadamente concentrados:
+operações que resultem em mercados com HHI entre 1.500 e 2.500 pontos e envolvam
+variação do índice superior a 100 pontos (ΔHHI > 100) têm potencial de gerar preocupações
+concorrenciais, tornando recomendável uma análise mais detalhada;
+(iv) Concentrações que geram preocupações em mercados altamente concentrados: operações
+que resultem em mercados com HHI acima de 2.500 pontos, e envolvam variação do índice
+entre 100 e 200 pontos (100 ≤ ΔHHI ≤ 200) têm potencial de gerar preocupações
+concorrenciais, sugerindo uma análise mais detalhada. Operações que resultem em
+mercados com HHI acima de 2.500 pontos, e envolvam variação do índice acima de 200
+pontos (ΔHHI > 200) presumivelmente geram aumento de poder de poder de mercado. Essa
+presunção poderá ser refutada por evidências persuasivas em sentido contrário.
+25Guia para Análise de Atos de Concentração Horizontal
+Exceções ao uso da regra do HHI
+A “regra do HHI”, como indicativa de nexo causal é uma suposição inicial, sensível a outros
+argumentos. Ressalte-se que a regra do HHI não deve ser utilizada de forma irrestrita em mercado
+com grande franja e elevada dispersão de mercado.
+Para exemplificar a referida preocupação, pode-se pensar na seguinte simulação proposta: em um mercado
+hipotético, há 200 players, cada um com uma participação pequena (0,5% de market share). Na referida hipótese,
+tem-se um cenário quase que de concorrência perfeita. Todavia, se um único agente do mercado fizer aquisições,
+simultâneas, mas separadas, uma a uma, adquirindo toda a franja do mercado, é possível chegar ao monopólio, sem
+que o índice heurístico HHI ultrapasse os 100 pontos.
+A este respeito, na primeira aquisição, o agente adquirirá 0,5% de market share (0,5% + 0,5%). Além disto, tem-se
+que:
+∆𝐻𝐻𝐼 =2∗𝑆1∗𝑆2
+=> ∆𝐻𝐻𝐼 =2∗0,5∗0,5
+=> ∆𝐻𝐻𝐼 =0,5 ponto
+Portanto, a variação de HHI inicial seria muito pequena (0,5 ponto), muito longe do nexo de causalidade preocupante
+(100 pontos).
+Na última aquisição o referido agente terá 99,5% e buscará adquirir a última parte da franja que lhe falta. Na referida
+hipótese, portanto, se tratará da autorização de um monopólio (99,5% + 0,5%). Mesmo na referida hipótese, não
+se chegará a uma variação relevante de HHI (100 pontos), conforme demonstrado abaixo:
+∆𝐻𝐻𝐼 =2∗𝑆1∗𝑆2
+=> ∆𝐻𝐻𝐼 =2∗99,5∗0,5
+=> ∆𝐻𝐻𝐼 =99,5 pontos
+Olhando-se, assim, em perspectiva, verifica-se que a utilização estrita da regra do HHI pelo Cade teria permitido a
+total monopolização do mercado, pelo simples fato de que foram feitas pequenas aquisições, uma a uma, cuja
+variação de HHI não ultrapassou sequer os 100 pontos. Assim, em mercados com estas características, cabe ao Cade
+flexibilizar a regra do HHI.
+26Guia para Análise de Atos de Concentração Horizontal
+O uso do HHI será flexibilizado: (i) se houver indício de coordenação entre os agentes de
+mercado; (ii) se uma das partes for uma empresa do tipo maverick, ou apresentar estratégia
+disruptiva; (iii) quando a fusão envolver entrante potencial ou recente; (iv) se existir significativa
+participação cruzada entre as requerentes e suas concorrentes, (v) nos casos em que o grau de
+concentração não refletir a real dinâmica concorrencial (vide seção 4.3), (vi) se a fusão aumentar o
+poder de portfólio (vide seção 2.5.3), entre outros.
+2.5 Efeitos unilaterais
+O AC que envolver uma parcela de mercado suficientemente alta não implica
+necessariamente que a nova empresa exercerá de maneira unilateral seu poder de mercado.
+A primeira parte deste capítulo tratará da Análise de Entrada e, em seguida, será descrita a
+Análise de Rivalidade, considerando a natureza do produto envolvido - produtos homogêneos e
+diferenciados. Por fim, descreve-se a Análise de Portfólio.
+2.5.1 Análise de Entrada
+Barreiras à entrada
+Barreiras à entrada podem ser definidas como qualquer fator em um mercado que coloque
+um potencial competidor em desvantagem com relação aos agentes econômicos estabelecidos.
+Quanto mais elevadas as barreiras à entrada em um dado mercado, maiores são os custos
+financeiros e em termos de tempo que um potencial entrante deverá incorrer para que o capital
+investido seja adequadamente remunerado. Quanto mais elevadas são essas barreiras, menor é a
+probabilidade de entrada de novas empresas no mercado relevante definido.
+As barreiras à entrada possibilitam às empresas instaladas a manutenção dos preços em
+patamares mais elevados e dificultam a entrada de novas concorrentes com capacidade produtiva,
+uma vez que diminui a possibilidade efetiva de concorrência.
+Os seguintes fatores constituem as mais convencionais barreiras à entrada: os custos
+irrecuperáveis (sunk costs); as barreiras legais ou regulatórias; os recursos de propriedade exclusiva
+27Guia para Análise de Atos de Concentração Horizontal
+das empresas instaladas; as economias de escala e/ou de escopo; o grau de integração da cadeia
+produtiva; a fidelidade dos consumidores às marcas estabelecidas; e a ameaça de reação dos
+competidores instalados.
+Custos irrecuperáveis são aqueles que não podem ser reavidos quando a empresa decide
+sair do mercado. A extensão dos custos irrecuperáveis depende principalmente de:
+(i) grau de especificidade das máquinas e equipamentos usados;
+(ii) grau de especificidade dos recursos humanos usados;
+(iii) existência e escala dos mercados para máquinas e equipamentos usados;
+(iv) existência e escala de mercado para o aluguel de bens de capital;
+(v) existência e escala de mercado para os recursos humanos;
+(vi) volume de investimentos necessários em distribuição do produto (promoção,
+publicidade e formação da rede de distribuidores);
+(vii) volume de investimentos necessários em P&D, formação de equipes, treinamento de
+pessoal e formação da rede de fornecedores.
+Exigências legais e regulatórias: criadas pelo governo ou por agências reguladoras, definem
+requisitos mínimos para a instalação e funcionamento de uma empresa (por exemplo: licenças
+comerciais, permissões, autorizações e alvarás). Essas exigências condicionam temporalmente,
+espacialmente e tecnologicamente os investimentos de todos os potenciais entrantes.
+Vantagem exclusiva das empresas: é a propriedade, o acesso exclusivo ou o acesso
+condicionado a qualquer insumo de produção com oferta restrita ou inelástica a preços pré-
+concentração (por exemplo, acesso a fornecedores e distribuidores, contratos com ofertantes de
+serviços e bens de capital especializados, localização, controle ou propriedade de patentes, além de
+conhecimentos tácitos e intangíveis de tecnologias).
+As vantagens das empresas podem estar relacionadas à constituição de organizações ou
+equipes de trabalho. A seleção de profissionais, o treinamento de técnicos e especialistas de todos
+os tipos, a articulação entre vários grupos de especialistas e profissionais, a constituição de sistemas
+28Guia para Análise de Atos de Concentração Horizontal
+administrativos, de monitoramento e de incentivos que tornam possível a produção e a distribuição
+eficiente de produtos são ilustrações das dificuldades de se organizar complexas equipes de trabalho.
+A constituição de tais sistemas organizacionais pode levar um longo período e constituir barreiras à
+entrada. Dada a impossibilidade de se adquirir tais organizações no mercado, pode-se também
+considerar estes investimentos como custos irrecuperáveis.
+As economias de escala e escopo influenciam as condições de entrada, pois afetam as escalas
+mínimas eficientes, o aumento nos custos associados a escalas sub-ótimas e o posicionamento da
+entrante nos mercados de produtos em que as incumbentes atuam (variedade de produtos ofertada).
+Economias de escala: são reduções nos custos médios derivadas da expansão da quantidade
+produzida, dados os preços dos insumos. Os custos médios podem diminuir, entre outros fatores,
+porque: os custos fixos são uma parcela substantiva dos custos totais e, com aumento da produção,
+não há um crescimento proporcional destes custos, o que gera uma redução do custo marginal e
+médio; a produtividade física do trabalho aumenta devido, por exemplo, a uma maior especialização
+dos trabalhadores com treinamento (maior divisão do trabalho); a produtividade das máquinas e
+equipamentos aumenta devido, por exemplo, a maior continuidade nos fluxos de produção, menor
+ociosidade entre fases do processo produtivo, inclusão de equipamentos dedicados, menores custo
+de manutenção.
+Economias de escopo: são reduções nos custos médios derivados da produção conjunta de
+bens distintos, dados os preços dos insumos. Os custos médios podem diminuir, entre outros fatores,
+porque: a ociosidade temporária ou persistente em equipamentos multifunção (ou flexíveis) pode ser
+utilizada para a fabricação de outros produtos; e as rede de distribuição e de comercialização (venda
+e mercado) são utilizadas para oferta de um conjunto maior de produtos e serviços pré e pós-venda.
+As economias de escopo dimensionam reduções de custo em produção conjunta e, assim,
+podem induzir uma entrada no mercado com uma cesta de produtos, o que pode significar uma
+maior barreira à entrada, caso a entrada tenha que ocorrer em dois mercados relevantes distintos,
+simultaneamente (ver Poder de Portfólio).
+Grau de integração da cadeia produtiva: pode aumentar os custos irrecuperáveis das
+entrantes potenciais ou exigir entrada em dois mercados ao mesmo tempo. Uma entrada em dois
+29Guia para Análise de Atos de Concentração Horizontal
+mercados exige um maior volume de capital e requer maiores capacitações tecnológicas e
+organizacionais.
+Fidelidade dos consumidores a marcas estabelecidas: tende a ser maior em mercados em
+que as estratégias de diferenciação do produto são importantes para a competição. Para gerar
+fidelidade a seus produtos, a empresa entrante deve realizar gastos em publicidade que se
+convertem em custos irrecuperáveis.
+Histórico das entradas
+A análise do histórico das entradas na indústria é elemento adicional de análise que auxilia
+a verificar a efetividade das entradas passadas nos mercados debatidos.
+O Cade pode analisar se nos últimos cinco anos houve ou não: (i) entrada de qualquer nova
+empresa; (ii) tentativas malsucedidas de entrada de novos agentes; (iii) outros indícios da efetividade
+de entradas passadas.
+Exemplos de empresas ativas que entraram no mercado nos últimos cinco anos podem ser
+utilizados como evidência sobre as condições de entrada, desde que sejam representativos das
+condições de entrada no momento em que a análise esteja sendo realizada.
+Probabilidade, tempestividade e suficiência
+Após considerar os elementos acima referidos, o Cade pode avaliar como ocorre e em quais
+circunstâncias ocorre a entrada no mercado.
+Tal avaliação pode utilizar modelos estatísticos específicos, que buscam prever as condições
+em que as entradas de novos agentes ocorrem e quais são os seus efeitos no mercado. O Cade
+considera se é ou não esperada uma entrada (i) provável, (ii) tempestiva e (iii) suficiente.
+Probabilidade
+A Análise da Probabilidade da Entrada (APE) averigua as Oportunidades de Vendas
+disponíveis (OV), a Capacidade Ociosa do mercado (CO), a Oportunidade de Venda Residual (OVR),
+bem como a Escala Mínima Viável (EMV).
+30Guia para Análise de Atos de Concentração Horizontal
+ OV – Oportunidades de Vendas: são parcelas de mercado potencialmente disponíveis aos
+entrantes. São usualmente calculadas com base na relação entre as vendas atuais e a
+expectativa de crescimento para os anos seguintes.
+ CO – Capacidade Ociosa: trata-se da capacidade disponível (não utilizada) de todas as
+empresas que pertencem ao MR.
+ OVR – Oportunidade de Venda Residual: refere-se à diferença entre as Oportunidades de
+Vendas (OV) e a capacidade ociosa das empresas já instaladas no mercado (CO). Ou seja, o
+cálculo da OVR contabiliza apenas oportunidades de vendas que efetivamente não seriam
+normalmente capturadas pelos próprios agentes de mercado.
+ EMV – Escala Mínima Viável: é o menor nível de vendas anuais que o entrante potencial
+deve obter para que seu capital seja adequadamente remunerado. Para tanto, analisa-se
+qual o investimento necessário e o lucro [retorno do investimento] que um entrante teria em
+um determinado período no mercado em que pretende entrar (sendo necessário especificar
+o custo do entrante [fixo, variável/marginal], o mark-up do entrante e o volume de vendas
+esperado do entrante). As informações podem ser apresentadas ou organizadas na forma de
+fluxos de caixa de projeto de investimento. A análise da entrada pode utilizar estimativas do
+valor presente líquido, taxa interna de retorno, payback, payback descontado e outros
+indicadores que mostram a viabilidade econômica e financeira da entrada.
+ APE – Análise da Probabilidade de Entrada refere-se à operação em que se subtrai da
+Oportunidade de Venda Residual (OVR) o valor da Escala Mínima Viável (EMV), conforme
+exemplo abaixo.
+Assim, para que a entrada seja provável, a APE não pode ser negativa. Ademais, quanto
+maior a APE, maior seria a probabilidade de uma entrada no MR analisado.
+31Guia para Análise de Atos de Concentração Horizontal
+Tabela 1 – Exemplo de Análise de Probabilidade da Entrada
+Oportunidade de Capacidade Oportunidade de Escala Mínima Análise de Probabilidade Conclusão
+Venda Ociosa Venda Residual Viável de Entrada
+(OV) (CO) (OVR = OV – CO) (EMV) APE = OVR-EMV
+100.000 40.000 60.000 50.000 60.000- 50.000 > 0 Entrada Provável
+100.000 40.000 60.000 100.000 60.000 -100.000 < 0 Entrada
+não-provável
+Tempestividade
+A avaliação da tempestividade da entrada depende de examinar se a nova empresa tem
+condições de estar em completo e adequado funcionamento em menos de 2 (dois) anos ou em
+período adequado à dinâmica concorrencial do mercado atingido pela operação, desde que em
+tempo suficiente para contestar eventual poder de mercado.
+Neste prazo, incluem-se todas as etapas necessárias à entrada no mercado, tais como,
+planejamento, desenho do produto, estudo de mercado, obtenção de licenças e permissões,
+elaboração de arranjos financeiros, construção e operação da unidade produtiva, promoção e
+distribuição do produto.
+Se o tempo de ingresso da firma no mercado for mais longo que dois anos, considera-se que
+essa potencial entrada não contestará o exercício de poder de mercado das empresas fusionadas de
+modo rápido o suficiente.
+32Guia para Análise de Atos de Concentração Horizontal
+Suficiência
+A suficiência da entrada implica averiguar se novos potenciais entrantes terão condições de
+efetivamente barrar os efeitos anticompetitivos decorrentes do AC.
+Haverá suficiência de entrada quando o incremento da oferta provocado pelos potenciais
+entrantes for de tal monta que discipline o mercado, impedindo quaisquer elevações de preços.
+Nesse sentido, fala-se em competidor efetivo como aquele capaz de inibir uma diminuição
+da concorrência pós-fusão. Devem-se considerar o grau de substitutibilidade das concorrentes, a
+existência de barreiras reputacionais, entre outros elementos.
+2.5.2 Análise de rivalidade
+A efetividade da competição entre a empresa resultante da operação e as demais empresas
+instaladas (seus rivais) pode tornar pouco provável o exercício do poder de mercado adquirido.
+Rivalidade efetiva é provável em contextos em que empresas estabelecidas tenderiam a
+adotar estratégias agressivas para aumentar sua participação de mercado como reação ao exercício
+do poder de mercado da empresa resultante da operação. Mercados com elevado grau de rivalidade
+são aqueles, por exemplo, em que se observam as seguintes características:
+33Guia para Análise de Atos de Concentração Horizontal
+Tabela 2 - Algumas variáveis que podem influenciar a análise de rivalidade
+VARIÁVEL ANALISADA EM MERCADOS COM ALTA RIVALIDADE
+Concentração de mercado Há baixa concentração de mercado
+Dispersão dos preços Há agentes que possuem preços para produtos semelhantes,
+não havendo agentes com poder de precificação superior aos
+demais. Caso um agente consiga precificar de forma
+diferenciada dos demais, tal fator tende a indicar que o agente
+tem poder de precificação superior à média do mercado (não
+contestado por meio de rivalidade) ou que eventualmente
+esteja em um nicho de mercado diferenciado.
+Margem de lucro A margem de lucro é baixa, considerando que o preço é
+próximo do custo marginal.
+Variância dos Market Shares Há elevada variância de market shares, em razão da
+contestabilidade do mercado por todos os agentes do
+mercado.
+Elasticidade própria preço demanda A elasticidade preço da demanda é elevada.
+Elasticidade cruzada preço demanda Há diversas concorrentes semelhantes às requerentes, como
+substitutos próximos (ou seja, com elevada elasticidade
+cruzada).
+Elasticidade própria preço oferta A elasticidade da oferta é elevada, já que, de um lado, os
+consumidores são muito responsivos a variações de preços e,
+de outro, qualquer elevação de preço fará as demais empresas
+rivais ofertarem muitos bens no mercado em resposta a
+pequenos aumentos de preço.
+34Guia para Análise de Atos de Concentração Horizontal
+Crescimento da demanda O crescimento do mercado é intenso, impedindo a estabilidade
+dos shares dos agentes.
+Ativos produtivos Não há necessidade de ativos específicos ou que sejam de
+propriedade exclusiva de apenas alguns agentes do mercado
+(ou específicos das requerentes).
+Monitoramento de condutas Não há como um concorrente monitorar a conduta dos demais,
+tanto em termos de volume de venda como de precificação.
+Integração vertical11 e portfólio Concorrentes possuem o mesmo nível de integração vertical,
+tendo portfólios semelhantes.
+Serviços pré e pós-venda Caso seja importante, concorrentes possuem mesmo nível de
+serviços pré e pós-venda.
+Acesso a distribuidores e serviços de logística Concorrentes possuem acesso a serviços de distribuição e de
+eficientes logística em geral igualmente eficientes.
+Acesso a crédito Concorrentes possuem mesmo nível de acesso a crédito.
+Clientes e pontos de vendas comprometidos Há poucas vendas já comprometidas, assim como há poucos
+contratos de exclusividade e de fidelidade entre cliente e
+ofertante ou entre ponto de venda e ofertante.
+Economias de escala e escopo Todos os agentes do mercado têm o mesmo nível de
+economias de escala e escopo, possuindo, portanto, mesmo
+nível de custo de produção (ou quiçá até mesmo sendo mais
+eficientes que as requerentes do AC).
+11 Deve-se considerar o nível de integração da cadeia produtiva uma vez que a necessidade de verticalização por parte
+das empresas atuantes, entre elos de fornecimento de insumos e outros, pode dificultar a entrada ou a atuação
+competitiva de um entrante, assim como a rivalidade por parte de agentes que tenham deficiências nessa integração.
+35Guia para Análise de Atos de Concentração Horizontal
+Uso da capacidade ociosa Concorrentes teriam como aumentar sua produção no curto
+prazo para atender um desvio de demanda, sem incorrer em
+grandes custos.
+Em mercados com intensa rivalidade, espera-se que existam rivais efetivos, isto é, empresas
+capazes de concorrer com a empresa resultante do AC, ou seja, que possuam capacidade tecnológica
+equivalente, níveis competitivos de custos e preços, escopo e qualidade de produtos análogos, bem
+como outros fatores considerados decisivos para o seu potencial competitivo exigido para a
+contestação das empresas envolvidas na operação após o AC.
+Disponibilidade de capacidade ociosa
+Do ponto de vista da efetividade da rivalidade, um fator crucial a ser avaliado é a
+disponibilidade de capacidade ociosa e de expansão por parte dos concorrentes instalados. Trata-se
+de uma condição necessária para a constatação de rivalidade, já que, em não possuindo capacidade
+ociosa disponível em suas fábricas já instaladas ou capacidade de expansão, as concorrentes das
+requerentes simplesmente não serão capazes de atender os consumidores que desejem desviar suas
+compras no caso de um aumento de preços por parte da firma fusionada.
+Vale destacar, entretanto, que a existência de capacidade ociosa ou de expansão em
+empresas rivais não é incentivo suficiente para uma estratégia contestadora do exercício do poder
+de mercado da firma resultante, já que o uso da capacidade ociosa pode não ser lucrativo e é possível
+haver mercados com baixa rivalidade (e até colusão tácita e explícita), mesmo na presença de
+capacidade ociosa.
+Teste da estabilidade/instabilidade das participações de mercado (shares)
+É possível aplicar teste de estabilidade/instabilidade de shares para verificar se há ou não há
+rivalidade efetiva no setor. Em um mercado com elevado grau de rivalidade, espera-se que o
+concorrente, em primeiro lugar, se sinta ameaçado pelas demais concorrentes. Isso ocorre – em
+maior grau – se as demais concorrentes possuem grande incentivo a atuar de forma agressiva no
+36Guia para Análise de Atos de Concentração Horizontal
+mercado. Em um mercado com extrema rivalidade, bastaria que um rival aumentasse, ainda que
+minimamente, o preço para ser penalizado pelos demais com perda de market share e perdas de
+margem de lucro.
+O teste busca identificar se há a presença de um “comportamento X”, em que um concorrente
+rouba a posição do seu oponente ao longo do tempo. Caso existam, portanto, modificações
+constantes de posições relativas, isso pode ser um indício de rivalidade no mercado (que pode ser
+ponderado com outros indícios, em especial com o nível de preços e com as margens de lucro dos
+agentes). Além disso, há necessidade de se avaliar se o comportamento ocorre com maior frequência
+entre as requerentes (caso em que a operação pode vir a reduzir ou mesmo acabar com a rivalidade
+antes existente no mercado analisado), ou se haveria outros agentes do mercado que também
+contestavam as posições relativas de mercado (e se após a operação tais agentes permaneceriam
+com a mesma capacidade de rivalizar, frente à nova empresa formada).
+Equilíbrio de mercado
+A princípio, uma operação de fusão pode ser boa para todos os participantes do mercado, já
+que todos os concorrentes (mesmo não envolvidos na fusão), eventualmente, poderão ter preços
+maiores e se beneficiar de parte do desvio da demanda, caso a empresa objeto da operação queira
+aumentar seus preços no período pós-fusão. Se os concorrentes seguirem este padrão de
+comportamento, estarão, na realidade, se “acomodando” ao mercado, podendo ter preços mais
+elevados e, inclusive, maior demanda.
+Caso as requerentes queiram se utilizar do argumento de rivalidade de forma a corroborar
+sua tese pela aprovação do AC, terão que demonstrar que tal efeito de acomodação não se verificará
+no mercado, em termos de preços e de volume, pelos seus rivais. Assim, o argumento de rivalidade,
+caso seja utilizado, deve demonstrar que haverá, por parte das concorrentes, um reposicionamento
+de seus produtos, acarretando a manutenção do nível de oferta ou até aumento do nível de oferta,
+a preços pré-operação.
+A distinção entre produtos homogêneos e diferenciados auxilia a compreender as variáveis
+que influenciam a rivalidade. Porém, ela é meramente didática, pois a maioria dos produtos
+guardam, em alguma medida, características dos dois tipos de mercado.
+37Guia para Análise de Atos de Concentração Horizontal
+Mercado de produtos homogêneos
+Em mercados de produtos homogêneos, o exercício do poder de mercado da empresa
+resultante do AC dependerá da sua capacidade de reduzir quantidades produzidas e elevar preços
+de forma unilateral. Nesses mercados, analisa-se se a empresa resultante da concentração entenderá
+como lucrativa a supressão unilateral do nível de produção e a elevação do preço de mercado.
+Tal redução da produção poderá ocorrer caso a empresa resultante: a) aumente ou deixe
+estável sua capacidade ociosa; b) abstenha-se de construir ou de obter capacidade adicional,
+aumento este que seria esperado na ausência da concentração, ou; c) elimine a capacidade de
+produção pré-existente ou desvie tal capacidade para outro MR, de modo a gerar restrição de oferta
+e aumento de preço no mercado em que houve a concentração.
+Ademais, em um mercado com produtos homogêneos, os níveis de custo das rivais são
+determinantes da sua capacidade de restringir o poder de mercado da empresa resultante de um AC.
+Sendo assim, espera-se que sua capacidade de rivalizar ou de absorver desvio de demanda seja, em
+grande medida, determinada por fatores relacionados ao custo de produção (competitividade entre
+as empresas).
+Mercado com produtos diferenciados
+Em mercados de bens diferenciados é correto dizer que o cálculo das participações de
+mercado e de índices de concentração tende a ser menos representativo para inferir sobre a
+possibilidade de efeitos anticompetitivos do que no caso de bens homogêneos.
+Em indústrias de produtos diferenciados, alguns produtos podem ser substitutos muito
+próximos e competir fortemente entre si, enquanto outros produtos são substitutos mais distantes e
+menos aptos a competir fortemente.
+São esperados efeitos unilaterais de aumento de preços em razão de uma concentração de
+bens diferenciado de forma mais intensa na medida em que as requerentes possuam produtos muito
+próximos entre si (com características semelhantes e que os consumidores vejam como substitutos
+próximos – 1ª e 2ª opções, por exemplo). Por isto, há necessidade de se ponderar a elasticidade de
+38Guia para Análise de Atos de Concentração Horizontal
+preço cruzada e o percentual de desvio12 entre as empresas fusionadas, já que, quanto maiores tais
+índices, maior a probabilidade de efeitos unilaterais derivados da operação.
+O grau de substituição é menor quando as características técnicas dos produtos são bastante
+rígidas ou quando as informações sobre as distintas combinações de preço e qualidade disponíveis
+no mercado são de difícil compreensão13.
+2.5.3 Poder de portfólio
+O poder de portfólio pode dificultar a entrada efetiva de novos agentes, a capacidade de
+rivalizar das concorrentes presentes no mercado e facilitar a prática de condutas lesivas à
+concorrência.
+Em mercados caracterizados por economias de escopo, empresas que possuam maior
+portfólio serão beneficiadas por possuírem custos médios de produção menores do que as
+concorrentes com menor variedade.
+A detenção de portfólios extensos pode diminuir os custos de transação do cliente, que passa
+a lidar apenas com uma empresa que possui diversos tipos de produtos e marcas, ao invés de vários
+pequenos fornecedores, um para cada produto.
+O relacionamento com muitos fornecedores gera um custo de transação relevante,
+decorrente de aspectos como negociações de preços e condições com cada produto, confecção e
+controle de contratos, entre outros.
+Entretanto, esse poder pode dificultar o acesso das concorrentes menores ao mercado, pois
+a negociação com eles importaria em maiores custos para o cliente. Em médio e longo prazos, a
+empresa beneficiada pode aproveitar essa situação e exercer o poder de mercado conquistado,
+elevando o preço de seus produtos e, eventualmente, ganhando participação de mercado das
+empresas de menor porte do segmento analisado.
+12 Do inglês, diversion ratio.
+13 Note-se que quando as empresas concentradas controlam o primeiro e o segundo substitutos (e os demais não são
+substitutos próximos), um aumento de preços do principal produto, que desviaria a demanda para o produto dois, não
+diminui a receita total da empresa resultante da operação, embora muito provavelmente diminuísse os lucros da empresa
+antes da operação.
+39Guia para Análise de Atos de Concentração Horizontal
+O agente pode utilizar seu amplo portfólio para adotar estratégias agressivas e conseguir o
+fechamento de mercado às concorrentes, como a diminuição de preços em um segmento onde deseja
+conquistar participação de mercado enquanto compensa a perda em outros mercados (subsídios
+cruzados14).
+A detenção de um portfólio extenso tem efeitos importantes em termos de marketing dos
+agentes. A oferta de vários produtos maximiza a exposição da marca da empresa e o esforço de
+propaganda é mais eficiente quando a empresa detém um portfólio grande de produtos, pois, ao
+divulgar a marca, ela automaticamente está divulgando também todos os seus produtos.
+2.6 Poder de compra
+Alguns ACs envolvem empresas que absorvem parcelas significativas de tipos de insumos.
+Essas concentrações horizontais podem gerar empresas com poder de mercado na compra.
+O aumento do poder das empresas no mercado de compra pode elevar a probabilidade de
+prejuízos à concorrência decorrente da operação e resultar, inclusive, em poder de monopsônio.
+Por outro lado, é corrente o argumento que a concentração no mercado de compras pode
+gerar um poder compensatório que seja benéfico ao consumidor.
+Avalia-se se a concentração no mercado de compras de insumos: (i) gera ou reforça a
+assimetria de tamanho em relação aos fornecedores e/ou (ii) dá condições para as requerentes
+aumentarem sua influência sobre as condições de mercado.
+A análise de poder de compra é complexa, dado que, a princípio, o poder de compra resulta
+em menores preços nos insumos que pode implicar descontos também no preço final praticado aos
+consumidores. O escrutínio do poder de compra, portanto, deve ser feito com cuidado, para que
+eventuais efeitos positivos aos consumidores sejam preservados.
+14 Subsídios cruzados correspondem à formação da política de preços em diferentes mercados, baixando, por exemplo,
+o preço em mercados onde as concorrentes estejam ganhando participação, enquanto compensam essa perda de receitas
+com o aumento de preços em mercados onde seu domínio seja mais estabilizado ou diluindo esse aumento em diversos
+mercados.
+40Guia para Análise de Atos de Concentração Horizontal
+Poder de Monopsônio
+O poder de monopsônio é o poder de mercado na compra de insumos usado pelo comprador
+para se apropriar de parte do excedente do fornecedor.
+O Cade considera a possibilidade de um AC entre grandes compradores de insumos
+constranger o mercado à montante por meio de discriminação ou imposição de preços de compra.
+O poder de monopsônio que leva à redução dos preços de compra abaixo do nível
+competitivo, pressionando demasiadamente os fornecedores, pode ser prejudicial à concorrência.
+Por exemplo, impor preços demasiadamente baixos aos seus fornecedores e causar desequilíbrios
+no mercado destes agentes.
+O poder de monopsônio pode gerar efeitos negativos, inclusive no mercado à jusante, com
+potenciais implicações sobre os consumidores.
+O exame de poder de compra é importante usualmente nos casos em que os compradores
+são os formadores do preço e os fornecedores atuam como tomadores de preços. É o caso de
+indústrias nas quais o mercado de compra dos produtos é concentrado (com poucas empresas
+adquirindo toda a produção de insumos) e os fornecedores, normalmente, são menos concentrados
+e mais numerosos.
+Havendo poder de compra, a primeira questão relevante é identificar se, de fato, os
+compradores são capazes de exercer poder de monopsônio e em que grau.
+Avalia-se, primeiramente, se não há outros compradores no mercado geográfico para o qual
+os ofertantes possam fornecer seus produtos ou serviços de modo suficiente.
+Caso se verifique que, efetivamente, a empresa compradora detém condições de exercer
+poder de compra em níveis relevantes, deve-se então avaliar se há reais incentivos para que ela
+assim o faça e se esses incentivos são incrementados em razão do AC.
+Caso conclua-se que há incentivos ao exercício de poder de monopsônio e que tal exercício
+tem nexo de causalidade com a operação, deve ser realizada a análise de probabilidade de exercício
+de poder de mercado, embora com foco na compra, a fim de se aferir o grau de efeitos prejudiciais
+potencialmente gerados aos consumidores e ao bem-estar econômico.
+41Guia para Análise de Atos de Concentração Horizontal
+Poder Compensatório
+Chama-se o ato de criar poder compensatório a situação em que ofertantes e/ou
+demandantes de um determinado produto/bem ou serviço se reúnem para fazer frente a um poder
+de mercado pré-existente. Portanto, a teoria do poder compensatório pode funcionar para ambos os
+lados de uma relação comercial, entre dois elos de uma cadeia produtiva.
+No cenário de assimetria no poder de barganha entre dois elos de uma cadeia produtiva, a
+questão é saber se há aumento de bem-estar, em especial do consumidor final, em permitir a criação
+de poder de mercado de um dos elos – gerando poder compensatório – por haver poder de mercado
+pré-existente em outro elo.
+Para saber se há eficiências geradas na operação derivadas do poder compensatório de uma
+das partes, há que se fazer uma análise pela regra da razão, conforme conveniência e oportunidade
+do Cade.
+2.7 Efeitos coordenados
+Um AC pode reduzir a rivalidade entre as firmas de um MR e elevar a probabilidade de
+coordenação explícita ou tácita que, uma vez exercida, impacta negativamente no bem-estar dos
+consumidores.
+A operação pode também ter o efeito de intensificar ou tornar mais abrangentes estratégias
+de coordenação pré-existentes.
+A fim de prevenir o exercício abusivo de poder de mercado, avalia-se se a operação torna
+mais provável a coordenação entre as empresas e o arrefecimento da rivalidade a ponto de tornar
+lucrativo um aumento conjunto de preços ou mesmo a alteração de outras variáveis competitivas,
+tais como inovação e qualidade, todas com forte impacto no bem-estar do consumidor.
+Primeiramente, verifica-se a presença de características no mercado que favoreçam condições
+à coordenação, como consenso entre agentes, facilidade e rapidez na detecção de condutas de
+desvio da coordenação, punição e garantias de cumprimento do acordo.
+42Guia para Análise de Atos de Concentração Horizontal
+O cálculo do market share agregado das N maiores empresas do mercado (“Concentration
+Ratio N” ou CR permite caracterizar o mercado para essa finalidade. Por exemplo, caso verificada
+N)
+que a concentração aumenta o índice CR market share agregado das 4 maiores empresas do
+4 (
+mercado), tornando-o igual ou superior ao patamar de 75%, deve-se aprofundar a análise sobre a
+possibilidade de a operação permitir ou não exercício abusivo de poder coordenado.
+Os seguintes fatores, portanto, tornam maior a probabilidade de que as empresas exerçam
+coordenadamente poder de mercado:
+ Reduzido número de empresas e/ou concentração de grande parcela da oferta em poucas
+empresas;
+ Interação em vários mercados (por exemplo, contatos recorrentes em vários mercados por
+meio de vários produtos e unidades produtivas e distribuição);
+ Reduzida capacidade de rivais em expandir a oferta no curto prazo;
+ Simetria produtiva entre firmas ou homogeneidade tecnológica;
+ Homogeneidade de produto e sem necessidade de customização;
+ Reduzido poder de compra de clientes;
+ Ordens frequentes e pequenas;
+ Baixa elasticidade da demanda do mercado;
+ Transparência nos preços, operação de capacidade, base de clientes, e de outras informações
+relevantes sobre os competidores e seus comportamentos;
+ Estabilidade tecnológica de produtos e processos;
+ Maturidade do mercado e previsibilidade da demanda;
+ Ausência de formas de conduta de precificação mais agressiva e não comprometidas com a
+cooperação (mavericks);
+43Guia para Análise de Atos de Concentração Horizontal
+ Histórico de coordenação no MR em questão, ou em mercados de produtos ou de dimensões
+geográficas comparáveis;
+ Relações societárias, empresariais ou comerciais que possam restringir a rivalidade ou
+aumentar a transparência de informações das empresas no mercado;
+ Baixo custo de capital.
+A inexistência de algumas das características acima ou a presença de outras que reduzam a
+probabilidade de coordenação devem ser ponderadas e avaliadas conjuntamente com as demais
+evidências sobre o caso.
+Mesmo quando as condições estruturais do mercado não são propícias à coordenação, um
+ambiente favorável pode ser criado por meio de práticas facilitadoras, tais como o anúncio
+antecipado de aumento de preços, a troca de informações e estratégias de precificação de “cobrir a
+oferta”, entre outros.
+A existência de relação de causalidade entre a concentração e a elevação da probabilidade
+de coordenação deverá ser analisada. Por exemplo, a fusão pode reforçar os incentivos ao conluio
+ou estratégia concertada devido à diminuição do número de empresas, à criação de uma estrutura
+de mercado mais simétrica ou à aquisição de competidor que adota condutas agressivas de
+competição.
+44Guia para Análise de Atos de Concentração Horizontal
+3 GANHOS DE EFICIÊNCIA
+A Lei nº 12.529/2011 estabelece que o Cade deve ponderar as eficiências específicas de cada
+AC vis-à-vis seus efeitos negativos (art. 88, § 6o). Trata-se do já mencionado critério do efeito líquido
+não-negativo.
+Os efeitos líquidos advindos do AC serão avaliados a partir da comparação entre os
+benefícios específicos resultantes da realização do AC e os potenciais prejuízos para o bem-estar dos
+consumidores advindos da eliminação de concorrência.
+Destaque-se que, nos termos da Lei, a transferência relevante dos benefícios aos
+consumidores é componente necessário nesta avaliação final dos efeitos do AC.
+O Cade adota critérios para considerar as eficiências geradas pela operação.
+3.1 Benefícios prováveis e verificáveis
+Prever e quantificar eficiências não constitui tarefa trivial. Trata-se de uma projeção, por
+vezes, de difícil mensuração, com elevado grau de incertezas, que comumente depende de vários
+fatores e que pode ou não se concretizar, em maior ou menor grau.
+Nos casos em que há risco relevante de danos ao mercado, deve-se afastar qualquer
+benefício que seja puramente especulativo ou que não seja concretamente provável e verificável,
+sob pena de se subestimar, equivocadamente, efeitos negativos severos aos consumidores e à
+coletividade em geral.
+3.2 Bem-estar do consumidor
+ACs se justificam, do ponto de vista empresarial, pela perspectiva de exploração de sinergias
+econômicas e financeiras entre as empresas e pela expectativa de maiores excedentes para as
+requerentes após a operação.
+45Guia para Análise de Atos de Concentração Horizontal
+Entretanto, para que uma eficiência seja contabilizada no sentido de compensar os prováveis
+efeitos negativos ao bem-estar coletivo, não basta que gere reduções de custos, aumento de lucros
+ou outros benefícios que sejam incorporados unicamente pelas empresas fusionadas.
+Sendo a coletividade a titular dos bens jurídicos protegidos LDC, o art. 88, § 6º, II, coloca
+como condição para aprovação de um AC, com base em eficiências específicas do AC, que parte
+relevante dos benefícios decorrentes seja repassada aos consumidores.
+3.3 Eficiências específicas
+Consideram-se “eficiências passíveis de contabilização” apenas aquelas que sejam específicas da
+operação, ou seja, somente aquelas que não poderiam ser alcançadas de outra forma senão por meio do AC.
+Entende-se que não serão consideradas eficiências específicas da concentração aquelas que
+podem ser alcançadas, em um período inferior a 2 (dois) anos, por meio de alternativas factíveis,
+que envolvem menores restrições para a concorrência.
+Dessa forma, se as mesmas ou semelhantes eficiências puderem, de modo factível, ser
+geradas por meio de mero esforço ou alterações internas da própria empresa requerente, por meio
+de uma fusão com outra empresa (que gere menos danos à concorrência) ou por quaisquer outras
+alternativas menos danosas para o mercado, então as eficiências alegadas pelas firmas fusionadas
+não devem ser consideradas.
+Serão consideradas como eficiências específicas da concentração aquelas cuja magnitude e
+ocorrência possam ser verificadas e para as quais as causas (como) e o momento em que serão
+obtidas (quando) estejam comprovadas.
+As eficiências alegadas não serão consideradas quando forem estabelecidas genericamente,
+quando forem especulativas ou quando não puderem ser verificadas, ou ainda quando adotarem
+hipóteses ou cenários não condizentes com a previsão de impacto do AC sobre o mercado15.
+15 Poderão ser efetuadas previsões de eficiências com base em modelos econométricos, matemáticos ou de engenharia,
+incluindo, por exemplo, estimações de funções de custos ou de produção.
+46Guia para Análise de Atos de Concentração Horizontal
+Não serão considerados como eficiências os ganhos pecuniários decorrentes de aumento de
+parcela de mercado ou de qualquer AC que represente apenas uma transferência de recursos entre
+agentes econômicos.
+As eficiências específicas à concentração econômica horizontal podem se dar sob a forma de
+economias de escala, de escopo, da introdução de inovações eficientes de produto ou processo, da
+apropriação de externalidades positivas ou eliminação de externalidades negativas e da geração de
+um poder de mercado compensatório. Estas devem ser consideradas como eficiências quando não
+puderem ser obtidas no mercado e requererem uma concentração econômica.
+3.4 Externalidades
+Externalidades são efeitos sobre uma terceira parte, derivados de uma transação econômica,
+sobre a qual essa parte não tem controle.
+Externalidades positivas aumentam o bem-estar (por exemplo, reduzindo os custos de
+produção), enquanto externalidades negativas reduzem o bem-estar (por exemplo, aumentando os
+custos de produção).
+A geração de externalidades positivas, a eliminação de externalidades negativas e a
+apropriação de externalidades podem ser consideradas eficiências específicas da concentração.
+A apropriação de externalidades positivas aumenta a eficiência dos mercados. É exemplo de
+efeito desse tipo a apropriação de spillovers tecnológicos, a racionalização da oferta em setores
+caracterizados por problemas de excesso de capacidade instalada e a disponibilização de mais e
+melhores informações para os consumidores, de modo a subsidiar o processo de tomada de decisões.
+Ainda que as externalidades negativas sejam bastante frequentes, é importante considerar
+que diferentes opções de políticas públicas estão disponíveis para tratar do tema e que, portanto, a
+autorização de um AC não necessariamente é a melhor forma de eliminá-las do ponto de vista do
+bem-estar econômico.
+47Guia para Análise de Atos de Concentração Horizontal
+Ao considerar o argumento de que a eliminação de externalidades negativas é um
+incremento de eficiência específica da concentração, será analisada a possibilidade de obter o mesmo
+efeito por meio de outras políticas públicas.
+Somente nos casos em que não existam medidas de políticas públicas alternativas para tratar
+o tema se considerará que a eliminação de externalidades negativas é um incremento de eficiência
+específico da concentração.
+48Guia para Análise de Atos de Concentração Horizontal
+4 MÉTODOS COMPLEMENTARES E ALTERNATIVOS DE ANÁLISE
+Nesta seção expõe-se uma lista não exaustiva de caminhos complementares e/ou
+alternativos de análise antitruste, da qual é possível escolher um ou mais métodos.
+4.1 Análise de contrafactual
+A análise de contrafactual desenha conclusões válidas, independentemente da definição
+estrita das fronteiras do MR ou de avaliação do market share dos agentes envolvidos na operação.
+O Cade pode comparar diferentes cenários em busca de evidências que demonstrem os
+efeitos concorrenciais da fusão sob análise.
+Pode-se considerar provas a respeito de mercados similares e avaliar como o preço varia de
+um lugar para outro a depender do número de competidores existentes no mercado, da entrada ou
+saída de concorrentes.
+Caso as requerentes sejam concorrentes apenas em alguns lugares, mas não em outros,
+pode-se comparar os preços das regiões em que há competição com preço das regiões em que não
+há competição para aferir o nível de rivalidade.
+Talvez as regiões onde há apenas um concorrente tenham características de oferta ou de
+demanda específicas que justificam preços altos, não relacionadas com a variável “concorrência”.
+Por isso, a análise de contrafactual exige um “grupo de controle”, por meio do qual controlam-se as
+demais variáveis que afetam o preço e a demanda.
+É possível selecionar mercados relevantes geográficos comparáveis para isolar o efeito
+apenas da variável que se busca observar (por exemplo, comportamento do preço), separando esse
+efeito das demais variáveis ou choques que eventualmente poderiam explicar a variação de preços
+entre cidades.
+49Guia para Análise de Atos de Concentração Horizontal
+4.2 Uso de simulações
+Modelos matemáticos e econométricos que simulem os efeitos da operação podem ser
+dependentes ou não da definição de MR.
+No caso de uma simulação de efeitos, estimam-se alguns parâmetros atuais da demanda e
+da oferta para tentar aferir o que pode acontecer no futuro (após a fusão) com relação aos preços do
+mercado, controlando eventuais níveis de ganho de eficiência derivado da operação.
+Dentre os parâmetros que podem auxiliar a compreensão do mercado, o Cade pode analisar
+(i) o nível real de preços, a margem de lucro da indústria e de cada agente do mercado; (ii) a fração
+de consumidores que desviam sua demanda para concorrentes das requerentes em razão de
+aumento de preços; e (iii) outros fatores que podem impactar no nível de concorrência e de
+lucratividade do mercado.
+A simulação pode, ainda, incorporar a análise das mais diferentes estimativas que não digam
+respeito apenas aos mercados sob análise.
+Por exemplo, nos mercados baseados em leilões16, é possível avaliar quais são as empresas
+que participam nos leilões (quais suas colocações) e para que clientes ofertam seus produtos, para
+medir a distribuição dos certames em que ambas concorrentes competem conjuntamente vis-à-vis o
+número de licitações em que as concorrentes participam ou se habilitam separadamente. Nos leilões
+em que ambos estão presentes, é possível captar a magnitude da rivalidade entre as partes de um
+leilão, em especial considerando o impacto de outras concorrentes no mercado.
+16 Compreende-se que mercados baseados em leilões são aqueles em que há um processo, muitas vezes formal, baseado
+em “lances” ou propostas (de compra ou venda, dependendo do caso). Não se refere, necessariamente, ao disposto na
+Lei 8.666/93.
+50Guia para Análise de Atos de Concentração Horizontal
+4.3 Outros fatores de análise
+4.3.1 Eliminação de mavericks
+Empresas mavericks são aquelas que apresentam um nível de rivalidade do tipo disruptivo.
+Geralmente são empresas com um baixo custo de produção e uma baixa precificação que
+força os preços de mercado para baixo ou empresas que se caracterizam por sua inventividade e
+estimulam a permanente inovação no segmento em que atuam. Nesse sentido, sua presença
+independente no mercado pode disciplinar os preços das empresas com maior market share.
+O Cade pode considerar que o AC que envolva uma empresa com uma estratégia de liderança
+de custos, de inovação ou de nicho, por exemplo, pode diminuir a concorrência atual ou potencial
+do segmento, diminuir a rivalidade e desestimular a inovação no mercado em análise, ainda que a
+variação do HHI seja baixa.
+No que se refere à possibilidade de efeitos coordenados gerados pela operação, é importante
+considerar que empresas do tipo maverick podem dificultar a formação de cartéis, caso estejam
+dispostas e sejam capazes de ampliar sua produção diante de uma restrição de oferta por parte das
+empresas em conluio.
+4.3.2 Concorrência potencial
+ACs de concentrações entre uma empresa já ativa e um concorrente potencial em um mesmo
+MR podem ter efeitos anticoncorrenciais semelhantes aos AC entre duas empresas ativas no mesmo
+MR.
+Isso decorre do possível papel desempenhado por um concorrente potencial: uma empresa
+pode desempenhar um papel relevante (atual, via disciplina de preços, ou futuro) mesmo que tenha
+deixado ou ainda não tenha ingressado no mercado.
+Analisa-se (i) se a empresa está na iminência de entrar no mercado; se possui ativos
+relevantes, que possam ser facilmente utilizados para sua volta ao mercado, sem incorrer em custos
+irrecuperáveis significativos; (ii) se a empresa poderia suportar os custos necessários para entrar no
+mercado num prazo relativamente curto, (iii) outros elementos.
+51Guia para Análise de Atos de Concentração Horizontal
+A fim de analisar a concorrência potencial, o Cade poderá demandar, por exemplo, a
+apresentação de pedidos de registro, licença e/ou autorização, realizados junto ao poder público.
+4.3.3 Integração vertical vs. sobreposição horizontal
+Uma concentração horizontal à montante pode gerar uma concentração horizontal à jusante,
+ainda que as requerentes não atuem diretamente nesta etapa da cadeia.
+É o caso de mercados em que contratos entre fornecedores e compradores correspondem à
+situação de controle compartilhado e implicam a quase-verticalização das empresas.
+ACs cujas requerentes atuam à montante e, igualmente, no segmento à jusante, por meio de
+empresas quase verticalizadas, podem provocar concentração horizontal.
+Essa hipótese é ilustrada na tabela abaixo:
+Tabela 3- Exemplo de integração diagonal
+Cadeia produtiva A Cadeia produtiva B
+Mercado à jusante Competidor A: 50% Competidos B: 50%
+Mercado à montante Competidor C: 50% Competidor D: 50%
+CONSUMIDOR
+Para que fique clara tal hipótese, pode-se pensar em dois caminhos logísticos, em que uma
+empresa controla a cadeia à montante do primeiro caminho logístico e à jusante no segundo caminho
+logístico. Muito embora a empresa esteja presente em dois elos diferentes da cadeia de cada
+caminho logístico, tal empresa poderá controlar o fluxo de ambos caminhos logísticos, podendo ter
+incentivos para elevar os preços cobrados nos dois casos, a depender das características do mercado.
+4.3.4 Empresa atuante em mercado de dois lados
+O que define um mercado de dois lados não é unicamente o fato de se ter uma plataforma
+que conecte os dois usuários finais, mas principalmente a relação do volume total de transações com
+a estrutura de preços, ou seja, como o preço é dividido entre os dois usuários finais.
+52Guia para Análise de Atos de Concentração Horizontal
+A estrutura de preços e a definição de quem responde pelos custos devem incentivar a
+presença de ambos os lados no mercado, o que significa dizer que o preço pago por um dos players
+não está relacionado ao custo da sua entrada no sistema. Nessa estrutura de precificação, enquanto
+um dos lados paga o preço de custo o outro paga o preço do qual se extrai o lucro da indústria17.
+O Cade decidirá, a depender do segmento envolvido na operação, se irá mensurar a
+concorrência do agente em apenas um dos mercados ou em ambos, o que, por isso, irá requerer
+como recurso adicional uma literatura além do que este Guia propõe, pois há peculiaridades a serem
+consideradas.
+4.3.5 Aquisições parciais
+Do ponto de vista societário, analisa-se se a operação modifica o poder de controle ou a
+influência sobre a empresa adquirida, avaliando se o AC gera participações societárias ativas, que
+conferem ao detentor do capital o poder de controle (isolado ou compartilhado) ou o poder de
+exercer influência relevante sobre o comportamento da sociedade empresarial
+Importa avaliar se o AC gera participações societárias passivas, que não conferem ao sócio
+o poder de controlar ou de influenciar de modo minimamente relevante as decisões da empresa,
+mas em que há a possibilidade de acesso a informações sensíveis ou gerem incentivos financeiros
+para coordenação.
+Todas as informações sobre como ocorrerá o controle ou influência de uma empresa sobre a
+outra deverão ser informadas ao Cade, incluindo acordo de acionistas, direitos de voto e veto de
+uma sociedade sobre a outra, quantum de influência interna e externa que uma empresa poderá ter
+ou aumentar com a operação.
+Caso se trate de interesse apenas passivo, deve-se informar como se dá o fluxo de informação
+na empresa, quanto de participação passiva uma empresa terá na outra e informações sobre acesso
+a lucros de uma empresa na outra.
+Essa análise influencia a avaliação de rivalidade e a análise dos efeitos coordenados.
+17 Rochet, J.C. e Tirole, J., Plataform Competition in Two-Sided Markets. Journal of the European Economic Association,
+v. 1, n. 4, p. 990-1029, junho. 2003.
+53Guia para Análise de Atos de Concentração Horizontal
+5 PROCESSO CONCURSAL
+A leitura da Lei 11.101/2005 (Lei de Recuperação Judicial, Extrajudicial e Falência) demonstra
+a necessidade de diálogo entre o Poder Judiciário e o Cade, especialmente em observância aos
+institutos da recuperação judicial e extrajudicial.
+O instituto da recuperação tem por objetivo viabilizar a superação da situação de crise
+econômico-financeira do devedor, a fim de permitir a manutenção da fonte produtora, do emprego
+dos trabalhadores e dos interesses dos credores, promovendo, assim, a preservação da empresa,
+sua função social e o estímulo à atividade econômica.
+A Lei descreve meios de recuperação18 que, em determinados casos, por corresponderem a
+ACs19, devem ser notificados ao Cade.
+Observados os critérios de notificação, entende-se que a empresa parte em processos de
+recuperação judicial ou extrajudicial deve notificar o Cade do trâmite do processo concursal para que
+seja guardada a coerência da atuação do poder público20.
+Orienta-se que propostas de concentração econômica efetuadas no âmbito de recuperações
+judiciais sejam feitas sempre com a estipulação sine qua non de que a efetivação e implementação
+da proposta dependerão da decisão final do Cade.
+5.1 Teoria da Empresa Insolvente (Failing Firm Defence- FFD)
+Tópico relevante na discussão da Lei de Recuperação Judicial é a validação da teoria da
+empresa insolvente.
+18 Art. 50 da Lei 11.101/2005.
+19 Art. 90 da Lei 12.529/2011.
+20 Caso entendam que, dada a complexidade da operação, o AC demandará um tempo de análise superior à média
+praticada pelo Cade, as requerentes podem valer-se do instituto da Autorização Precária, previsto no art. 59, da Lei
+12.529/2011, desde que se preserve a reversibilidade da operação, e o Cade entenda recomendarem as condições do
+caso concreto.
+54Guia para Análise de Atos de Concentração Horizontal
+A prática internacional e a jurisprudência do Cade têm adotado extrema cautela na aplicação
+dessa teoria, restringido sua validade a casos em que as requerentes comprovem, cumulativamente,
+a satisfação das seguintes condições:
+(i) Caso reprovada a operação, a empresa sairia do mercado ou não poderia cumprir suas
+obrigações financeiras em decorrência de suas dificuldades econômicas e financeiras;
+(ii) Caso reprovada a operação, os ativos da empresa não iriam permanecer no mercado, o que
+poderia significar uma redução da oferta, um maior nível de concentração do mercado e uma
+diminuição do bem-estar econômico21; e
+(iii) Se a empresa demonstrar que empreendeu esforços na busca de alternativas com menor
+dano à concorrência (por exemplo, por meio de compradores alternativos ou de um processo
+de recuperação judicial) e que não resta outra solução para a manutenção de suas atividades
+econômicas que não a aprovação da operação.
+Igualmente, aqui, o requisito de efeitos líquidos não-negativos deve ser preenchido. É dizer
+que o Cade deve concluir que os efeitos antitrustes decorrentes da reprovação da operação (e da,
+acredita-se, provável falência da empresa) seriam piores que a concentração gerada pela operação.
+O ônus da prova da existência desses elementos recai sobre as requerentes.
+6 CLÁUSULA DE NÃO CONCORRÊNCIA
+O Cade entende que cláusulas de não concorrência impõem uma restrição ao livre mercado
+e à livre iniciativa.
+Excepciona-se esse entendimento apenas a cláusulas de não concorrência que visem garantir
+o fundo de comércio ou viabilizar o estabelecimento de uma joint-venture22.
+21 É recomendável que a parte (que se utiliza deste argumento) apresente provas de que sua empresa está com
+dificuldades financeiras, como, por exemplo, apresente ao Cade cópia do processo de falência ou recuperação (judicial
+ou extrajudicial).
+22 Súmula números 4 e 5, publicadas no D.O.U. de 09/12/2009.
+55Guia para Análise de Atos de Concentração Horizontal
+A cláusula de não concorrência estipulada deve se restringir ao mercado de atuação (sob a
+ótica geográfica e do produto) da joint-venture ou escopos do fundo de comércio.
+Deve também se limitar ao prazo de cinco anos, podendo, entretanto, esse prazo ser reduzido
+ou estendido a depender do período de maturação do negócio envolvido.
+Para que uma cláusula de não concorrência seja válida e possa surtir efeitos no ordenamento
+jurídico, deve ser colateral e ancilar ao negócio jurídico: colateral, pois deve ser subordinada ao
+negócio jurídico principal, e ancilar, porque deve ser capaz de gerar ganhos de eficiências
+compensatórios à restrição concorrencial imposta.
+A cláusula de não concorrência será considerada ilegal se objetivar limitar, falsear ou de
+qualquer forma prejudicar a livre concorrência ou a livre iniciativa; dominar MR de bens ou
+serviços; aumentar arbitrariamente os lucros; e exercer de forma abusiva posição dominante23.
+7 CONSIDERAÇÕES FINAIS
+Quando os benefícios da operação forem superiores aos prejuízos da eliminação da
+concorrência, ou seja, quando se concluir que a consumação não diminuirá o bem-estar do
+consumidor e que parte relevante dos benefícios será transferida aos consumidores, o Cade poderá
+aprovar o AC sem restrições.
+Nos casos em que os benefícios do AC não forem superiores aos prejuízos da eliminação da
+concorrência, o Cade poderá aprovar o AC com restrições, aplicadas de forma unilateral ou por meio
+de um Acordo com as partes24, sempre que ficar comprovado que a imposição das restrições
+restabelecerá o bem-estar dos consumidores e a eficiência econômica.
+Quando o dano causado pela eliminação da concorrência não puder ser saneado por nenhum
+tipo de restrição/remédio, o Cade reprovará a operação.
+23 Art. 36 da Lei 12.529/2011.
+24 Nesse caso, é celebrado um Acordo em ACs de concentração – ACC.
+56Guia para Análise de Atos de Concentração Horizontal
+Nas aprovações dos ACs com restrição, o Cade poderá utilizar medidas estruturais e/ou
+comportamentais para restabelecer o ambiente concorrencial.
+Medidas estruturais visam a restabelecer a dinâmica concorrencial nos mercados relevantes
+definidos, eliminando a necessidade de controles futuros. Por exemplo, a alienação de ativos de
+empresas, tais como a venda de marcas ou de fábricas e a quebra de patentes.
+Medidas comportamentais visam a restabelecer a dinâmica concorrencial nos mercados
+relevantes definidos com base em intervenções e compromissos assumidos pelas partes envolvidas
+na operação em não abusar de certos ativos disponíveis
+57Guia para Análise de Atos de Concentração Horizontal
+Anexo
+58Guia para Análise de Atos de Concentração Horizontal
+59

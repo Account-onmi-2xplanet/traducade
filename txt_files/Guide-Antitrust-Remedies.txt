@@ -1,0 +1,2008 @@
+Ministry of Justice
+Administrative Council for Economic Defense
+Guide to Antitrust Remedies
+Administrative Council for Economic Defense
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip Code: 70770-504 – Brasília/DF
+www.cade.gov.br
+2Institutional Presentation
+President of Brazil
+Michel Miguel Elias Temer Lulia
+Ministry of Justice
+Torquato Jardim
+CADE President
+Alexandre Barreto de Souza
+CADE Commissioners
+João Paulo de Resende
+Cristiane Alkmin Junqueira Schmidt
+Mauricio Oscar Bandeira Maia
+Paula Farani de Azevedo Silveira
+Paulo Burnier da Silveira
+Polyanna Ferreira Silva Vilanova
+CADE Superintendent General
+Alexandre Cordeiro Macedo
+CADE Attorney General
+Walter de Agra Junior
+CADE Chief Economist
+Guilherme Mendes ResendeEditorial Information
+Coordination:
+Alexandre Barreto de Souza
+Alexandre Cordeiro Macedo
+Patrícia A. Morita Sakowski
+Kenys Menezes Machado
+Guilherme Mendes Resende
+Proofreading:
+Maria Cristina de Souza L. Attayde
+Ricardo Medeiros de Castro
+Internal Collaboration:
+Alexandre Barreto de Souza
+Guilherme Mendes Resende
+Kenys Menezes Machado
+Marcelo Nunes de Oliveira
+Maria Cristina de Souza L. Attayde
+Patrícia A. Morita Sakowski
+Patricia Semensato Cabral
+Paulo Burnier da Silveira
+Rodrigo Abreu Belon Fernandes
+Simone Maciel Cuiabano
+External Collaboration:
+Eduardo Pontual Ribeiro
+Editing and Graphic Designing:
+Communications Unit of CADE
+Translation:
+Arianne Mesquita Rodrigues
+Ariel Daltrozo Menezes
+Bruna Queiroz Assunção
+Editing and Proofreading (English):
+Bruna Queiroz AssunçãoContent
+Presentation ................................................................................................................................... 7
+1 Antitrust remedies: basic notions .......................................................................................... 9
+1.1 Definition .......................................................................................................................... 9
+1.2 Legal basis ......................................................................................................................... 9
+1.3 Competition issues mitigated with antitrust remedies ..................................................... 10
+1.4 Types of remedies ........................................................................................................... 11
+1.5 Designing remedies under Merger Control Agreements ................................................. 12
+2 Principles and general guidelines for effective remedies .................................................... 14
+2.1 Principles ......................................................................................................................... 14
+2.1.1 Proportionality ..................................................................................................... 14
+2.1.2 Timeliness ........................................................................................................... 14
+2.1.3 Feasibility ............................................................................................................ 15
+2.1.4 Verifiability ......................................................................................................... 15
+2.2 General guidelines ........................................................................................................... 15
+2.2.1 Structural relief is preferred ................................................................................ 15
+2.2.2 Monitoring trustees are preferred ........................................................................ 16
+2.2.3 On the need for continuous monitoring ............................................................... 16
+2.2.4 Remedies to be approached with caution ............................................................ 17
+3 Structural remedies .............................................................................................................. 19
+3.1 Asset package .................................................................................................................. 20
+3.1.1 Defining asset packages ...................................................................................... 20
+3.1.2 Best practices and precautions to be followed in the definition of asset packages
+............................................................................................................................. 22
+3.1.3 Hold-separate and ring-fencing obligations ........................................................ 28
+3.2 The buyer ........................................................................................................................ 30
+3.2.1 Selection .............................................................................................................. 30
+3.2.2 Requirements ....................................................................................................... 33
+3.2.3 CADE approval ................................................................................................... 35
+3.3 The divestiture process .................................................................................................... 36
+3.3.1 Timetable for the divestiture process .................................................................. 36
+3.3.2 Appointment of a divestiture trustee ................................................................... 37
+3.3.3 Pricing terms ....................................................................................................... 37
+3.3.4 Due diligence ....................................................................................................... 37
+3.3.5 Approval process ................................................................................................. 37
+4 Behavioural remedies .......................................................................................................... 39
+54.1 Precautions and best practices to be followed when designing behavioural remedies.... 40
+5 Trustees ............................................................................................................................... 42
+5.1 Roles ................................................................................................................................ 42
+5.1.1 Monitoring trustee ............................................................................................... 42
+5.1.2 Operating trustee ................................................................................................. 43
+5.1.3 Divestiture trustee ............................................................................................... 44
+5.2 Additional information .................................................................................................... 44
+5.2.1 Timing of appointment ........................................................................................ 44
+5.2.2 Requirements ....................................................................................................... 44
+5.2.3 Selection of a trustee ........................................................................................... 45
+5.2.4 CADE approval ................................................................................................... 46
+5.2.5 Duties and obligations of the parties to the appointed trustee ............................. 46
+5.2.6 Compensation ...................................................................................................... 46
+5.2.7 Replacement, dismissal and renewal of term ...................................................... 47
+6 Monitoring of Merger Control Agreements ........................................................................ 48
+6.1 Monitoring by CADE vs. Monitoring by a trustee .......................................................... 48
+6.2 Sanctions and penalties ................................................................................................... 50
+6.3 Amendments to Merger Control Agreements ................................................................. 51
+7 Compliance with Merger Control Agreements ................................................................... 52
+8 Additional information ........................................................................................................ 53
+8.1 Regulated sectors............................................................................................................. 53
+8.2 International cooperation ................................................................................................. 53
+Annexes ....................................................................................................................................... 55
+Annex A – Glossary ................................................................................................................ 55
+Annex B – Trustee mandate ..................................................................................................... 58
+Annex C – Confidentiality waiver........................................................................................... 62
+6Presentation
+This Guide for Antitrust Remedies presents the best practices and procedures
+usually adopted by the Administrative Council for Economic Defense (CADE) for
+determining, applying and monitoring antitrust remedies. The Guide aims to ensure
+predictability and transparency as to the activities of CADE.
+According to Article 61 of Law 12529/2011, antitrust remedies are applied as
+conditions to eliminate potentially harmful effects of a merger or acquisition. The
+remedies aim at preventing that mergers result in diminishing competition in a
+significant part of the relevant market, in increasing the likelihood of coordination
+amongst competitors, in creating or strengthening a dominant position, or even in
+controlling a relevant market of goods or services, as per articles 36 and 88 of Law
+12529/2011.
+Thus, if a merger is not fully cleared, imposing remedies are necessary for its
+clearance. However, Article 88 provides that if applying remedies to a merger or
+acquisition that harms competition is unfeasible, the Tribunal of CADE must decide for
+blocking said transaction.
+The antitrust remedies may be negotiated with applicants through a Merger
+Control Agreement (ACC in its acronym in Portuguese). The ACC is suggested by the
+Office of the Superintendent General of CADE (SG), when the SG challenges the case
+to the Tribunal, or is determined as a decision of the Tribunal, as per Articles 161, 165
+and 168 of the Statutes of CADE.
+Remedies can also be determined unilaterally by the Tribunal of CADE or be
+established through a Cease and Desist Agreement (TCC in its acronym in Portuguese)
+in cases of anticompetitive practices under the terms of articles 36 and 38 of Law
+12529/2011. Considering the information below, the remedies here mentioned shall
+concern cases of merger and acquisitions only; although they can be applied to
+anticompetitive practices.
+Against this backdrop, the Guide for Antitrust Remedies is developed as a
+guideline to civil servants, applicants, interested third parties and society regarding the
+design, adoption and monitoring of future remedies.
+This Guide is disposed as follows: Section 1 presents the general aspects of
+antitrust remedies, such as their definition, type, legal basis and goals; Section 2
+concerns the principles and general guidelines for effective remedies; Section 3 presents
+structural remedies, considering
+7asset package, buyer, and divestiture process; Section 4 introduces behavioural remedies
+along with best practices and due diligence for its appliance; Section 5 regards trustees
+and in which situations they provide assistance; Section 6 concerns the monitoring and
+review of Merger Control Agreements (ACC), as well as fines and penalties related to
+it; Section 7 regards applicants' compliance with the ACC; and, lastly, Section 8
+provides additional information regarding regulated sectors and international
+cooperation on mergers that involve other authorities. At last, in the Annex Section, the
+Guide provides a Glossary, a trustee Term and a Waiver of Confidentiality.
+This guide is non-binding and should not be considered as a rule; therefore, it
+does not change nor substitute provisions of the Statutes of CADE. The practices and
+procedures herein described can change at CADE's convenience and opportunity,
+depending on the circumstances of the concrete case.
+81 Antitrust Remedies: basic notions
+1.1 Definition
+An antitrust remedy consist of a procedure, imposed by CADE or negotiated
+between CADE and the Applicants, as a condition for the clearance of a merger.
+Antitrust remedies include (i) determining which practices and obligations the parties
+involved in a merger should take, (ii) the manner the practices are applied, (iii) the
+monitoring and (iv) fulfilment of remedies. Establishing a remedy often regards only
+determining practices and obligations; however, this Guide highlights the need for
+effective remedies that comprise all mentioned aspects, which shall, in fact, mitigate
+competition concerns derived by the mergers submitted to CADE.
+Remedies may comprise the sale of tangible and intangible assets and/or
+business units of the applicants, in addition to imposing behavioural obligations to their
+businesses. The remedies shall aim at eliminating the potential harmful effects of a
+transaction. Thus, the establishment of remedies is subject to the specificities of the
+concrete case and the circumstances of the transaction, and must consider the potential
+competitive harm observed on the review of the merger.
+1.2 Legal basis
+Article 9, Items 5 and 10, of Law 12529/2011, enforces that, amongst its
+attributions, the Tribunal shall ratify the terms of Cease and Desist Agreements (TCC)
+and Merger Control Agreements (ACC), ordering the Office of the Superintendent
+General to monitor applicants' compliance with such agreements, and shall determine
+merger control agreements whenever deemed timely and suitable.
+According to article 61 of Law 12529/2011, in assessing the request for
+clearance of a merger or acquisition, the Tribunal may refuse to process the case, clear
+the transaction unconditionally, block it, or clear it subject to remedies, in which case
+the Tribunal must specify the remedies to be fulfilled as a condition to the enforceability
+and effectiveness of the transaction.
+Additionally, Paragraph 2 of said Article defines that such remedies shall
+comprise:
+1. the sale of assets or a set of assets that constitute a business activity;
+2. business division
+3. disposal of controlling interest;
+4. legal or accounting division of activities
+5. compulsory licensing of intellectual property rights; and
+6. any other practice or measure required to end harmful economic effects.
+9As established by Article 165 of the Statutes of CADE, amongst other provisions,
+CADE may receive proposals of Merger Control Agreements (ACC) in which remedies
+are negotiated with the Applicants from the date of submission of the application for
+merger review up to 30 days after the case has been challenged by the Office of the
+Superintendent General to the Tribunal, without prejudice to the analysis on the merits of
+the transaction.
+On the other hand, Article 168 of CADE's Statutes mentions that in case of
+mergers conditionally cleared, the Tribunal shall determine the remedies to be fulfilled
+as a mean to ensure the enforceability and effectiveness of the transaction, as per article
+61 of Law 12529/2011.
+Besides, under the terms of Articles 36 and 38 of Law 12529/2011, remedies can
+be applied in cases of economic crimes derived by anticompetitive practices.
+1.3 Competition issues mitigated with antitrust remedies
+This section briefly summarizes the main types of competitive issues derived by
+mergers and acquisitions.
+Both horizontal or vertical mergers may be harmful to competition by changing
+incentives in specific markets and setting conditions to the applicants directly involved
+in the merger to exercise their market power (unilateral effect). Furthermore, mergers
+can change the operation of the relevant market by increasing the likelihood of tacit or
+explicit coordination amongst competitors (coordinated effect). Lastly, by creating or
+strengthening upstream or downstream market dominance, vertical mergers may harm
+competition by eliminating or excluding current or potential efficient competitors
+(market foreclosure).
+In all cases, remedies must mitigate the potential harm to the competitive
+environment resulting from the transaction, restoring rivalry and entry conditions
+existing in the pre-merger scenario. However, remedies are not intended to solve
+existing competition issues that are not a consequence of a merger.
+It is worth mentioning that a transaction's blockage is the most appropriate
+decision if a remedy cannot be applied to mitigate the potential harm to the competitive
+environment, as foreseen by Law 12529/2011. Hence, this Guide for Antitrust Remedies
+consolidates and describes CADE's precedent for cases in which competition concerns
+are found and can be solved within the context of a merger, and therefore the antitrust
+remedies applied may be effective.
+101.4 Types of remedies
+There are different types of antitrust remedies that can be applied. In general,
+they can be classified as structural or behavioural remedies. Structural remedies regard
+complete divestiture of assets, whereas behavioural remedies regard commercial
+activities without required divestiture of assets. Defining antitrust remedies that grant
+enforceability and effectiveness to a merger may include more than one remedy and
+more than one type of remedy1.
+To illustrate, based on both CADE's precedent (under the terms of Article 61,
+Paragraph 2 of Law 12529/2011) and international precedent, structural remedies
+imposed include:
+1. The sale of assets or a set of assets that constitute a business activity;
+2. Business division;
+3. Disposal of controlling interest or non-controlling interest;
+4. Complete divestiture of intellectual property rights, including patent,
+brands, amongst others.
+Item 1 above comprises the sale of pre-existing business units operating solo and
+the divestiture of a set of assets that become feasible business units, which can be
+immediately managed by the buyer. Assets may have, in both cases, (a) proven capacity
+to operate in a competitive manner in the relevant market under the new management;
+and (b) ability to mitigate the harmful effects of the merger.
+Consequently, the sale of assets usually must comprise tangible and intangible
+assets required to remain the effective performance of the business unit, such as: labour;
+production, distribution and sale of goods; intellectual property rights; supply and
+distribution contracts; information system; research and development activities and
+infrastructure; permit and authorisations from relevant government authorities; and any
+other essential requirements to ensure the above mentioned (a) and (b) items. Additional
+behavioural requirements may also be required, such as provisional agreements for the
+supply of certain inputs and technical support to the buyer, to ensure the divestiture
+effectiveness.
+1 There are cases in which behavioural measures have been adopted to complement a structural remedy.
+In the case involving firms Perdigão S/A and Sadia S/A (Merger No. 08012.004423/2009-18), the
+Tribunal of CADE decided for the disposal of an asset package (brands and intellectual property, rights
+and goods related to certain operating units and distribution centres). Besides, additional behavioural
+measures have been adopted, such as the determination to not sign exclusivity agreements with points of
+sale during the term of the agreement, suspension of use of the brands Perdigão and Batavo, amongst
+others. See the public version of the case files of the Proceeding (pp. 3881–3895)
+https://sei.cade.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedime
+nto_visualizar&id_anexo=27291&infra_sistema=100000100&infra_unidade_atual=110000960&infra_ha
+sh=1bc 978da94be76ec6475cb1504dddbdeb584615446bbff47baa877a949e8a000 Access on 6 Feb 2018.
+11In a supplementary and alternative manner, in some cases that a structural
+remedy is ineffective or disproportionate, behavioural remedies may be defined. These
+remedies include commercial, financial or economic obligations from the parties
+involved in the merger, whether or not regarding assets directly impaired by them in the
+relevant markets related to the transaction. In short, obligations comprise:
+1. legal or accounting division of activities;
+2. business transparency obligations with and for third parties in supply and
+purchase of inputs and products;
+3. non-discriminatory and/or competitively inappropriate behaviour to third
+parties in supply and purchase activities, regarding parties related within the merger;
+4. suspension or withdrawal of exclusivity clauses in matters of fact and
+law, in business relation with parties related within the merger;
+5. obligation to provide inputs or access to key assets to vertically related
+competitors;
+6. obligation to report the merger, even if not reportable under the turnover
+criterion;
+7. suspension of political or corporate law resulting from shares or
+competitive effects derived by financial instruments;
+8. constraint to the access and disclosure of relevant competitive
+information amongst related parties of the applicants of the merger;
+9. mandatory licensing of intellectual property, including brands.
+1.5 Designing remedies under Merger Control Agreements
+Under the terms of Article 165 of the Statutes of CADE, applicants may submit a
+remedy proposal from the date of submission of the application for merger review up to
+30 days after the case has been challenged by the Office of the Superintendent General,
+under a Merger Control Agreement (ACC). The submission of remedies proposal does
+not impair applicants from making later adjustments to the initial proposal.
+In particular, according to the Statutes of CADE: "Article 165. CADE may
+accept proposals of Merger Control Agreements from the date of submission of the
+application for merger review up to 30 days after the case has been challenged by the
+Office of the Superintendent General, without prejudice to the analysis on the merits of
+the transaction." Accordingly, "2. Proposals of Merger Control Agreements are to be
+submitted to the Tribunal for approval." and "3. Merger Control Agreements negotiated
+with the Office of the Superintendent General must be submitted to the Tribunal for
+approval along with the decision of the Office of the Superintendent General to direct
+the case to the Tribunal." The proposals must contain required information to be
+properly analysed, as foreseen in Paragraph 4, Article 165 of the Statutes of CADE.
+12Observing the principle of proportionality, before defining remedies, the
+authority shall present potential competition issues identified (even within a provisional
+context), both when the case is at the Office of the Superintendent General and in the
+discussion with the Rapporteur Commissioner, providing the parties opportunity to
+submit further clarifications. At the Tribunal, the remedies negotiation must start with
+the Rapporteur Commissioner, without prejudice to applicants submitting the
+transaction to the other Commissioners at any time.
+The assembled grounds obtained at the end of the discovery phase or submitted
+for hearing regarding the extent and characteristics of the competitive harm of the
+transaction with a causal link may require different remedies or additional remedies to
+the ones proposed, even if the parties present a remedy applied before the opinion of the
+SG or the decision of the Tribunal.
+The signing of a Merger Control Agreement favours the proper appliance of an
+antitrust remedy. The parties commitment to comply with the remedy reduces risks and
+allows better focusing the remedy for a particular purpose. In addition, parties
+commitment enables positive management of assets until divestiture, safeguarding the
+divestiture value to the firm. The Merger Control Agreement (ACC) mitigate risks of
+ineffectiveness and judicialization of the remedy for both the antitrust authority and the
+parties2.
+As to confidentiality, in cases of both ACC and remedies unilaterally imposed by
+CADE, some commercially sensitive aspects or aspects sensitive for the effectiveness of
+a remedy, may be considered as of restricted access to CADE and the applicants; thus,
+public and private versions of decisive documents are provided following the Statutes of
+CADE.
+2 Determinations to protect the asset package are common in CADE's decisions while the divestment
+process is in progress. See Merger Novartis AG/Alcon Inc. (Merger No. 08012.003521/2008-57) that
+established the transfer of rights, titles and assets of the medication Zaditen Eye Drops held by Novartis for
+an economic agent that already holds production units operating in the pharmaceutical industry or for a new
+entrant. In this case, the measures adopted in the agreement to protect assets and assure the effectiveness of
+the divestiture were held in secrecy. See the public version of the case files of the Proceeding (pp. 410–413)
+https://sei.cade.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procediment
+o_visualizar&id_anexo=32357&infra_sistema=100000100&infra_unidade_atual=110000960&infra_hash=
+f3df ad0e64e98a0440cdc7ebbd216e966d6a71bbc68c097df156a637cf1089b6 Access: 07 Feb 2018.
+132 Principles and general guidelines for effective remedies
+Effective remedies are remedies that surely solve competitive issues resulting
+from a merger. This section describes the main principles that contribute for the
+effectiveness of antitrust remedies and that should be considered during negotiation of
+Merger Control Agreements, which are: proportionality, timeliness, feasibility and
+verifiability.
+2.1 Principles
+2.1.1 Proportionality
+An antitrust remedy should be proportional by determining required, adequate
+and sufficient mitigating actions to revert competitive damages derived by a merger.
+The proportionality requires at first that the applied remedies should independently be
+able to mitigate the competition issues identified. On the other hand, it implies avoiding
+the adoption of remedies exceeding the necessary to restore market competition.
+Proportionality aims to maintain potential synergy amongst the applicants, as long as
+ensuring that the potential harm to competition derived by the transaction is eliminated.
+2.1.2 Timeliness
+On the principle of timeliness, a remedy that mitigates competition issues more
+quickly is preferable to a remedy whose effects takes longer. The longer the remedy's
+term, the greater are the monitoring costs and the more susceptible remedy effectiveness
+is to future events.
+The definition of a reasonable term must take into account the characteristics of
+the specific case. Long term remedies enforcement regarding the sale of assets or
+businesses may impose burdens and costs to the applicants, considering, for instance,
+the consummation of the transaction conditioned to the fulfilment of the divestiture
+obligations. As to the antitrust authority, it results in higher monitoring costs, and it may
+affect society since the anticompetitive effects observed are not actually mitigated
+without the complete enforcement of the remedy. On the other hand, in cases of
+remedies regarding firms' behaviour, the extension of remedies must be sufficiently long
+to revert the negative effects of the transaction.
+142.1.3 Feasibility
+A remedy will only be effective if feasible in its different steps. The structural
+remedy, for instance, must be defined so that the assets to be sold change controllers
+without loss of competitive effect and can act as a real competitor in the relevant
+market(s) adversely affected by the transaction. The remedy shall be monitored, present
+actual means of resolution of incidents, and provide assurance on the mechanisms of
+compliance over time. Remedies that cannot be monitored during the regular course of
+the businesses or government activities, raise concerns that can be settled only at
+significant costs, raise doubts on responsibilities, or provide a great risk of not being
+fulfilled cannot be considered feasible.
+The risks associated with the design, appliance and monitoring of remedies
+regard, for instance, the absence of buyers for assets or non-controlling interests, the
+insufficiency of assets effectively competing after disposal, the possibility of omission
+or circumvention of monitoring or distortion of the required terms for compliance with
+the restriction, and regulatory impediments to fully comply with the remedy.
+2.1.4 Verifiability
+The proposed remedies must be verifiable. The verifiability regards (i) means to
+ascertain obligations; (ii) feasibility of monitoring the actions taken by the applicants
+efficiently and effectively; (iii) check consequences, if necessary; and (iv) identifying the
+subjects of the actions necessary to achieve the agreed or imposed remedies. The design
+of a verifiable remedy reduces implementation risks and facilitates the pursuit of
+compliance through appropriate judicial means in the event of non-compliance.
+2.2 General guidelines
+CADE's experience and international best practices allow us to assess, at first,
+which remedies have greater or lesser adherence to the above principles, within the
+corresponding context. This section presents general guidelines for effective remedies
+that may guide and delineate Merger Control Agreements negotiations. We reinforce
+these are overall guidelines, and their suitability shall be estimated considering the
+specificities of the case under analysis.
+2.2.1 Structural relief is preferred
+Structural remedies must be prioritized, since the source of competition issues
+derive from the change in the structure of a relevant market,
+15in horizontal and vertical mergers. Thus, a structural remedy, such as divestiture, is
+usually more effective as it drives the cause of the competitive harm more directly.
+Besides, structural remedies provide less monitoring costs and fewer risks of market
+distortions due to the remedies imposed in the transaction.
+The adoption of structural remedies regard the transfer of property rights. This
+transfer results in significant incentive change as to asset management since it implies a
+new owner. By segmenting the ownership into two shares, the incentives to coordinate
+decisions as to the use of these assets are substantially reduced, which increases
+competition in the market.
+In contrast, since in behavioural remedies assets ownership does not change,
+initially there are no changes on the owner's incentives. The antitrust authority
+establishes economic measures to the asset owner, which possibly would not be adopted
+in the absence of such intervention. Consequently, moral hazard issues may arise, which
+may compromise the effectiveness of this type of remedy.
+2.2.2 Monitoring trustees are preferred
+Given that CADE is unable to be directly and continuously involved in the
+monitoring of the commitments execution regarded with the antitrust remedies, a
+monitoring trustee is desirable to assist the agency in monitoring and ensuring the
+fulfilment of the obligations established in the Merger Control Agreement.
+Defining a monitoring trustee favours a timely identification of the applicants'
+potential non-compliance with the duties and obligations and the corresponding
+adoption of appropriate measures by the agency, increasing the likelihood of remedies
+effectiveness. The range of the monitoring trustee's operation relies on the obligations
+and measures defined in the Merger Control Agreement.
+See further information on Section 5.1.1.
+2.2.3 On the need for continuous monitoring
+Remedies must be addressed at correcting anticompetitive effects of a given
+transaction and therefore must be subject to lasting changes in the market structure.
+However, at first, the market behaviour of applicants shall not be subject to extensive
+monitoring by CADE, taking into consideration the monitoring costs involved.
+16Concerning behavioural remedies specifically, the agency may impose
+obligations to applicants regarding how they conduct businesses. To prevent
+competition harms on a permanent basis, however, behaviours must have a lasting and
+sustainable impact on market conditions. These long-term effects must be a result of
+strict compliance with the behavioural requirements defined in the Merger Control
+Agreement.
+Behavioural remedies can be aimed at the internal operation of a business and/or
+affect the relationship of the business with customers and competitors. In general, the
+behavioural remedies that aim at changing the incentive structure of market players in a
+pro-competitive way (by improving information exchange with customers, for instance)
+are more effective than results control, i.e., the control over prices, service level
+agreements and supply commitments. Hence, effective behavioural remedies imply on
+viable monitoring, supervision and enforcement. However, it is worth mentioning that
+besides the monitoring implying costs to CADE, it imposes costs to the applicants as to
+information gathering, processing and submission to the agency. Thus, amongst other
+reasons, remedies must be provisional but provide long-term effects.
+2.2.4 Remedies to be approached with caution
+Remedies that limit the autonomy of enterprises to lead their businesses
+decisions may result in the enterprises operating contrary to their incentives, which
+requires continuous monitoring of the established commitments by the antitrust
+authority. Therefore, if some remedies are applicable due to proportional and reasonable
+matters, they must be applied with great caution, such as market access and sales
+restrictions.
+Similarly, remedies that concern organizational commitments must be assessed
+with caution, for instance: (i) legal separation within a business group; (ii) obligation
+whether to make or not certain investments; (iii) long-term supply obligation; (iv)
+obligations not to exercise certain shareholder rights. Such commitments may change
+the incentive mechanisms of an enterprise, competitively impairing the business.
+Although, they can be useful in specific cases, especially as additional remedies.
+Moreover, price caps (the fixing of a maximum price for a given period) are not
+acceptable remedies because, in addition to requiring continuous monitoring, in
+practice, they do not represent effective measures aimed at negative impacts on market
+conditions in the context of a merger. As a consequence, price caps are measures likely
+to result in undesired distortions to economic incentives since limiting
+17prices can constrain the entry of new competitors in the market, which impairs the level
+of diversity and/or offered amount.
+Concerning obligations to make investments, such measures aim to mitigate the
+risk of capacity reduction after the merger. Yet, by imposing a capacity increase, this
+type of remedy may act as a disincentive to efficient mergers once remedies that go
+beyond their purpose of fighting competition issues often take over part of the
+efficiencies resulting from a merger.
+These measures can be defined, in most cases, as of broad scope, i.e., when they
+do not have a strict causal link with potential competitive harm deriving from the
+merger. An example would be the imposition of Research and Development (R&D)
+investments to overcome Brazilian deficiency in technological development, which
+surpass the foremost objectives of operation of an antitrust authority.
+Conversely, obligations to not make investments, i.e., restrictive measures to
+increase capacity, can reduce the risk of predatory behaviour by the merged firm.
+However, it is likely to occur the limiting of the firm's development, in addition to supply
+reduction.
+183 Structural Remedies
+Designing a structural remedy firstly consists of delimiting the assets to be
+divested, which involves listing the assets and determining its capacity to generate
+businesses, such as the amount of income or other auditable indicators and
+considerations.
+These assets must be able to exercise an effective competitive pressure to
+overturn the negative effects of the transaction in the relevant market(s) affected. The
+assets can be
+(i) already operating individual business units or, if not possible, (ii) part of existing
+business units to be partitioned to form a valid and active business entity after the sale.
+Technological, productive, commercial or financial matters specific for the case
+under review may justify that the scope of the assets to be divested includes business
+units outside the relevant market negatively affected by the transaction or assets not
+directly affected by the transaction. This may occur when the necessary assets to meet
+the needs of the negatively affected relevant market do not reach a minimum scale to an
+efficient remedy, which may occur when there is technological limitation to separate the
+production involved in a remedy and when there is a small impact on the transaction's
+efficiencies, amongst other possible cases.
+Once defined the scope of the assets, they must be kept separate and operating in
+the best way possible until the complete divestiture, with the ability to add value and
+meet clients’ needs fully. That comprises applicants efforts to keep labour and sales
+force mobilized, keep supply contracts and distribution channels active, etc. CADE may
+appoint a trustee (see Section 5) upon indication of the applicants, who shall manage the
+business until its sale, in cases the sale occurs after the Tribunal's hearing.
+The showing of a buyer for the assets can occur at the submission of the case to
+CADE, during the discovery phase or after the hearing of the case. During the period
+established for divestiture, applicants must make the necessary efforts to sell the assets.
+This pre-defined term must be short so as not to degrade assets and mitigate the
+competition harm of the transaction.
+The following sections present guidelines on asset package, selecting a buyer
+and the divestiture process itself. The subsections present the classification of different
+structural divestments, as well as guidelines to possibly sensitive issues as to defining
+the remedy type and assets; the detailed process of selecting a buyer; and the divestiture
+process itself in addition to the terms for divestment.
+193.1 Asset Package
+3.1.1 Defining asset packages
+As a rule, the asset package must comprise the smallest business unit of a
+business that includes all operations pertaining to the market at issue and that can
+effectively compete independently.
+In other words, the asset package part of a divestiture remedy must be sufficient
+for the buyer to become an effective competitor in the relevant market. Thus, the
+seller(s) must make available a package with all necessary assets (tangible and/or
+intangible) so that the buyer becomes a de facto, long-term and permanent competitor.
+The asset package must be described as clearly and precisely as possible. The
+description shall comprise all items part of the package, such as tangible assets,
+intangible assets, permits and authorizations required for the business, supply contracts,
+lease contracts, amongst others. Such items are further detailed in the following Section
+"Best practices and precautions to be followed in the definition of asset packages."
+Subsequently, examples of usual remedies applied to mergers are briefly listed.
+3.1.1.1 Viable autonomous business
+A viable autonomous business functions regardless of transactions/relationships
+with the divesting party, i.e., regardless of supply inputs, technical assistance or other
+means of cooperation from the divesting party, although transitional agreements may be
+required.
+The viable autonomous business regards a divestiture package provided with all
+necessary resources – e.g., physical assets, personal assets, client base, information
+systems, intangible assets (intellectual property rights), and infrastructure management –
+to compete effectively with applicants. Thus, the divestiture shall be a viable and
+marketable business that represents a sustainable value.
+A pre-existing business provides customers and potential customers a background
+to assess whether the business unit will continue to be a reliable supplier for the relevant
+product. Consequently, the background of a pre-existing business stipulates an
+assumption that the business can become a viable competitor in a given market.
+On the other hand, the optimal firm size matter deriving from the intervention
+shall be taken into consideration, that is, the divestment and the applicants' remaining
+business. To ensure that a given divestiture is attractive to potential buyers, it may be
+necessary to consider beyond the set of assets required to compensate for the observed
+competition issues. Such a hypothesis shall be assessed in a case-by-case manner to
+ensure remedy proportionality and hinder opportunistic behaviour from possible parties
+interested in the divestiture.
+203.1.1.2 Carving-out: divestiture of a business unit part of a larger structure
+In the case of a carving-out, the package to be divested consist of a business unit
+to be separated, i.e., "carved" and partitioned from a larger firm structure. Subsidiary,
+points of sale and production plants are some common examples.
+The business to be divested, subject of a carve-out, must fulfil some
+requirements so that the firm remains competitive on a continuous basis. Assets subject
+to carve-out must be explicitly separated from the other assets, which implies in legal
+and physical separation. Thus, it is required a separate organizational structure with the
+ability to operate on its own regardless of applicants.
+In this type of divestiture, the applicants and the divested business cease to
+operate in an integrated manner. Temporary shifts and supply agreements can be
+necessary and suitable while assets are integrated with the buyer. However, for carve-
+out divestitures, it is not suitable that business units overlap with one another and
+require continued cooperation from applicants for its functioning.
+In some cases, a carve-out may not be a sufficient remedy. For instance, the loyalty
+of important customers may be affected when a divestiture involves sales activities without
+the transfer of the corresponding productive capacity. In such case, customers are likely to
+oppose the seller, that is, to the applicant divesting the business. Therefore, the transfer of
+market shares does not occur without the simultaneous transfer of production and
+distribution.
+The carve-out process to be held by the applicants requires oversight by the
+monitoring trustee in cooperation with the hold-separate trustee (see Section 5 -
+Trustees). The assets and part of the personnel that are shared between the business to
+be divested and the remaining businesses of the parties must be allocated in a way that
+ensures the viability and competitiveness of the divestiture. The allocation of assets and
+personnel will be monitored and must be approved by the monitoring trustee.
+Additionally, the carve-out process may require duplicate assets and personnel as
+a way to ensure the viability and competitiveness of the divestiture. To illustrate, the
+shares of the business to be divested in an IT core network pertaining to the parties may
+require the installation of a different IT system.
+In sum, the key actions to be adopted in a carve-out varies on a case-by-case
+basis, which includes the possibility of duplicating assets and functions. Concurrently,
+the parties shall provide the assets and services necessary for the feasibility of the
+divestiture until it can operate on a stand-alone basis.
+213.1.1.3 Mix-and-match: divestiture of a package combining assets of more than one of
+the parties involved
+Mix-and-match remedies combine assets of the parties involved in a merger
+without pre-existing mutual coordination. Mix-and-match divestitures may raise
+concerns on their viability and competitiveness as they do not provide certainty
+regarding: (i) whether the previous separate parties will be able to operate jointly in an
+effective manner; (ii) whether the parties can be promptly integrated after the remedy
+(divestiture); and (iii) whether the new business unit will be able to operate effectively.
+However, such concerns do not imply that this type of remedy is not suitable for
+specific cases. In certain cases, the remedy can be necessary to ensure that the buyer of
+the divestiture has the adequate assets to continue to compete effectively. In such cases,
+to mitigate risks related to mix-and-match remedies, the antitrust authority may consult
+suppliers, customers, competitors and potential buyers to observe the feasibility of the
+package and whether the package will provide the buyer with the effective competition.
+3.1.1.4 Divestiture or granting of an exclusive license for a long or indefinite term or until
+the expiration of the term of patent
+In particular cases, the divestiture of specific assets (such as a patent or a granted
+license) may be a suitable remedy. Under certain circumstances, the granting of an
+exclusive, irrevocable and unlimited license is acceptable, as long as the license is in
+fact sufficient to transfer the market position. However, the preference is usually for the
+divestiture of an asset package or a business unit, as they involve levels of uncertainty
+and lower risks related to the possible transfer of market position on a permanent basis.
+3.1.2 Best practices and precautions to be followed in the definition of asset packages
+3.1.2.1 Completeness
+A Merger Control Agreement must be complete, i.e., it must comprise all assets
+necessary to the remedy effectiveness. To illustrate, it is important to have reference to
+key personnel transfers or to key contracts with third parties, which can be significant
+aspects for the success of a new player in certain relevant markets.
+In some cases, the divestiture package must expect the transfer of contractual
+relationships, such as agreements of long-term purchases, exclusive contracts for
+rendering services or the supply of goods and services - for both the upstream and
+downstream markets.
+22The competitiveness of the business to be acquired can be severely undermined
+if the contractual relationships are not transferred along with the divestiture and remain
+with the applicants. In such a case, the market position would not be successfully
+transferred to the buyer.
+Similarly, lease contracts related to production plants, points of sale and logistic
+facilities require applicants' best efforts to obtain consent from the other contracting
+party (lessor) regarding the substitution of the applicant by the buyer of the divestiture
+in the lease contract. Thus, the applicant must ensure that the lease contract is promptly
+transferred and within the term of the divestiture.
+3.1.2.2 Need for detailed definition of assets: tangible assets, intangible assets,
+authorisations, personnel, documents, contracts, brands and licences
+The Merger Control Agreement shall clearly detail all the assets involved in the
+divestiture package, such as the following:
+All significant tangible assets (e.g. production facilities; points of sale; logistic
+facilities; storage facilities, which includes inventories and stocks; IT and R&D
+facilities; amongst others.)
+All significant intangible assets (e.g. patents; brands; licences; amongst others.)
+Markets in which brands play a significant role, such as the market of consumer goods,
+often need to include rights to use consolidated brands in the divestiture package.
+Correspondingly, licences relating to patents or other industrial property rights or the
+transfer of know-how, as a rule, must be exclusive so that the licensor's market position
+is transferred to the licensee. It is not required for the licence to have worldwide
+coverage regularly. The licence must cover the locations in which the business activities
+are significant, as the geographic markets defined in the merger.
+All authorizations and permits required for the independent and permanent
+function of the business subject to divestiture (e.g. operating licences, official
+certifications, quality certifications, certification marks, amongst others.)
+Key personnel: staff and managers who are part of the divested business or are
+required on a permanent and independent basis as they have contact with key customers
+and suppliers or have specific skills and know-how related to R&D, IT, production and
+logistics that are relevant for the business competitiveness subject to the divestment.
+The buyer must be allowed to sign employment contracts in place of the applicants.
+23All relevant documents and records related to the business subject to the
+divestment.
+All required contracts for the functioning of the business subject to the
+divestment (e.g. contracts with suppliers and customers, as well as lease contracts.) The
+buyer must be allowed to enter into existing contractual relationships in place of the
+applicants.
+3.1.2.3 Possibility of involving assets of other relevant markets
+In addition to the firm or business unit to be divested, in specific cases the
+divestiture package must include specific human resources or assets to ensure the
+competitiveness and economic viability of the divestiture:
+Activities in close geographic or product markets or close facilities that, if
+available and combined with the business to be divested, make the divestiture
+economically feasible.
+Specific functions, such as key functions that a buyer cannot substitute
+immediately, particularly in cases that a firm part of a business group provides specific
+services to all the firms of the group.
+Additional business units that are not related directly to the competition issues
+derived by the transaction but have to be included to ensure that the divestiture package
+is the best strategic fit for potential buyers. For instance, entering a certain market is
+only efficient if there is a minimum scale of activities or a greater product portfolio.
+3.1.2.4 Key personnel non-inducement clause
+In some cases, it is required, at defining the asset package, contract clauses
+regarding the obligation of non-inducement of personnel by the applicants. This is
+applicable when the competitiveness of the divestiture is inherently related to the key
+personnel as to their skills, expertise, credibility or relationship with customers.
+If applicants attract the key personnel part of the business to be divested, an
+essential part of the business is undermined since the competitive potential of the
+divestiture can be transferred back to the applicants. Thus, it is required that, in some
+cases, the applicants waive rights through non-compete clauses established in
+employment contracts regarding their key personnel.
+243.1.2.5 Market tests
+Market tests mean an important source of information to review whether the
+proposed remedies are sufficient, required and proportional to eliminate competition
+concerns identified by CADE. Therefore, key customers, suppliers and competitors, as
+well as interested third parties whose motion to intervene have been granted, are usually
+questioned by CADE to provide the authority different perceptions as to the suitability
+of the proposed remedies and their possible effects on the affected markets.
+In sum, CADE send them a draft of the commitments proposed along with some
+questions. The market tests also allow interested third parties – granted a motion to
+intervene in the case – an opportunity to express themselves as to the consequences of
+the proposed remedies in the market. Conversely, CADE will not hold market tests if
+the commitments proposed are clearly unsuitable for eliminating competition concerns.
+Depending on the circumstances of the case, market tests can address the
+following issues or assist on answering them:
+Whether the remedies package (or which package) would eliminate competition
+concerns identified in the investigation.
+Whether some potential risks or concerns can arise during remedies
+enforcement.
+Whether there are potential constraints to the efficiency of remedies.
+As to the enforcement of structural remedies, particularly divestitures, the
+following issues may be relevant:
+Which requirements are necessary for the divestiture to ensure the effective
+transfer of the market position to the buyer?
+Which conditions should be fulfilled by the buyer to ensure their role as an
+effective competitor?
+Whether there are potential buyers interested in acquiring the business subject to
+the divestment. Would potential buyers be able to enter into a competitive position in the
+relevant markets based on the remedies package established or which conditions should
+be fulfilled for such matter?
+Market tests can be held at an early stage, within the pre-filing and before the
+official submission (through waivers).
+25In case the Office of the Superintendent General or the Tribunal consult market
+players on the remedy efficiency, the confidentiality of the information and the
+existence of negotiation and its terms shall be observed. The consultations must avoid
+the sharing of competitively sensitive information of the applicants, as well as
+information that may compromise the parties' ability to negotiate the assets to be
+divested.
+According to practice, whenever deemed suitable, interested third parties
+consulted on certain remedies shall have up to 3 business days to give expression on the
+matter.
+The answers provided usually offer important information that can assist
+CADE's investigation and serve as remarkably useful evidence to CADE's review.
+However, it must be taken into consideration the quality and bases of the answers, as
+well as that the answers express the respective economic interests of the consulted
+agents. Therefore, the responses provided by the market players is non-binding to
+CADE's investigation.
+Lastly, to ascertain the real status of the assets involved in the remedies package
+or other significant aspects for the specific case, CADE can request on-site visits to
+production plants or logistics centre pertaining to the applicants or other players. In
+general, the function of the facilities are explained on-site. Additionally, meetings with
+potential buyers prior to defining the remedy to be adopted can be relevant in certain
+cases.
+3.1.2.6 Crown Jewels
+In particular cases, when a potential buyer presents a high level of uncertainty
+under CADE's perspective, the authority may establish the adoption of crown jewels. In
+crown jewels, the divestiture package is broadened in relation to the markets considered
+problematic in the merger, aiming at increasing the economic attractiveness of the
+business to be divested.
+Consequently, the divestiture process has two stages, i.e., the first divestiture is
+substituted (or supplemented) by an alternative divestiture (or additional), which is
+known as a crown jewel. This alternative divestiture occurs if observed that the first
+divestiture will not take place within the established term.
+A divestiture will be accepted as an alternative solution (crown jewel) in case the
+existence of a suitable buyer is not evident to CADE, which means a sale without
+difficulties, observing the principle of proportionality.
+26As a rule, crown jewels must be more attractive than the first divestiture from
+the perspective of both the potential buyer and the seller.
+There are cases in which the divestiture through a crown jewel is a solution
+when observed the buyer faces other difficulties, such as preferential rights of
+shareholders in joint-venture agreements, intellectual property rights established in
+licences, difficulties to sign contracts, amongst others.
+The total term for divestiture should not be substantially longer than expected in
+general in this guide, including both stages of the divestiture process. Otherwise, the
+implementation of remedies is effective only at a later stage. A considerably extended
+term for the adoption of crown jewel remedies could also put at risk the divestiture
+itself, which would require additional measures to safeguard the economic viability and
+competitiveness of the business.
+On the other hand, an overly short term would favour interested third parties to
+take advantage on the alternative business. Therefore, CADE must be attentive so that
+buyers do not make use of crown jewels to obtain a divestiture package more valuable
+than the necessary to address competition concerns derived by the transaction,
+particularly in cases the number of potential buyers is low.
+3.1.2.7 Further precautions in defining asset packages
+Introducing structural divestiture remedies entails the difficulties of making an
+asset package that turns the buyer into an effective competitor, with all resources and
+expertise required by the market at issue.
+Thus, in defining the asset package, the competition authority must watch out for
+applicants' cherry-picking behaviour (that is, selecting the assets whose sale is most
+beneficial to them) whenever this behaviour hinders the success of the remedy in
+solving the competitive harm.
+The divestiture is also subject to an empty shell problem, i.e. a hollow divestiture
+package. This may occur where the human resources of a divestiture package are
+difficult to identify or transfer, whether because of unwilling employees or issues with
+the labour legislation.
+A divestiture package whose assets did not use to operate independently before
+the remedy is also more prone to be insufficient and to bring about problems in its
+implementation. Mix-and-match remedies, for instance, which combine the assets of
+several merging companies, risk failure due to the huge information gap between the
+seller and the buyer. The seller has an incentive not to incorporate the right assets into
+the package; the competition authority, for its part, may not have enough information to
+27verify whether the package is appropriate.
+On the other hand, an independent and viable business is not always the best
+divestiture solution. Even though a remedy would run the risk of being insufficient, if
+the buyer already holds some of the assets required to operate the business, making a
+divestiture package of just a few assets could be more appropriate. Thus, incorporating
+these assets in the divestiture package may render the purchase inefficient, as the buyer
+is compelled to buy assets it would not need for efficiently competing in the relevant
+market. Moreover, requiring the entire business to be sold could be disproportionate to
+the competitive harm, excessively restricting the potential efficiencies of the transaction.
+The competition authority should also avoid maintaining existing vertical
+dependency relationships in the upstream and downstream markets (e.g. the provision of
+raw materials or technical support). In these cases, the remedy generally fails to restore
+competition, whether because the buyer struggles to operate properly (as it is dependent
+on the supply and/or support provided by the seller) or because the buyer and the seller
+start to coordinate their behaviour.
+3.1.3 Hold-separate and ring-fencing obligations
+It is important to avoid the assets deteriorate before the divestiture is completed,
+and thus divestiture remedies should include obligations to prevent this from happening.
+Such obligations might comprise (i) maintaining the business and avoiding the adoption
+of measures that would have relevant negative effects on its value, management, and
+competitiveness; (ii) providing the financial resources necessary for continuing the
+business; (iii) retaining the business' key personnel; amongst others.
+In addition to steps to protect the divestiture package, there should be others
+intended for separating the divested business from the business retained by the
+applicants.
+3.1.3.1 Appointment of a hold-separate trustee
+Some cases require appointing a hold-separate trustee to preserve and separate
+the divestiture package. This trustee is appointed by the parties and is responsible for
+managing the business during its transfer, up to its closing. The trustee is responsible for
+preserving the divested business and ensuring it is held separate from the business
+retained by the parties, under the supervision of a monitoring trustee.
+It is the hold-separate trustee's duty to make sure the divested assets are
+independent and to promptly eliminate all the influence of the parties in the divested
+business so as to preserve its viability, marketability, and competitiveness.
+28For further information on the hold-separate trustee, see Section 5.1.2.
+3.1.3.2 Ring-fencing: preventing information sharing between the divested business
+and the seller
+Another means to separate business information is establishing a ring fence
+between the transferrer and the divested business.
+It is important to ensure the key personnel of the merged company (seller) has no
+access to the divested business, and vice versa. The exchange of information between
+the divested business and the seller must be avoided.
+In this regard, the parties must take all the steps necessary to make certain they
+will not find out trade secrets or other confidential information from the divested
+business. Any confidential documents and information related to the divested business
+received from the parties before the ring fence is set should be returned to the divested
+business or destroyed.
+Theoretically, a ring fence is more easily created when the divested business is
+already an independent, standalone enterprise with a distinct management from the
+seller. However, there is a significant problem of information asymmetry in ring-
+fencing, which makes it particularly hard for CADE to monitor this kind of obligation.
+3.1.3.3 Trademark maintenance commitment
+Although trademarks are part of intellectual property, its characteristics and
+functions are very different from those of patents and industrial designs. Basically,
+trademarks are distinctive signs whose main function is differentiating competitors in a
+market. In addition to protecting the identity of manufacturers, vendors, and service
+providers, trademarks reduce transaction costs, since they help consumers find their
+desired product.3
+When a remedy entails the right to use a consolidated brand in the asset package,
+the authority must protect this asset whilst the divestiture is not completed. In this
+regard, CADE's decisions usually require the business to continue normally until the
+divestiture is closed. A way to maintain trademark value whilst the divestiture has not
+been completed is keeping the trademark's level of marketing investment.
+3 With the exception of geographical indications, intellectual property is protected for a limited period of
+time. Trademarks have a ten-year term, extended for equal and successive periods under Article 133 of
+Law 9279/1996.
+293.2 The buyer
+Regarding structural remedies, a buyer must be, in principle, an economic entity
+unrelated to the parties' business structure. Additionally, buyers must prove to CADE
+their capacity and interest to keep the assets fully operational and competing in the
+relevant market.
+A competent buyer with the potential to enter the relevant market is more likely
+to solve competition concerns arising from a transaction than a buyer that already
+operates in that market, as the remedy may create or strengthen pre-existing dominant
+positions. Larger players, with more financial power, are more likely to make a
+competition concern arise again. This is the case when the buyer is already a strong
+player in the relevant market or when it is a significant supplier or customer, potentially
+leading to market foreclosure.
+However, it is possible that a buyer that already operates in the market mitigates
+the concern, considering its expertise and experience. In any case, applicants must have
+the buyer approved by CADE. Proposing CADE a buyer when filing the remedy
+proposal reduces the time needed to consummate the first transaction.
+3.2.1 Selection4
+The act of proposing a buyer can take place at different times. In a fix-it-first
+remedy, the buyer is selected before merger clearance, and the asset package is made
+specifically for the chosen buyer. In an upfront buyer remedy, the consummation of the
+transaction is conditional on choosing the buyer, which occurs after merger clearance.
+In a post-consummation remedy, the buyer is selected after the transaction is
+consummated — that is, the transaction may be consummated immediately after
+clearance.
+The table below sums ups these three cases, and the following sections detail
+each of them.
+4 Competition authorities around the world, such as the Federal Trade Commission (FTC) and the
+European Commission, have different understandings regarding the fix-it-first, upfront buyer, and post-
+consummation approaches.
+30STRUCTURE
+POST-
+FIX-IT-FIRST UPFRONT BUYER
+CONSUMMATION
+PRE-MERGER
+NOTIFICATION
+DEFINE DIVESTITURE
+BUYER SELECTION
+DEFINE
+REMEDY DESIGN (sign binding DEFINE DIVESTITURE
+DEVESTITURE
+agreement with
+buyer)
+MERGER MERGER MERGER
+CLEARANCE CLEARANCE CLEARANCE
+SIGNING OF MERGER
+HEARING SIGNING OF MERGER SIGNING OF MERGER
+CONTROL
+CONTROL CONTROL
+AGREEMENT (where
+AGREEMENT AGREEMENT
+necessary)
+BUYER SELECTION
+(sign binding
+CONSUMMATION OF agreement with
+DIVESTITURE buyer)
+CONSUMMATION OF
++ 2 TO 4 MONTHS
+TRANSACTION
+CONSUMMATION OF CONSUMMATION OF
+TRANSACTION TRANSACTION
+REMEDY
+MONITORING BUYER SELECTION
+(sign binding
+agreement with
+CONSUMMATION OF
+IN GENERAL, NO buyer)
+DIVESTITURE
+DIVESTITURE 3 TO 6 MONTHS
+MONITORING CONSUMMATION OF
+DIVESTITURE
+POST-DIVESTITURE POST-DIVESTITURE
+MONITORING MONITORING
+FULFILLMENT OF FULFILLMENT OF FULFILLMENT OF
+FULFILLMENT OF
+MERGER CONTROL MERGER CONTROL MERGER CONTROL
+REMEDIES
+AGREEMENT AGREEMENT AGREEMENT
+Source: CADE.
+Note: in a fix-it-first, the divestiture may also be consummated before signing
+the Merger Control Agreement. See section 3.3.1 "Deadlines for divestiture" for
+deadlines for defining a buyer.
+3.2.1.1 Fix-it-first remedy5
+In a fix-it-first solution, the choosing of a buyer for the asset package and the
+signing of a binding agreement happen before merger clearance. A fix-it-first remedy is
+appropriate in cases where the parties offer recovery structural measures during merger
+review. The parties indicate a buyer for the assets to be divested and enter into a binding
+agreement during merger review. In case CADE clears the transaction — meaning the
+5 Some jurisdictions define a fix-it-first remedy as selling the divestiture to a buyer appointed by the
+applicants, forgoing the execution of a Merger Control Agreement (ICN, 2016 — Merger Remedies Guide,
+p. 16). In Brazil, only in specific cases can a fix-it-first remedy solve the competitive harm without a
+Merger Control Agreement.
+31buyer has also been approved — the divestiture process can be carried out as soon as the
+transaction is cleared.
+A fix-it-first remedy is implemented when the identity of the buyer is crucial for
+the effectiveness of the proposed remedy; in such cases, very few buyers can be
+considered suitable. It happens where (i) the divestiture is not a viable business by itself,
+depending on a buyer's specific assets to achieve viability; or (ii) the buyer needs to
+have specific features for the remedy to solve competition concerns raised by the
+transaction.
+One of this remedy's advantages is having an asset package tailored to the
+identified buyer. Hence, the package can be more modest than one that needs suit any
+buyer, as is the case with upfront buyer or post-consummation remedies. Moreover, a
+fix-it-first remedy allows consummation immediately after merger clearance.
+This relief is also recommended where assets can lose value between the signing
+of a Merger Control Agreement and the conclusion of a divestiture process. For
+instance, where (i) the key personnel and/or clients of the divested business may be lost;
+or (ii) it is difficult to conduct a carve-out process in the meantime, since it depends on
+entering into a binding agreement with the buyer.
+3.2.1.2 Upfront buyer remedy
+Some cases demand an upfront buyer for CADE to be sure the business will be
+transferred to an appropriate buyer. In such instances, as a condition for the
+consummation of the transaction, the parties must undertake to sign a binding agreement
+with a CADE-approved buyer. Unlike the fix-it-first relief, in this remedy the buyer is
+only appointed after merger clearance. Thus, the asset package tends to be larger than in
+a fix-it-first remedy, since it should suffice to turn any buyer (irrespective of its identity)
+into an effective competitor.
+This solution is recommended where there are relevant obstacles to a divestiture,
+such as third parties' rights or uncertainties about whether an appropriate buyer can be
+found. In such cases, an upfront buyer allows CADE to be sufficiently certain the
+commitments will be fulfilled, as the buyer is appointed before consummation.
+An upfront buyer is also preferable to a post-consummation solution where risks
+of asset depreciation are high. This is because in the time between signing a Merger
+Control Agreement and transferring the asset, the signatory (applicant) has significant
+incentives to stop investing and operating the asset. Hence, an upfront buyer ensures the
+signatory keeps the facilities, machinery, and its units' equipment in a perfect state of
+repair, and that its personnel is ready to operate without interruptions.
+32Implementing this remedy may be beneficial to the applicants, since it expedites
+the divestiture process; increases the certainty of having a viable divestiture (more than
+the conventional decision to look for a buyer only after the transaction is completed);
+and avoids a sale in which the parties have to divest larger asset packages (e.g. crown
+jewels). In addition, it helps the authority, as it is more certain that the divestiture will
+bring about competitive effects.
+3.2.1.3 Post-consummation remedy
+In a post-consummation remedy, a buyer must be selected and a binding
+agreement must be signed by a certain deadline after merger clearance. This relief is
+appropriate in most cases in which, due to an uncomplicated divestiture, it is easy to
+find severable potential buyers. Where buyers are demanded specific qualifications, the
+remedy can still be applied if enough potential buyers hold these qualifications.
+At the same time, CADE must be sufficiently confident the asset package will be
+able to attract suitable buyers and that the assets will not depreciate by the time the sale
+is concluded. As with an upfront buyer remedy, some measures must be taken to
+preserve the asset package until the divestiture process ends. This type of relief usually
+involves more risks in its implementation than fix-it-first or upfront buyer solutions.
+3.2.2 Requirements
+3.2.2.1 Independence from merging firms
+From a competition standpoint, an appropriate buyer should have economic
+incentives to operate the divested business as a competitor of the applicants and of other
+players of its market. This means the buyer must be independent from the applicants and
+their affiliate companies, which entails being independent from (i) any equity interest —
+including minority stakes — and (ii) management connections (e.g. where a CEO or
+managing director of one of the buyer's affiliates participates in the applicant's board of
+directors).
+Owning a minority stake in a connected company frequently opens up the
+possibility of influencing the company's competitive behaviour. Where a buyer holds
+equity interest in companies belonging to the applicants' business group, this buyer is
+less inclined to compete with the applicants if the divested business operates in the same
+market than the applicants or in upstream or downstream markets.
+Similarly, having a contractual relationship with the applicants in the markets
+33affected by the transaction may call into question the independence of the buyer and the
+remedy's competitive effects. This may be the case for financially relevant supply
+agreements, as well as for cooperation agreements in the markets affected by the
+transaction or in geographic or product markets close to the affected markets.
+Finally, the price paid for the assets may be used to indicate how much
+independence from the applicants a buyer has. This price can help proving fraud, as if
+the asset is sold at an unreasonably low price, it may suggest the buyer has no interest in
+applying the acquired asset to compete in that market.
+3.2.2.2 Avoiding new competition concerns
+A buyer must prepare a convincing business plan detailing how it will operate
+the divestiture so as to fully develop its competitive potential, specifically mentioning
+the markets where competition concerns had been raised. Otherwise, the buyer's
+business may raise new competition concerns, such as in the following instances:
+• The buyer plans to employ its acquired business for activities that differ
+from its current activities. e.g. operating in different markets.
+• The acquired divestiture will be resold to a third party in the near future.
+• The buyer has incentives to transfer the acquired business.
+• Loans granted by the asset seller can reduce the buyer's business risks and
+may lead to a situation in which the acquired business becomes dependant on the
+creditor (i.e. one of the applicants). By receiving a loan from one of the applicants, the
+buyer may indicate lack of interest in using the acquired business to compete with the
+applicants, or that it will not make use of its full competitive potential.
+3.2.2.3 Incentive/capacity to maintain and develop the divested business
+The intended effects of a divestiture will only be reached if the business is
+transferred to a buyer capable of making it effectively competitive. To that end, the
+buyer should have economic incentives and the capacity to maintain and develop the
+divested business.
+a) Financial health
+A buyer must demonstrate it has the financial resources required to develop the
+business in a competitive way.
+In case the applicant (transferrer) is responsible for the funds needed to purchase
+the assets, the transferrer will most likely have partial control over the assets and the
+34buyer; it also implies the buyer has difficulties in acquiring a bank loan.
+Hence, by receiving a loan from one of the applicants, the buyer may signal it
+has no real interest to compete with the applicants and, consequently, it will not make
+full use of the business' competitive potential.
+b) Capacity to satisfy the regulatory requirements
+An appointed buyer's acquisition of a divested business should neither raise new
+competition concerns nor risk delaying the fulfilment of the established obligations.
+Therefore, the buyer is expected to be capable of satisfying every regulatory
+requirement to purchase the business.
+c) Expertise
+As the case may be, it is desirable a buyer has proven expertise in the relevant
+market and enough experience and financial resources to successfully operate the
+purchased business. This is the case for markets that require companies have specific
+expertise or resources for successfully competing in it.
+3.2.3 CADE Approval
+A structural remedy requires a suitable buyer to be effective. As seen above,
+divestiture remedies set criteria for potential buyers, e.g. independence from the
+merging firms, not raising new competition concerns, financial health, etc.
+Against this backdrop, regardless of the criteria applied in choosing a buyer and
+the moment to do so — that is, through a fix-it-first, upfront buyer, or post-
+consummation approach, depending on the transaction — the nominated buyer must be
+approved by CADE before the business is sold. This is true for buyers selected by the
+applicants or not.
+As a rule, applicants are free to choose to whom they will sell, as long as they
+meet the obligations set in the Merger Control Agreement, submit the appointed buyer
+to CADE, and receive the authority's approval. However, there is also the possibility of
+selling assets through processes such as auctions, public offerings, etc.
+In the case of government procurement processes, specifically, it is worth noting
+the players most likely to win are also those who can give raise to new competition
+concerns. This is because, due to their market power, these players can present higher
+turnovers in their proposals, whilst smaller players cannot. On the other hand, these
+concerns can be avoided if the authority identifies these problems and restricts
+35eligibility before the auction.
+Thus, in approving a buyer, CADE must ensure all requirements provided by the
+Merger Control Agreement are met, which applies both for where a buyer is selected by
+the applicants as well as where the selection is carried out through the other processes.
+3.3 The divestiture process
+3.3.1 Timetable for the divestiture process
+The divestiture must be accomplished within the shortest time frame possible;
+our experience has it that it should take three to six months. During the time frame set
+for divestiture, obligations can be fulfilled in parts, and failure to fulfil them may result
+in penalties and the parties losing their ability to conduct the divestiture process as they
+see fit. Where the time limit for divestiture has expired, except in the event technical
+problems prevented compliance, a Merger Control Agreement must provide for
+auctioning (rather than negotiating) the assets and the possibility of not having a reserve
+price so as to ensure divestiture obligations are met. Failure to comply with divestiture
+commitments leads to CADE blocking and undoing the transaction, regardless of any
+provision in the Merger Control Agreement for any kind of integration between the
+parties.
+After the contract of sale is signed and the asset transfer is concluded6, the
+parties must sever all ties with the divested assets, except for those indispensable to
+preserve the remedy, such as authorisations and/or licenses; supply contracts;
+distribution channels; or other contracts and relationships necessary for the divested
+business' operations. In such exceptional instances, post-sale ties must be transparent, be
+severed as soon as possible, and preserve the remedy's effects of mitigating the
+anticompetitive harm of the transaction.
+It is worth mentioning compliance with structural obligations may continue to be
+monitored after the divestiture stage. The reason for it is that the sale, transfer of assets,
+and contracts between customers/suppliers may not be enough to assure the buyer of the
+viability of the business, especially when it comes to a new entrant in the market.
+In this sense, maintaining the integrity and commercial viability of the assets
+extends beyond the sale stage. The issues that could emerge after the asset transfer is
+consolidated are more easily solved when parties are aware CADE is still overseeing the
+divestiture process.
+6 It is worth mentioning that signing a purchase and sale agreement does not necessarily mean the
+divestiture is being implemented. The divestiture process entails not only this signature, but the actual
+transfer of assets and contractual relationships (i.e. contracts with suppliers and clients, lease agreements,
+use of distribution channels, etc.) and the transfer of authorisations and permits (e.g. a business licence)
+required to operate the divested business.
+363.3.2 Appointment of a divestiture trustee
+Merger Control Agreements can provide for a divestiture trustee to carry out the
+divestiture process where the Applicants fail to perform it by the set deadline. Thus, the
+divestiture trustee is tasked with selling the business by a second deadline. In this case,
+the divestiture trustee sells the divested assets for the best price possible, without being
+limited by a reserve price or depending on the Applicants' instructions.
+For further information on the divestiture trustee, see Section 5.1.3.
+3.3.3 Pricing terms
+In case the first deadline for divestiture has been missed, the divestiture may
+occur without a reserve price. This minimises the risks involved in implementing the
+divestiture process and increases the chances of finding an appropriate purchaser that, in
+this case, will be assisted by a divestiture trustee.
+CADE emphasises the agency does not take into account whether the sale will
+be profitable for the signatory. It only ensures the criteria for purchasers set forth by the
+Merger Control Agreement are met, so that the divestiture process achieves its main
+goal: restoring competition.
+As a consequence, CADE's clearance is not conditioned on the price paid by a
+buyer. Nonetheless, prices paid in such purchases may be used to verify the possibility
+of fraud, as excessively high or low prices may suggest the buyer has no interest in
+employing the acquired assets to improve its competitiveness.
+3.3.4 Due diligence
+A divestiture process must ensure potential buyers can conduct due diligence
+review and obtain, depending on the stage of the process, sufficient information on the
+divestiture process so as to fully assess the value, scope, and commercial potential of a
+business, in addition to have direct access to its personnel.
+The trustee (or the parties) should grant potential buyers all documents and
+information necessary for a thorough assessment of the divested business.
+3.3.5 Approval process
+The parties must have CADE's clearance as to the buyer and the purchase and
+sale agreement. This requirement applies to all divestiture remedies, regardless of the
+type. CADE must be informed of the buyer's identity and be provided the purchase and
+sale agreement and all necessary information by the end of the divestiture deadline.
+Furthermore, the agency requires a sufficient amount of time to ascertain the
+37buyer and the purchase and sale agreement suit the requirements established by the
+Merger Control Agreement. This assessment is conducted according to the documents
+presented and to meetings with the potential buyer and the monitoring trustee. This does
+not exempt firms from notifying the new transaction whenever it meets the criteria for
+pre-merger mandatory notification.
+384 Behavioural remedies
+Where structural remedies fail to successfully address competition concerns or,
+due to regulatory or factual matters, remedies are inefficient, CADE may impose
+behavioural remedies to mitigate the transaction's anticompetitive harm if effective to
+revert this harm. In addition, behavioural remedies can be used to complement and
+increase the efficiency of structural remedies. With regard to the proportionality
+principle, a behavioural remedy should be measured by its capacity to solve a
+transaction's competition concerns, whether by itself or accompanied by structural
+remedies.
+Generally, behavioural remedies apply to vertical integrations, as they can better
+preserve potential efficiencies (e.g. externalities, lower transaction costs) of a merger
+whilst mitigating the risk of market foreclosure.
+In considering structural remedies, the amount of assets transferred for a
+successful remedy is proportional to the synergy between the assets — whilst being
+careful not to lose the efficiencies of the divestiture package. Conversely, the more
+assets transferred, the higher the chances of losing the efficiencies created by the
+merger, as fewer assets will remain with the Applicant. In case a transaction leads to
+vertical foreclosure, a divestiture package may be created, functioning as an
+independent business with assets with two or more links in the production chain.
+However, this may result in an exceedingly large divestiture package, which can
+jeopardise the proportionality principle of the remedy.
+When this happens, and the relationship between different links in a production
+chain can potentially cause anticompetitive harm, one solution is to apply behavioural
+remedies — which may or may not be added to the structural remedies.
+The main behavioural remedies in vertical integrations are obligations to grant
+access to fixed inputs (e.g. infrastructure with the characteristics of an essential facility)
+or to intellectual property rights.
+The success of such measures, especially in remedies that facilitate market
+access, depend on the anticompetitive harm caused by the transaction. For instance, if it
+entails the acquisition of a relevant market player, in the majority of cases the harm is
+only offset through divestiture. Conversely, if a transaction mainly raises pre-existing
+entry barriers — through vertical integration, for instance — measures to facilitate
+market access are usually enough to offset anticompetitive effects.
+With regard to intellectual property rights, the granting of licences may
+constitute a suitable remedy where the effects of a merger only involve raising pre-
+existing entry barriers. In cases like these, the licence should enable competitors enter
+39the market or facilitate their entry to a degree that offsets the anticompetitive harm.
+We should note that the process of granting a licence should be transparent and
+non-discriminatory. If the licensor is a competitor, the terms of this licence should not
+jeopardise the licensor's competitiveness. However, in considering the long contractual
+relationship between competing firms in a licencing agreement, CADE can take into
+account the possibility of future problems such as the need for negotiations on licence
+fees, for instance, which can hinder the success of a remedy.
+It is worth noting behavioural remedies entail more risks, as they take longer to
+implement than structural ones. Unlike with structural remedies, CADE does not
+suggest time limits for these, since they will depend on the specificities of each case. In
+addition, the issue of asymmetry of information between CADE, the merging firms, and
+third parties is more common with behavioural remedies.
+The very nature of these remedies makes them more difficult to define and
+assess and more expensive to the agency and parties. Behavioural remedies can also
+create unwanted and unpredictable distortions in the affected markets. Lastly, they may
+be ineffective as to competition, since they do not remove the incentives for Applicants'
+abuse of dominant position. Thus, the competition authority needs to be cautious with
+their design and, most importantly, their supervision.
+Despite these risks, behavioural remedies at times are appropriate, since they can
+address different kinds of competition concerns, especially where divestiture is
+disproportional and/or may significantly compromise the efficiencies generated by the
+transaction.
+4.1 Precautions and best practices to be followed when designing behavioural remedies
+As far as behavioural remedies go, we should note measures that directly control
+the prices and quality of the products offered by the parties should be exceptional. These
+costly measures run a substantial risk of being ineffective and constitute a regulation in
+the strict sense. In the majority of cases, those not involved in the business and
+operation of the business units lack information to make a proper assessment of these
+competitive conditions.
+On the other hand, the experience of CADE and other countries has it that
+behavioural remedies — non-exclusivity and non-discrimination, for instance — are
+common and suitable for mergers that raise vertical concerns such as those seen above.
+This experience does not exclude the possibility of structural remedies, if the principles
+of viability, proportionality, timeliness, and verifiability are properly addressed.
+In a behavioural remedy related to vertical relationship of parties and third
+40parties (such as non-discrimination or access to essential facilities), CADE usually does
+not mediate any disputes that may rise between them. Nonetheless, the authority may
+receive information on non-compliance with obligations to verify whether the remedies
+have been properly performed.
+As an example, in a vertical integration, Chinese walls are behavioural remedies
+aimed at reducing the flow of information between the upstream and downstream
+departments of a verticalised firm. When the flow of information between the
+departments is stopped, upstream and downstream discrimination of competitors is less
+likely to occur.
+Whilst Chinese walls target the issue of exchange of sensitive information,
+which can cause an Applicant's discrimination against its competitors, there is also a
+problem in the information asymmetry between the Applicant and the competition
+authority, which may jeopardise the monitoring of the remedies. As a result, remedies
+such as Chinese walls are usually more effective as ancillary remedies.
+Generally, it is advisable that a monitoring trustee participates in the design of
+behavioural remedies to track, document, and report on compliance with the remedies to
+the competition authority. Depending on the behavioural remedies adopted, the outcome
+of independent audits may be included in the monitoring. CADE's experience suggests
+there is little need for reports of limited or reasonable assurance prepared according to
+the Brazilian Standards on Accounting (NBC TO 3000), Assurance Engagement Other
+Than Audits or Reviews (approved by Resolution 1160/09 of the Brazilian Federal
+Accounting Council). In this cases, the remedy must necessarily provide for, and
+impose, a direct relationship between CADE and the independent auditor with no the
+intervention by the signatories. The provision allows the independent auditor to provide
+all the information CADE requires to make a critical assessment of whether the
+obligations established in the remedies have been met. Moreover, it enables CADE to
+change the way the monitoring is conducted dependent on the authority's assessment
+and the provisions that were established7.
+7 NBC TO 3000 clarifies the work plan of an independent auditor is an "ongoing, interactive process
+developed throughout the engagement" (Paragraph 13) and that "if an independent auditor learns about an
+issue that leads to questioning whether a relevant modification should be made in the object information,
+the auditor must address the issue by carrying out enough procedures to allow including the issue in the
+audit report" (Paragraph 37).
+415 Trustees
+Where necessary, CADE instructs the parties to hire trustee to take part in a
+remedy's implementation and monitoring. Trustees report directly to CADE, according
+to mandates established in a Merger Control Agreement or in a decision by CADE's
+Tribunal. These trustees must know the business described in the remedy and are
+compensated by the parties to the transaction, who may appoint them before the hearing.
+5.1 Roles
+5.1.1 Monitoring trustee
+A monitoring trustee is tasked with supervising and ensuring remedy
+implementation. Against this background, a monitoring trustee helps both the
+competition authority and the Applicants in examining whether the obligations
+established are met. The trustee is independent from the applicants, even though
+compensated by them, and is responsible for ensuring the Applicants implement the
+remedies thoroughly, effectively and without delay.
+To this end, a monitoring trustee must point out potential obstacles in the way
+and check the Applicants' success in planning , preparing and executing all intermediary
+stages required. Trustees also verify whether applicants have been meeting their
+obligations so as to not compromise the economic viability of the business set for
+divestiture.
+We must stress that, although monitoring trustees have an active role in
+enforcing remedies, they cannot decide on behalf of CADE. They work under the
+supervision of CADE through a mandate and regularly report to the authority about the
+implementation of the planned measures and fulfilment of the remedy obligations.
+Concurrently, Applicants must give a mandate to the trustee, with powers sufficiently
+broad to effectively monitor the agreement.
+Following the end of a trustee's mandate, established in a Merger Control
+Agreement or a decision by CADE, he or she sends CADE and the Applicants a final
+report and ensure potential business secrets from one Applicant have not been not
+disclosed to the other.
+In general, the structural or behavioural obligations set forth in a Merger Control
+Agreement will guide the tasks of the monitoring trustee.
+The mandate signed by the Applicants and trustee specifies the trustee's
+obligations and responsibilities, whilst the work plan further details the trustee's duties.
+In summary, the main duties of a monitoring trustee, depending on the case, are
+42the following:
+ Ensure the behavioural obligations are met, monitoring the performance of
+the firm's daily obligations and of its relationship with customers, suppliers,
+and other third parties that may be affected by the obligations negotiated
+with CADE. Trustees should have free access to the firm, documents,
+systems, and other assets entailed in properly monitoring the obligations;
+moreover, dependent on the mandate given by CADE, they may suggest
+corrections in order to ensure the obligations are fulfilled.
+ Trustees supervise safeguard measures related to the divested business
+from the moment the Merger Control Agreement is signed to the completion
+of the divestiture process. During this time frame, trustees are responsible
+for supervising the management and preservation of the assets as a
+separate business (preservation monitoring trustee).
+ In case of an asset carve-out, trustees are responsible for monitoring the
+splitting of the assets of the divested business from those of the businesses
+retained by the parties; personnel reallocation; and, if need be, duplication of
+assets and duties previously retained by the Applicants (carve-out
+monitoring trustee).
+ Oversee the Applicants' efforts to find a potential buyer, oversee the asset
+transfer, and certify potential buyers are given sufficient information on the
+business. Once a buyer has been defined, the monitoring trustee writes a
+report to CADE explaining how the suggested buyer satisfies the
+requirements and if the business is being sold according to the
+commitments made in the Merger Control Agreement. At the end of the
+process, the monitoring trustee supervises the business' legal and effective
+transfer and writes a final report attesting to the transfer (divestiture
+process monitoring trustee).
+ Guide and supervise the activities of the operating trustee, which are related
+to the day-to-day operations of the business to be divested. The operating
+trustee manages the business until the divestiture process is completed,
+preserving the divested business and ensuring its independence from the
+Applicants' other businesses (hold separate monitoring trustee).
+5.1.2 Operating trustee
+An operating trustee is the manager specifically appointed to manage the asset
+package whilst it is not transferred to the buyer. The monitoring trustee is tasked with
+giving instructions and supervising the activities of the operating trustee, which are
+related to the day-to-day operations of the business to be divested.
+Operating trustees also inform the team involved in the divested business on the
+divestiture process and its implications on the rights and duties of this team.
+43This trustee must be timely appointed, according to the deadlines set forth in the
+Merger Control Agreement or in the decision issued by CADE. The Applicants must
+carry out every instruction of the operating trustee connected to the implementation of
+remedies. An operating trustee works under the supervision of both CADE and of the
+monitoring trustee, never of the Applicants.
+5.1.3 Divestiture trustee
+Where the parties cannot find the divestiture package a suitable buyer within the
+set time frame, a divestiture trustee is appointed to carry out the divestiture process. As
+with the monitoring trustee, parties must appoint a divestiture trustee to ensure the
+effectiveness of the commitments undertaken in the Merger Control Agreement.
+A divestiture trustee does not receive any instructions for the Applicants in
+selling the divestiture package. During the auction the trustee sells the package at best
+possible price and is not necessarily bound to a reserve price. The buyer, in turn, must
+satisfy the requirements set forth in the decision that included the remedy.
+The divestiture trustee is given a mandate to conduct the business transfer within
+the established time frame. A divestiture trustee's mandate is exclusive, irrevocable, and
+subject to the supervision of CADE in order to complete the transfer by the deadline set.
+The commitments must provide that the parties support and inform the
+divestiture trustee in the same manner as for the monitoring trustee. The parties must
+grant, through power of attorney, extensive powers in all divestiture stages.
+5.2 Additional information
+5.2.1 Timing of appointment
+It is crucial that a monitoring trustee assumes his or her role as fast as possible.
+Thus, the parties must suggest a suitable trustee in a timely manner and by the agreed
+deadline. The agreement may include a provision establishing the merger or acquisition
+can only be consummated after CADE nominates a monitoring trustee.
+Unlike the monitoring trustee, a divestiture trustee should be appointed where
+the first deadline for divestiture is missed. A divestiture trustee's mandate comes into
+effect when the time frame set for its intervention starts.
+5.2.2 Requirements
+CADE will assess the necessary requirements in the light of the circumstances of
+each case, which includes geographic factors and the economic sector at issue. Auditing
+and consulting companies are potential candidates for the position of monitoring trustee,
+as they usually perform the duties of this position with success. Likewise, individuals
+44with experience in the sector of the economy at issue are potentially suitable candidates,
+as long as they have the resources needed to perform this role. As for divestiture
+trustees, investment banks are particularly fitting8.
+Trustees should be independent from the parties9, have the necessary
+qualifications to meet the obligations prescribed in the mandate, and should not be
+subject to conflicts of interest.
+Conflicts of interest arise when a trustee is linked to a firm owned by the
+business group of an Applicant, either as a shareholder or through a financial link. A
+conflict of interest also exists where a trustee provides economically relevant services to
+the Applicants — e.g. legal consulting, auditing services, as an investment bank, etc. In
+cases where a conflict of interest arises during a trustee's mandate, the competition
+authority must be immediately informed. In these situations, CADE requires the parties
+to terminate the mandate of the trustee and appoint a new one.
+Finally, the parties should provide CADE with the necessary information for it to
+confirm the trustee satisfies the mandatory requirements.
+Divestiture trustees should meet the same requirements as monitoring trustees
+with regard to qualifications, credentials, resources. Their appointment process,
+mandate, and compensation also follow the same rules. Thus, an individual or firm
+appointed as a monitoring trustee can also be appointed as a divestiture trustee.
+5.2.3 Selection of a trustee
+According to the case, the monitoring trustee and the divestiture trustee may be
+the same person or institution. As for the selection of a trustee, unless otherwise
+specified in Merger Control Agreement, the Applicants should first prepare a list of
+candidates and submit it to CADE. The agency may confirm all nominations, in which
+case the Applicants are entitled to nominate the one that suits them best. In cases where
+CADE rejects all proposed candidates, applicants should prepare a list with new
+candidates.
+The submission of the candidates must also include a work plan covering the
+procedures, mechanisms, and monitoring stages of the remedy so as to enable CADE to
+verify whether the proposal grants the trustee the powers and duties necessary to
+supervise the execution of the obligations of the Merger Control Agreement.
+8 A monitoring trustee, specifically, may or not be an auditing firm. It is important for a trustee to be
+capable of monitoring the Merger Control Agreement, not only in relation to accounting and finances, but
+also to the affected market. Failure to fulfil these conditions may lead to the rejection of a candidate for
+trustee. Furthermore, the trustee may also be replaced within the duration of the agreement in case he or
+she fails to deliver reports that enable a proper assessment of compliance with the agreement.
+9 Depending on the case, an operating trustee may be an employee of the merging firm. This may be the
+case, for instance, when a given person is part of the key personnel needed to preserve the viability of the
+business.
+455.2.4 CADE approval
+CADE is tasked with, at its own discretion, ascertain the candidates for trustee
+are suitable for the roles to be performed in each case. The agency's approval of a
+trustee is conditioned on an appropriate mandate. Where suitable, the identity and a
+summary of the trustee's duties may be made public by publication. In addition to the
+approval of a candidate, the agency must approve the trustee's mandate, which
+establishes the rights and obligations of both the trustee and the Applicants.
+CADE will endeavour to make a timely analysis of the candidate and decide for
+the candidate's approval or rejection. Approval may be contingent on improving or
+solving issues in the work plan presented by the trustee; in this case, the hiring depends
+on whether the changes suggested by CADE have been adopted.
+5.2.5 Duties and obligations of the parties to the appointed trustee
+Monitoring, operating, and divestiture trustees must all be nominated based on a
+mandate signed between the trustee and the parties. The nomination and mandate are
+submitted to CADE for approval.
+A trustee's mandate must establish the trustee's duties in the manner provided in
+the commitments undertaken, and includes all provisions required for a trustee to fulfil
+his or her role.
+The signatory must cooperate with the trustee, providing unrestricted access to
+all documents, systems, and information necessary for the performance of the trustee's
+obligations.
+In the same way, the signatories must give the trustee lists of potential buyers;
+powers to conduct the asset sale; and, if necessary to fulfil the trustee's duties and
+obligations, pay for consultants (of corporate finance, technical matters, R&D, etc.).
+CADE may share confidential information on Applicants with the trustee, who
+must sign a Non-Disclosure Agreement related to this information, under the provisions
+of the trustee's the mandate.
+5.2.6 Compensation
+The Applicants are responsible for compensating the trustee in a manner that
+does not hinder the trustee's independence from the Applicants nor the trustee's
+effectiveness in fulfilling the mandate.
+It is important to be aware of a potential problem: the party is the one who pays
+the trustee, whilst the trustee's obligation is to the Authority.
+46Thus, considering different kinds of mandates, a trustee's compensation varies
+according to the complexity and duration of the adopted remedy.
+5.2.7 Replacement, dismissal, and renewal of term
+A trustee's nomination is, fundamentally, irrevocable. However, in the event a
+trustee fails to perform its activities according to the Merger Control Agreement or a
+conflict of interest arises, CADE may require the Applicants to replace the trustee.
+Alternatively, the Applicants may seek CADE's permission to replace the trustee
+themselves.
+The mandate of a trustee must provide for the trustee's exemption from further
+liabilities to CADE when the obligations set in the mandate have been fulfilled, e.g. (i)
+the signing of a sale contract, (ii) the transfer of assets to the buyer, and (iii) compliance
+with specific post-divestiture agreements.
+However, even where such exemption has been given, a trustee may be
+renominated if CADE later considers relevant obligations were not fully or satisfactorily
+met.
+476 Monitoring of Merger Control Agreements
+Every remedy contains monitoring obligations, which include gathering and
+reporting to CADE information on the development of the business and of the
+commitments set forth in the remedy. From this information, CADE will be able to
+examine whether the remedies are being applied or not.
+This examination is also important to anticipate problems and avoid conflicts
+with the obligations, which would incur considerable expenses for the Government or
+the parties.
+Monitoring also creates direct costs related to the collection, organisation,
+submission, and processing of information received by CADE. These costs can be kept
+to a minimum if the information is well substantiated and details how successful the
+remedy was in attaining its goals. Some ways to reduce monitoring expenses include
+defining the scope of information, the frequency of information submission, and the role
+of the monitoring trustee.
+Defining the scope of information may include an examination of the
+competitive capacity of the assets to be divested (such as current turnover), information
+on the buyers involved in the negotiations after the preliminary phase, amongst others.
+The frequency of information submission may change according to the remedy's stage
+of implementation.
+CADE strongly advises the participation of a monitoring trustee should be
+considered, either to supervise the sale for the parties or to supervise compliance with
+the indicators and goals defined in the remedy. Such monitoring trustees have a specific
+mandate, report directly to CADE, and are compensated by the Applicants.
+The established monitoring obligations do not conflict with the provision for
+access to the facilities and investigations into the merging firms aimed at collecting
+additional information to inspect compliance with the obligations. The agreed remedies
+must provide for this access, following due process.
+6.1 Monitoring by CADE vs. monitoring by a trustee
+Under Article 52 of Law 12529/2011 and at the discretion of CADE's Tribunal,
+the Office of the Superintendent General may monitor compliance with the
+commitments and agreements10.
+10 Article 52. After the Tribunal issues its judgement, and at its own discretion, it may send the
+proceedings to the Office of the Superintendent General, which will analyse compliance with the
+judgement and with agreements and commitments signed under this Law.
+(1) In inspecting the observance of the Tribunal’s decision and of the agreements and commitments
+signed under this Law, the Office of the Superintendent General can make use of every investigating
+48The Enforcement of Judgements Office, part of the Office of the Attorney
+General at CADE, prepares opinions on the development and monitoring of the parties'
+out-of-court compliance with CADE's judgements, Cease and Desist Agreements, and
+Merger Control Agreements. Whenever possible, public versions of these opinions are
+prepared, allowing interested third parties to offer their comments and participate in
+CADE's assessment.
+Under CADE's Resolution 6 of 3 April 2003, the Office of the Attorney General
+at CADE issues a document analysing compliance with commitments, agreements, and
+the Tribunal's judgement. Following, the Office of the Superintendent General may
+request information or documents necessary to this analysis, which in turn must be
+confirmed by the Tribunal's President.
+In a Merger Control Agreement, CADE's compliance assessment must verify if
+rules such as deadlines related to each stage of the remedy have been observed; and
+look into the remedy's effects, analysing the impact and success of the implemented
+measures.
+The supervision conducted by the trustee, on the other hand, must stay under the
+lead of CADE. It is not feasible for the competition authority to regularly supervise if
+commitments are being met. Hence, the competition authority advises the Applicants to
+appoint a monitoring trustee, who oversees the performance of the commitments
+undertaken by the applicants during the divestiture process.
+As mentioned before, the duties of a monitoring trustee include preserving the
+divested business up to its transfer, monitoring the carve-out process of the divestiture
+package, searching for an appropriate buyer, and tracking compliance with behavioural
+remedies.
+Thus, a trustee supports the competition authority in the monitoring process and
+parties' observance of obligations, according to the provisions of the trustee's mandate.
+Therefore, amongst the many duties of a trustee, the position requires regularly writing
+reports to the agency informing it about the parties' compliance with the obligations of
+the remedies.
+These reports must include an executive summary detailing the performance of
+commitments (whether behavioural or structural). To this end, a trustee must describe
+the procedures adopted during the monitoring process, the evidence collected, and the
+rationale behind his/her conclusions11.
+power provided for in this Law.
+(2) Once the Tribunal’s decision, Merger Control Agreement, or Cease and Desist Agreement has been
+fulfilled, the Office of the Superintendent General, on its own motion or at request of an interested party,
+provides a statement of compliance (Law 12529/2011).
+11 In case the monitoring is conducted by independent auditors, assurance reports delivered to CADE
+49The reports may also include additional information about the fulfilment of
+commitments as to the trustee's view on the performance of obligations; in this case, the
+trustee must explain the reasons for the addition to CADE12. Such information will be
+taken into account according to the case. Where there are doubts on whether the
+obligations have been met, the parties may be heard.
+Thus, it can be stated that one of the tasks of a monitoring trustee is to mitigate
+the asymmetry of information between CADE and the Applicants.
+6.2 Sanctions and penalties
+A Merger Control Agreement must provide for the possibility of CADE
+reconsidering the clearance given to a transaction where an Applicant violates Article
+91 of Law 12529/2011 and/or of applying daily fines for non-compliance or delays as to
+the obligations established by the Agreement. The penalties should be proportional to
+the severity of the non-compliance and, in case of a financial penalty, take into account
+the firm's turnover.
+Fines and penalties are split into (i) fines for non-compliance with main
+obligations and (ii) fines for non-compliance with ancillary obligations. Main
+obligations are those related to divestiture, asset sale, doing or failing to do something:
+that is, obligations to prevent competition concerns from arising. Ancillary obligations
+comprise the documents, reports, and any other obligations aimed at informing CADE
+about the observance of main obligations. For instance, every six months a trustee's
+report should be presented, and failing to do so incurs a penalty. Moreover, there are
+fines related to non-compliance with specific commitments and daily fines for delays
+(of reports, for instance).
+Where a Merger Control Agreement has been partially or entirely reneged, the
+Agreement must provide for the reconsideration of the transactions referred to in Article
+91 of Law 12529/2011, in addition to other implications (such as having the transaction
+(whether limited or reasonable, depending on the needs of the remedy package) must be "long form"
+(forma longa) prepared observing Paragraph 48 of the NBC TO 3000 standards: the reports must "detail
+the terms of the engagement, criteria applied, remarks on specific aspects of the engagement, and, in
+some cases, recommendations and basic elements. Any remarks and recommendations by an independent
+auditor must be clearly separated from its conclusion, and be phrased so as to ensure there is no intention
+of them detracting from the conclusion. The auditor may use titles, paragraph numeration, formatting
+such as bold, and other ways to improve the report's clarity and readability."
+12 In case the monitoring is conducted by independent auditors, assurance reports delivered to CADE
+(whether limited or reasonable, depending on the needs of the remedy package), Paragraph 50 of NBC
+TO 3000 provides that "an independent auditor may include in the assurance report other information and
+explanations not intended to change its conclusion. For instance, details on the qualifications and
+experience of the auditor and others involved with the engagement, disclosure of materiality levels,
+comments on the engagement, and recommendations. The inclusion of this information depends on its
+relevance to the needs of the intended user. This additional information must be clearly separated from
+the conclusion of the auditor and be phrased so as to ensure it does not affect the auditor's conclusion.
+50undone or the clearance reconsidered).
+If the signatories fail to meet any of the deadlines or commitments prescribed in
+the Merger Control Agreement, CADE provides them with the opportunity to express
+their views and reasons within the period detailed in the Agreement; if the Agreement
+does not refer to such a period, the parties have five days to do so.
+6.3 Amendments to Merger Control Agreements
+Following the signature of a Merger Control Agreement, the signatories may,
+under exceptional circumstances and presenting their reasons for it, request the agency
+to amend the Agreement, i.e. to delete, change, or replace the obligations established by
+it. The agency may extend the time limits provided by the agreement at request of the
+signatories or, where appropriate, on its own motion or by request of the Office of the
+Superintendent General.
+Any such amendments require the Tribunal's approval. Rejection of such
+amendments to a Merger Control Agreement might lead to obligations not being met. In
+these circumstances, CADE may reconsider the transaction, as established by Article 91
+of Law 12529/2011.
+517 Compliance with Merger Control Agreements
+The examination of whether obligations have been fulfilled should be clear and
+legally verifiable, without placing an excessive burden on the parties or CADE,
+particularly in the case of behavioural remedies.
+In addition to CADE's use of supervisors or trustees — who are compensated by
+the parties — to obtain the information necessary to meet the obligations, a Merger
+Control Agreement may include provisions for the investigation and on-site information
+gathering, aimed at fulfilling obligations.
+Non-compliance constitutes failing to meet main commitments (e.g. not
+divesting, selling devalued assets) or ancillary ones (related to supervision or
+information, such as not writing reports or delivering them incomplete).
+These may lead to fixed, daily, cumulative fines or even blocking the
+transaction. A statement of non-compliance adopts the procedures needed for its
+consideration by the Tribunal. Non-compliance with the obligations does not induce a
+review of agreements or terms of a decision. A Merger Control Agreement must always
+constitute an executable instrument, so as to ensure its enforcement before the Judiciary.
+The verification of compliance with the remedies required for merger clearance
+is carried out by the Office of the Attorney General at CADE and the Office of the
+Superintendent General. The latter forwards it to the Tribunal, which is responsible for
+putting it for a vote.
+During a merger review, the best pieces of available information are used, with
+the appropriate methodologies, to predict the transaction's effects on the competitive
+environment and, where necessary, to design and implement remedies. However, over
+time, the effects of a transaction may divert from its predicted path. In order to enhance
+CADE's decision-making, the Department of Economic Studies may carry out post-
+merger studies on the impact of a merger or acquisition — including of the remedies
+imposed — as a regular procedure. This study of a merger and its remedies seeks to
+determine, through quantitative and qualitative techniques, the effects of a decision on
+the market after some time. It will be used to assess the validity of the remedies and is a
+relevant source of information to restructure or complement the measures in force.
+528 Additional information
+8.1 Regulated sectors
+The existence of a regulator for a specific sector does not prevent CADE from
+imposing remedies where it deems necessary to protect competition. The competition
+authority aims at complementing, whenever needed, the requirements of the sector's
+regulator. The remedies CADE applies on those sectors must interact with the sector's
+rules to make them more efficient. CADE and the regulatory agency may establish a
+connection to make the remedies more suitable for the regulatory framework of the
+sector
+in cases where this is relevant for the economic activities developed in the
+markets negatively affected by the transaction. The parties must observe the regulatory
+prerequisites and the deadlines for obtaining the licences, authorisations, and statements
+needed to conduct a business in that sector. CADE cannot influence the development of
+proceedings nor the regulatory procedures unless a collaboration with the regulatory
+agency had been previously established or the regulatory agency changes its own
+procedures.
+Conversely, in regulated sectors that demand exchange of information between
+the regulator and the regulated firms, remedies must provide for manners to monitor and
+inspect compliance that include this flow of information, thus contributing for a timely,
+feasible, and proportional remedy.
+8.2 International cooperation
+Whether conducted abroad with effects in Brazil or conducted in Brazil with
+effects in foreign jurisdictions, a merger review and its judgement are always
+independent from other jurisdictions.
+It is possible the same merger is target of a concurrent and parallel review, in
+Brazil and abroad. In these cases, cooperation between authorities is desirable for
+designing, implementing, and monitoring the remedies. This mitigates the risks of
+having opposing or inconsistent remedies, whilst preserving the sovereignty of the
+affected countries and the independence of the competition authorities involved.
+The cooperation may include sharing information on the remedy, both before
+and after the transaction is adjudicated. The exchange of confidential information
+demands previous consent from the firms, which may be done through a Waiver of
+Confidentiality. To this end, CADE has a bilingual Portuguese-English version of the
+document available for companies (Annex B).
+53In case of coordinated remedies, it is preferable to have a single trustee for both
+jurisdictions, so as to ensure more consistency in the implementation and monitoring of
+the remedies.
+The remedies adopted by CADE may be the same adopted by foreign authorities,
+provided that the parties fulfil their obligations in Brazil during the several stages of
+monitoring and implementation. In this context, CADE requires a Merger Control
+Agreement is signed in Brazil, so that the agreement's main and ancillary obligations are
+honoured in the country as well.
+54Annexes
+Annex A – Glossary
+Information asymmetry: unbalance in the access to information by two agents that
+interact with one another. The unbalance may create failures or inefficiency in resource
+allocation in a market.
+Carve-out: the separation of a business unit from the structure of a firm. In this case, the
+business to be separated is not autonomous.
+Thus, the carve-out process may require the assets or personnel are doubled so as to
+ensure the divested business is viable and competitive.
+Chinese wall (firewall): a behavioural remedy aimed at restricting access to confidential
+information within a merged firm. In the case of a vertical integration, for instance,
+information is not shared between the upstream and downstream departments of the
+verticalised firm.
+Consummation of the transaction (consummation of the merger, closing the deal):
+changes in the physical structure and competitive conditions of the parties involved in
+the merger. These changes comprise asset transfers, influence of one party over the
+other, and the exchange of competitively sensitive information that is not strictly
+necessary for the signature of a formal document that binds the parties (the purchase and
+sale agreement).
+Consummation of the divestiture: transferring to the purchaser the assets; contractual
+relationships (i.e. contracts with suppliers and clients, lease agreements, use of
+distribution channels, amongst others); and authorisations and permits (e.g. a business
+licence) required for the operation of the divested business.
+Crown jewels: where the first deadline for divestiture is missed, it is replaced or
+complemented by an alternate or additional divestiture (called crown jewels). Thus, the
+divestiture package extends beyond markets where the transaction raises competition
+concerns, aiming to attract potential buyers in new markets.
+Empty shell: a divestiture whose asset package that is empty. It may occur where the
+human resources of a divestiture package are difficult to identify or transfer, whether by
+the employees' will or issues with the labour legislation.
+Fix-it-first: a structural remedy offered by the Applicants during a merger review, in
+which a purchaser and an asset package are selected before the merger is cleared. This
+remedy may provide the Applicants with more flexibility in designing the divestiture
+package.
+55Mix and match: divestitures that combine assets and business segments of more than
+one Applicant.
+Moral hazard: market players tend to change their behaviour after signing a contract.
+This happens because individuals have bounded rationality, that is, they cannot
+anticipate all circumstances entailed in a business relationship. For instance, in the
+health insurance market, people tend to demand more services than they would if
+uninsured.
+Key personnel: the personnel necessary for keeping the divested business viable and
+competitive.
+Price-cap: a model of regulation with incentives, where price caps are fixed for a given
+period. As a consequence, companies look for efficiency gains and cost reductions to
+make better profits. For instance, in the CPI-X regime, price caps reflect the rate of
+inflation minus the efficiency savings expected until the price caps are next reviewed.
+Limited Assurance Report: it seeks to reduce engagement risk to an acceptable level in
+the circumstances of the engagement but where the risk is higher than that of a
+Reasonable Assurance engagement. It supports an independent auditor's conclusion in a
+negative form, i.e. that he or she is not aware of any relevant changes that should be
+made in the information used in the engagement.
+Reasonable Assurance Report: it seeks to reduce engagement risk to an acceptably low
+level in the circumstances of the engagement. It supports an independent auditor's
+conclusion and expresses it in a positive form.
+Applicants or Parties: companies applying for a merger or acquisition.
+Ring-fencing: unlike a Chinese Wall, which takes place within the merged firm, a ring-
+fencing blocks information sharing between the seller and the package of assets to be
+divested. It is a separating measure aimed to protect trade secrets or other confidential
+information regarding the divestiture.
+Trustee: one or more individuals or legal entities appointed by the signatories and
+confirmed by CADE where there is a Merger Control Agreement. A trustee's main
+duties include the following: i) preserving the business to be divested; ii) monitoring the
+carve-out process of the divestiture package; iii) holding the divestiture package
+separate from the other businesses of the seller; iv) monitoring the signatories'
+compliance with the conditions and obligations established by the Merger Control
+Agreement (e.g. the process of selecting an appropriate buyer, compliance with the
+obligations of a behavioural remedy, where applicable); and v) enabling the sale of the
+divested business.
+56Upfront buyer: a remedy in which the purchaser is selected after merger clearance, and
+is a prerequisite for its consummation.
+57Annex B – Trustee mandate
+Identification (i) of the parties (signatories) and (ii) the trustee.
+Identification of the decision that ordered the nomination of a trustee, informing: (i) The
+type of decision (a Merger Control Agreement in a merger or a Cease and Desist
+Agreement in an investigation into an anticompetitive practice); (ii) the legal provisions
+that support the decision and negotiated measures.
+According to the decision above, the party(ies) or signatory(ies) commitment to (sum up
+the structural and/or behavioural obligations set by the agreement).
+Definitions:
+Parties: firm A, firm B.
+Obligations: a group of behavioural and/or structural remedies that compose the duties
+to be fulfilled by the parties throughout the implementation of the agreement.
+Monitoring trustee: responsible for monitoring the divestiture process and the
+maintenance of the divested business or, in the case of behavioural remedies, for
+verifying whether the obligations about what to do and what not to do are being
+properly fulfilled.
+Divestiture trustee: responsible for organising the sale of assets where the parties failed
+to complete the divestiture process by the first deadline.
+Operating trustee: responsible for managing the divestiture package whilst it is not
+transferred to the buyer. The specific duties of an operating trustee must be established
+according to the specificities of the case.
+Work plan: a plan each potential trustee must present to CADE so the authority is able
+to decide between the options offered by the signatories.
+1. Trustee nomination
+CADE names a monitoring trustee after the parties submit their candidates by the
+deadline set in the agreement.
+After nomination, the trustee must fully adhere to the terms of the mandate, starting at
+the nomination date, and is thereafter bound by the obligations and deadlines set in the
+agreement and mandate.
+The trustee's personal staff is made up of the following professionals: (...) without
+prejudice to hiring additional professionals to provide specific services (such as audit,
+reporting, etc.).
+CADE nominates a divestiture trustee after the first deadline for divestiture expires,
+according to the deadlines agreed.
+58From the moment of nomination, the divestiture trustee also adheres to the terms of the
+mandate and the obligations set in the agreement.
+The divestiture trustee's staff is introduced from the moment of a trustee's nomination,
+where necessary.
+2. General duties of a trustee
+A trustee must work towards the fulfilment of the obligations assumed by the
+signatories, and exclusively on behalf of CADE. A trustee must follow the work plan
+approved by CADE. Nonetheless, the approval does not prevent the authority from
+requesting changes and imposing additional measures when deemed required for the
+performance of the responsibilities assumed.
+3. General duties of signatories
+Signatories and their legal representatives must provide all necessary conditions for the
+fulfilment of a trustee's mandate, intending to meet the assumed obligations. To this
+end, signatories must grant full, unrestricted access to the parties' facilities, especially to
+the assets to be divested, information systems, ledgers, personnel, technical information,
+amongst others that become necessary for the implementation of the mandate. Access to
+these resources and assets must be granted within a reasonable time so as not to hinder
+or unduly postpone the work conducted by the trustee.
+Moreover, the signatories must provide the trustee and the trustee's staff with the
+financial and material resources necessary to support the work being carried out.
+The signatories must also keep the trustee informed about every relevant aspect of the
+assumed obligations, such as: making a list of potential asset buyers, ongoing
+negotiations, offered conditions, deadlines for implementation, business plan, and any
+obstacles to the performance of obligations, amongst others.
+In case a trustee deems appropriate to hire experts to perform specific tasks, such as an
+auditor, technical expert, etc., these professionals must be provided by the signatories
+within a reasonable time.
+4. Duties of a monitoring trustee
+These are the duties monitoring trustee (who, where necessary, should act jointly
+with an operating trustee):
+ monitor the maintenance of the divested business, the viability of the
+business, and the competitiveness of its assets until they are transferred;
+ ensure the parties do not take any action aimed at, or that may result in the
+assets' loss of value, competitiveness, or attractiveness;
+59 ensure the signatories offer all necessary resources for preserving the
+assets until the obligation is in force; and
+ ensure the assets to be transferred form an independent unit, separate from
+the signatory, so as to maintain the assets' competitiveness when they are
+removed from the parties' structure.
+In cases where there are behavioural obligations, a monitoring trustee has the
+following duties:
+ Monitor the signatories' compliance with the duties and prohibitions
+assumed by them.
+ Require, if need be, actions taken by the signatories are corrected, so as to meet
+the obligations assumed in the agreement and according to CADE's
+requirements.
+ Seeking to ensure full compliance with the behavioural responsibilities
+undertaken, a trustee and the trustee's staff should be granted unrestricted
+access to the parties' facilities. Furthermore, where necessary, the trustee is
+allowed to participate in meetings, negotiations with third parties
+potentially affected by the obligations (clients, competitors, suppliers), and
+interviews with third parties (with the third parties' consent), preserving
+the confidentiality of the signatories.
+A monitoring trustee must inform CADE of any actions or omissions by the signatories
+that may jeopardise the fulfilment of the assumed responsibilities and of the
+mandate, so that CADE may intervene or inspect compliance with the obligations.
+5. Duties of a divestiture trustee
+A divestiture trustee is nominated after the first deadline for divestiture is expired,
+taking on the duty of transferring the assets described in the agreement. These are
+the duties of a divestiture trustee:
+ indicate the criteria for the asset sale (reserve price, zero bid prices, etc.);
+ indicate a deadline for divestiture;
+ indicate the criteria for selecting potential buyers; and
+ report to CADE and comply with the authority's orders.
+6. Obligation to inform
+A monitoring/divestiture trustee must present regular reports to CADE (establish
+the frequency according to the case or duration of the obligations). In the reports,
+the trustee must inform CADE on the following:
+ Performance of structural/behavioural obligations.
+60 Compliance with action plan and negotiated deadlines.
+ Compliance with the obligations taken on by the signatories. In case of non-
+compliance, the trustee should state the reasons for it, detailing the
+signatories' liability or if it occurred as a result of force majeure.
+ Whether the obligations have been met or not, a trustee must identify the
+actions taken in response to the signatories' behaviour aimed at ensuring the
+fulfilment of the obligations. A trustee must detail such actions, in addition to
+the signatories' efforts in adopting the recommendations, and their compliance
+or non-compliance with any of the obligations.
+The trustee is the sole responsible for presenting the reports. The deadlines
+provided in the agreement must be observed, subject to fines for delay or for not
+presenting the reports. In case the signatories explain their delay or incomplete
+reports, the trustee must report it to CADE in detail so that the authority decides
+on issuing a statement of non-compliance with the agreement.
+7. Conflict of interest
+A trustee and the trustee's staff cannot have a conflict of interest with the signatories
+(report potential conflicts).
+Where a conflict of interest rises, the trustee must immediately report it to CADE, and
+the authority may require the trustee or a member of the trustee's staff to be replaced.
+8. Conclusion
+The compensation of the trustee, the trustee's staff, and any additional professionals
+hired is a responsibility of the signatories of the agreement.
+This compensation must seek the trustee's independence from the signatories and should
+not encourage a situation where the interests of a trustee are aligned with those of the
+signatories; where this is the case, CADE may penalise the parties.
+CADE suggests a divestiture trustee's compensation should be bound to the deadline for
+divestiture.
+The trustee's compensation must be included in the action plan submit to CADE for
+analysis. The trustee mandate ends only when CADE declares all obligations have been
+met, unless otherwise specified.
+61Annex C - Confidentiality waiver
+Modelo Model
+Termo de Renúncia a Confidentiality Waiver [identify
+Confidencialidade [identificar
+proposing companies]
+empresas proponentes]
+Merger File number: [ ]
+Ato de concentração n°: [ ]
+WAIVER
+RENÚNCIA
+1. On behalf of [name of the firm A], [type of
+1. Em nome da [nome da empresa A], [tipo de
+establishment under Brazilian law], located at
+sociedade sob a lei brasileira], com sede à
+[complete address], registered at the National
+[endereço completo], inscrita no CNPJ/MF
+Registry of Legal Entities no. [ ], represented
+sob o nº [ ], representada por seu
+by its manager, [name of manager or
+administrador, [nome do administrador ou outro
+representative], [occupation], [nationality],
+representante], [profissão], [nacionalidade],
+[marital status], holder of the Brazilian identity
+[estado civil], portador da carteira de identidade
+card no. [ ], registered under Brazilian fiscal
+brasileira nº [ ], inscrito no CPF sob o nº [ ],
+(CPF) no. [ ], with the same commercial
+com endereço comercial acima mencionado e da
+address of the above mentioned and of [name of
+[nome da empresa B], [tipo de sociedade sob a
+firm B], [type of establishment under Brazilian
+lei brasileira], com sede à [endereço completo],
+law], located at [complete address], registered
+inscrita no CNPJ/MF sob o nº [ ], neste ato,
+at the National Registry of Legal Entities no. [
+representada por seu administrador, Sr. [nome
+], represented by its manager, [name of
+do administrador ou outro representante],
+manager or representative], [occupation],
+[profissão do representante], [nacionalidade],
+[nationality], [marital status], bearer of the
+[estado civil], portador da carteira de identidade
+Brazilian identity card no. [---], registered under
+brasileira nº [ ], inscrito no CPF sob o nº [ ],
+CPF no. [ ], with the same commercial address
+renunciamos a toda e qualquer restrição de
+of the above mentioned, we agree to waive all
+confidencialidade e sigilo protegidos por lei no
+confidentiality and secrecy restrictions on what
+que for necessário para fomentar a cooperação e
+may be necessary to endorse cooperation and
+a troca de informações entre o Conselho
+information exchange between the Brazilian
+Administrativo de Defesa Econômica – Cade – e
+Administrative Council for Economic Defense
+[o órgão análogo no estrangeiro], de forma a
+(CADE) and [similar foreign institution], in
+colaborar com a instrução processual do Ato de
+order to assist the instruction of the Merger File
+Concentração em epígrafe, doravante Ato de
+in Title, hereinafter called proposed Merger.
+Concentração proposto.
+622. Concordamos em submeter este Termo de 2. We agree to submit this Waiver to the
+renúncia ao conhecimento do [o órgão análogo assessment of [similar foreign institution] to
+no estrangeiro] para permitir que aquela allow that authority to share with CADE
+autoridade possa compartilhar com o Cade information acquired from [firm A] and/or [firm
+informações obtidas a partir da [empresa A] ou B], during the filing instruction for the
+da [empresa B], ou outras empresas de seus authorization of [object of the proposed
+respectivos grupos, durante a instrução Merger].
+processual de autorização para a [objeto do Ato
+de concentração proposto].
+633. A [empresa A] e a [empresa B] consentem que os 3. [firm A] and [firm B] accede that CADE’s and
+servidores do Cade e do [o órgão análogo no [similar foreign institution]’s servants share any
+estrangeiro] compartilhem quaisquer documentos, documents, declarations, data and information,
+declarações, dados e informações, fornecidos pelas given by the signatories, also any analyses of the
+signatárias, assim como quaisquer análises internas mentioned institutions which would otherwise be
+das mencionadas agências, que seriam de outra subject to the confidentiality rules of that
+maneira impedidas pelas regras de jurisdiction, as long as they are related to the
+confidencialidade, desde que estejam relacionadas ao proposed merger.
+Ato de Concentração proposto.
+GARANTIAS CAVEAT
+4. Este Termo não constitui renúncia de qualquer 4. This waiver does not constitute any sort of
+modo aos direitos de confidencialidade da [empresa confidentiality rights renunciation of [firm A] nor of
+A] ou da [empresa B] frente a quaisquer outros [firm B], before any third persons, not nominated
+terceiros, não nomeados aqui, ou quaisquer outras here, or any other institutions different from
+instituições diferentes do [o órgão análogo no [similar foreign institution].
+estrangeiro].
+5. Este Termo está limitado às informações obtidas 5. This waiver is limited to information acquired by
+pelos órgãos para analisar o ato de concentração the institutions to analyze the proposed Merger and it
+proposto e não se aplica as informações obtidas no does not apply to the information acquired during
+curso de qualquer outro caso ou análise presente ou any other case or analysis in the present or in the
+futura que não o Ato de Concentração proposto. future that is not the proposed Merger.
+CONDIÇÕES CONDITIONS
+6. Informações transmitidas por força deste Termo 6. Information transmitted pursuant to this Waiver
+somente poderão ser utilizadas pelo [o órgão may only be used by [similar foreign institution] for
+análogo no estrangeiro] com o fim de conduzir a the purposes of conducting its enquiry into the
+instrução processual do Ato de Concentração proposed Merger and never for any other purpose.
+proposto e nunca para qualquer outro fim. O Termo The Waiver is subject to the express condition that
+de renúncia está sujeito à condição de as such information remains confidential by [similar
+informações mencionadas serem mantidas foreign institution] and may not be disclosed to any
+confidenciais pelo [o órgão análogo no estrangeiro] third party.
+e, portanto, não podem ser divulgadas a qualquer
+outro terceiro.
+7. Acordamos que o não cumprimento das 7. We agree that [similar foreign institution] failure
+condições deste Termo pelo [o órgão análogo no to comply with the foregoing does not engender any
+estrangeiro] não gera qualquer responsabilidade ao liability to CADE.
+Cade.
+8. A renúncia mencionada no primeiro item está 8. The waiver as specified in the first paragraph is
+sujeita as seguintes condições: subject to the following conditions:
+8.1. O Cade deve manter a confidencialidade das 8.1. CADE shall itself maintain the confidentiality of the
+informações e dos documentos enviados pelo [o information and/or documentation provided by [similar
+órgão
+64análogo no estrangeiro] e deve tratá-las como se foreign institution] and shall treat such information
+fossem informações confidenciais recebidas as if it had been obtained directly from [companies A
+diretamente pelas [empresas A e B]; and /or B];
+8.2. O Cade deve tratar todas as informações e os 8.2. CADE shall consider all information and/or
+documentos enviados pelo [o órgão análogo no documentation obtained from [similar foreign
+estrangeiro], por força deste Termo, como institution] pursuant to this waiver as confidential
+confidenciais, a não ser que esteja claro que as information unless it is clearly identified as having
+informações foram obtidas de fonte de acesso been obtained from a publicly accessible source;
+público;
+8.3. O Cade não divulgará quaisquer das 8.3. CADE shall not make any information and/or
+informações e dos documentos enviados pelo [o documentation obtained from [similar foreign
+órgão análogo no estrangeiro] para qualquer terceira institution] available to any third party including
+pessoa incluindo concorrentes, clientes e competitors, customers and suppliers of [companies
+fornecedores das [empresas A e B]; A and B];
+8.4. As informações e os documentos enviados pelo 8.4. information and/or documentation obtained
+[o órgão análogo no estrangeiro] devem ser from [similar foreign institution] shall be used by
+utilizados pelo Cade somente para instrução do Ato CADE only for the purposes of enquiry into the
+de Concentração proposto; proposed Merger;
+8.5. O Cade não divulgará a [o órgão análogo no 8.5. CADE shall not disclose to [similar foreign
+estrangeiro] quaisquer das informações e dos institution] any information and/or documentation
+documentos obtidos das [empresas A e B] que that [companies A and/or B] have asserted a claim
+tenham sido classificados como protegidos pelo of legal client/attorney privilege in the jurisdiction
+segredo profissional na jurisdição do [o órgão of [similar foreign institution] and that is clearly
+análogo no estrangeiro] e que estejam claramente identified as being subject to such privilege.
+identificadas como tal. As [empresas A e B] ficam [Companies A and B] are responsible for informing
+responsáveis por informar ao Cade sobre a CADE of the existence of such privileged
+existência de tais informações ou documentos. information and/or documentation.
+DISPOSIÇÕES FINAIS FINAL PROVISIONS
+Cada [nome da empresa A e B] afirma ter obtido o Each [name of companies A and B] has obtained
+consentimento de suas sociedades controladas para the consent of its affiliates to the sharing of their
+compartilhar de suas informações e documentos information and documents produced by each
+apresentados por cada [nome da empresa A] ou [B], [names of firms A and B], under the same
+sob as mesmas condições mencionadas acima. conditions as outlined above.
+Caso queira discutir qualquer questão pertinente a If you wish to discuss any matter arising from this
+essa renúncia, favor contatar [representante da waiver, please contact [name of responsible
+empresa A e representante da empresa B, telefone e representative(s) of firm A and of firm B, telephone
+endereço de e-mail]. no. and email address].
+65Uma cópia deste Termo foi enviada a [o órgão A copy of this letter has been sent to [similar
+análogo no estrangeiro]. foreign institution].
+No caso de qualquer desacordo entre as versões In case of any disagreement between the
+em Português e Inglês deste Termo, a versão em Portuguese and the English versions of this
+Waiver, the Portuguese version shall prevail.
+Português deverá prevalecer.
+Brasília, [dia] de [mês] de [ano]
+Brasilia, [day] [month] [year]
+[EMPRESA/FIRM A]
+[E EMPRESA/FIRM B]
+66

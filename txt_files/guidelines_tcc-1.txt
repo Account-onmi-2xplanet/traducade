@@ -1,0 +1,1699 @@
+AdministrCaotuinvcfeio lrE conomDiecf ense
+UI
+CeaasnDede sist
+Agrefeomcrea nrtt el
+cas(e"sT CC")Ministry of Justice
+Administrative Council for Economic Defense
+Guidelines: Cease and Desist Agreement for cartel cases (“TCC”)
+General Superintendence of CADE
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+2Coordination:
+Eduardo Frade Rodrigues
+Diogo Thomson de Andrade
+Marcela Campos Gomes Fernandes
+Fernanda Garcia Machado
+Ravvi Augusto de Abreu C. Madruga
+Editing and Graphic Planning:
+Public Relations Unit
+Review:
+Vinicius Marques de Carvalho
+Victor Santos Rufino
+Alexandre Cordeiro Macedo
+João Paulo Resende
+Cristiane Alkmin Junqueira Schmidt
+Márcio de Oliveira Júnior
+Paulo Burnier da Silveira
+Gilvandro Vasconcelos Coelho de Araujo
+In-house collaborators:
+Amanda Athayde Linhares Martins
+Ademir Picanço de Figueiredo
+3SUMMARY
+PRESENTATION ...................................................................................................6
+INTRODUCTION ...................................................................................................7
+I. COOPERATION………………………………………………………………………………10
+I.1 Scope and usefulness of the cooperation .................................................................... 11
+I.1.1 Identification of the participants in the violation ................................................ 12
+I.1.2 Provision of information and documents that prove the violation ................... 13
+I.1.2.1 Information that proves the violation ........................................................... 13
+I.1.2.2 Documents that prove the violation .............................................................. 14
+I.2 The procedural timing of the cooperation .................................................................... 16
+I.3 The method to quantify the cooperation for the purpose of defining the
+applicable discount …………………………………………………………………………………………17
+II. PECUNIARY CONTRIBUTION .......................................................................... 20
+II.1 Definition of the applicable law .................................................................................... 24
+II.2 Calculation of the pecuniary contribution ................................................................... 25
+II.2.1 Calculation of the pecuniary contribution for companies ................................. 25
+II.2.1.1 Calculation basis ............................................................................................. 26
+II.2.1.1.1 General rule ............................................................................................. 26
+II.2.1.1.2 Parameterization for the purpose of proportionality ......................... 26
+II.2.1.1.2.1 Parameterization with respect to the field of business
+Activity described in Resolution nº 3/2012 …………………………………………26
+II.2.1.1.2.2 Parameterization in relation to the base year of the
+turnover …………………………………………………………………………………………27
+II.2.1.1.2.3 Parameterization with respect to the turnover at the
+National Level …………………………………………………………………………………28
+II.2.1.2 Update of the calculation basis .................................................................... 28
+II.2.1.3 Percentage of the expected fine .................................................................. 29
+II.2.1.4 Discount ........................................................................................................... 31
+II.2.1.4.1 Combination of TCC and Leniency Plus discounts ............................. 32
+II.2.2 Calculation of the pecuniary contribution for individuals ................................. 33
+II.2.2.1 Company administrators ................................................................................ 33
+II.2.2.2 Other individuals (non-administrators) ....................................................... 34II.2.2.3 Individuals under the “Accession Clause”…………………………………………34
+II.2.2.4 Individuals under the “Umbrella Clause ”…………………………………………35
+II.3 Payment method of the pecuniary contribution, …………………………………………37
+III. ACKNOWLEDGEMENT OF PARTICIPATION IN THE INVESTIGATED
+CONDUCT, THE COMMITMENT NOT TO PRACTICE THE CONDUCT AGAIN
+AND OTHER EASURES ……………………………………………………………………….38
+IV. TEMPLATEs……….……...……………………………………………………………..…39
+V. ATTACHMENTS..……………………………………………………………………………39
+V.1 Template of Cease and Desist Agreement …………………………………………………39
+V.2 Template of Cease and Desist Agreement 2 ………………………………………………45
+5PRESENTATION
+The Guidelines for the negotiation of Cease and Desist Agreements (“TCC” for its
+acronym in Portuguese) consolidate the best practices and procedures usually
+adopted during the negotiations of TCCs with the Administrative Council for
+Economic Defense (CADE) in cartel cases. Their objective is to provide an
+institutional framework for future negotiations and to keep record of the institutional
+memory acquired by CADE in TCC negotiations and to be used by public sector
+employees, attorneys, and for the society as a standard regarding the procedures of
+this relevant activity of competition policy.
+Although the Guidelines only address procedures in TCC negotiations in cartel cases,
+a TCC is a legal instrument that can also be used in investigations concerning other
+violations under Law nº 12.529/2011. However, the parameters of such negotiations
+are not necessarily bound by the same procedures and criteria described herein.
+This document is not binding and does not consist in a rule, statute or
+bylaw (i.e., it does not alter provisions of CADE’s Internal Regulations -
+RICADE). The conducts and procedures described herein can be altered at
+CADE’s discretion, depending on the circumstances of the cases at hand.
+The structure of the Guidelines follows the main requirements for the signing of
+TCCs, pursuant to Articles 85 of Law nº 12.529/2011 and Articles 184 to 189 of
+RICADE:
+(I) Cooperation;
+(II) Pecuniary Contribution;
+(III) Acknowledgement of participation in the investigated conduct; commitment
+not to practice it again and other measures; and
+(IV) Main templates of agreements used by CADE in TCC negotiations.
+Finally, TCCs executed in accordance with the parameters herein do not bind CADE
+to the same parameters for the decision criteria and calculation of penalty of other
+Defendants within the same administrative proceeding.
+6INTRODUCTION
+Provided for in Article 85 of Law nº 12.529/2011, a Cease and Desist Agreement is
+an agreement executed between CADE and the companies and/or individuals
+investigated for violation of the economic order, under which the antitrust authority
+agrees to halt investigations against TCC signatories as long as the signatories
+comply with the terms of the referred agreement and agree to the commitments
+expressly provided thereunder.
+The regulation of TCC negotiation procedures are provided for in RICADE Article 184
+et seq. Under that rule, until the case is submitted to the Administrative Tribunal for
+ruling, the TCC is negotiated with the General Superintendence of CADE
+(“SG/CADE”). If the case is already at the Administrative Tribunal for ruling, the
+proposal is negotiated with the Reporting Commissioner of the case.
+The proposals are received in an order that is the same in the SG/CADE and the
+Tribunal, through a system of markers that takes into account the order of
+presentation of the interested Parties before the authority in charge of procedural
+instruction. After the receipt of a certificate containing the marker, the interested
+party files the TCC Request within 5 (five) days, formally declaring its interest in
+starting negotiations.1 Failure to comply with the deadline results in loss of validity of
+the certificate containing the marker of the interested party. The interested Parties
+may file the TCC Request directly (without the marker request).2 In this event, a
+withdrawal would result in the loss of the right to present the request in the same
+proceeding, in accordance with article 85, paragraph 4 of Law 12.529/2011.
+Upon the proposal of the signature of a TCC with SG/CADE, the General
+Superintendent determines a period for negotiations, which, as a rule, is of 60 (sixty)
+days, and can be renewed for other periods depending on the circumstances of the
+individual case. In the case of a TCC filed at the Administrative Tribunal, the
+negotiation period consists of 30 (thirty) days, which can be renewed by the
+Reporting Commissioner for additional 30 (thirty) days. It should be noted that in
+negotiations with the Administrative Tribunal and especially in negotiations with the
+General Superintendence, the renewal of the TCC’s deadlines must comply with
+public interest in the course of the negotiation, according to the circumstances of the
+factual case, taking into account that an extension of the deadline may create a
+disincentive for the quick and total compliance with the duty of collaboration of the
+1 The request may be filed by electronic means, through the Electronic Information System (SEI), by a
+specific form for this purpose.
+2 The request may be filed by electronic means, through the Electronic Information System (SEI), by a
+specific form for this purpose.
+7party. In this sense, it must be noted that the TCC does not suspend the conduct of
+the proceeding; both the time of the proposal and the conclusion of the agreement
+affect the procedure and, therefore, the convenience of the agreement. Thus, the
+authority shall observe if the extensions are not merely a delaying tactic, and when
+verifying an unnecessary delay, it shall consider the convenience of continuing the
+negotiation or the circumstances of the delay when calculating the discount to be
+applied in the amount of the pecuniary contribution.3
+A “Negotiation Commission” is constituted for the negotiations, and it shall be
+composed of at least 3 (three) members, who shall conduct the negotiations and
+forward the request to the Administrative Tribunal with a suggestion of homologation
+or rejection of the proposal. Under Article 179, §3 of RICADE, the terms of the
+proposal, the procedure and the negotiation process may receive restricted access
+classification. Regarding the cases of agreement, combination, manipulation or
+arrangement among competitors (as it is the case of cartels, the subject of the
+Guidelines), a TCC must fulfill the following requirements:
+(i) If the TCC is filed before the SG/CADE, cooperation of the party within the
+investigation and the administrative proceedings, under Article 186 of RICADE. This
+cooperation shall happen under the following circumstances:
+a. At the time of the TCC’s negotiation and execution, by means of the
+presentation of reports containing information and documents that help the
+SG/CADE identify other participants in the conduct and that prove the
+violation. The reports of the Proponent are provided in a document called
+History of Conduct (“HC”). The HC must contain the description of the
+anticompetitive conduct, as considered by the SG/CADE, based on the
+information and documents presented by the TCC Proponent. The HC is a
+document prepared and signed by the SG/CADE when the TCC is approved.
+The HC is not signed by the Proponent or his/her counsel. The attachments
+to the HC are the documents that substantiate the reports of the Proponent.
+Even after the approval, the HC and its attachments are treated as
+documents of restricted access by CADE, in which case they shall compose a
+separate brief that can only be accessed by the other investigated parties.
+Depending on the circumstances of a specific case and in case of
+concordance of the parties or judicial enforcement, the documents can
+become available to the public.
+b. After the signing of a TCC, during the course of the Administrative
+Proceeding, the Party cooperates through clarifications that may be
+3 This matter is extremely relevant considering that, according to CADE’s jurisprudence and the
+provisions of the Guidelines, the update of the pecuniary contribution calculation, based on the SELIC
+rate, occurs before the TCC request, enabling the party to delay the negotiations if the authority does
+not control it properly.
+8requested by the authority and by procedural aid that the authority may
+need and that can be offered by the Party.
+(ii) Payment of pecuniary contribution to the Diffuse Rights Fund (“FDD” for its acronym
+in Portuguese), as provided under Articles 85, §1, III of Law nº 12.529/2011 and
+Article 184, caput, of RICADE. The contribution is based on the value of the expected
+fine, on which a percentage reduction is applied, varying in accordance to the to the
+scope and usefulness of the cooperation provided by the Party and the time the TCC
+is proposed, as set forth in the provision of the Article 187, sub-paragraphs I, II, III
+and Article 188 of RICADE:
+a. If the TCC is filed right after the beginning of an Administrative Proceeding
+and before the submission of the case to the Administrative Tribunal for
+judgment. (i.e., during the phase of procedural instruction at SG/CADE), the
+pecuniary contribution is calculated based on the expected fine, upon which
+are applied:
+i. a 30% to 50% reduction for the first TCC proponent;
+ii. a 25% to 40% reduction for the second TCC proponent;
+iii. a reduction of up to 25% for the other TCC proponents; and
+b. If the TCC is proposed after the case is submitted to the Administrative
+Tribunal for judgment, the pecuniary contribution is calculated based on the
+expected fine, upon which a reduction of up to 15% is applied.
+(iii) Establishment of the value of the fine in the event of total or partial non-
+compliance with the obligations undertaken;
+(iv) Acknowledgement of participation in the investigated conduct by the party,
+according to Article 185 of RICADE;
+(v) Specification of the obligations of the TCC Proponent to not practice the investigated
+conduct or its harmful effects, according to §1 of Article 85 of Law nº 12.529/2011.
+Finally, it is important to note that, unlike a Leniency Agreement4, a TCC does not
+result in benefits for criminal liability. However, if the party interested in signing a
+TCC with CADE also wishes to simultaneously negotiate a plea bargain agreement
+4 A Leniency Agreement is available only to the first agent to report the collective anticompetitive conduct
+(Article 86, §1, sub-paragraph I of Law nº 12.529/2011), whose benefits, that can culminate in total
+immunity, are both administrative and criminal (Article 86, §4 combined with article 87 of Law nº
+12.529/2011).
+9with the Public Prosecutor and/or the Federal Police (pursuant to Law 12.850/2013),
+the SG/CADE may help the TCC proponents with such communication.
+I. COOPERATION
+Cooperation is a requirement for the signing of TCCs when the case is still in
+progress at the SG/CADE, as put forward in Articles 186 and 187 of RICADE, in
+verbis:
+Art. 186. In investigations of agreement, combination, manipulation or
+arrangement among competitors, the final proposal forwarded by the General
+Superintendence to the President of the Tribunal, pursuant to Article 181, §4 of
+these Internal Rules, shall necessarily count on the cooperation of the party with
+procedural instruction.
+Art. 187. The analysis of pecuniary contribution in TCC proposals under Article 186
+of these Internal Rules shall take into account the scope and usefulness of the
+cooperation of the party with procedural instruction and the time the proposal
+is presented, subject, when they can be estimated and if the TCC is signed, to
+the following parameters:
+I - percentage reduction between 30% and 50% of the expected fine for the first
+Proponent who proposes a TCC within an investigation of a given conduct;
+II - percentage reduction between 25% and 40% of the expected fine for the
+second Proponent who proposes a TCC within an investigation of a given conduct;
+III - percentage reduction of up to 25% of the expected fine for the subsequent
+Proponents of a TCC within an investigation of a given conduct.
+Although it is not a requirement for the signing of a proposed TCC when the case is
+already at the Administrative Tribunal for judgment, depending on the circumstances
+of individual cases and according to CADE’s sense of convenience and opportunity,
+cooperation may also be requested in this phase.
+The rule transcribed above determines that the analysis of cooperation shall take into
+consideration the scope and usefulness, as well as the time when the proposal is
+presented. For this reason, the referred topics shall be detailed in Section I.1 (Scope
+and usefulness of the cooperation) and in Section I.2 (The procedural timing of the
+cooperation).
+In order to provide predictability on the quantification of the cooperation for the
+definition of the applicable discount, Section I.3 presents a non-exhaustive and non-
+binding set of parameters considered by CADE in such analysis.
+10It is important to state that the analysis of cooperation is taken into consideration for
+the calculation of the discount percentages for the pecuniary contribution, and not
+for the definition of the expected fine, which is the initial basis for the calculation of
+contribution.
+CADE states that all the information and documents presented by the Proponent in
+the course of TCC negotiations shall be treated as confidential and shall have its
+access restricted to the Proponent, its attorneys and CADE’s officers that participate
+in the negotiation process. Upon signing of the TCC, the information and documents
+presented by the Proponents may be accessed by the other Defendants in the
+Administrative Proceeding and by persons authorized by CADE, under the rules of
+access to information contained in RICADE.
+If the TCC is not signed, the information and documents presented in the context of
+the negotiation shall be returned to the Proponents or destroyed (including
+information recorded in electronic media) and shall not be used for any purposes by
+the authorities that have had access to them. This does not prevent the authorities
+from using information and documents that come to their knowledge by any other
+means in the course of the investigation in progress at CADE.
+Finally, upon signing of the TCC, the Proponent shall continue to cooperate with the
+procedural instruction, reporting subsequent new documents and information to
+CADE, under penalty of breach of the agreement.
+I.1 Scope and usefulness of the cooperation
+In analyzing the scope and usefulness of the cooperation presented by the Party(ies)
+CADE applies, by analogy, the criteria for analysis of cooperation in Leniency
+Agreements, provided for in Law n.º 12.529/2011, namely:
+Art. 86. CADE, by means of the General Superintendence, may enter into leniency
+agreements, and may terminate any punitive action of the public administration or
+reduce one (1) to two thirds (2/3) of the applicable penalty, under the terms of
+this article, with individuals or legal entities that violate the economic order,
+provided that they effectively cooperate with the investigations and
+administrative proceedings, and that from such cooperation results:
+I – the identification of other agents involved in the violation; and
+II – the attainment of information and documents proving the reported or
+investigated violation.
+Thus, there are two main criteria assessed by CADE in terms of the scope and
+usefulness of the cooperation in a TCC negotiation: the identification of other
+11participants in the violation (Sub-section I.1.1); and provision of information and/or
+documents that prove the violation (Sub-section I.1.2).
+CADE considers these two criteria as conditions for the signing of a TCC with the
+SG/CADE. Therefore, the party interested in signing a TCC with the SG/CADE must
+be able to submit to the authority all the documents in its possession and all the
+information of which it might be aware that can lead to the identification of those
+involved and prove the violation. The absence of these requirements may lead to the
+rejection of a TCC proposal. The depth of the cooperation under these two criteria
+and other forms of cooperation is considered in the discount of the financial penalty,
+as detailed later.
+It is important to emphasize, once more, that the practices and procedures herein
+described may be altered at CADE’s discretion, depending on the circumstances of
+individual cases.
+I.1.1 Identification of the participants in the violation
+The scope and usefulness of the cooperation in a TCC negotiation will be considered
+by CADE to the extent that the Party identifies the participants in the violation.
+Therefore, CADE considers such cooperation to be broader and more useful when it
+brings additional information to the evidence already available in the investigation.
+This can be done both through the indication of other companies and/or individuals
+not yet identified by CADE, or through provision of information about the companies
+and/or individuals already identified (e.g.: current address, professional history,
+market share, participation in the conduct, etc.).
+It is important to state that the degree of participation in the conduct is not
+considered a criterion for the application of the discount, but it will be taken into
+account when calculating the percentage of the applicable expected fine.
+In this respect, the following increasing bands of cooperation in the TCC can be
+established, concerning the identification of participants in the violation:
+If the Party indicates participants already identified by
+CADE and presents new information about the
+unidentified participants; or
+If the Party only indicates the participants already
+identified by CADE.
+12I.1.2 Provision of information and documents that prove the violation
+I.1.2.1 Information that proves the violation
+The scope and usefulness of the cooperation in TCC negotiations will be considered
+by CADE to the extent that the Party presents information about the investigation,
+generally consolidated by the SG/CADE in the History of Conduct (HC).
+In evaluating the scope and usefulness of the cooperation, CADE considers that the
+HC should ideally contain, at the end of the negotiations, the following information:
+(i) Participation of the TCC Proponent and other participants in the
+investigated violation, specifying the level of participation of each party
+involved in the conduct (see I.1.1);
+(ii) Functioning/dynamics of the anticompetitive conduct;
+(iii) Duration of the anticompetitive conduct;
+(iv) Means by which competitors exchanged information (meeting, phone
+calls, chance meetings, etc.), place and date of such contacts;
+(v) Subjects addressed in the contacts among competitors;
+(vi) Clients affected by the conduct;
+(vii) Direct or potential effects in Brazil, when applicable;
+(viii) Products/services object of the violation and the functioning of the
+affected market.
+In case of information that contradicts what is already contained in the file, such
+information shall be thoroughly explained and supported by documents. It is
+important to state that the mere provision of information that is not new and/or does
+not contribute to the investigation may result in rejection of the TCC proposal.
+In this respect, the following increasing bands of cooperation in the TCC can be
+established, concerning the provision of information:
+The information provided is more comprehensive than the
+one provided by the Leniency and/or the facts known by
+CADE; or
+The information provided is similar to the Leniency report
+available and/or of the facts known by CADE; or
+The information provided is less comprehensive than the
+report provided by the Leniency and/or of the facts
+known by CADE.
+13I.1.2.2 Documents that prove the violation
+The scope and usefulness of the cooperation in TCC negotiation will be considered by
+CADE to the extent that the Party presents documents that prove the anticompetitive
+conduct subject to the investigation. They can also be mentioned in the History of
+Conduct (I.1.2.1). The scope and usefulness of such documents will depend on their
+correlation with the information provided and, especially, whether they demonstrate
+the investigated violation. In this respect, CADE considers that the presentation of
+documents is an important element concerning cooperation. Except for specific
+situations, cooperation that contains only reports will not be deemed appropriate, nor
+will it avail reasonable discount, and can even lead to the rejection of the TCC.
+The TCC Proponent will present all the documents in his/her possession deemed apt
+to prove the reported violation. Some examples of documents most commonly
+received by CADE as proof of the violation reported or under investigation are the
+following:
+(i) bilateral e-mails between competitors;
+(ii) unilateral e-mails between persons from the same company reporting
+the arrangements among competitors;
+(iii) correspondence among competitors;
+(iv) unilateral correspondence among individuals of the same company
+reporting arrangements among competitors;
+(v) exchange of electronic messages (SMS, whatsapp, etc.) among
+competitors and/or containing information about arrangements among
+them;
+(vi) handwritten notes containing information about arrangements among
+competitors;
+(vii) records of conversations among competitors and/or containing
+information about the arrangements in which the Party is an
+interlocutor;
+(viii) tables containing information on market division, division of clients
+and/or division of production among competitors, or even indication of
+prices and/or bids to be presented by each competitor in public or
+private tenders;
+(ix) diaries containing record of meetings among competitors and/or
+information about arrangements among them;
+(x) general evidence of meetings (minutes of meetings, outlook or other
+electronic agenda commitments, booking of room, hotel reservations,
+expense and travel reports, etc.);
+(xi) phone records demonstrating calls between competitors;
+14(xii) business cards;
+(xiii) record of entry into buildings;
+(xiv) notices and minutes of decision of bids; etc.
+The documents mentioned above are merely examples of evidence that may prove
+the existence of an unlawful practice, and will be analyzed by the authority according
+to the probationary set presented and included in the documents of the investigation.
+It is important to note that to ensure that the electronic and physical documents
+presented by a TCC proponent have higher probative value, technical care must be
+taken in collecting the evidence. As a rule, the proponent must keep record of the
+chain of custody of the electronic and physical documents that are submitted to
+CADE, i.e., the chronological history of the evidence, presenting specific information
+of the individual responsible for the collection.
+Additionally, in the case of electronic documents, the TCC Proponent must be able to
+describe the method of extraction of evidence in detail, which should be done,
+whenever possible, in a way that best ensures the integrity and the chain of custody
+of the material. Whenever possible, the TCC Proponent must preserve the hard disks
+or original equipment (from which the information was extracted) and/or their
+authenticated forensic image preserved, without alterations. CADE will evaluate, in
+each case, the care taken to ensure the fidelity of the documents to the original. If
+necessary, the proponent may request more detailed information on methods of
+evidence extraction and description of procedures to CADE’s technical team.
+Under the criteria of convenience and opportunity, CADE may also request the
+conduction of interviews with the individuals proposing the TCC to obtain further
+information and details about the documents presented.
+In this respect, the following increasing bands of cooperation in the TCC can be
+established, concerning the presentation of documents:
+Documents that prove the violation and are broader and
+more useful than the ones presented in the Leniency/
+facts known by CADE; or
+Documents prove the violation; or
+Documents partially prove the violation; or
+Documents presented do not prove the violation, but help
+with the procedural instruction.
+15I.2 The procedural timing of the cooperation
+When analyzing the procedural timing of presenting a TCC proposal as a criterion
+valued in the cooperation presented by the Party(ies), CADE considers that the
+sooner the TCC proposal is presented, the greater is the discount to the Proponent.
+This is because a TCC can considerably reduce procedural costs both for the Public
+Administration and for the Proponent, even more so the earlier it occurs in the
+investigations. Additionally, a TCC signed in the early stages of the proceeding will
+possibly be more useful to the investigation, adding information still unknown or little
+understood by the authority, therefore indicating the best path for the continuation
+of the investigation. Consequently, the duration of the investigation can be
+shortened.5
+In this respect, in view of the procedural phases of discovery at the SG/CADE, the
+following increasing bands of cooperation in the TCC can be established concerning
+the timing of the requirement:
+TCC requested before the beginning of Administrative Proceeding (“AP”):
+ TCC presented up to three months from administrative and/or legal
+actions of investigative nature, the initiation of Administrative
+Inquiry (AI), or from other form of knowledge about the existence
+of the investigation by the Defendant; 
+
+ TCC presented between the end of the aforementioned period and
+the initiation of the AP. 
+
+TCC presented between the initiation of the AP and the end of the defense
+period:
+ TCC presented before the proof that the Party is
+served to the proceeding is attached to the file; 
+
+ TCC presented between the end of the aforementioned period
+and the end of the defense period. 
+
+TCC presented between the end of the defense period and the order to
+present new arguments
+ TCC presented up to six months from the end of the defense period;
+ TCC presented between the 6th month subsequent to the end of the
+defense period and the order to present new arguments.
+5 On the contrary, a TCC executed at a more advanced phase of the proceeding - for example, at the
+Administrative Tribunal and with little advance in regards to the ruling of the case - has little or no
+possibility of adding information that is relevant for the comprehension of the conduct or of the
+participation of the Defendants. Its main usefulness in terms of reduction of costs would be achieved
+in an earlier solution of the proceeding, avoiding future legal disputes.
+16It is important to note that, pursuant to Article 179 of RICADE, a TCC proposal can
+only be presented to the SG/CADE until such time as the proceeding is sent to the
+Tribunal for judgement. Combining this regulatory provision with the idea that a TCC
+only cooperates with the investigations while the case is still at the SG/CADE, CADE
+clarifies that it shall not accept a TCC proposal at the SG/CADE after the procedural
+instruction ends and the period for presentation of new arguments by the
+Defendants begins, as provided for in Article 73 of Law nº 12.529/11. However, this
+does not prevent the presentation of a TCC at the Tribunal, under the terms and
+conditions provided for in Articles 182 and 188 of RICADE.
+I.3 The method to quantify the cooperation for the purpose of defining the
+applicable discount
+Considering Sections I.1 and I.2 above, CADE clarifies the method used and the
+parameters deemed most relevant by the authority to quantify the cooperation for
+the purpose of defining the applicable discount, which are non-exhaustive and non-
+binding. Other factors not provided for in the methodology and parameters
+presented herein may be used by CADE to increase or reduce the discount,
+accordingly to the circumstances of the case.
+When quantifying the cooperation, CADE goes from the minimum level of the
+discount band in which the Party is positioned, moving to a sum of points as certain
+parameters of cooperation are fulfilled or not fulfilled. The minimum and maximum
+discounts are provided for in Articles 186 and 187 of RICADE.
+However, if the set of elements brought as cooperation by the Party is deemed
+insufficient, CADE may reject the TCC proposal.
+Moreover, RICADE prevents the discount granted under a TCC from exceeding the
+discount already granted in a previous TCC already executed in the same proceeding
+(Article 189 of RICADE), especially when there is an intersection between the
+discount bands.
+In this respect, CADE presents in the table below the method used to quantify the
+cooperation for the purpose of defining the applicable discount under the TCC. The
+table indicates the amount of points to which the Proponent is entitled, taking into
+consideration each parameter of cooperation evaluated by CADE, and also the place
+in line of the TCC Request. Each point attributed to the Proponent’s cooperation
+corresponds to one percentage point within the discount band in which it is
+positioned.
+17It is important to note that the points indicated in the table are the maximum points
+a7Proponent may be entitled to in each criterion, and that depending on the quality
+of the cooperation under analysis, it may receive a lower score.
+Furthermore, the table is merely indicative and given the subjective nature of
+evaluations, CADE shall take into consideration the characteristics of each individual
+case for its analyses. Additionally, in each case, specific criteria not identified in the
+table may be used to increase or reduce the final discount. Furthermore, if CADE
+verifies an unnecessary or unjustified delay of the TCC negotiations (caused by the
+parties), this may entail the non-renewal or termination of the negotiation’s deadlines
+and may even impact the calculation of discounts in the pecuniary contribution
+resulted from cooperation, if it is understood that even with the delay the agreement
+remain convenient and appropriate.
+The table below contains four calculation parameters: (i) identification of the
+participants in the violation; (ii) provision of information about the violation; (iii)
+provision of documents that prove the violation; and (iv) procedural timing. Each
+parameter receives a score from zero to the maximum score foreseen, depending on
+whether the Proponent is the first, second or third (and subsequent).6 The sum of
+the scores in each parameter corresponds to the total score estimated for each
+Proponent.7 A minimum score corresponds to the minimum percentage discount
+provided for in RICADE to position each participant according to the order in which
+the proposals are made; a maximum score corresponds to the maximum percentage
+discount for each proponent.8
+Although collaboration in the TCC proposal is not mandatory within the scope of the
+Administrative Tribunal, it should be noted that, at the Reporting Commissioner’s
+discretion, the table below may also be used for the calculation of discounts applied
+in the cases containing cooperation in a TCC negotiated within the Tribunal.
+6 For example, within the parameter “identification of the participants in the violation”, the first
+proponent shall receive a score from zero to three; the second from zero to two; the third from zero
+to one. The scores provided for in each parameter are not added. They go from zero to the maximum
+score provided for in the parameter.
+7 For example, if the first proponent gets maximum score in all the parameters, at the end it will have
+added 20 points.
+8 For example, if the first proponent scores zero, it receives the minimum percentage discount
+provided for in RICADE, which is 30%; if it scores 20 points, the percentage discount received shall be
+the maximum, i.e., 50%. If the second proponent scores zero, it receives the minimum percentage
+discount provided for in RICADE, which is 25%; if the score is 15, the maximum percentage discount
+shall be granted, i.e., 40%.
+18POSITION IN TCC
+PARAMETERS
+REQUEST
+Third
+Identification of participants in the violation First Second and
+subsequent
+If it indicates the same participants already identified by
+CADE and presents additional information regarding
+3 2 1
+participants that have not yet been identified;
+If it only indicates the participants already identified by
+CADE. 0 0 0
+Presentation of information about the violation First S econd sT uh bi sr ed
+q
+a un ed
+n t
+Report that is more comprehensive than that of the
+Leniency9 or of the facts known by CADE; or
+4 3 2
+Report that is similar to that of the Leniency or to the facts
+known by CADE; or
+2 1,5 1
+Report that is less comprehensive than that of the Leniency
+or of the facts known by CADE.
+0 0 0
+Provision of documents that prove the
+Third and
+violation First Second
+Subsequent
+Documents prove the violation and are broader
+and more useful than those presented in the 8 6 4
+Leniency / facts known by CADE;
+Documents prove the violation; or 6 4,5 3
+Documents partially prove the violation; or 4 3 2
+Documents presented do not prove the violation
+but help clarify the facts or the circumstances of 2 1,5 1
+the violation; or
+9 A more comprehensive report than that of a beneficiary of Leniency Agreement does not necessarily
+imply breach of the Leniency Agreement by the beneficiary due to lack of information. The Leniency
+obligation is to present to the authority all the facts known by the company or individual. It is natural
+that in some cases the beneficiary of a Leniency Agreement may not able to report or demonstrate
+certain facts. However, the verification that it withheld or was untruthful about certain facts may
+result in the breach of the referredlegal instrument.
+19No documents are provided. 0 0 0
+Third and
+Procedural Timing First Second
+Subsequent
+TCC requested before initiation of
+Administrative Proceeding
+TCC presented up to three 3 months from
+administrative and/or legal actions of investigative
+nature, from the initiation of AI, or other form of 5 4 3
+knowledge about the investigation by the
+defendant;
+TCC requested between the end of the
+aforementioned period and before initiation of 4 3 2,5
+Administrative Proceeding.
+TCC requested between initiation of the
+Administrative Proceeding and the end of
+the defense period
+TCC requested before the proof that the Party is
+3 2 1,5
+served to the proceeding is attached to the file;
+TCC requested between the end of the
+aforementioned period and the end of the defense 2 1 1
+period.
+TCC requested between the end of the
+defense period and the order for
+presentation of new arguments
+TCC requested up to 6 months from the end of
+the defense period; 1 0,5 0,5
+TCC requested between the end of the
+aforementioned period and the order for the 0 0 0
+presentation of new arguments.
+Total Score 0-20 0-15 0-10
+II. PECUNIARY CONTRIBUTION
+The payment of pecuniary contribution to the FDD as a requirement for execution of
+TCC is provided for in Article 85 of Law 12.529/11 for cases of cartel and of influence
+in uniform commercial practice (Article 36, §3, sub-paragraphs I and II of Law
+12.529/11), in verbis:
+Art. 85. In the administrative proceedings referred to in items I, II and III of Art.
+48 of this Law, CADE may obtain from the defendant a cease-and-desist
+agreement related to the practice under investigation or its harmful effects, if duly
+20grounded, for convenience and at the proper time, and if it understands that such
+agreement complies with the interests protected by law.
+§ 1 The agreement shall contain the following elements:
+I - specification of the defendant’s obligations not to practice the investigated
+activity or its harmful effects, as well as obligations deemed applicable;
+II – the setting of fines to be paid in case of failure to comply, in full or in part,
+with the obligations undertaken;
+III - the setting of pecuniary contributions to be paid to the Fund for the
+Defense of Diffuse Rights, when applicable.
+§ 2 In regard to the investigation of a violation related to or resulting
+from the conduct set forth in items I and II of § 3 of Article 36 of this
+Law, among the obligations referred to in Item I of § 1 of this Article it
+shall be an obligation to pay to the Fund for the Defense of Diffuse
+Rights a monetary value that cannot be less than the minimum required
+under Article 37 of this Law.
+§ 3 (VETOED).
+§ 4 The proposed Cease-and-Desist Agreement may only be submitted once.
+§ 5 The proposed Cease-and-Desist Agreement may be confidential.
+§ 6 The presentation of the Cease-and-Desist Agreement does not suspend the
+progress of the administrative proceeding.
+§ 7 The Cease-and-Desist Agreement shall be public, and it shall be
+published at CADE’s website within five (5) days of its signature.
+§ 8 The Cease-and-Desist Agreement constitutes an instrument enforceable in
+Court.
+§ 9 The Administrative Proceeding shall be suspended while the Cease-and-Desist
+Agreement is being complied with and it shall be filed at the end of the established
+deadline, if all the conditions set forth therein are satisfied.
+§ 10 The suspension of Administrative Proceedings referred to in § 9 of this Article
+shall relate only to the defendant who has signed the commitment, and
+proceedings will follow their regular course in relation to the other Defendants.
+21§ 11 If the Cease-and-Desist Agreement is not complied with, CADE shall apply
+the sanctions provided for therein and determine the continuation of the
+Administrative Proceeding and other administrative and legal measures for its
+enforcement.
+§ 12 The conditions of the Cease-and-Desist Agreement may be changed by CADE
+if it is proved to be excessively burdensome for the defendant, provided that the
+change does not cause damages to third parties or to the public.
+§ 13 The proposal for the signing of a Cease-and-Desist Agreement shall be
+rejected when the authority does not reach an understanding with defendants
+regarding its terms.
+§ 14 CADE shall define, by resolution, the additional rules applicable to the Cease-
+and Desist Agreement.
+§ 15 The provisions contained in Article 50 of this Law shall apply to the Cease-
+and Desist Agreement. (our highlights)
+The pecuniary contribution will necessarily be included in the TCC, which will be
+publicized (Article 85, §§ 1 and 7 of Law 12.529/11)10. In turn, for the purpose of
+calculating the pecuniary contribution in cartel cases and in cases of influence of
+uniform commercial practice, the Law determines that the value must not be lower
+than the minimum value of the fines, indicated in Article 3711, which determines, in
+verbis:
+Art. 37. A violation of the economic order subjects the ones responsible to the
+following penalties:
+I - in the case of a company, a fine of one tenth percent (0.1%) to twenty percent
+(20%) of the gross sales of the company, group or conglomerate, in the last fiscal
+year before the establishment of the administrative proceeding, in the field of the
+business activity in which the violation occurred, which will never be less than
+the advantage obtained, when the estimation thereof is possible;
+II - in the case of other individuals or legal entities governed by public or private
+law, as well as any association of persons or legal entities established de facto or
+de jure, even if temporarily, incorporated or not, which do not perform business
+activity, therefore not being possible to use the gross sales criteria, the fine will be
+set between fifty thousand reais (BRL 50,000.00) to two billion reais (BRL
+2,000,000,000.00);
+III - if the administrator is directly or indirectly responsible for the violation, when
+negligence or willful misconduct is proven, a fine of one percent (1%) to twenty
+percent (20%) of the one applied to the company, in the case set forth in Item I
+10 The information and documents attached to the Term presented by the Proponent due to the
+signing of the TCC, as well as the opinions of the SG/CADE and of the Tribunal with regard to the
+request shall follow the rules of confidentiality provided for in Articles 50 et seq. of the RICADE.
+Information with more than 5 (five) years and inherently public information related to listed
+companies.
+11 I.e., 0,1% in the case of legal entities, pursuant to sub-paragraph I, for example.
+22of the caput of this Article, or to legal entities, in the cases set forth in item II of
+the caput of this article.
+§ 1 In case of recurrence, the fines shall be doubled.
+§ 2 In the calculation of the value of the fine referred to in item I of the caput of
+this article, CADE may consider the total turnover of the company or group of
+companies, when the value of sales in the field of business activity in which the
+violation occurred is not available, as defined by CADE, or when it is incompletely
+presented and/or not clearly and credibly demonstrated. (our highlights)
+Thus, when negotiating the pecuniary contribution for the purposes of the TCC, the
+SG/CADE follows the legal requirement that such contribution shall not be lower than
+the minimum fine applicable to the TCC Proponent and, in the case of a company,
+never below the advantage obtained, when this advantage can be estimated.
+In general, CADE also takes into consideration the scenario of the expected fine
+based on the principles of reasonableness, proportionality and equality, additionally
+to the following criteria provided for in Article 45 of Law nº 12.529/11, in verbis:
+Art. 45. In the application of the penalties set forth in this Law, the following
+shall be taken into consideration:
+I - the severity of the violation;
+II - the good faith of the transgressor;
+III - the advantage obtained or envisaged
+by the violator;
+IV - whether the violation was consummated or not;
+V - the degree of injury or threatened injury to free competition, the national
+economy, consumers, or third parties;
+VI - the negative economic effects produced in the market;
+VII - the financial standing of the transgressor; and
+VIII – any recurrence.
+In view of this legislation, which establishes the guidelines for the applying a
+pecuniary contribution under the TCC, the next sections detail how CADE has been
+acting to date, always admitting future improvements. The three steps adopted by
+the SG/CADE have been the following: definition of the applicable law (Section II.1),
+calculation of the pecuniary contribution (Section II.2) and payment method of the
+pecuniary contribution (Sub-section II.3).
+23II.1 Definition of the applicable law
+In TCC negotiations where conducts initiated before 2012 are being investigated, the
+law applicable to the case must be analyzed to determine not only the legal
+minimum, but also the convenience of the proposal of a TCC, since Law nº
+12.529/2011 has altered the sanctions applicable to antitrust violations provided for
+in Law nº 8.884/94.
+The matter of intertemporal conflict of laws was addressed by the Administrative
+Tribunal in the ruling of Administrative Proceeding nº 08012.009834/2006-57.
+According to the opinion dedicated to the subject, the most favorable law must be
+applied, in verbis:
+This proposition - to admit the application of Law 12.529/11 when and only when
+it is more favorable to the Defendants in cases pending ruling - seems to be
+correct, as it recognizes a change in society’s parameters of value in antitrust
+administrative law, without affecting the legal certainty of administrative res
+judicata. [...]
+Finally, it is important to register that the application of the subsequent more
+beneficial law in antitrust cases pending ruling by CADE, is consistent with the
+principles of the 1988 Constitution, which determine that the alteration of the
+value standards of society with respect to a violating conduct should, when more
+beneficial to the citizen and when the corresponding case has not yet been ruled
+by the authority of competent jurisdiction, be reflected in the determination of the
+sanction. Additionally, such application is also connected, from an axiological point
+of view, to other fundamental principles for exercise of the punitive right of the
+State, such as proportionality, individualization of the sanction and the extent to
+which the practice is reproachable.
+Based on this assumption, the Administrative Tribunal verified that the most
+favorable law depends on the quality of the Defendant, since the changes of Law nº
+12.529/2011 were not more beneficial to all categories of antitrust violators. Based
+on these considerations, it is possible to extract the following rule:
+(i) Company: application of Law nº 12.529/2011, since it is more beneficial than the
+previous law;
+(ii) Administrator: application of Law nº 12.529/2011, since it is more beneficial than
+the previous law;
+(iii) Other individuals (non-administrator) or legal entities, associations of entities or
+non-business de facto or de jure entities: application of Law nº 8.884/1994, since
+it is more beneficial than the subsequent law.
+However, it is important to mention that this standard for defining which law would
+be more beneficial is understood as mere assumption, susceptible to proof that this
+24interpretation is not true in any individual case. It is also important to clarify that it is
+applied only for cases in which the violation had begun and had ended before Law
+12.529/11 came into force, but the Administrative Proceeding is still ongoing.
+II.2 Calculation of the pecuniary contribution
+The pecuniary contribution is based on the following requirements: the need for a
+sanction that is proportional to the conduct; the need for a fine that can dissuade
+administrators and third parties; and the need to provide legal certainty and equality
+among Defendants.
+In order to quantify the pecuniary contribution, the expected fine for the company
+must be calculated (Article 187 of the RICADE), and it must not be lower than the
+advantage obtained from participating in a cartel, when such advantage can be
+estimated (Article 37, sub-paragraph I, of Law nº 12.529/2011). Whenever possible,
+the advantage obtained must be calculated.
+It is important to note that, in order to attract companies to adhere to this kind of
+agreements, the amount of the contribution should be lower than the fine, but not
+necessarily lower than the advantage obtained.
+With respect to the expected fine, there are some differences regarding companies
+(Sub-section II.2.1) and individuals (Sub-section II.2.2) – including administrators
+and non-administrators.
+II.2.1 Calculation of the pecuniary contribution for companies
+The calculation of the expected fine for companies corresponds to the financial
+amount derived from the hypothetical application, to the case under analysis, of the
+provision of Article 37 of Law 12.529/2011, in verbis:
+Art. 37. A violation of the economic order subjects the ones responsible to the
+following penalties:
+(...)
+I - in the case of a company, a fine of one tenth percent (0.1%) to twenty percent
+(20%) of the gross sales of the company, group or conglomerate, in the last fiscal
+year before the establishment of the administrative proceeding, in the field of the
+business activity in which the violation occurred, which will never be lower than
+the advantage obtained, when the estimation thereof is possible;
+Thus, CADE clarifies that, as a rule, the systematic calculation of the expected fine is
+the following: definition of the calculation basis/turnover (II.2.1.1), update of the
+calculation basis/turnover (II.2.1.2), application of the percentage of the calculation
+25basis for the expected fine (II.2.1.3). Lastly, for the calculation of pecuniary
+contribution of TCCs, the discount is applied (II.2.1.4).
+II.2.1.1 Calculation basis
+II.2.1.1.1 General rule
+CADE states that, further to the provisions of Article 37, sub-paragraph I, of Law
+12.529/2011, transcribed above, it must use the gross turnover (including taxes) of
+the Proponent’s economic group obtained in the field of the business activity in which
+the practice occurred in the year prior to the initiation of the Administrative
+Proceeding. For the application of this rule, the list “field of business activities”
+discriminated in CADE Resolution nº 3, of May 29th 2012 should be consulted
+(“Resolution nº 3/2012”).
+Taking into consideration the rule of joint liability provided for in Article 33 of Law nº
+12.529/2011, and in order for the protection granted by the TCC to be extended to
+all the economic group of the Proponent, it is necessary that the calculation basis
+takes into account the turnover of the group as a whole in the field in question.
+II.2.1.1.2 Parameterization for the purpose of proportionality
+II.2.1.1.2.1 Parameterization with respect to the field of business
+activity described in CADE Resolution nº 3/2012
+As expressly provided for in Article 37, §2 of Law 12.529/2011, when the value of the
+turnover in the field of business activity in which the violation occurred is not
+available, as determined by CADE, or when it is incompletely presented or not clearly
+and credibly demonstrated, CADE may take into consideration the total turnover of
+the company or group of companies. Additionally, if the criterion of gross turnover
+cannot be used, the fine shall be set between BRL 50,000.00 (fifty thousand reais)
+and BRL 2,000,000,000.00 (two billion reais).
+In this sense, to deal with and solve issues of proportionality and reasonableness
+presented in the case at hand, CADE’s experience consisted in taking into
+consideration some aspects to better aim at a value of calculation basis more related
+to the violation itself, such as:
+(i) Turnover of the product or service affected by the cartel, which is not
+necessarily the definition of relevant market12 (eg. cartel involving a
+12 Cases of Air Cargo (Req. nº 08700.010220/2012-16), Meters (Req. nº 08700.009323/2014-97),
+Cables (Req. nº 08700.002074/2013-28), and Clutches (Req. nº 08700.001445/2015-16), for
+example.
+26very specific product or service in a very broad field of business
+activities);
+(ii) Turnover related to the geographic scope of the conduct, which is not
+necessarily the relevant market (e.g.: state, municipal or local cartel
+practiced by a company with nationwide operations and turnover in the
+field of business activity);
+(iii) Turnover obtained with the revenue effectively maintained by the
+company with the business in question13 (e.g.: cases in which the
+company’s turnover includes the totality of a good/service, but only
+part of this value is effectively retained by it as, for example,
+commission, with the rest being passed on to another agent).
+II.2.1.1.2.2 Parameterization regarding the base year of the turnover Depending
+on the procedural timing in which the negotiation occurs and also on the
+determination of absence of proportionality between the Proponent’s turnover in
+the year prior to the initiation of the Administrative Proceeding and its turnover in
+the years in which the conduct took place, CADE may take into consideration
+some aspects to adjust the agreement.
+CADE lists below some aspects that can be taken into consideration to determine
+proportionality and reasonableness:
+In cases where the negotiation occurs in an Administrative Proceeding that has not
+been initiated (e.g., Administrative Inquiry or Preliminary Proceedings), CADE may
+take into consideration the fiscal year prior to the initiation of the Administrative
+Inquiry or Preliminary Proceeding, or even, in they are confidential, CADE may take
+into consideration the turnover of the year prior to the year of presentation of the
+TCC;
+In cases where there is clear lack of proportionality between the turnover in the year
+prior to the initiation of AP/AI and the turnover obtained in the period of the conduct
+(for example, the termination of the activities of the company in the cartelized
+market or considerable growth/reduction of the market), it is possible to take into
+consideration:
+(i) Application of the turnover for the last 12 months of the conduct;14
+(ii) Application of the highest annual turnover obtained during the
+conduct;15
+(iii) Average of the turnovers during the period of the conduct.
+13 Case of Air Freight (Reqs. nº 08700.010662 2012-54, 08700.010314.2013-68, 08700.011226.2013-
+83 and 08700.001455/2015-51), for example.
+14 Cases of TFT-LCD (Req nº. 08700.003192/2013-53, nº 08700.007696/2013-42) and of CPT/CDT
+(Req nº 08700.011328/2013-07 and 08700.011327/2013-54), for example.
+15 Case of DRAM (Req. nº 08700.003191/2013-09 and nº 08700.001718/2011-07), for example.
+27II.2.1.1.2.3 Parameterization with respect to the turnover at the
+national level
+In cases where the TCC Proponent does not have a turnover in Brazil (e.g.,
+international cartels in which the Proponent did not obtain revenue in the Brazilian
+market under investigation) CADE takes into consideration the following aspects for
+the purpose of proportionality and reasonableness:7
+(i) “Virtual turnover” in the Brazilian market, i.e., the application of the
+Proponent’s worldwide market share on the total volume of the
+national market16;
+(ii) Other factors, such as estimates of indirect sales of the Proponent in
+the national market in cases of international cartel or in cases of
+companies without turnover in Brazil. In other words, the estimate of
+sales in Brazil of byproducts that used the cartelized product as an
+input.
+II.2.1.2 Update of the calculation basis
+Upon completion of the first step related to the calculation of the expected fine –
+definition of the calculation base/turnover (II.2.1.1) – it is time to proceed to the
+monetary update of such value, which is done by applying the SELIC rate17, since,
+additionally to inflation, the opportunity cost of the non-profitable money must be
+taken into consideration (which is, at least, the return on investment in public bonds,
+expressed by the nominal interest, which includes the real interest).
+In turn, the period of update corresponds to the range of months between the
+turnover used (in the year prior to the initiation of the Administrative Proceeding or,
+for example, the last 12 months of the conduct; see II.2.1.1) and the month prior to
+the filing of a TCC request.
+Therefore, the SELIC rate is used to update the company’s turnover to current
+values. There are two manners to calculate the update of the calculation
+16 Case of Maritime Hoses (Requests nº 08700.005321/2008-81, nº 08700.002312/2009-19. nº
+700.004174/2011-27, nº 08700.006544/2012-41 and nº 08700.001882/2008-19) and Cable Case
+(Request nº 08700.002074/2013-28), for example.
+17 The SELIC rate is calculated by the Central Bank of Brazil, which is its primary source. Nowadays,
+there are two SELIC calculators: the Central Bank of Brazil and the Brazilian Revenue Office. Whereas
+the Central Bank of Brazil takes into consideration compound interest, the Brazilian Revenue Office
+takes simple interest into account. According to Law 9021/95, the turnover update for the purpose of
+CADE fines is calculated in the same way as the calculation of federal taxes which, nowadays, is the
+SELIC rate. However, according to the jurisprudence of the courts related to taxes, such federal tax
+updates must not result in compound interest. The Federal Revenue Office has therefore developed a
+calculator: http://idg.receita.fazenda.gov.br/orientacao/tributaria/pagamentos-e-parcelamentos/taxa-
+de-juros-selic. As the law determines the same calculation used to update federal taxes, CADE
+normally uses the calculator of the Brazilian Federal Revenue Office for TCCs.
+28base/turnover, achieving the same result: the first alternative is to add the monthly
+rates of the update period; the second alternative consists in subtracting the
+accumulated rates of the first and of the last month of the updated period. According
+to the first method, the initial date for the update will be the first month of the fiscal
+year subsequent to the one of the turnover used and the last date will be the month
+prior to the filing of TCC request. In the second method, the initial date will be the
+last month of the turnover year used and the last date will be the month prior to the
+month of filing of TCC request.
+II.2.1.3 Percentage of the expected fine
+Upon completion of the first two steps of calculation of the expected fine – definition
+of calculation basis (II.2.1.1) and its update (II.2.1.2) – the following sections
+present the criteria used by CADE for the definition of the expected fine percentage,
+i.e., the percentage of the calculation base that results in the expected fine. The
+criteria below are mere parameters, which may be altered at CADE’s discretion in
+exceptional circumstances.
+As a rule, in classic cartel cases (or “hard core” cartels), the initial reference adopted
+by CADE in TCC negotiations is the application of a 15% amount on the calculation
+base considered, in line with the latest convictions of the Administrative Tribunal for
+this type of conduct.
+However, depending on mitigating or aggravating circumstances, additionally to
+other factors that take into account the principles of reasonableness, proportionality
+and equality, and the criteria provided for in Article 45 of Law nº 12.529/2011, this
+percentage may be reduced to the minimum considered by CADE as adequate to
+discourage this kind of conduct, usually 12%, or increased to the maximum
+permitted by law, 20%.1818
+The table below lists some illustrative hypotheses of mitigating circumstances in
+cases of classic cartels that can reduce the percentage to the minimum level
+considered by CADE for such cases (12%, as a rule):
+MITIGATING CIRCUMSTANCES
+Severity of the violation
+The violator has been coerced to participate in the conduct;
+18 Case of industrial constructions onshore of Petrobras (Req nº. 08700.007402/2015-44).
+29The violator had peripheral/occasional participation in the conduct;
+The conduct had extremely short duration (up to six months), as long as this
+circumstance does not result from the actions of public authorities to interrupt the
+conduct;
+Good faith of the violator
+Previous suggestion of adoption of the conduct by a public entity (eg., terms of
+commitment with Public Prosecutors or other public bodies, court decisions,
+decisions of regulatory agencies, bylaws, etc.);
+Existence of compliance programs that relate directly to the decision to propose a
+TCC and/or resulting from cooperation presented within the scope of the TCC;
+Financial standing of the violator
+The SG/CADE also lists some illustrative hypotheses of aggravating circumstances
+in classic cartel cases that may increase the percentage rate up to the legal
+maximum (20%):
+AGGRAVATING CIRCUMSTANCES
+Severity of the violation
+Leadership without coercion of other defendants
+Leadership with coercion of other defendants
+Duration of the conduct and of the participation (1 to 5 years)
+High duration of the conduct and of the participation (5 to 10 years)
+Extremely high duration of the conduct and of the participation (over 10 years)
+Absence of good faith of the violator
+Previous suggestion of interruption of the conduct on the part of a public entity
+(eg., terms of commitment with Public Prosecutor’s Offices or other bodies, court
+decisions, decisions of regulatory agencies, etc.) and continuity of the conduct.
+Degree of harm, or potential harm, to competition, to the national
+economy, to consumers or to third parties;
+Essentiality of the product on which the cartel was based;
+30Direct negative impact on strategic public policies for the country
+Negative economic effects produced in the market
+High negative economic impacts
+Other mitigating and aggravating circumstances verified in individual cases may also
+result, at CADE’s discretion, in variation of the percentage.
+Moreover, as a rule, in the case of one-off or diffuse cartels (e.g., occasional or not
+systematic exchange of information, unilateral disclosure of information, etc.), CADE
+usually applies a rate of 5% to 12%, depending on certain mitigating or aggravating
+circumstances and additionally to other factors that take into consideration the
+principles of reasonableness, proportionality and equality and on the criteria provided
+for in Article 45 of Law nº 12.529/11. Specific circumstances of individual cases,
+however, may require the application of the percentage rate on a differentiated
+basis.
+Lastly, taking into consideration Article 37, § 1, of Law nº 12.529/11, in the event of
+recidivism the percentage applied to the calculation base shall be doubled when the
+Party has already been convicted.
+II.2.1.4 Discount
+Upon completion of the first three steps for the calculation of the expected fine –
+definition of the calculation base/turnover (II.2.1.1), update of the calculation
+base/turnover (II.2.1.2) and application of the percentage rate (II.2.1.3) – the next
+and last step for the calculation of the pecuniary contribution of TCC is the
+application of the discount.
+With respect to the calculation of the discount in cases of TCC filed at the SG/CADE,
+since the TCC is directly related to the Proponent’s cooperation, reference is made to
+Part I (specifically, Section I.3) of these Guidelines.
+At this point, it must be reiterated that the minimum and maximum discount
+percentages in TCCs are provided for in Article 187 of RICADE, which takes into
+consideration the following bands, graded according to the time of the filing of the
+agreement:
+(i) First proponent before the SG/CADE: 30% to 50% discount on the expected fine;
+(ii) Second proponent before the SG/CADE: 25% to 40% of the expected fine;
+31(iii) Third and other proponents before the SG/CADE: up to 25% of the expected fine.
+In the case of TCCs filed before the Tribunal, according to Article 188 of RICADE, the
+maximum discount possible is 15%. It must be noted that filing a TCC after the
+opinions of CADE Attorney General’s Office and of the Federal Public Prosecutors
+Office have been presented significantly reduces the convenience and opportunity to
+sign the agreement filed at the Tribunal, all of which will be assessed according to
+the circumstances of the case at hand.
+It is also important to note that, under Article 189 of the same law, no TCC proposal
+will provide for a percentage reduction above the one determined in TCCs already
+signed in the same case. This rule also applies to TCCs filed before the SG/CADE and
+the Administrative Tribunal, so that if a TCC negotiated before the SG/CADE
+determined a discount below 15%, the discount applied by the SG/CADE will be the
+maximum possible discount for TCCs at CADE’s Tribunal.
+II.2.1.4.1 Combination of TCC and Leniency Plus discounts
+There is also the possibility of combining TCC and Leniency Plus discounts.19 If the
+signatory of a new Leniency Agreement in a second cartel decides to sign a TCC
+related to a cartel that is already under investigation and where Leniency
+Agreements are not available, the benefits of the Leniency Plus and of the TCC may
+be combined, at CADE’s discretion.
+Both discounts are applied subsequently (i.e., first the Leniency Plus and then the
+TCC discount) and non-cumulatively (i.e., the sum of both discounts). Cumulative
+application could result in excessive benefit for the company and/or individual that
+practiced cartel in several markets, with possible reduction of the dissuasive effect of
+the conduct, which could also discourage the presentation of new Leniency
+proposals, since TCCs would entail greater benefits.
+The subsequent application of discounts (i.e., first the Leniency Plus Agreement and
+then the TCC discount) is based on interpretation of the laws, since Leniency Plus
+discounts fall upon the applicable penalty in general terms, whereas the TCC
+discount falls upon the expected fine, in the concrete case. Moreover, it maintains
+the consistency between the maximum discounts in Leniency Plus Agreement and
+19 Leniency Plus consists in the reduction of one third of the sanction applicable to the company
+and/or individual that does not qualify for a Leniency Agreement for a cartel, but that supplies
+information about another cartel not previously known by the SG/CADE (pursuant to Article 209 of
+RICADE combined with Article 86, §7, of Law nº 12.529/2011).
+32TCC, vis-à-vis the hypothesis of partial Leniency.20 Furthermore, the subsequent
+application of the additional discount pursuant to the Leniency Plus Agreement is not
+significantly different from CADE’s experience in TCC negotiations, but adequately
+benefits Proponents that cooperate in both investigations.
+Given that a TCC negotiation considers discount bands, the subsequent application of
+Leniency Plus Agreements with TCC at SG/CADE, can result in the following total
+discount bands on the expected fine:
+(i) In the case of first TCC proponent: from 53,33% to 66,67%;
+(ii) In the case of second TCC proponent: from 50% to 60%;
+(iii) For the other TCC proponents: up to 50%.
+For further information regarding the signing of Leniency Agreements, see
+Articles 86 et seq. of Law nº 12.529/2011, Articles 96 et seq. of RICADE, as
+well as the Leniency Guidelines and FAQs.
+II.2.2 Calculation of the pecuniary contribution for individuals
+Individuals participating in anticompetitive conducts are analyzed differently in TCC
+negotiations, depending on whether they are administrators (II.2.2.1), non-
+administrators (II.2.2.2), or depending on the so-called “Accession Clause” (II.2.2.3)
+and “Umbrella Clause” (II.2.2.4).
+II.2.2.1 Company administrators
+Under Article 37, sub-paragraph III of Law nº 12.529/11, in the case of an
+administrator directly or indirectly responsible for the violation, upon evidence of
+intention (e.g. malice) or fault (e.g., negligence, imprudence or malpractice), the
+expected fine goes from 1% (one per cent) to 20% (twenty per cent) of the fine
+imposed on the company, legal entity or related entity (labor unions and
+associations, for instance).
+In order to encourage individuals involved in cartel investigations to apply for a TCC
+at the beginning of the procedural instruction, especially in cases where there is
+difficulty in locating and in serving the individuals involved in the conduct, CADE
+considers reasonable that the pecuniary contributions should be closer to the legal
+minimum, i.e., around 1% of the contributions imposed on the company. However,
+this does not mean that higher penalties will not be applied depending on
+20 Partial Leniency, pursuant to Article 86, § 4, sub-paragraph II, of Law nº 12.529/2011, is the
+Leniency modality implemented when the SG/CADE has prior knowledge of the notified violation.
+33aggravating circumstances, or when the 1% criterion is below BRL 50,000.00 (fifty
+thousand reais).
+3 2
+It is worth noting that, as a rule, administrators are the individuals with the positions
+described in the bylaws or articles of association of the company. However, when the
+individual is not an administrator thereunder but has equivalent management powers
+or relevant participation in the cartel, his/her contribution is calculated in values that
+are similar to the administrator’s, subject to the maximum and minimum limits of
+contribution of non-administrators, addressed below. Examples of individuals that
+could have their contribution calculated in this manner are the directors, managers,
+superintendents, commercial supervisors, and others, with relevant participation in
+the cartel.
+II.2.2.2 Other individuals (non-administrators)
+Under Article 37, sub-paragraph II of Law 12.529/11, in the case of other individuals
+(i.e., non-administrators), the expected fine under the new law goes from BRL
+50,000.00 (fifty thousand reais) to BRL 2,000,000,000.00 (two billion reais).
+In order to encourage individuals involved in cartel investigations to come forward
+for signing of a TCC at the beginning of the proceedings, especially in cases where
+there is difficulty in locating and in serving the individuals involved in the conduct,
+CADE considers reasonable that the pecuniary contributions should be closer to the
+legal minimum. However, it is important to analyze the degree of participation of the
+individual in the investigated conduct, especially when it is someone who is not an
+administrator under the terms mentioned above, but who had equivalent
+management powers or relevant participation in the cartel, in which case the
+contribution is calculated in values that are similar to the administrator’s.
+Lastly, even for cases of violation that has occurred when Law nº 8.884/1994 was in
+force, CADE does not consider reasonable to negotiate a TCC for a value that is
+below BRL 50,000.00 (fifty thousand reais).
+II.2.2.3 Individuals under the “Accession Clause”
+Although, as a rule, individuals interested in signing a TCC should negotiate and sign
+the agreement directly as Proponent-Signatories, in some circumstances it is possible
+that they be subsequently included in a TCC negotiated and signed by the company
+where they worked at the time of the unlawful conduct. This usually happens when
+the company appears before the authority to negotiate the agreement without
+having, until that date, located and/or gathered all the employees involved in the
+34conduct, especially those that no longer are employees, i.e., who are working for
+other companies or who have retired.
+In these cases, in order to speed up the negotiation process, the company can
+negotiate and sign its TCC individually, but already providing for in the agreement
+the conditions for subsequent inclusion of employees or former employees involved
+in the conduct. These conditions shall be provided for in the agreement under the so-
+called “accession clause”.
+CADE’s main objective in signing agreements containing accession clauses is to
+reduce procedural costs of future individual negotiations. Additionally, in case of
+difficulty to serve defendants to the process, such as in international cartels cases,
+the accession clause has proved advantageous as it also reduces procedural costs of
+locating and notifying Defendants.
+It is important to note that the accession clause does not prevent negotiation with
+individuals that are candidates to accession if they disagree with the terms of the
+negotiation. However, in this case, individuals will be entitled to the discount band in
+which they fit when their individual request is filed, and no longer to the discount
+band of the company.
+As a rule, when calculating the value of accession of individuals, CADE has adopted
+the following provisions related to timing:
+ up to six months after approval of the Term, a determined value;
+34  thereafter, addition of 50% on the aforementioned value.
+The accession clause is agreed for determined time span, which is (i) 1 (one) year
+from the date of publication of the approval of the TCC in the Official Federal
+Gazette; or (ii) up to 60 (sixty) days from the date of publication of the
+Administrative Proceeding against the Employee in the Official Federal Gazette;
+whichever occurs first.
+Finally, the pre-payment for the inclusion of individuals through the accession clause
+is available to the Proponent, although there is no reimbursement in the event of
+termination of the accession.
+II.2.2.4 Individuals under the “Umbrella Clause”
+In addition to the possibility of including individuals in TCCs negotiated and signed by
+a company under the “accession clause”, in some circumstances employees involved
+in the conduct can be included in a TCC under the so-called “Umbrella Clause”.
+35This clause can be used when the company wishes to terminate all its relation to the
+case, including the possibility of finding an employee involved in the conduct, but not
+yet identified (by the company or by the Public Administration) until the time of
+signing of the TCC. It is therefore used when the probability of identifying new
+participants in the conduct is low.
+CADE’s main objective with the Umbrella Clause is also to reduce procedural costs.
+The aim is to address the liability of all the individuals related to that company that is
+negotiating a TCC that may come to be identified as involved in the conduct,
+avoiding the need to include new Defendants or initiate new cases whenever the
+participation of an additional employee in the conduct is identified.
+As a rule, for the calculation of employees’ pecuniary contributions under the
+Umbrella Clause, CADE considers the following parameter: an additional value
+corresponding to 10%21 of the pecuniary contribution owed by the company, and
+such percentage may be increased or reduced22 depending on the circumstances of
+each case.
+Therefore, the main differences between the Umbrella Clause and the Accession
+Clause are the following:
+(i) the Umbrella Clause extends to individuals not yet identified, whereas the
+Accession Clause extends to those who have already been clearly identified in the
+investigation;
+(ii) in the Umbrella Clause, the company has already paid a flat amount, irrespective
+of how many other employees have been involved in the conduct and are
+subsequently identified, whereas in the Accession Clause the value is paid per
+individual only after the inclusion.
+(iii) the Umbrella Clause makes the initiation of an Administrative Proceeding against
+new individuals related to the Party meaningless23, whereas the Accession Clause
+21 For individuals, this percentage corresponds to a minimum contribution of 10 additional
+administrators that have not been identified. It is a reasonable amount for the Public Administration,
+given that it extends to a considerable number of new categories of individuals. It is not reasonable to
+assume that, after the effort to compose the Defendants and/or analysis of Histories of Conduct and
+other TCCs, there would still be a large number of unidentified individuals.
+22 E.g.: Roller bearing case (Req. nº 08700.001413/2015-11), in which the Umbrella Clause was
+established at 2%, since it did not seem reasonable to charge the value resulting from the application
+of 10%, given the high value of the final contribution of the legal entity and the number of individuals
+involved.
+23 CADE’s General Superintendence explains that if the proceeding is initiated, it shall be immediately
+halted in relation to the individual or legal entity of the group of the Party that has signed a TCC
+containing an Accession Clause.
+36requires the initiation of an Administrative Proceeding against the identified
+individual and only after the inclusion is the accession possible.
+(iv) the Umbrella Clause does not have a time span and remains in force indefinitely
+as long as the TCC is not declared breached, while the Accession Clause is agreed
+for a time frame, as previously mentioned.
+II.3 Payment method of the pecuniary contribution
+Upon determination of the final value of the pecuniary contribution, the payment
+method is then negotiated. CADE admits the possibility of extending payment
+deadlines and also the option of installment payments.
+In the case of a single installment, the deadline is usually up to 90 (ninety) days,
+without monetary correction based on the SELIC rate. In exceptional cases, the
+payment in a single installment may be carried out in up to 180 (one hundred and
+eighty) days, without monetary correction based on the SELIC rate, depending on
+the value of the contribution and the circumstances of each case.
+In the event of payment in installments, pursuant to Article 196 of RICADE, the
+installments shall be necessarily adjusted in accordance with the SELIC rate, in
+verbis:
+Art. 196. Under the terms of a Cease and Desist Agreement (TCC) that contains a
+pecuniary contribution, CADE can accept payment thereof in installments.
+Sole paragraph. The installments of the pecuniary contribution shall necessarily be
+corrected by the rate of the Special System of Settlement and Custody - SELIC,
+announced by the Central Bank of Brazil (BACEN).
+As a rule, the installments may extend to up to 2 (two) years, and the SELIC rate is
+applied on the second installment and on all the others thereafter. In exceptional
+cases, installments extending to up to 4 (four) years may be authorized, depending
+on the circumstances of individual cases, with application of the SELIC rate on the
+second installment and on all the others thereafter. Longer periods is only admitted
+in absolutely exceptional and specific circumstances, and in no event shall extend for
+an excessive period.
+CADE adopts the following parameters to define the installment period:
+ amount of the pecuniary contribution;
+ absolute amount of each installment;
+ financial standing of the company duly demonstrated;
+37 reasonableness of payment in installments, so as not to mitigate the dissuasive
+character of the pecuniary contribution;
+ scaling of the payment value and possibility of advanced payment of installments.
+Finally, CADE does not deem appropriate to have short payment deadlines (e.g.,
+monthly installments), since the cost of monitoring the payment of each installment
+is high.7
+III. ACKNOWLEDGEMENT OF PARTICIPATION IN THE INVESTIGATED
+CONDUCT, COMMITMENT NOT TO NOT PRACTICE IT AGAIN AND OTHER
+MEASURES
+Acknowledgement of participation in the investigated conduct is a requirement of
+RICADE to sign TCCs in cartel cases, pursuant to Article 185, in verbis:
+Art. 185. In investigations of agreement, combination, manipulation or
+arrangement among competitors, the Cease and Desist Agreement shall
+necessarily contain the acknowledgement of participation in the investigated
+conduct by the party thereto.
+CADE points out that this requirement has already been confirmed by Brazilian
+courts24, so that there is no possibility of signing of a TCC in cartel cases without the
+acknowledgement of participation in the investigated conduct, which must be
+included in the agreement.
+With respect to the commitment to not practice the investigated conduct again, it is
+based on Article 85, § 1, sub-paragraph I, of Law12.529/2011, which determines that
+the term shall additionally include:
+Art. 85. In the administrative proceedings referenced to in sub-paragraphs I,
+II and III of Art. 48 of this Law, CADE may obtain from the defendant a Cease
+and Desist Agreement related to the practice under investigation or its
+harmful effects, if duly grounded, for convenience and at the proper time, and
+if it understands that it complies with the interests protected by law.
+§ 1 The agreement shall contain the following elements:
+I - specification of the defendant’s obligations not to practice the investigated
+activity or its harmful effects, as well as obligations deemed applicable;
+II – the setting of fines to be paid in case of failure to comply, in full or in
+part, with the undertaken obligations;
+24 About the requirement to acknowledge participation in the conduct, the Federal Regional Tribunal of
+the 1st Region has already ruled that "the rule contained in RICADE did not exceed the limits provided
+for in the applicable laws, but merely regulated, based on objective criteria, in which situations it
+would be possible to execute Cease and Desist Agreements, and in this case is a an essential condition
+that the party thereto acknowledge participation in the conduct." Interlocutory Appeal 0070598-
+57.2013.4.01.0000/DF (30.01.2014) and Interlocutory Appeal 0004708-40.2014.4.01.0000
+(03.02.2014), Federal Justice Rapporteur Jirair Aram Meguerian.
+38III - the setting of pecuniary contributions to be paid to the Fund for the
+Defense of Diffuse Rights, when applicable.
+To make sure that the Proponent will not practice the investigated conduct again,
+CADE can demand commitment to adopt preventive measures. These measures can
+be included in the term generically or in a detailed manner, depending on the
+circumstances of each case.
+Lastly, the Proponent may be requested to adopt structural and/or
+behavioral measures to stimulate and/or re-establish competition in the market, or
+even to repair the negative effects of the conduct.
+IV. TEMPLATES
+CADE provides different TCC templates. As a rule, the text and format of the term
+are standard and must be preserved in accordance with the templates released by
+CADE, or altered as little as possible, so as to speed up the negotiations and maintain
+the equality of all agreements. Alteration requests made by a Proponent should be
+exceptional and duly grounded in view of specific concrete circumstances. CADE also
+reserves the right to make alterations when specific circumstances so require.
+V. ATTACHMENTS
+V.1 Template of Cease and Desist Agreement
+CEASE AND DESIST AGREEMENT
+THE ADMINISTRATIVE COUNCIL FOR ECONOMIC DEFENSE (Conselho
+Administrativo de Defesa Econômica - “CADE”), in this act represented by its
+President, [NAME OF THE PRESIDENT OF CADE], pursuant to Article 10, item VII, of
+Law No. 12529, of 30 November 2011, in compliance with the Tribunal decision rendered
+in the [NUMBER OF SESSION] Ordinary Judgment Session held on [DATE OF
+SESSION]; and [NAME OF THE COMPANY OR INDIVIDUAL], duly qualified in the
+Administrative Proceeding No. [NUMBER OF THE PROCEEDING] and in this act
+represented by its attorneys [NAME OF ATTORNEY], each party referred as
+“Committing Party” and collectively as “Committing Parties”), decide to enter into this
+Cease and Desist Commitment (“Agreement”), under the following terms and
+conditions, all in accordance with the provisions set out in article 85 of Law No.
+12529/11 (and former article 53 of Law No. 8,884/94) and CADE’s Internal Rules.
+Clause 1 – Subject Matter and Scope
+391.1. This Agreement’s purpose is to preserve and protect the competitive conditions
+in the markets for [_], as well as to stay and, if all the obligations set out herein are
+fully complied with, close Administrative Proceeding No. [_] in relation to the
+Committing Parties.
+Clause 2 – Acknowledgement of Participation in the Practice
+2.1 In accordance with the requirements set forth by the applicable legislation, the
+execution of this Agreement entails admission, by the Committing Parties of the fact
+described in the “History of Conduct”, which is part of this Agreement as Attachment
+I, and that is also composed of the documents presented by the Committing Parties.
+2.2 Attachment I will be treated as a document of restricted access to all CADE’s
+bodies and will be attached in a separate case records accessible only to the other
+Defendants in the Administrative Proceedings No. [_] or in any other Administrative
+Proceedings that may be initiated by CADE to investigate the same facts, and it will
+serve as evidence, in accordance with the same confidentiality rules from the
+Leniency Agreement, to the extent applicable, under the terms of the specific rules
+with respect to the Cease and Desist Agreement and other rules herein established.
+The document will be made available to the other Defendants strictly for the purpose
+of exercising the right to the contradictory and full defence in the aforementioned
+Administrative Proceeding, being prohibit its disclosure to or sharing with other
+natural or legal persons, total or partially, in Brazil or in other jurisdictions; the failure
+to comply with the confidentiality obligation will entail administrative, civil and
+criminal liability to the offenders.
+2.3 The Committing Parties and CADE acknowledge that the obligations and effects
+of the present Cease and Desist Agreement are limited to the Brazilian market and to
+the national territory, and do not have any relation with the foreign jurisdictions or
+territories.
+Clause 3 – Obligations of the Committing Parties
+3.1. Pecuniary Contribution. – The Committing Parties undertake to make the
+payment of pecuniary contributions as set out below:
+3.1.1. As Legal Entity, the Committing Party [_] undertakes to make a pecuniary
+contribution to the Diffuse Rights Fund (“Fundo de Direitos Difusos” in Portuguese) in
+the total amount of R$ [_], to be paid in a single installment, due [_] days, counted
+from the publication in the Official Gazette of the decision that approved this
+Settlement by CADE’s Tribunal.
+3.1.2 As Individual, the Committing Party [_] undertakes to make a pecuniary
+contribution to the Diffuse Rights Fund in the total amount of R$ [_], to be paid in a
+40single installment, due [_] days, counted from the publication in the Official Gazette
+of the decision that approved this Settlement by CADE’s Tribunal.
+3.1.3 To confirm the payment of the aforementioned pecuniary contributions, the
+Committing Parties undertake to provide to CADE an authenticated copy of the proof
+of payment within 15 (fifteen) days after payment.
+3.2. Cooperation – The Committing Parties undertake to:
+3.2.1. Provide CADE with documents, information and other material which the
+Committing Parties have or may come to have possession, custody, control or
+knowledge, and that are related to the facts under investigation in Administrative
+Proceeding No. [_], submitting, at their own expenses, whenever requested by
+CADE, sworn translations of the documents provided;
+3.2.2 Cooperate fully and permanently with CADE in every aspect of the investigation
+of Administrative Proceeding No. [_];
+3.2.3. Whenever requested by CADE, attend to, at their own expenses, every
+procedural act, until the final judgment of Administrative Proceeding No. [_];
+3.2.4. Notify CADE of any and all substantial modification in the information
+contained in this Agreement.
+3.2.5 Assist CADE in the initial notification of Employees against whom an
+Administrative Proceeding is eventually initiated if so requested in writing by CADE;
+3.2.6 Provide, whenever requested, the translation of the documents provided by
+them under this Agreement from Portuguese to [LANGUAGE] and from [LANGUAGE]
+to Portuguese, if necessary for the purposes of the discovery phase of the
+Administrative Proceeding No. [_], in relation to the conduct perpetrated.
+3.3 Future conduct – The Committing Parties undertake to:
+3.3.1 In an irreversible and irrevocable manner, refrain from practicing any of the
+conducts investigated in the case records of Administrative Proceeding No. [_], as
+well as to adopt measures to assure that these conducts will not occur again;
+3.3.2. Behave with honesty, loyalty and good faith during the fulfillment of these
+obligations;
+3.3.3 Refrain from performing any act and not omitting itself in any way that may
+jeopardize to the regular progress of the investigations undertaken by CADE. As a
+consequence, (the Committing Parties also agree to) behave in a manner consistent
+to the obligations and expressions of will provided for in this Agreement.
+41Clause 4 – Stay and Closing of the Administrative Proceeding
+4.1. The Administrative Proceedings No. [_] will be stayed in relation to the
+Committing Parties until the final judgment of this Administrative Proceeding by the
+Administrative Tribunal of Economic Defense, when compliance with the obligations
+set forth in this Agreement will be assessed, or until the assessment by CADE of
+noncompliance with the Agreement, pursuant to Clause 5, whichever comes first.
+4.2. Simultaneously to the conclusion of the investigation regarding the facts
+investigated in Administrative Proceeding No. [_], pursuant to Article 74 of Law No.
+12529/11, CADE’s General Superintendence will render a detailed report regarding
+compliance with the obligations of this Agreement by the Committing Parties,
+containing a full description of the behavior of the Committing Parties throughout the
+investigation.
+4.3. Once assessed full compliance with all obligations contained in Clause 3,
+Administrative Proceeding No. [_] will be closed in relation to the Committing
+Parties, pursuant to the Article 85, paragraph 9 of Law No. 12529/2011.
+Clause 5 - Non-compliance with the Agreement
+5.1. Any eventual non-compliance with this Agreement by the Committing Parties or
+by any Employee that may have joined the Agreement, under the terms of Clause 5,
+must necessarily be declared by CADE’s Tribunal, after a due investigative process, in
+the case records of Request No [_], in which the Committing Parties or the
+Employee that allegedly failed to comply will have the right to full defence to
+demonstrate compliance, including the possibility of presenting evidence.
+5.2. Once assessed, by CADE’s Tribunal, the non-compliance with any of the
+obligations established in Clause 3 of this Agreement, Administrative Proceeding No.
+[_] will be resumed in relation to the Committing Party or the Employee that failed to
+comply, guaranteeing the right to defence in the course of the investigations, under
+the same conditions of the remaining defendants and under the terms of the law.
+5.3. In the case of unjustified delay, without previous consent, in relation to the
+payment of the pecuniary contribution indicated in Clauses 3.1, or in relation to the
+filing of the proof of payment indicated in Clause 3.1.2, for less than thirty (30) days
+counting from the due date, the Committing Parties will be subject, exclusively, to a
+daily fine in the value of R$ 10,000 (ten thousand reais).
+5.4. In the case of unjustified delay, without previous consent, in relation to the
+payment of the pecuniary contribution indicated in Clauses 5.4, or in relation to the
+filing of the proof of payment indicated in Clause 5.4.4, for less than thirty (30) days
+42counting from the due date, the Employee will be subject, exclusively, to a daily fine
+in the value of R$ 1,000 (one thousand reais).
+5.5. The declaration of full non-compliance with this Agreement will result in a fine to
+[_] in default in the amount of R$ [ ] and to other Committing Parties in the amount
+of [ ].
+Clause 6 – Enforcement
+6.1. This Agreement is an out-of-court enforcement instrument, under the terms of
+Article 85, paragraph 8, of Law No. 12529/2011.
+Clause 7 – Publication
+7.1. The Settlement Agreement will be disclosed at the moment of its review by CADE’s
+Tribunal, and it will be made public after its approval, under the terms of article 85,
+paragraph 7, of Law No. 12,529/11, guaranteeing confidentiality of the terms of the
+negotiation.
+Clause 8 – Notification
+8.1 All notifications and other communications in relation to the Committing Parties
+shall be addressed to:
+[_]
+[OFFICE]
+[ADDRESS]
+[E-MAIL]
+[TELEPHONE]
+[FAX]
+And because the Parties agree, they sign this Agreement in the electronic way, with
+2 (two) witnesses designated below:
+Brasília, [Date]
+ADMINISTRATIVE COUNCIL FOR ECONOMIC DEFENSE
+[NAME – PRESIDENT]
+43Committing Parties
+Witnesses:
+43
+1. NAME: 2. NAME:
+ID: ID:
+ATTACHMENT I
+History of Conduct
+(RESTRICTED ACCESS)
+ATTACHMENT II
+Details on the Parties’ Contributions
+(RESTRICTED ACCESS)
+44V.2 Template of Cease and Desist Agreement 2
+CEASE AND DESIST AGREEMENT
+THE ADMINISTRATIVE COUNCIL FOR ECONOMIC DEFENSE (Conselho
+Administrativo de Defesa Econômica - “CADE”), in this act represented by its
+President, [NAME OF THE PRESIDENT OF CADE], pursuant to Article 10, item VII, of
+Law No. 12529, of 30 November 2011, in compliance with the Tribunal decision rendered
+in the [NUMBER OF SESSION] Ordinary Judgment Session held [DATE OF
+SESSION]; and [NAME OF THE DEFENDANTS], duly qualified in the Administrative
+Proceeding No. [_] and in this act represented by [NAME OF ATTORNEY (each party
+referred as “Committing Party” and collectively as “Committing Parties”), decide to enter
+into this Cease and Desist Commitment (“Agreement”), under the following terms and
+conditions, all in accordance with the provisions set out in article 85 of Law No.
+12529/11 (and former article 53 of Law No. 8,884/94) and CADE’s Internal Rules.
+Clause 1 – Subject Matter and Scope
+1.1. This Agreement’s purpose is to preserve and protect the competitive conditions
+in the markets for [_], as well as to stay and, if all the obligations set out herein are
+fully complied with, close Administrative Proceeding No. [_] in relation to the
+Committing Parties.
+Clause 2 – Acknowledgement of Participation in the Practice
+2.1 In accordance with the requirements set forth by the applicable legislation, the
+execution of this Agreement entails admission, by the Committing Parties of the facts
+described in the “History of Conduct”, which is part of this Agreement as Attachment
+I, and that is also composed of the documents presented by the Committing Parties.
+2.2 Attachment I will be treated as a document of restricted access to all CADE’s
+bodies and will be attached in a separate case records accessible only to the other
+Defendants in the Administrative Proceedings No. [_] or in any other Administrative
+Proceedings that may be initiated by CADE to investigate the same facts, and it will
+serve as evidence, in accordance with the same confidentiality rules from the
+Leniency Agreement, to the extent applicable, under the terms of the specific rules
+with respect to the Cease and Desist Agreement and other rules herein established.
+The document will be made available to the other Defendants strictly for the purpose
+of exercising the right to the contradictory and full defence in the aforementioned
+Administrative Proceeding, being prohibit its disclosure to or sharing with other
+natural or legal persons, total or partially, in Brazil or in other jurisdictions; the failure
+45to comply with the confidentiality obligation will entail administrative, civil and
+criminal liability to the offenders.
+2.3 The Committing Parties and CADE acknowledge that the obligations and effects
+of the present Cease and Desist Agreement are limited to the Brazilian market and to
+the national territory, and do not have any relation with the foreign jurisdictions or
+territories.
+Clause 3 – Obligations of the Committing Parties
+3.1. Pecuniary Contribution. – The Committing Parties undertake to make the
+payment of pecuniary contributions as set out below:
+3.1.1. As Committing Party [_] undertakes to make a pecuniary contribution to the
+Fund for Protection of Social Rights (“FDDD”) in the total amount of R$ [_], to be
+paid in a single installment, due [_] days, counted from the publication in the Official
+Gazette of the decision that approved this Settlement by CADE’s Tribunal.
+Each of the Committing Parties [_] undertakes to make a pecuniary contribution to
+the Fund for Protection of Social Rights (“FDDD”) in the amount of R$ [_] for each
+Committing Party, to be paid in a single installment, due [_] days, counted from the
+publication in the Official Gazette of the decision that approved this Settlement by
+CADE’s Tribunal.
+Each of the Committing Parties [_] undertakes to make a pecuniary contribution to
+the Fund for Protection of Social Rights (“FDDD”) in the amount of R$ [_] for each
+Committing Party, to be paid in a single installment, due [_] days, counted from the
+publication in the Official Gazette of the decision that approved this Settlement by
+CADE’s Tribunal.
+3.1.4. To confirm the payment of the aforementioned pecuniary contributions, the
+Committing Parties undertake to provide to CADE an authenticated copy of the proof
+of payment within 15 (fifteen) days after payment.
+3.2. Cooperation – The Committing Parties undertake to:
+3.2.1. Provide CADE with documents, information and other material which the
+Committing Parties have or may come to have possession, custody, control or
+knowledge, and that are related to the facts under investigation in Administrative
+Proceeding No. [_], submitting, at their own expenses, whenever requested by
+CADE, sworn translations of the documents provided;
+3.2.2 Cooperate fully and permanently with CADE in every aspect of the investigation
+of Administrative Proceeding No. [_];
+463.2.3. Whenever requested by CADE, attend to, at their own expenses, every
+procedural act, until the final judgment of Administrative Proceeding No. [_];
+3.2.4. Notify CADE of any and all substantial modification in the information
+contained in this Agreement.
+3.2.5 Assist CADE in the initial notification of Employees against whom an
+Administrative Proceeding is eventually initiated if so requested in writing by CADE;
+3.2.6 Provide, whenever requested, the translation of the documents provided by
+them under this Agreement from Portuguese to English and from English to
+Portuguese, if necessary for the purposes of the discovery phase of the
+Administrative Proceeding No. [_], in relation to the conduct perpetrated.
+3.3 Future conduct – The Committing Parties undertake to:
+3.3.1 In an irreversible and irrevocable manner, refrain from practicing any of the
+conducts investigated in the case records of Administrative Proceeding No. [_], as
+well as to adopt measures to assure that these conducts will not occur again;
+3.3.2. Behave with honesty, loyalty and good faith during the fulfillment of these
+obligations;
+3.3.3 Refrain from performing any act and not omitting itself in any way that may
+jeopardize to the regular progress of the investigations undertaken by CADE. As a
+consequence, (the Committing Parties also agree to) behave in a manner consistent
+to the obligations and expressions of will provided for in this Agreement.
+Clause 4 – Stay and Closing of the Administrative Proceeding
+4.1. The Administrative Proceedings No. [_] will be stayed in relation to the
+Committing Parties until the final judgment of this Administrative Proceeding by the
+Administrative Tribunal of Economic Defense, when compliance with the obligations
+set forth in this Agreement will be assessed, or until the assessment by CADE of
+noncompliance with the Agreement, pursuant to Clause 6, whichever comes first.
+4.2. Simultaneously to the conclusion of the investigation regarding the facts
+investigated in Administrative Proceeding No. [_], pursuant to Article 74 of Law No.
+12529/11, CADE’s General Superintendence will render a detailed report regarding
+compliance with the obligations of this Agreement by the Committing Parties,
+containing a full description of the behavior of the Committing Parties throughout the
+investigation.
+4.3. Once assessed full compliance with all obligations contained in Clause 3,
+Administrative Proceeding No. [_] will be closed in relation to the Committing
+Parties, pursuant to the Article 85, paragraph 9 of Law No. 12529/2011.
+47Clause 5 - Adhesion by Individuals
+5.1 Individuals that, at the time of the investigated facts, worked for the Committing
+Parties, or for any company of its economic group, may join this Agreement,
+provided that the following conditions are met:
+5.1.1 The individual who falls within the concept contained in Clause 5.1
+("Employee") shall file a submission indicating his interest in joining this Agreement,
+and, consequently, take up all obligations that are applicable to such Employee.
+5.1.2 The interested individual shall file the document indicated in Exhibit III of this
+Agreement, duly filled out, in the records of the Request No [_].
+5.1.3 No exception concerning the terms and conditions set out in this Agreement
+can be made by the Employee who intends to adhere to it;
+5.1.4 CADE’s General-Superintendence, after verifying the correct filling of
+Attachment III, especially the correct compliance of the Employee with Clause 5.4,
+and that no exception pursuant to Clause 5.1.3 was made, will recommend the
+granting of the adhesion request to the President of CADE’s Tribunal, which will
+submit the request for the approval by CADE’s Tribunal.
+5.1.5 In case the request is accepted by CADE’s Tribunal, copies of the adhesion
+request and the decision that accepted it will be attached to the case records of the
+Administrative Proceeding No. [_].
+5.2 The present clause does not prevent an Employee from filing its own application
+for negotiation of a Settlement Agreement under new conditions.
+5.2.1 The proposal indicated in Clause 5.2 implies the termination of the right to join
+this Agreement, provided for in this clause.
+5.2.2 The rejection of the request to join this Agreement does not affect the ability of
+the Employee to request the negotiation of a new Agreement.
+5.3 By joining this Agreement, the Employee will fully undertake the obligations set
+forth in Clauses 3.2 and 3.3.
+5.3.1 The obligation set forth in Clause 3.2.1. may be achieved through the herein
+Committing Parties.
+5.4 With the adhesion, the Employee will undertake to pay a pecuniary contribution
+to the FDDD, under the following criteria:
+485.4.1. Employees that held positions of management in any entity belonging to the
+[_] Group at the time of the facts under investigation will be obliged to pay a value
+of [_] if the request for joining the Settlement is filed until (6) six months after the
+publication in the Official Gazette of the decision that approved this Settlement by
+CADE’s Tribunal; or R$ [_], if after this date.
+5.4.2. The remaining Employees that are not included in Clause 5.4.1 will be obliged
+to pay a value of [_] if the request for joining the Settlement is filed until (6) six
+months after the publication in the Official Gazette of the decision that approved this
+Settlement by CADE’s Tribunal; or R$ [_], if after this date.
+5.4.3 The values must be paid in up to 60 (sixty) days after the publication in the
+Official Gazette of the granting of the request for joining the Settlement, by CADE`s
+Tribunal.
+5.4.4 In order to demonstrate the payment of the pecuniary contribution an
+authenticated copy of the proof of payment must be presented to CADE within 15
+(fifteen) days after payment.
+5.5 This clause will be effective (i) for 1 (one) year from the publication in the Official
+Gazette of the decision that approved this Settlement by CADE’s Tribunal or (ii) until
+the end of the legal term for the presentation of the Employee’s defense, in case the
+last term is longer than the first.
+5.6 The value established on Clause 3.1 already includes the amount related to the
+payment of the adhesion of the Employees listed on Attachment IV of Restricted
+Access, calculated according to the provision contained on Clause 5.4 above.
+5.6.1 In order to the Employees listed on Attachment IV to do justice to the provision
+of Clause 5.8., they shall formalize the adhesion request within 3 (three) months
+from the publication in the Official Gazette of the decision that approved this
+Settlement by CADE’s Tribunal, as well as be deemed as notified of his eventual
+inclusion in the Administrative Proceeding No. [_] as a Defendant and/or
+Administrative Proceeding initiated to investigate the same facts;
+5.6.2 CADE shall not, in any circumstance, reimburse the Committing Parties for the
+amount paid in relation to Clause 5.6.
+5.7 The adhesion request granted by CADE’s Tribunal implies in the recognition, by
+the Employee, of his involvement in the conduct under investigation, under the terms
+of Clause 2 and the History of Conduct attached to this Agreement.
+5.8 The adhesion of the Employee to the present Agreement implies on the
+suspension and eventual closing of the Administrative Proceeding initiated to analyze
+49the facts under investigation, in accordance with the terms and conditions set forth
+on Clause 4.
+5.8.1 The non-compliance with the Agreement by any individual or company covered
+by the scope of Clause 5 does not affect, in any way, the compliance by the others.
+5.9 The Committing Parties will make their best efforts to communicate all their
+employees and former employees involved in the investigated facts concerning the
+possibility of adhering to this Settlement Agreement if such employees and former
+employees are indicated by CADE as defendants in this investigation within the term
+provided for under Clause 5.5 above.
+Clause 6 - Non-compliance with the Agreement
+6.1. Any eventual non-compliance with this Agreement by the Committing Parties or
+by any Employee that may have joined the Agreement, under the terms of Clause 5,
+must necessarily be declared by CADE’s Tribunal, after a due investigative process, in
+the case records of Request No [_], in which the Committing Parties or the
+Employee that allegedly failed to comply will have the right to full defence to
+demonstrate compliance, including the possibility of presenting evidence.
+6.2. Once assessed, by CADE’s Tribunal, the non-compliance with any of the
+obligations established in Clause 3 of this Agreement, Administrative Proceeding No.
+[_] will be resumed in relation to the Committing Party or the Employee that failed to
+comply, guaranteeing the right to defence in the course of the investigations, under
+the same conditions of the remaining defendants and under the terms of the law.
+6.3. In the case of unjustified delay, without previous consent, in relation to the
+payment of the pecuniary contribution indicated in Clauses 3.1, or in relation to the
+filing of the proof of payment indicated in Clause 3.1.2, for less than thirty (30) days
+counting from the due date, the Committing Parties will be subject, exclusively, to a
+daily fine in the value of R$ 10,000 (ten thousand reais).
+6.4. In the case of unjustified delay, without previous consent, in relation to the
+payment of the pecuniary contribution indicated in Clauses 5.4, or in relation to the
+filing of the proof of payment indicated in Clause 5.4.4, for less than thirty (30) days
+counting from the due date, the Employee will be subject, exclusively, to a daily fine
+in the value of R$ 1,000 (one thousand reais).
+6.5. In the case of unjustified delay, without previous consent, in relation to the
+payment of the pecuniary contribution, for more than thirty (30) days, counting from
+the due date, will be considered negligence of the Committing Parties or the
+Employee, resulting in the declaration of full non-compliance with this agreement by
+CADE’s Tribunal.
+506.6 The declaration of full non-compliance with this Agreement will result in a fine to
+[_] in default in the amount of R$ 100,000 (one hundred thousand reais) and to
+other Committing Parties in the amount of R$ 10,000 (ten thousand reais).
+Clause 7 – Enforcement
+7.1. This Agreement is an out-of-court enforcement instrument, under the terms of
+Article 85, paragraph 8, of Law No. 12529/2011.
+Clause 8 – Publication
+8.1. The Settlement Agreement will be disclosed at the moment of its review by
+CADE’s Tribunal, and it will be made public after its approval, under the terms of
+article 85, paragraph 7, of Law No. 12,529/11, guaranteeing confidentiality of the
+terms of the negotiation.
+Clause 9 – Notifications
+9.1 All notifications and other communications in relation to the Committing Parties
+shall be addressed to:
+[_]
+And because the Parties agree, they sign this Agreement in the electronic way, with
+2 (two) witnesses designated below:
+Brasília,
+By Cade:
+By the Committing Parties:
+Witnesses:
+51ATTACHMENT I
+History of Conduct
+(RESTRICTED ACCESS)
+ATTACHMENT II
+Details on the Committing Parties’ Contributions
+(RESTRICTED ACCESS)
+ATTACHMENT III
+Complementary Contribution (Leniency Plus)
+(RESTRICTED ACCESS)
+ATTACHMENT IV
+Adhesion to the Cease and Desist Agreement No. [XX]/2016
+[Cidade, XX de XX de 201X.] [City, XX de XX de 201X.]
+Ao To
+Conselho Administrativo de Defesa Conselho Administrativo de Defesa
+Econômica Econômica
+Superintendência-Geral (SG/Cade) Superintendência-Geral (SG/Cade)
+SEPN 515, Conjunto D, lote 4, Edifício SEPN 515, Conjunto D, lote 4, Edifício
+Carlos Taurisano Carlos Taurisano
+CEP: 70770-504 – Brasília – DF CEP: 70770-504 – Brasília – DF
+Ref.: Requerimento nº [•] Re.: Requirement No. [•]
+Prezados(as) Senhores(as), Dear Sir/Madam,
+Eu, [•], nacionalidade [•], CPF nº [•], I, [•], national citizen of [•], IRS
+com [escritório/residência] na [•], enrolment nº [•], with [office/home]
+município de [•], estado de [•], declaro e address at [•], city of [•], State of [•],
+reconheço que li e entendi os termos do declare and acknowledge that I read and
+Termo de Compromisso de Cessação nº understood the Commitment No.
+[XX/201X], assinado pela empresa [•] [XX/201X], executed by the Company [•]
+com o Cade, relacionado ao mercado de with CADE, related to the market of [•].
+52[•].
+Informo, ainda, que exerci o I inform as well that I held the position
+[cargo/função] de [•] na empresa [•] of [•] in the Company [•] during the
+durante o período abrangido pela period comprised by the investigations of
+investigação do CADE, enquadrando-me, CADE, thereby fulfilling the requirements
+portanto, na cláusula [•]. Eu também under clause [•]. I also confirm the facts
+corroboro os fatos relatados no Histórico reported in the Infringement Report
+da Conduta com relação a esse período. related to this period.
+Por meio deste documento, eu aceito e
+By means of this document, I accept and
+concordo em estar vinculado a todos os
+agree to be bound to all the terms and
+termos e condições estabelecidos no
+conditions set forth in Commitment No.
+Termo de Compromisso de Cessação nº
+[XX/201X], especially the obligations set
+[XX/201X], especialmente as obrigações
+forth under Clause 5 and the Admissions
+estabelecidas na Cláusula Quinta e a
+of Clause 2.
+admissão da Cláusula Segunda.
+Em cumprimento das disposições do
+Termo de Compromisso de Cessação nº For compliance with the terms of the
+[XX/201X], e como anexos a este Commitment No. [XX/201X], and as
+documento, apresento: (i) cópia attachment, I present: (i) certified copy
+autenticada dos meus documentos of my personal identification document;
+pessoais de identificação [e (ii) [and (ii) power-of-attorney to my legal
+procuração outorgada ao meu counsel].
+advogado].
+Atenciosamente, Yours trully,
+__________________________________
+[Assinatura do Aderente] // [Signature of Adhering]
+[Procuração, se assinado por advogado] // [Power-of-attorney, if executed by
+legal counsel]
+53

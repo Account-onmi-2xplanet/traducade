@@ -1,0 +1,1267 @@
+Ministério da Justiça
+Conselho Administrativo de Defesa Econômica
+GUIA PARA PROGRAMAS DE COMPLIANCE
+Gabinete da Presidência do Cade
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.brCoordenação:
+Vinicius Marques de Carvalho
+Eduardo Frade Rodrigues
+Edição:
+Ana Carolina Lopes de Carvalho
+Marcela Mattiuzzo
+Revisão:
+Alexandre Cordeiro Macedo
+Cristiane Alkmin Junqueira Schmidt
+Gilvandro Vasconcelos Coelho de Araujo
+João Paulo Resende
+Márcio de Oliveira Júnior
+Paulo Burnier da Silveira
+Colaboradores Internos:
+Diogo Thomson de Andrade
+Luiza Kharmandayan
+Victor Santos Rufino
+Colaboradores Externos:
+Cristianne Saccab Zarzur
+Marcio C. S. Bueno
+Maria Eugênia Novis
+Pedro Mariani
+Planejamento Gráfico:
+Assessoria de Comunicação SocialSUMÁRIO
+1. Introdução ...................................................................................................... 6
+1.1 O papel do Conselho Administrativo de Defesa Econômica .................................... 7
+1.2 Das práticas foco desse Guia ............................................................................... 7
+1.2.1 Incentivos à observância da LDC........................................................................... 7
+2. Compliance..................................................................................................... 9
+2.1 O que é compliance ............................................................................................ 9
+2.1.1 Integração de áreas diversas em programas de compliance ............................... 9
+2.2 Quem pode se beneficiar de compliance ............................................................ 10
+2.3 Benefícios do programa de compliance para as organizações .............................. 11
+2.3.1 Prevenção de riscos ............................................................................................ 11
+2.3.2 Identificação antecipada de problemas ............................................................. 12
+2.3.3 Reconhecimento de ilicitudes em outras organizações ..................................... 12
+2.3.4 Benefício reputacional ........................................................................................ 13
+2.3.5 Conscientização dos funcionários ....................................................................... 13
+2.3.6 Redução de custos e contingências .................................................................... 13
+3. Compliance concorrencial ............................................................................. 14
+3.1 O que é? .......................................................................................................... 14
+3.1.1 Limitações ........................................................................................................... 14
+3.1.2 Programas “de fachada” ..................................................................................... 15
+3.2 Estruturação de Programas Robustos ................................................................. 15
+3.2.1 Pontos Comuns ................................................................................................... 15
+3.2.1.1 Comprometimento ........................................................................................................ 16
+3.2.1.2 Análise de Riscos .......................................................................................................... 19
+3.2.1.3 Mitigação de Risco ....................................................................................................... 21
+3.2.1.4 Revisão do Programa .................................................................................................... 28
+3.2.2 Especificidades do caso concreto ....................................................................... 29
+3.2.2.1 Cartéis .......................................................................................................................... 30
+3.2.2.2 Cartéis em licitação ....................................................................................................... 32
+3.2.2.3 Associações, Sindicatos e Standard Setting Organizations (SSOs)................................. 34
+3.2.2.4 Condutas unilaterais e Restrições Verticais ................................................................... 36
+3.3 Impactos nas penalidades administrativas .......................................................... 393.3.1 Leniência ............................................................................................................. 40
+3.3.2 Termos de Compromisso de Cessação ............................................................... 41
+3.3.3 Consultas ............................................................................................................. 41
+3.3.4 Dosimetria da pena ............................................................................................. 42
+4. Considerações finais .....................................................................................431. Introdução
+A Lei 12.529/2011 (Lei de Defesa da Concorrência – LDC) instituiu no Brasil a nova
+organização do Sistema Brasileiro de Defesa da Concorrência (SBDC), do qual o Conselho
+Administrativo de Defesa Econômica (Cade) é parte, tendo seu funcionamento e suas
+atribuições ali determinados. Esse diploma foi um marco na consolidação do antitruste
+brasileiro, promovendo uma série de inovações na legislação – como a inauguração de um
+novo desenho institucional, mais eficiente para os fins pretendidos pela autoridade – e
+reiterando a importância de seu cumprimento.
+Por conta desta renovada preocupação, um tema que tem ganhado espaço na agenda
+concorrencial é o compliance. A expressão compliance vem do inglês, “to comply”, que
+significa exatamente cumprir, estar de acordo com. Cada vez mais os agentes econômicos se
+dão conta da necessidade de estabelecer práticas que não violem a LDC e demonstrem uma
+atitude pró-ativa por parte dos entes privados. Por conta disso, a implementação de programas
+de compliance concorrencial tem se multiplicado.
+O objetivo desse Guia é endereçar essa realidade e estabelecer diretrizes não-
+vinculantes para as empresas a respeito desses programas, especificamente no âmbito da
+defesa da concorrência, no que eles consistem, de que modo podem ser implementados e
+quais as vantagens em sua adoção. Esse é um guia de definições e sugestões (ou um “menu
+de opções”, na linguagem da International Chamber of Commerce1), as quais podem ser
+acatadas ou não tendo por base a realidade de cada organização.
+Nesse sentido, o Cade entende que pequenas e médias entidades podem implementar
+programas de compliance, ainda que eles sejam mais modestos e contem com orçamentos
+muito reduzidos em face dos programas de grandes companhias.2
+1 A International Chamber of Commerce é um organismo internacional que produziu um dos guias mais
+completos sobre compliance, referência no assunto em âmbito internacional. O material está disponível em
+língua inglesa em: http://www.iccwbo.org/Advocacy-Codes-and-Rules/Document-centre/2013/ICC-
+Antitrust-Compliance-Toolkit/
+2 SCCE – A Compliance & Ethics Program on a Dollar a Day: How Small Companies Can Have Effective
+Programs. O CEO da SCCE, na introdução do guia elaborado pela entidade especificamente para programas
+de compliance com orçamentos reduzidos diz que “Of course you could, if you wanted to spend any amount
+of money on compliance and ensure your efforts are expensive. Some have indeed created expensive
+compliance programs. However, the idea that any company that wants a compliance program must spend
+a lot of money is without merit. The claim that some companies – those that are small and medium sized –
+61.1 O papel do Conselho Administrativo de Defesa Econômica
+O papel do Cade é zelar pela livre concorrência. Isso ocorre por meio do exercício de
+funções preventiva (análise de atos de concentração e processamento de consultas), repressiva
+(investigação e punição de infrações à ordem econômica) e educativa (disseminação da
+importância da manutenção de um ambiente concorrencial saudável).
+O principal foco desse guia são as práticas sujeitas à função repressiva do Cade. Isso
+porque os programas de compliance visam primordialmente impedir que empresas,
+organizações e pessoas físicas violem a LDC, ou seja, adotem práticas que configurem
+infrações à ordem econômica, tornando-se sujeitas a severas penalidades aplicáveis pelo
+Cade. Tais práticas podem ser (i) horizontais, praticadas por agentes que concorrem entre si;
+(ii) verticais, praticadas por agentes que atuam em níveis diferentes de uma mesma cadeia de
+produção; ou (iii) unilaterais, praticadas por agentes com posição dominante.
+1.2 Das práticas foco desse Guia
+O principal foco desse guia concerne às condutas anticompetitivas. Isso porque as
+recomendações para a boa prática na condução de atos de concentração (ACs) já foram em
+grande parte abordadas no Guia para Análise de Consumação Prévia de Atos de Concentração.
+Para maiores explicações sobre o tema sugere-se a leitura do material daquele Guia.
+Aqui, as orientações serão direcionadas para a criação de um programa interno às
+organizações que seja efetivo em evitar práticas que possam vir a ser entendidas como
+infrações colusivas ou unilaterais.
+1.2.1 Incentivos à observância da LDC
+Antes de entrar em maiores detalhes a respeito do que seja o programa de compliance,
+quais seus benefícios específicos e sua forma de estruturação, é importante ressaltar o motivo
+pelo qual os agentes econômicos, sejam eles grandes, médios ou pequenos, devem se
+preocupar em cumprir a LDC. Há duas respostas para essa questão, uma primeira relacionada
+are too small to implement a compliance program is not accurate. Anyone with any business experience
+and who is being honest knows that any business operation can be managed efficiently or inefficiently.
+Compliance is no different. You can implement an effective compliance program with a small investment
+if you know what you are doing.”
+7à punibilidade advinda do não cumprimento, e uma segunda que diz respeito aos benefícios
+que a observância da lei traz tanto para a sociedade quanto para as próprias companhias.
+Como explicitam os artigos 37 e 38 da LDC, as sanções a que se sujeitam os agentes
+privados por tais infrações são bastante graves. Além disso, empresas podem sofrer processos
+na esfera cível, e as pessoas físicas, na esfera criminal, por força da Lei 8.137/1990. Dessa
+forma, e por meio da atuação crescente do Cade, que vem multiplicando suas investigações e
+realizando um número cada vez maior de julgamentos de processos administrativos, busca-se
+minorar os incentivos para que as companhias se engajem em infrações. Dentre as possíveis
+sanções a serem impostas estão:
+ Empresa: multa de 0,1% a 20% do valor do faturamento bruto anual no ramo
+de atividade empresarial em que ocorreu a infração;
+ Administrador (direta ou indiretamente) responsável pela infração cometida,
+quando comprovada a sua culpa ou dolo: multa de 1% a 20% daquela aplicada
+à empresa;
+ Pessoas Físicas (funcionários, consultores, contadores etc.) ou Jurídicas (público
+ou privado/associações de entidades /pessoas constituídas de fato ou de direito,
+ainda que temporariamente, com ou sem personalidade jurídica), que não
+exerçam atividade empresarial: multa de R$ 50 mil a R$ 2 bilhões;
+ Reincidência da prática:
+o Empresa ou pessoa física: as multas cominadas serão aplicadas em
+dobro.
+o Continuidade de atos ou situações que configurem infração da ordem
+econômica, após decisão do Tribunal determinando sua cessação: multa
+diária fixada em valor de R$ 5 mil podendo ser aumentada em até 50
+(cinquenta) vezes, se assim recomendar a situação econômica do
+infrator e a gravidade da infração.
+ Processo Criminal: as pessoas físicas envolvidas em condutas anticoncorrenciais
+poderão ainda ter as suas práticas criminalmente investigadas e punidas, com
+pena de reclusão de 2 a 5 anos e multa.
+Não obstante, há benefícios outros em respeitar o direito da concorrência que não
+apenas o de evitar penalidades. O mais elementar deles é a garantia de um ambiente
+8concorrencialmente probo. Outro é a boa reputação no mercado e a boa aceitação por parte
+da opinião pública, como será visto em maior detalhe no item 2.3. Visto que a sociedade cada
+vez mais toma consciência da importância da concorrência saudável, e cada vez mais as
+notícias sobre práticas anticompetitivas ganham espaço na mídia, o incentivo para cooperar
+com as autoridades e seguir as leis de forma sistemática vai além da mera não sujeição às
+sanções aplicáveis e estende-se para a garantia da boa imagem.
+2. Compliance
+2.1 O que é compliance
+Compliance é um conjunto de medidas internas que permite prevenir ou minimizar os
+riscos de violação às leis decorrentes de atividade praticada por um agente econômico e de
+qualquer um de seus sócios ou colaboradores.
+Por meio dos programas de compliance, os agentes reforçam seu compromisso com
+os valores e objetivos ali explicitados, primordialmente com o cumprimento da legislação. Esse
+objetivo é bastante ambicioso e por isso mesmo ele requer não apenas a elaboração de uma
+série de procedimentos, mas também (e principalmente) uma mudança na cultura corporativa.
+O programa de compliance terá resultados positivos quando conseguir incutir nos
+colaboradores a importância em fazer a coisa certa.
+Uma vez que tais colaboradores podem apresentar diferentes motivações e graus de
+tolerância a riscos, o programa tem por função ditar valores e objetivos comuns, garantindo
+sua observância permanente. Programas de compliance podem abranger diversas áreas afetas
+às atividades dos agentes econômicos, como corrupção, governança, fiscal, ambiental e
+concorrência, dentre outras, de forma independente ou agregada.
+2.1.1 Integração de áreas diversas em programas de compliance
+Um programa de compliance raramente abarcará a legislação pertinente a apenas um
+setor ou endereçará apenas um tipo de preocupação. O mais comum é que os programas
+tratem simultaneamente de diversos aspectos e diplomas normativos. Por isso, cada agente
+econômico deve levar em consideração suas próprias particularidades quando da
+implementação de um programa de compliance. Nos casos em que as áreas de exposição são
+9múltiplas, a maior efetividade será garantida na medida em que o compliance concorrencial
+seja desenvolvido e implementado não isoladamente, mas sim como parte de um programa
+mais amplo e abrangente de integridade e ética corporativas.
+A estratégia mais ampla deve ser a de incorporar o compliance à cultura de negócios da
+empresa, de modo que não seja possível dissociar seu comprometimento com a observância
+das leis de suas normas internas. A partir daí, o programa correrá menor risco de ser visto
+como um entrave para o alcance das metas de performance e passará a ser considerado e
+incorporado como parte das regras fundamentais do negócio.
+Como exemplo de área de compliance que não aquela de concorrência, mas que pode
+ser a ela integrada, vale citar o compliance anticorrupção, da Lei 12.846/2013.
+Essa integração é importante por dois motivos principais: (i) o estabelecimento pela
+empresa de um programa composto por mecanismos e procedimentos internos com objetivo
+de detectar e sanar riscos nas diversas áreas, inclusive concorrencial, pode ser mais eficiente
+do que a criação de uma estrutura própria voltada apenas para o compliance antitruste e (ii)
+se o objetivo último do compliance é criar uma cultura de respeito à legislação, é evidente que
+o cumprimento de todas as leis deve ser perseguido, não apenas a observância de um único
+diploma normativo.
+Não obstante, apesar de a ética concorrencial fazer parte de um programa mais
+amplo de compliance, é imprescindível a adoção de material próprio que leve em consideração
+as especificidades da legislação e da política de defesa da concorrência, bem como o aporte
+adequado de recursos à área concorrencial, em especial naqueles casos em que a exposição à
+LDC é bastante elevada. Em resumo, o que se deve perseguir é a verdadeira integração, sem
+perda das peculiaridades exigidas pelo cumprimento de cada lei.
+2.2 Quem pode se beneficiar de compliance
+Organizações de todos os portes podem se beneficiar de um programa de compliance.
+No entanto, os riscos – principalmente de ordem concorrencial – a que uma organização está
+exposta variam de acordo com seu porte, posição de mercado, setor de atividades, objetivos,
+etc. Por esta razão, não há um modelo único de programa de compliance. Cada programa
+deve respeitar as peculiaridades de cada indústria e ser revisto constantemente de modo a
+contemplar novos riscos que eventualmente possam surgir, como aqueles decorrentes de
+10operações de fusões e aquisições, da introdução de um novo produto no mercado ou da
+entrada em um novo mercado geográfico com histórico de infrações em defesa da
+concorrência.
+Este Guia não tem a pretensão de esgotar o conteúdo dos programas de compliance
+concorrencial, mas apenas de apontar os elementos comuns a programas considerados
+robustos e peculiaridades de casos concretos relevantes quando de sua estruturação.
+Além das próprias empresas, a adoção de programas de compliance beneficia
+terceiros, entre eles investidores, consumidores e parceiros comerciais, na medida em que
+garante que os mercados permaneçam competitivos, previne a ocorrência de infrações e danos
+delas decorrentes e evita perda de valor da empresa. Ainda, para as autoridades, a prevenção
+é sempre preferível à repressão e representa menor custo à sociedade.
+Em linhas gerais, a sociedade, a economia e a concorrência como um todo se
+beneficiam de programas de compliance.
+2.3 Benefícios do programa de compliance para as organizações
+Uma vez que o foco desse guia é a implementação e o reforço de programas de
+compliance em organizações, trataremos em maior detalhe dos benefícios trazidos para elas.
+2.3.1 Prevenção de riscos
+A adoção de programas de compliance
+Ainda que riscos concorrenciais
+identifica, mitiga e remedia os riscos de
+sejam observados com maior
+violações da lei, logo de suas consequências frequência em empresas de grande
+porte, pequenas e médias empresas
+adversas. No direito concorrencial, além de
+também podem e devem
+multa, a LDC prevê diversas outras penas em
+preocupar-se com o cumprimento
+caso de infração à ordem econômica, como da LDC e, por isso, considerar a
+implementação de compliance
+publicação da decisão condenatória em jornal
+concorrencial.
+de grande circulação, proibição de contratar com
+instituições financeiras oficiais e participar de
+licitação por até cinco anos, inscrição do infrator no
+Cadastro Nacional de Defesa do Consumidor, recomendação de licença compulsória de direito
+11de propriedade intelectual de titularidade do infrator, negativa de parcelamento de tributos
+federais e cancelamento de incentivos fiscais ou subsídios públicos, a cisão de sociedade,
+transferência de controle societário, venda de ativos ou cessação parcial de atividade, e
+proibição de exercer o comércio em nome próprio ou como representante de pessoa jurídica
+por até 5 (cinco) anos.
+Ao lado dos prejuízos financeiros e às atividades das pessoas jurídicas infratoras, há
+também o impacto negativo sobre as pessoas físicas envolvidas, que podem ser impedidas de
+exercer função de direção em outras empresas e responsabilizadas criminalmente.
+2.3.2 Identificação antecipada de problemas
+A conscientização promovida pelos programas de compliance acerca das condutas
+indesejadas permite a identificação de violações à lei mais rapidamente, favorecendo pronta
+resposta pela organização. Dentre as vantagens da identificação de infrações com agilidade
+está a maior possibilidade de firmar acordos com as autoridades, sejam de leniência ou não,
+que podem implicar substancial redução da pena e, em alguns casos, imunidade na esfera
+criminal para pessoas físicas. Em relação ao efeito específico da antecipação para fins da
+aplicação da LDC, será abordado no item 3.3.
+2.3.3 Reconhecimento de ilicitudes em outras organizações
+A conscientização promovida pelos programas de compliance permite que os
+funcionários identifiquem sinais de que outras organizações, como concorrentes, fornecedores,
+distribuidores ou clientes, possam estar infringindo a lei. Essa identificação é relevante na
+medida em que relacionar-se com terceiros que violam a legislação pode ser prejudicial para
+um agente econômico quando da análise das infrações, especialmente a depender de nível de
+envolvimento.
+Relacionamento estrito entre companhias sugere maior alinhamento de práticas
+comerciais. Nessa toada, é muito importante ser capaz de agir no caso de identificação de
+condutas ilícitas de terceiros com quem as trocas são intensas, para que não restem dúvidas
+sobre a boa-fé da companhia.
+122.3.4 Benefício reputacional
+Ações afirmativas de incentivo à conformidade com a lei são parte essencial de uma
+cultura de ética nos negócios, que resulta em benefícios para a reputação da organização e
+sua atratividade para fins promocionais, de recrutamento e de retenção de colaboradores.
+Essas ações tendem a aumentar a satisfação e o comprometimento no trabalho e o senso de
+pertencimento e identificação com o grupo. O comprometimento com a observância das leis
+também inspira confiança em investidores, parceiros comerciais, clientes e consumidores que
+valorizam organizações que operam de forma ética e que se sentiriam enganados em caso de
+infração.
+Violações à lei geram questionamentos sobre a ética e o modelo de negócios da
+entidade envolvida. O possível impacto econômico decorrente do dano à reputação –
+potencializado pela cobertura da mídia – pode ser ainda maior do que o resultante da pena
+pela infração, por levar a perdas não só financeiras, mas também de oportunidades de
+negócios. Organizações que têm programas de compliance instalados são cada dia mais
+atraentes como parceiros de negócios e como boas instituições para se trabalhar.
+2.3.5 Conscientização dos funcionários
+Colaboradores cientes das “regras do jogo” estão em melhor posição para fazer
+negócios sem receio de violar as leis, assim como para procurar assistência caso identifiquem
+possíveis questões concorrencialmente sensíveis. Temas de ordem concorrencial aparecem
+com frequência em negociações comerciais; programas de compliance bem elaborados e
+devidamente implementados permitem aos colaboradores tomar decisões com mais confiança.
+O medo de violar as leis – notadamente quando envolvido risco de persecução penal – pode
+intimidar os colaboradores e eventualmente desestimular a concorrência mais acirrada e
+legítima.
+2.3.6 Redução de custos e contingências
+A adoção de um programa de compliance pode evitar que as empresas incorram em
+custos e contingências com investigações, multas, publicidade negativa, interrupção das
+atividades, inexequibilidade dos contratos ou cláusulas ilegais, indenizações, impedimento de
+acesso a recursos públicos ou de participação em licitações públicas, etc.
+13Além de despesas judiciais e administrativas, investigações requerem a alocação de
+recursos humanos e financeiros que de outra forma seriam empregados na atividade-fim da
+empresa. Ademais, adicionalmente ao processo administrativo, as empresas podem ter que
+responder civil e criminalmente pela infração cometida.
+Danos à sua reputação podem ser sentidos antes mesmo do desfecho do processo,
+somente por estarem sob investigação, refletindo-se em perda de clientes, oportunidades de
+negócios, investimentos, valor de mercado, etc.
+3. Compliance concorrencial
+Uma empresa deverá se preocupar com a adoção e a renovação de um programa de
+compliance concorrencial quando identificar que suas atividades podem ser analisadas sob a
+LDC. Abaixo, explicitar-se-á o que diferencia o programa de compliance concorrencial de
+outros programas.
+3.1 O que é?
+A diferença principal se dá em termos de escopo: um programa de compliance
+concorrencial busca, em primeiro lugar, prevenir e reduzir o risco de ocorrência de violações
+específicas à LDC e, em segundo lugar, oferecer mecanismos para que a organização possa
+rapidamente detectar e lidar com eventuais práticas anticoncorrenciais que não tenham sido
+evitadas em um primeiro momento.
+3.1.1 Limitações
+O mais elementar sobre o funcionamento de um programa de compliance
+concorrencial é compreender que sua adoção não garante que não ocorram violações à LDC.
+Mais que isso, se o programa funcionar de maneira eficiente, simplesmente nenhum efeito
+será percebido, afinal o que se procura é que o ambiente concorrencialmente probo seja
+promovido e preservado e, assim, as operações normais da entidade sigam seu curso. Por
+outro lado, uma grande vantagem se apresenta caso infrações de fato ocorram: o programa
+permite a sua rápida identificação e a tomada de providências pela organização.
+143.1.2 Programas “de fachada”
+Uma preocupação quando se discute compliance consiste na criação de programas
+que não constituam programas “de fachada” (criados apenas para simular um interesse em
+comprometimento, também conhecidos como sham programs). A mera adoção formal de um
+programa não significa que a organização esteja efetivamente preocupada com o
+cumprimento da LDC ou que esse programa seja eficaz.
+Entidades podem adotar programas superficiais e/ou sem preocupação alguma com a
+manutenção do ambiente competitivo, apenas com a intenção de se valerem deles como
+circunstância atenuante em caso de condenação. Podem também adotar programas
+extremamente complexos e em teoria bem estruturados, elaborados por especialistas no tema
+e que implicam em gastos elevados, mas que não encontram qualquer eco na cultura
+corporativa e são sistematicamente ignorados por colaboradores.
+Por esses motivos, um conjunto de medidas concretas deve complementar a
+implementação de um programa para que ele não seja considerado “de fachada”. Algumas
+orientações relacionadas à estruturação de um programa de compliance concorrencial eficiente
+serão apresentadas no item a seguir.
+3.2 Estruturação de Programas Robustos
+Não é demais destacar, mais uma vez, que os programas de compliance concorrencial
+são sempre e todas as vezes dependentes de características particulares das organizações que
+irão implementá-los. Não obstante, tais programas devem buscar a incorporação de
+características gerais e comuns consideradas essenciais para a sua eficiência e sua robustez,
+que serão apresentadas de forma sistemática no item 3.2.1. Os riscos advindos das atividades
+específicas de cada companhia, por sua vez, serão abordados no item 3.2.2.
+3.2.1 Pontos Comuns
+Embora seja possível estruturar um programa de compliance concorrencial de diversas
+maneiras, as características a seguir explicitadas são comuns a programas considerados
+robustos. Vale destacar que ainda que sejam características comuns, no sentido de que devem
+sempre ser de alguma forma incorporadas aos programas, elas não requerem igual
+15implementação, ou seja, é possível abordá-las e incluí-las na estruturação do compliance de
+mais de uma maneira.
+3.2.1.1 Comprometimento
+O comprometimento genuíno da entidade é a base de sustentação de qualquer
+programa bem sucedido. Sem seriedade e efetiva intenção de conduzir os negócios de forma
+ética, o programa está fadado ao insucesso. Na prática, tal comprometimento se concretiza
+por meio dos seguintes atributos: envolvimento da alta direção, recursos adequados e
+autonomia e independência do gestor do programa.
+Envolvimento da alta direção ("Tone from the top")
+Por envolvimento da alta direção entende-se a inserção do compliance como um valor
+fundamental na cultura corporativa, a ser garantido
+mediante sua inclusão na agenda fixa dos órgãos da
+Como assegurar
+administração ou da pessoa responsável por
+comprometimento?
+determinar a orientação geral dos negócios da
+Uma alternativa utilizada em
+empresa e aprovar suas demonstraçōes financeiras. certas empresas para que haja
+envolvimento da direção no
+Ao incluir o tema como uma de suas compliance é garantir impacto
+do programa na remuneração
+prioridades estratégicas, a alta administração, na
+de funcionários da empresa,
+inclusive de diretores.
+prática, garante a própria existência do programa na
+Essa alternativa pode se
+medida em que: (i) transmite sua relevância para mostrar viável especialmente
+nos casos de alta
+todos os colaboradores; (ii) assegura sua inclusão no
+descentralização e dificuldade
+orçamento, oportunidade em que quaisquer de controle unificado de toda a
+estrutura comercial.
+recursos adicionais necessários ao programa Outro incentivo bastante forte
+costuma ser a mídia. Ressaltar
+deverão ser discutidos; (iii) monitora sua evolução,
+casos de danos à reputação da
+mediante atualização periódica por parte do(s) diretoria no caso de
+penalizações implica em maior
+responsável(is) pela gestão do programa; (iv) atribui
+engajamento.
+metas, objetivos e itens de controle do programa de
+compliance concorrencial, que devem ser observados na prática.
+16Esse envolvimento da alta administração também deve se verificar no dia-a-dia das
+atividades. É essencial, para que o compliance seja de fato parte da cultura corporativa, que
+os funcionários não sejam cobrados por “resultados acima de tudo” e que não exista incentivo
+ou tolerância a práticas que, não obstante ilícitas, trazem resultados positivos para a
+organização no curto prazo. Tal direcionamento advém necessariamente das posições
+superiores, por isso sua essencialidade no estabelecimento dos programas.
+Em casos de empresas multinacionais, nas quais a descentralização é acentuada e um
+número elevado de pessoas ocupa cargos de administração (gerenciamento de áreas
+específicas, direção nacional, regional, mundial, etc.), estabelecer um tom único e coerente
+que garanta respeito às regras do compliance é um desafio ainda maior. Por conta disso, é
+comum que essas companhias adotem Códigos de Conduta, que pretendem exatamente
+oferecer parâmetros gerais de atuação dos colaboradores em todo o mundo. Caso essa seja a
+opção, é importante que o Código trate de alguma forma dos temas de compliance, mesmo
+que diretrizes mais específicas sobre a LDC e os riscos concorrenciais sejam reservados para
+um momento posterior.
+Recursos Adequados
+Os recursos destinados a um programa
+Estratégias de monitoramento
+para grandes empresas
+de compliance concorrencial devem sempre
+ter como parâmetro (i) as particularidades da
+Uma das possíveis estratégias de
+monitoramento do programa de
+organização (porte, mercado de atuação,
+compliance é a de pesquisas de campo
+etc.) e (ii) o que ele proporciona como custo periódicas, por um agente externo, com
+vistas a entender a percepção dos
+evitado de uma investigação e potencial
+colaboradores que atuam diretamente
+com público comprador ou com
+condenação advinda de violação de normas
+terceiras empresas que adquirem os
+concorrenciais. Uma vez implementado de bens e serviços. O objetivo de tais
+pesquisas seria verificar o cumprimento
+maneira adequada, o programa passa a
+das principais regras de compliance
+representar uma defesa contra multas concorrencial pela força de vendas.
+substancialmente maiores do que seu custo
+de implementação e manutenção, sem mencionar os prejuízos reputacionais correspondentes.
+Em matéria de particularidades, deve-se ressaltar que um programa terá tanto menos
+credibilidade quanto mais destoante for sua relação entre recursos e riscos.
+17Diante desse cenário, é recomendável que as entidades que pretendem construir ou
+reforçar seu programa de compliance concorrencial tenham em consideração:
+(a) a suficiência do orçamento destinado para a
+Recursos adequados não se
+estruturação e a manutenção do programa;
+confundem com recursos
+(b) a relação entre o número de colaboradores
+elevados. Eles devem ser
+total ou parcialmente dedicados ao
+suficientes.
+compliance, o porte da organização e os
+riscos concorrencias a ela associados;
+(c) a alocação dos colaboradores envolvidos no compliance de forma que eles possam
+atuar de forma independente, causando impacto nas decisões estratégicas; e
+(d) se há investimentos razoáveis para a contratação e formação dos colaboradores
+responsáveis pelo programa.
+É preciso destacar que recursos adequados não se confundem com recursos elevados.
+Como o compliance depende da estrutura de cada organização, nada impede que uma
+determinada companhia adote um programa sem contar com um dispêndio elevadíssimo para
+sua consecução – até porque entendimento em sentido contrário significaria que apenas
+grandes grupos empresariais devem discutir e aplicar programas dessa natureza, o que
+certamente não é o caso. O que deve sempre ser observado é a suficiência dos recursos
+destinados ao programa.
+Autonomia e Independência
+Para liderar as atividades de compliance, é fundamental nomear uma pessoa ou equipe
+de pessoas que detenha competência e ocupe posição compatível com suas responsabilidades.
+Além de um conhecimento aprofundado dos aspectos técnicos ligados à defesa da
+concorrência, o líder do compliance concorrencial deve possuir a capacidade de influenciar as
+decisões da organização, o que somente se mostra possível se esse profissional ocupar uma
+posição de relevância na sua estrutura.
+O Cade reconhece que cada entidade possui suas peculiaridades e, em razão disso,
+entende que cabe exclusivamente a cada uma delasdefinir a posição do compliance
+concorrencial em seu organograma. Independentemente disso, é responsabilidade da
+organização atribuir ao líder do compliance autonomia e independência suficientes para que,
+18de maneira fundamentada, ele possa adotar medidas contrárias à convicção até mesmo da
+alta direção.
+Nesse sentido, tem se mostrado bastante adequada a prática adotada por algumas
+empresas de estabelecer uma rotina de eventos e reuniões entre a liderança do compliance e
+a Administração (entenda-se Administração como o Conselho de Administração e/ou Diretoria
+de grandes companhias, os comitês específicos por ele designados, por exemplo, o Comitê de
+Auditoria ou o Comitê de Compliance, ou o diretor da companhia) para discutir e deliberar
+temas de relevância para a mitigação de riscos concorrenciais.
+No caso de grandes empresas, pode se mostrar prudente dedicar toda uma divisão da
+companhia ao compliance, montando uma equipe para lidar com o tema. Caso a empresa atue
+em diversos países ou em diversos setores da economia simultaneamente, pode ainda ser
+interessante designar responsáveis regionais ou setoriais pela observância do programa. Já se
+a empresa é de pequeno porte, esse tipo de iniciativa costuma fazer menos sentido. Uma vez
+mais, o essencial é que aquele que coordenará o programa e monitorará sua implementação
+tenha suficiente independência para que suas decisões atinjam a alta diretoria da companhia
+e efetivamente sejam levadas em consideração quando da tomada de decisão nos níveis
+hierárquicos superiores.
+3.2.1.2 Análise de Riscos
+Programas bem estruturados são normalmente precedidos e acompanhados da
+realização de uma análise aprofundada dos riscos aos quais a entidade está exposta em suas
+atividades. Entre outros fatores, tais riscos costumam variar de acordo com o tamanho do
+negócio da organização, os setores em que ela atua, sua posição nos mercados de atuação, a
+capilaridade de suas atividades, a quantidade de colaboradores empregados e o grau de
+instrução desses colaboradores.3 Por exemplo, uma empresa que detém participação de
+mercado de 60% e atua em ambiente de rivalidade extrema com seus concorrentes está menos
+sujeita a riscos de práticas colusivas do que empresas que atuam em mercados de produtos
+homogêneos, têm estrutura de custos semelhantes e interagem de maneira frequente com
+concorrentes. No caso das primeiras, os maiores riscos relacionam-se a práticas unilaterais e
+3 Commitee of Sponsoring Organisations of the Treadway Comission – http://www.coso.org/IC.htm.
+19verticais. No caso das últimas, deve-se atentar para os riscos relativos a comportamentos
+colusivos e troca de informações sensíveis com competidores.
+Em razão disso, mostra-se extremamente importante que a entidade empreenda uma
+análise individualizada dos riscos atrelados às suas atividades, classificando os níveis de risco
+a que está exposta em diversas áreas e priorizando as atividades de compliance sobre aquelas
+que apresentam maior risco associado.
+Mas, afinal, o que é uma análise de riscos? Segundo a ICC, analisar riscos implica em
+tomar os já citados fatores externos a que uma organização está exposta e conjugá-los com
+dois outros aspectos: a probabilidade de que os eventos a que se está sujeito verifiquem-se
+na prática e o impacto que tais eventos teriam caso viessem a ser observados.4 A metodologia
+específica a ser utilizada para tal empreendimento não é única. Um padrão de análise
+extremamente reconhecido é o estabelcido pelo Comitê COSO do Reino Unido, criado em
+1992, outra referência recorrente é o Guia de Análise de Riscos do Pacto Global da Organização
+das Nações Unidas. O mais importante é que, independentemente do método adotado, os
+critérios estejam claros.5
+Quando é evidente que os riscos são muito
+elevados e a entidade conta com uma organização
+Como inserir o compliance no dia-a-dia
+interna bastante capilarizada, uma opção é que a
+da empresa?
+análise seja feita com o apoio de especialistas Em grandes empresas, referências à
+política de compliance concorrencial
+externos, os quais podem contribuir não apenas
+pela alta direção em todos os eventos
+com conhecimentos técnicos e experiência prática que reúnam funcionários, bem como
+veiculação, por meio de Cadeia interna
+na área de defesa da concorrência, mas também
+de TV, de vídeos sobre o programa
+com uma visão distanciada do cotidiano e das
+gravados pelo CEO e por Vice-
+pressões internas da companhia. Presidentes. Em empresas de menor
+porte, reforço sistemático da
+Recomenda-se, ainda, que a análise de riscos importância do programa para o
+sucesso dos empreendimentos.
+não se baseie apenas na percepção da área de
+compliance ou em documentos escritos. Ao
+contrário, os responsáveis pelo programa devem
+4 ICC Toolkit, pp. 17-18.
+5 Novamente, lembrando que o ônus da prova de que um programa é eficiente recai sobre a própria empresa,
+é interessante que a metodologia utilizada para o cálculo do risco seja explícita, o que tanto facilita o
+trabalho caso investigações antitruste venham a ocorrer e o compliance seja analisado, quanto demonstra
+para as autoridades a boa-fé da empresa, que não buscou estabelecer mecanismos pouco claros de análise.
+20investigar a fundo a forma pela qual as atividades da organização são conduzidas na prática.
+Para isso, é preciso conhecer em detalhes o funcionamento da entidade, a fim de corretamente
+avaliar suas áreas de maior e menor exposição. Algumas sugestões nesse sentido são: (i)
+entrevistas com funcionários de diversas áreas e níveis hierárquicos, (ii) visitas às unidades de
+negócio da empresa e ao mercado, (iii) abertura constante à revisão das estratégias adotadas
+e dos riscos já identificados, (iv) canal de comunicação aberto com os colaboradores mais
+expostos aos riscos concorrenciais, etc.
+Por meio da análise de riscos, os recursos do programa de compliance deverão ser
+alocados de forma a privilegiar as áreas e os temas identificados como de maior risco.
+3.2.1.3 Mitigação de Risco
+Uma vez identificadas as áreas potencialmente problemáticas nos casos concretos, as
+iniciativas listadas a seguir são alternativas para mitigação dos riscos associados a condutas
+anticoncorrenciais.
+Treinamentos e Comunicação Interna
+Os treinamentos oferecidos aos
+Participação de colaboradores
+colaboradores são uma forma bastante adequada
+de níveis hierárquicos
+para se transmitir cada um dos objetivos e regras elevados em treinamentos
+com colaboradores de menor
+do programa. É também por meio deles que os
+nível é um modo tanto de
+colaboradores se sensibilizam e compreendem demonstrar o
+comprometimento da diretoria
+corretamente a importância do compliance e têm a com o programa quanto de
+reforçar a importância dos
+oportunidade de esclarecer dúvidas específicas
+próprios treinamentos.
+sobre os procedimentos, o que geralmente
+contribui para seu engajamento nas atividades.
+O treinamento mais efetivo geralmente adota diferentes enfoques de conteúdo, a
+depender da posição hierárquica e do nível de exposição a riscos concorrenciais dos
+colaboradores treinados, e ocorre de forma periódica. Isso ocorre porque, de formal geral,
+colaboradores que interagem com concorrentes ou alocados nas áreas de vendas e marketing
+estão mais sujeitos a risco do que aqueles alocados nas demais áreas de uma empresa.
+21Sobre o tipo de treinamento oferecido, os dois métodos mais comuns são o presencial
+e o eletrônico. Os dois mecanismos são relevantes: o presencial, na medida em que fornece
+uma oportunidade para contato cara a cara com o líder do compliance e costuma permitir
+maior liberdade e flexibilidade para que os colaboradores apresentem suas dúvidas e
+questionamentos; o eletrônico, para reforçar as mensagens já transmitidas pessoalmente e
+alcançar maior número de pessoas a um custo substancialmente. Em ambos os casos,
+recomenda-se que os treinamentos sejam conduzidos por profissionais com experiência no
+assunto. Sugere-se também que os colaboradores treinados sejam submetidos a uma breve
+avaliação de retenção dos principais conceitos
+transmitidos, para assegurar a efetividade mínima do
+mecanismo.
+Reforço da formação dos
+profissionais envolvidos na
+Como decidir entre um ou outro tipo de
+implementação do
+programa de compliance treinamento? Em regra, contar tão somente com
+concorrencial, com estágios
+treinamentos eletrônicos não é aconselhável. Esse tipo
+profissionais e cursos de
+pós-graduação e extensão de mecanismo costuma ser selecionado por grandes
+na área, tanto no Brasil
+empresas, que têm dificuldades em reunir seus
+quanto no exterior.
+colaboradores em um só espaço, a um só tempo, para
+explicações sobre o programa de compliance. Como
+dito, o meio eletrônico é de fato muito eficiente nesse
+sentido. No entanto, é desejável que o colaborador tenha a possibilidade de interagir com os
+profissionais responsáveis pelo compliance de maneira mais direta, a fim de adquirir confiança
+no programa e nas pessoas com ele envolvidas, não só para que venha a efetivamente
+denunciar práticas anticoncorrenciais, mas também para que saiba que não será punido por
+isso, pelo contrário, que essa é a conduta que dele se espera.
+Essa situação é especialmente crítica no caso de novos colaboradores, ou colaboradores
+que nunca tiveram contato com o compliance concorrencial. A tendência é que eles tenham
+mais dúvidas, mais questionamentos e maior insegurança na hora de agir. O contato pessoal
+pode se mostrar mais eficiente em transmitir essa segurança aos colaboradores, por isso a
+sugestão pelo treinamento presencial. No entanto, tendo em vista que os mecanismos digitais
+têm evoluído muito nos últimos tempos, é possível que as preocupações relacionadas à
+interação entre colaborador e equipe de compliance possam ser endereçadas também por um
+22treinamento eletrônico. Novamente,
+cumpre ressaltar, o importante é garantir
+Um mecanismo bastante reconhecido e usual é a
+efetividade, não importa o mecanismo
+criação de uma hotline (ou equivalente), que
+adotado. permita a qualquer colaborador contato direto e
+anônimo com o responsável pelo compliance.
+Adicionalmente ao treinamento
+Essas hotlines trazem dois tipos de benefício: (i)
+propriamente dito, é importante investir
+em primeiro lugar, por garantirem anonimidade,
+em recorrente retransmissão das regras de
+elas conferem segurança aos colaboradores, que
+compliance concorrencial por meio das consequentemente passam a participar mais
+ativamente do programa, porque entram em
+diversas formas de comunicação entre a
+contato não com seus superiores hierárquicos para
+organização e seus colaboradores, para
+apontar eventuais desvios de conduta, mas com
+que de fato passem a fazer parte da
+uma equipe ou um colaborador destacado para
+cultura corporativa. Algumas dessas
+essa função específica, (ii) em segundo lugar, cria-
+formas são palestras, vídeos, guias de se um incentivo grande para cumprimento das
+regras por parte de todos os membros da
+bolso, folhetos, e-mails e websites
+companhia, pois qualquer pessoa torna-se um
+internos, apps, que sempre que possível
+potencial delator de ilicitudes.
+devem contar com o envolvimento da
+liderança da empresa. Sem prejuízo
+dessas iniciativas, mostra-se também
+adequada a inclusão dos principais conceitos do programa de compliance concorrencial no
+Código de Conduta, quando esse código existir, bem como nas comunicações internas
+relacionadas a esse documento. Dessa maneira, a empresa transmite a todos os colaboradores
+a mensagem de que eventual envolvimento em práticas que infrinjam a legislação
+concorrencial será também considerado uma violação do referido Código, o que resultará na
+aplicação das penalidades disciplinares nele previstas.
+A estratégia de elaboração de qualquer material escrito, seja ele um Código de Conduta,
+um guia ou ainda orientações voltadas especificamente ao compliance, precisa levar em conta
+a estrutura da organização a que este material se destina. Cartilhas, códigos, guias e
+orientações que adotam objetivos irreais, descrevem as situações de forma idealizada ou
+demasiado distante do que se apresenta no dia-a-dia da entidade costumam não surtir efeitos
+– ou, em certos casos, até mesmo surtir efeitos negativos, pois os colaboradores passam a
+questionar a validade de um programa que não compreende a realidade por eles vivida.
+23Igualmente relevante é o tratamento dado ao compliance em termos procedimentais. É
+importante não só que os colaboradores possam recorrer à equipe implementadora no caso
+de dúvidas, mas que a equipe tenha acesso a todos os colaboradores na medida de sua
+necessidade, para orientá-los adequadamente. A comunicação deve ser de mão-dupla e para
+que isso ocorra sem maiores imprevistos ou dificuldades, o ideal é que existam procedimentos
+conhecidos pelos colaboradores para intervenção, ainda que tais procedimentos sejam
+bastante simples.
+Monitoramento do Programa
+Como garantir efetividade no
+O sucesso de um programa de compliance monitoramento?
+depende igualmente da capacidade de a No caso de grandes empresas
+que sofrem com altos riscos
+organização monitorar sua efetiva
+concorrenciais, uma opção é a
+implementação. Em geral, pode-se dividir as contratação periódica de
+especialistas externos para a
+atividades de monitoramento em duas categorias:
+elaboração de parecer global
+sobre os riscos concorrenciais
+(i) a análise do funcionamento adequado dos
+relacionados às atividades da
+processos e controles desenvolvidos; e (ii) a empresa, realizado a partir de
+documentos internos e
+verificação da efetividade prática desses processos
+externos, dados de mercado e
+entrevistas com funcionários
+e controles.
+das áreas de vendas e
+marketing.
+Na primeira categoria enquadra-se o
+monitoramento de comportamentos individuais, a
+fim de verificar se os processos de controle estão sendo efetivamente seguidos. Aqui pode-se
+medir, por exemplo, se o percentual de colaboradores que se pretendia treinar foi realmente
+atingido; se os fluxos de aprovação de práticas e programas de mercado estão sendo seguidos
+na prática; se apenas colaboradores treinados nas regras de compliance concorrencial têm
+representado a entidade; ou se as regras e controles estabelecidos no programa estão em
+linha com as melhores práticas adotadas por outras organizações.
+Um modo de reforçar esse monitoramento é a certificação de que os colaboradores
+foram submetidos ao programa de compliance. Consiste na garantia, por parte destes
+colaboradores, de que eles participaram do treinamento, estão cientes das regras e
+comprometem-se a segui-las no futuro. Essa garantia costuma ser fornecida na forma escrita,
+por uma declaração por parte do colaborador em questão.
+24Na segunda categoria, de maior
+Canal de Denúncias
+complexidade, encontram-se as formas de
+monitoramento da efetividade e da eficiência Empresas que se relacionam de
+forma constante e intensa em
+do próprio programa. Nesse sentido, as
+vendas podem adotar uma
+alternativas são muitas. A empresa pode se estratégia de monitoramento por
+seus parceiros comerciais,
+utilizar dos serviços de auditoria interna para
+instruindo-os a respeito do
+verificar, por exemplo, se o conjunto de compliance, explicitando quais as
+regras adotadas pela companhia em
+colaboradores treinados realmente
+suas atividades e abrindo um canal
+compreendeu os conceitos que lhes foram
+de denúncias no caso de verificação
+apresentados e tem aplicado tais conceitos em de infrações.
+determinadas situações selecionadas. A
+depender do orçamento disponível para o
+compliance, é possível, de maneira ainda mais específica, contratar pesquisas periódicas de
+mercado junto a empresas especializadas a fim de identificar, por meio de entrevistas com
+terceiros (consultores, fornecedores, distribuidores ou pontos de venda), se seus funcionários
+têm agido de acordo com as regras de compliance aplicáveis às suas atividades.
+Papel importante no monitoramento do compliance concorrencial deve ainda ser
+atribuído aos canais de relacionamento entre a organização e seus colaboradores, bem como
+entre a organização e terceiros que com ela possuem algum tipo de interação. Nesse ponto,
+mostra-se indispensável disponibilizar e comunicar a existência de um canal direto para o
+esclarecimento de dúvidas com a área de compliance. Esse canal pode ser um sistema bastante
+complexo – certas entidades optam por aplicativos para smartphones – ou simplesmente um
+colaborador do programa disponível para prestar os devidos esclarecimentos – ele pode tanto
+responder às dúvidas presencialmente quanto por telefone ou e-mail.
+Adicionalmente, aconselha-se que um canal de reclamações e denúncias internas e de
+terceiros seja estruturado a fim de possibilitar a identificação preliminar de riscos
+concorrenciais, sempre garantindo o anonimato daqueles que o procuram e a
+confidencialidade das informações prestadas.
+O tratamento das informações recebidas, sejam elas meros questionamentos ou
+denúncias de infrações às regras do compliance, deve ser ágil e consistente. Em primeiro lugar,
+é extremamente importante que a anonimidade seja uma constante. Especial atenção deve
+25ser conferida caso a opção seja por manter documentação da informação prestada pelos
+colaboradores. Em segundo lugar, as informações disponibilizadas pela entidade devem ser
+extremamente claras: não é aconselhável que elas sejam apresentadas em uma só língua se a
+empresa atua em diversos países, nem que o uso do sistema de denúncias seja muito
+complexo, exija longos treinamentos, etc. O responsável pelo atendimento das chamadas
+precisa estar preparado para recebê-las e saber como proceder caso esteja diante de uma
+denúncia grave e potencialmente problemática. É ainda desejável que, a fim de reforçar a
+mão-dupla nas comunicações e incrementar a confiança dos colaboradores, este colaborador
+que se reporta ao canal tenha como acompanhar (evidentemente de forma anônima) seu
+pedido.
+Em terceiro e último lugar, é extremamente relevante que a organização tenha condições
+de processar todas as denúncias feitas e de fornecer respostas às preocupações dos
+colaboradores (ainda que essa resposta seja negativa, no sentido de ter-se constatado que
+não houve nenhuma infração concorrencial, ou que a solução seja o encaminhamento da
+preocupação levantada a uma outra área, já que não é incomum que o compliance receba
+informações que não dizem respeito a suas atividades). Para isso, é importante estabelecer
+um procedimento bem delineado e transparente para condução das investigações internas.
+Denúncias não endereçadas têm dois efeitos principais, um deles é a perda de confiança
+por parte dos colaboradores, que culmina em desuso do canal, o outro é o potencial efeito
+negativo para a organização, no caso de investigação pela autoridade antitruste. Ora, se o
+canal de denúncia existe, os colaboradores reportam-se à organização e ela não atende a esses
+chamados, pode-se entender haver certo descaso com o tratamento da matéria concorrencial.
+Por esse motivo, retorna-se à questão dos recursos: eles devem ser suficientes para os fins que
+se pretende atingir. Implementar um canal de denúncias tão complexo e abrangente que
+impeça a análise do que lhe é apresentado pode mostrar-se mais negativo que positivo.
+Documentação
+Cada uma das iniciativas relacionadas ao compliance concorrencial deve ser
+devidamente documentada pela organização. A adequada documentação dessas atividades
+fortalece a evolução contínua do programa, baseada no aprimoramento dos compromissos
+anteriormente assumidos e compartilhados entre as diversas áreas. Isso garante, de maneira
+26ainda mais importante, a perenidade das regras acordadas independentemente de alterações
+no grupo de pessoas envolvidas em sua implementação.
+Ademais, a correta documentação das atividades de compliance concorrencial poderá
+ser de grande valia caso a entidade seja chamada a prestar informações a respeito de suas
+condutas perante a autoridade concorrencial. A título de exemplo, caso a organização
+mantenha os devidos registros de que orientações sólidas e específicas foram prestadas a
+determinado colaborador a respeito da proibição da coordenação de preços com concorrentes,
+poder-se-ia concluir, a depender das evidências coletadas, que eventual envolvimento daquele
+colaborador em uma conduta de coordenação de preços representaria um desvio individual
+de conduta distanciado da política corporativa, com o consequente reconhecimento de boa-fé
+que deve implicar diminuição da gravidade do ilícito e redução da penalidade a ser imposta.
+Punições internas
+Parte do monitoramento do programa consiste na aplicação de punições àqueles que
+venham a descumprir as regras do compliance concorrencial. Independentemente das
+investigações que possam vir a ser conduzidas por autoridades antitrustes, contar com um
+mecanismo interno de penalidades é um passo importante para fortalecer o programa perante
+os colaboradores e transmitir uma posição
+consolidada de cultura corporativa que
+Comitê de Compliance
+incorpora o respeito à legislação.
+Uma sugestão para a inserção do
+As penalidades devem ser aplicáveis a compliance com garantia de autonomia
+todos, independentemente de posição e monitoramento efetivos é reforçar a
+hierárquica. É também importante que elas estrutura de compliance concorrencial
+por meio da criação de um Comitê
+sejam claramente estabelecidas, de
+vinculado ao Conselho de
+conhecimento geral de toda a organização e
+Administração, contando com
+que estejam de acordo com a legislação não
+especialistas externos em economia e
+apenas concorrencial, mas trabalhista. Para
+direito da concorrência, com atribuições
+isso, a tomada de decisões sobre quem,
+de monitorar o desenvolvimento do
+quando e como punir precisa passar por um
+programa.
+processo de reflexão. Recomenda-se que a
+palavra final não seja delegada para uma só
+27pessoa – é melhor que um grupo faça a análise ou então que exista algum modo de revisão
+da decisão individual.
+Propriamente sobre quais as penalidades a serem atribuídas, o ideal é que a entidade
+leve em consideração o nível de envolvimento do colaborador, a gravidade da prática, sua
+participação anterior em treinamentos de compliance, sua cooperação com os procedimentos
+investigatórios e também sua boa-fé. Dessa forma, ela pode estipular fatores que mitigam ou
+que agravam a punição.
+Outra análise cuidadosa a ser feita diz respeito ao momento de divulgação das
+informações colhidas, tanto internamente (para o investigado e para os demais
+colaboradores), quanto externamente. Uma vez que violações concorrenciais podem implicar
+na possibilidade de assinatura de acordos de leniência e TCCs, é preciso não divulgar
+precocemente os dados, em um momento em que a organização sabe que houve violação,
+mas não tem provas suficientes para sustentar essa acusação, mas também não é adequado
+postergar demais o procedimento, pois (i) outros podem entrar em contato com a autoridade,
+e assim assegurar o primeiro lugar na fila, e (ii) a demora excessiva indica à autoridade que
+na verdade nunca houve intenção de divulgar as informações, o que é extremamente danoso
+para a credibilidade do programa de compliance.
+3.2.1.4 Revisão do Programa
+Outra importante característica está relacionada à revisão e à adaptação do programa
+de compliance ao longo do tempo. Visto que o compliance deve se preocupar com os riscos
+concorrenciais de uma dada entidade e que tais riscos sofrem constantes alterações por conta
+da dinamicidade do mercado, o programa precisa de atualizações periódicas.
+As condições de concorrência podem mudar, por exemplo, a partir da entrada ou da
+saída de concorrentes no mercado, de uma aquisição relevante, do início de uma nova
+atividade empresarial, ou mesmo da eliminação de barreiras à entrada que antes
+representavam um importante aspecto da análise concorrencial. Em razão disso, o Cade
+acredita que não existe uma periodicidade ideal para a revisão das regras, embora recomende
+o estabelecimento de uma agenda recorrente para avaliar a necessidade de adaptação das
+mesmas, de acordo com as características dos casos particulares.
+28É relevante que a alta direção das organizações tome conhecimento das necessidades
+de alteração do programa ao longo do tempo. Como dito, o envolvimento dos colaboradores
+em nível hierárquico superior é muito importante para garantir o sucesso do programa,
+portanto, é igualmente importante que eles estejam a par daquilo que o responsável pelo
+compliance tenha identificado como objeto de alteração. Esse tipo de informação pode ser
+transmitido de várias formas, a depender das condições da empresa. Caso o orçamento para
+o compliance seja elevado – o que costuma ocorrer em grandes empresas – uma opção seria
+um relatório periódico das atividades. Se o aporte orçamentário não for suficiente, nada
+impede que os relatórios sejam mais simples e sucintos, mas fornecidos numa periodicidade
+maior, em reuniões com a direção.
+Ainda que a análise conclua que mudanças não são estritamente necessárias no
+presente, é recomendável que as empresas, em especial aquelas expostas a altos riscos
+concorrenciais, tenham projetos de aperfeiçoamento constante do programa de compliance.
+Recorrente contato com as normatizações e guias expedidos por autoridades nacionais e
+internacionais, com os colaboradores que mais se expõem a riscos e com consultores externos
+são exemplos de atitudes que tendem a produzir efeitos positivos e auxiliar na elaboração de
+novos parâmetros para o futuro.
+3.2.2 Especificidades do caso concreto
+Para além das características comuns que devem ser observadas na estruturação de
+programas de compliance eficientes, é preciso ter em conta as especificidades dos casos
+concretos, ou seja, os riscos particulares a serem endereçados pelas organizações de acordo
+com o ambiente em que atuam. Tais riscos podem ser das mais diversas naturezas, sendo que
+buscar-se-á aqui ressaltar algumas das situações que, ainda que não exaustivas, são
+particularmente relevantes para o direito concorrencial, e como os programas de compliance
+podem ser estruturados de modo a responder a esses riscos particulares.
+O objetivo, em todos os subitens, será sempre o de (i) ressaltar as características daquela
+situação particular que contribuem para o maior risco de infrações e (ii) sugerir parâmetros
+para estruturação um programa de compliance caso a entidade se encontre em um desses
+mercados sensíveis.
+293.2.2.1 Cartéis
+Os cartéis são as condutas mais conhecidas, mais punidas e mais discutidas no direito
+concorrencial. Eles são os principais alvos dos programas de leniência, responsáveis por boa
+parte das investigações das autoridades antitruste ao redor do mundo e também no Brasil6.
+Naturalmente, empresas que atuam em mercados nos quais o risco de cartelização é elevado
+devem ter especial cuidado com esse tipo de prática.
+A conduta de cartel está prevista especialmente no art. 36, §3º, incisos I e II, LDC e
+consiste na união de concorrentes de forma a manipular o mercado para (i) aumentar preços
+ou impedir sua alteração, (ii) restringir a quantidade de produtos no mercado – limitar a oferta,
+(iii) promover divisão de mercado e (iv) coordenar a atuação em processos licitatórios.
+O cartel comumente, mas nem sempre, aparece em um mercado oligopolizado, aquele
+controlado por um pequeno grupo de empresas. Isso ocorre porque essa conduta implica em
+altos custos de manutenção. É preciso fiscalizar o cumprimento dos termos do acordo,
+coordenar as atividades entre os agentes e, mais que isso, criar incentivos suficientes para que
+nenhuma das empresas envolvidas decida delatar o cartel às autoridades, o que é tanto mais
+simples quanto menor for o grupo envolvido nas atividades. Esses custos serão tanto menores
+quanto menor for o número de agentes envolvido, pois as dificuldades de fiscalização e de
+coordenação serão reduzidas.
+As barreiras à entrada de novos concorrentes também são determinantes. Afinal, ainda
+que o mercado seja oligopolizado, se um novo agente tiver facilidade em dele participar, será
+muito mais difícil para o cartel manter sua posição de controle. A homogeneidade dos bens
+ou produtos comercializados também facilita a cartelização. Quando temos um mercado em
+que cada produtor confere características distintivas relevantes àquilo que fornece ao
+consumidor, a substutibilidade diminui. Consequentemente, é mais difícil promover uma
+divisão eficiente do mercado consumidor.
+6 Para maiores detalhes sobre o programa de leniência, consultar a cartilha da extinta Secretaria de Defesa
+Econômica (SDE) em http://www.cade.gov.br/upload/Cartilha%20Leniencia%20SDE_CADE.pdf e o
+Guia para Programas de Leniência em http://www.cade.gov.br/upload/Guia%20-
+%20Programa%20de%20Leni%C3%AAncia%20Antitruste%20do%20Cade%20-
+%20Vers%C3%A3o%20Preliminar.pdf.
+30De maneira geral, todas as características de mercado que contribuem para diminuir os
+custos de monitoramento dentro do grupo cartelizado indicam maior facilidade para sua
+formação, ainda que cartéis já tenham sido identificados em mercados que não obedeciam a
+essas particularidades e em que, teoricamente, os custos de monitoramente eram muito
+elevados.
+Um ponto que merece destaque quando da discussão sobre cartéis e programas de
+compliance é o acentuado enfoque que essas práticas precisam receber nos treinamentos de
+colaboradores, uma vez que as condutas conhecidas como hardcore – aqueles cartéis
+considerados institucionalizados, com interação recorrente e duradora entre as partes e em
+que a ilicitude é patente, pois não há que se falar em possíveis eficiências que viriam a mitigar
+efeitos anticompetitivos – são de menor questionamento por parte das autoridades e de fácil
+assimilação por parte dos colaboradores da empresa, o que nem sempre ocorre com outras
+práticas que requerem análises econômicas e jurídicas mais complexas e controversas,
+conforme se verá abaixo.
+A propensão das autoridades à condenação, portanto, é mais elevada, porque além do
+próprio critério legal que determina a ilicitude, a configuração de boa-fé que demonstre no
+caso concreto que a conduta foi um lapso na trajetória da companhia, mas não faz parte de
+sua cultura empresarial, é bastante difícil.
+O que fazer nesses casos? Como trabalhar com programas que enderecem os problemas
+advindos dos riscos da cartelização? Em primeiro lugar, o envolvimento da diretoria no
+programa de compliance é extremamente relevante para que cartéis sejam evitados, pois a
+dificuldade em iniciar e dar continuidade a uma infração desse tipo que não conte com apoio
+(ou ao menos omissão) por parte da diretoria é enorme, já que quem costuma tomar as
+decisões necessárias para garantir colusão são precisamente os diretores.
+Em segundo lugar, como cartéis costumam apresentar-se em mercados oligopolizados,
+em que o número de concorrentes é reduzido, não é incomum que as empresas tenham
+interação constante. A recomendação do Cade, no entanto, é para que os contatos entre
+concorrentes sejam sempre evitados e realizem-se apenas em situações excepcionais. Nesse
+sentido, é fundamental que o treinamento dos funcionários que de alguma forma se
+relacionam com concorrentes seja bastante reforçado e que eles tenham conhecimento
+detalhado sobre quais informações podem ser compartilhadas e quais não podem.
+31De forma exemplificativa, algumas práticas que devem ser evitadas são:
+ Nunca compartilhar com concorrentes informações próprias confidenciais,
+concorrencialmente sensíveis ou relacionadas às estratégias da empresa;
+ Não discutir, negociar, fazer acordo com concorrentes sobre preços ou divisão
+de mercados e/ou estabelecimento de limites de atuação no que se refere a
+territórios, produtos e/ou clientes;
+ Caso a conversa telefônica da qual participe com concorrentes caminhe para
+temas relacionados a informações concorrencialmente sensíveis, recusar-se a
+tratar do tema e, caso o interlocutor insista no assunto, desligar o telefone.
+Proceder da mesma forma ainda que esteja presente na conversa (conferência
+telefônica – conference call) apenas como ouvinte, avisando a todos do
+desligamento. Solicitar para sempre deixar registrado em ata o motivo da saída;
+ Caso a reunião da qual participe com concorrentes caminhe para temas
+relacionados a informações concorrencialmente sensíveis, recusar-se a tratar do
+tema e, caso o interlocutor insista no assunto, sair do recinto e fazer constar a
+recusa e o registro de saída na Ata de Reunião (se houver). Proceder da mesma
+forma ainda que esteja presente na conversa apenas como ouvinte;
+ Faça-se acompanhar de advogado da empresa em reuniões com concorrentes
+que se façam estritamente necessárias. O advogado servirá não apenas para
+esclarecimentos de dúvidas quanto a temas possíveis de serem abordados,
+como também para fiscalizar e atestar a regularidade dos temas tratados;
+ Reportar imediatamente ao Departamento Jurídico qualquer conversa imprópria
+de iniciativa de um concorrente ou a divulgação por ele, por qualquer meio, de
+informações concorrencialmente sensíveis, para conhecimento e eventuais
+providências pelo Jurídico da organização.
+3.2.2.2 Cartéis em licitação
+Os cartéis em licitação são uma espécie dos cartéis em geral, e merecem destaque por
+constituírem um tipo de conduta com algumas características particulares, decorrentes do
+regime jurídico licitatório. Serão aqui destacadas essas características, ressaltando que tudo
+quanto dito a respeito de cartéis no item anterior mantém-se válido também neste caso. O
+32que se pretende responder é (a) quais os aspectos das licitações que contribuem para a
+formação de cartéis e (b) o que é possível fazer, por meio dos programas de compliance, para
+minimizar os riscos de sua formação7.
+Um primeiro ponto a ser mencionado é a publicidade de todo procedimento de licitação.
+A existência de um edital divulgado ao público faz com que as condições de concorrência
+sejam previamente determinadas. Além disso, por conta da própria condução do
+procedimento, é pública também a identidade dos concorrentes, portanto, sabe-se de antemão
+quem comumente participa dos processos, o que facilita bastante as tentativas de colusão.
+O segundo ponto de destaque é a recorrência dos agentes em procedimentos
+licitatórios. Dependendo do mercado de que se trata, o número de empresas qualificadas para
+participar das licitações é relativamente pequeno (em alguns casos, é de fato muito reduzido,
+limitando-se a duas ou três companhias). Por conta disso, tanto a interação dessas empresas
+é constante, o que facilita a colusão, quanto o conhecimento que cada uma possui sobre o
+modo de atuação das demais é elevado, o que torna o paralelismo decorrente da experiência
+plausível.
+Em terceiro lugar, vale retomar a homogeneidade de bens e serviços, característica que
+facilita a coordenação em qualquer cartel e é aqui levada ao extremo por conta da própria
+lógica da licitação. O que a Administração busca com o edital é um bem ou serviço específico,
+portanto, é evidente que há substutibilidade quase plena entre o que é ofertado pelos vários
+agentes.
+Dados esses aspectos adicionais aos já observados nos casos dos cartéis em geral, os
+procedimentos licitatórios representam um foco de atuação das autoridades concorrenciais –
+e também de outras autoridades, visto que, dependendo do tipo de coordenação empreendida
+pelas empresas para formação de um cartel em licitação, não incidirão apenas a LDC e a Lei
+8.137/1990, que trata dos crimes contra a ordem econômica, mas outros diplomas legislativos.
+A título de exemplo, podemos citar a Lei 8.666/1993, que, em seu artigo 93 determina que o
+impedimento, a perturbação ou a fraude em qualquer ato da licitação implica em pena de seis
+meses a dois anos de detenção, cumulada com multa, e a Lei 12.846/2013, que no art. 5º, IV,
+7 A cartilha da extinta SDE também fornece informações sobre licitações e compras públicas no direito
+concorrencial, pode ser encontrada em:
+http://www.comprasnet.gov.br/banner/seguro/cartilha_licitacao.pdf
+33estipula fraudes à licitação como atos lesivos à Administração Pública e, portanto, passíveis
+de penalização.
+As empresas podem evitar a exposição a esse tipo de conduta ao adotarem treinamentos
+específicos para as pessoas que participam de maneira mais próxima do processo licitatório,
+seja sob a forma de preenchimento das propostas a serem submetidas para a Administração,
+seja em relação à presença em reuniões de tomada das propostas, e também com o
+monitoramento bastante acentuado e detalhado dos procedimentos, a fim de fornecer
+informações de forma precisa, se necessário, sobre como aquele processo foi conduzido.
+3.2.2.3 Associações, Sindicatos e Standard Setting Organizations (SSOs)8
+As associações, dentre elas os sindicatos, regidas pelo Código Civil, são entidades que
+desempenham um papel essencial na sociedade. É por meio delas que setores e grupos de
+interesse podem se organizar de forma a levar à Administração seus pleitos, dar publicidade
+a suas ideias e discutir com outros interessados problemas comuns, buscando soluções para
+eles.
+Não obstante, exatamente porque a interação entre os agentes cresce substancialmente
+nesse contexto, com ela crescem também as oportunidades de colusão. Por esse motivo, é
+preciso tomar muito cuidado com o que é discutido em reuniões associativas, para se evitar
+que temas concorrencialmente sensíveis sejam divulgados a concorrentes. SSOs, por sua vez,
+são associações que têm por objetivo o estabelecimento de padrões de qualidade ou mesmo
+de tecnologias, além da emissão de certificações a empresas que seguem tais padrões. Na
+medida em que criam segurança e colaboram com a transparência dos requisitos a serem
+observados em bens e serviços, essas associações trazem benefícios ao consumidor e também
+à concorrência – elas diminuem as barreiras à entrada de novos agentes, por exemplo – mas
+isso não quer dizer que não possam vir a representar riscos concorrenciais. A imposição de
+padrões excessivamente restritivos ou cuja implementação exija do agente um investimento
+inicial desproporcional pode tanto afastar potenciais novos entrantes quanto dificultar as
+inovações no mercado.
+8 A extinta SDE elaborou cartilha que trata especificamente de associações e sindicatos.
+http://abpa-br.com.br/files/cartilha_sindicatos.pdf
+34Sendo assim, as recomendações para as organizações membro de associações,
+sindicatos e SSOs são as seguintes:
+ Nunca associar-se a entidades cujo próprio objeto é a coordenação entre
+concorrentes;
+ Analisar com a devida cautela quais serão os colaboradores que participarão
+diretamente de reuniões, evitando, quando possível, que eles sejam diretores
+comerciais, gerentes de vendas, e outros funcionários diretamente envolvidos
+com a estratégia comercial da organização;
+ Conferir instrução especial aos colaboradores participantes sobre o que pode e
+o que não pode ser discutido com concorrentes;
+ Sempre e todas as vezes solicitar reconhecimento em ata de tudo quanto ocorrer
+nos encontros, sendo especialmente importante que, uma vez que a empresa
+acredite que o tópico de discussão apresenta risco concorrencial, ela se retire da
+reunião e tenha esse fato registrado;
+ Fazer exame prévio da pauta das reuniões, recusando-se de antemão a
+participar daquelas em que o objetivo do próprio encontro seja discutir temas
+concorrencialmente sensíveis;
+ Ao comparecer em reuniões nas quais os concorrentes estejam presentes, não
+se engajar em atividades legalmente proibidas mesmo se elas forem
+“oficialmente aprovadas” pelo grupo que estiver promovendo a reunião ou por
+outras pessoas que já estiverem delas participando;
+ Ao tomar conhecimento de qualquer atividade proibida no âmbito da
+associação/sindicato, contatar imediatamente a equipe de compliance;
+ Sempre revisar e aprovar o conteúdo a ser divulgado pela associação/sindicato.
+Algumas recomendações para associações, sindicatos e SSOs, por outro lado, são as que
+seguem:
+ Ser transparentes quanto à pauta das reuniões, enviando-as com antecipação
+aos membros;
+ Disseminar a informação coletada de seus membros de forma agregada para
+não permitir, sob qualquer modo, a identificação dos dados individuais das
+empresas;
+35 Instaurar ou contratar auditoria para acompanhar as coletas de dados (Black
+Box);
+ Requisitar preferencialmente dados históricos e, na medida do possível,
+disponibilizar aquilo quanto coletado não somente para os seus membros, mas
+também ao público, ainda que apenas por meio de pagamento, a fim de
+eliminar qualquer desconfiança sobre suas práticas;
+ Não divulgar preços atuais e futuros, custos, níveis de produção, estoques,
+planos de marketing, planos de crescimento, política de descontos de seus
+associados, entre outras informações concorrencialmente sensíveis de seus
+membros;
+ Receber e solicitar informações concorrencialmente sensíveis individualizadas
+dos associados somente de forma sigilosa, para pessoas neutras, que não
+estejam ligadas a empresas concorrentes, e jamais compartilhá-las com os
+demais associados;
+ Evitar a elaboração e divulgação de tabelas, ainda que sugestivas, de preços e
+condições comerciais em que produtos e serviços serão prestados;
+ Utilizar sempre critérios não discriminatórios para admissão de novos membros.
+É igualmente recomendável que práticas recorrentemente punidas pela autoridade
+sejam evitadas. Um exemplo premente no caso de associações são as já mencionadas tabelas
+de preço, consideradas anticompetitivas pelo Cade em uma série de processos administrativos.
+3.2.2.4 Condutas unilaterais e Restrições Verticais
+Condutas unilaterais e restrições verticais apresentam desafio às autoridades
+concorrenciais porque são extremamente variadas, nem sempre de fácil detecção e geralmente
+comportam discussão quanto a seus efeitos – a organização que as pratica costuma
+argumentar que a prática traz benefícios para a concorrência, ainda que eventualmente
+também apresente riscos. Até por isso, o compliance é tão importante nesses casos.
+Essas condutas serão tanto mais preocupantes quanto maior for o poder de mercado
+detido por quem que as pratica. Isso porque é evidente que uma empresa que tem mais poder
+tem também mais condições de influenciar unilateralmente o mercado num sentido ou noutro,
+ou praticar concentrações verticais de maior efeito. Essa, portanto, é uma análise relevante a
+36ser feita para fins de compliance: o agente deve se questionar se ocupa uma posição
+dominante e precisa ter consciência de que, caso a resposta seja positiva, será dele exigido
+um nível mais elevado de cuidado na implementação de suas condutas.
+A prática por si só de condutas unilaterais não é considerada um ilícito. Em regra, será
+considerada anticoncorrencial uma vez associada ao efeito potencial de exclusão de
+competidores e sem que possam ser identificados benefícios para o consumidor. É nesse
+sentido que o Cade, em linha com as principais autoridades de concorrência em todo o mundo,
+tem buscado aplicar a chamada “regra da razão” em suas análises de condutas unilaterais. O
+mesmo vale para as restrições verticais, as quais podem apresentar efeitos positivos
+decorrentes, por exemplo, da redução de custos de transação, mas que, dependendo do
+mercado e da posição ocupada pelos agentes envolvidos, podem representar risco
+concorrencial.
+Para fins de estruturação de programas eficientes de compliance, é importante que as
+entidades criem estruturas que, em primeiro lugar, garantam que os programas ou práticas de
+mercado sejam validados pela área responsável antes de serem implementados. Tal validação
+pode ocorrer de diversas maneiras e destacar-se-ão a seguir alguns aspectos da análise que
+podem ser relevantes:
+1. Detenção de posição dominante. Como dito acima, em primeiro lugar, a empresa deve
+averiguar se possui posição dominante no mercado no qual pretende implementar
+uma dada prática comercial. A detenção de participação de mercado expressiva é o
+indício mais importante, embora não suficiente, das análises unilaterais e restrições
+verticais. Outros aspectos importantes que podem ser levados em conta são:
+a) a capacidade de concorrentes atenderem a clientes / consumidores objeto da
+política comercial por meio de bem e serviços substitutos; em regra, quanto
+menos concorrentes tiverem tal capacidade, maior o poder de mercado da
+empresa;
+b) a participação de mercado dos outros agentes econômicos, ou seja, o grau de
+concentração do mercado como um todo;
+c) o nível de verticalização do mercado como um todo e do agente econômico
+em particular;
+37d) a capacidade de novas empresas entrarem no mercado (inclusive via
+importações ou transporte de outras regiões), ou de as empresas já presentes
+expandirem sua produção/oferta; em regra, quanto mais difícil for a entrada
+no mercado ou a expansão da oferta, maior o poder de mercado da empresa;
+e) rivalidade remanescente no mercado, ou seja, se os outros agentes de
+mercado são rivais aguerridos, a ponto de conseguirem limitar um eventual
+aumento de preços da empresa, o seu poder de mercado provavelmente é
+menor.
+2. Possíveis efeitos de exclusão de concorrentes. É prudente também levar em
+consideração as características da política comercial em questão para averiguar seus
+eventuais efeitos exclusionários, especialmente pelo fechamento do mercado para
+concorrentes com aumento excessivo de custo dos rivais. Não é objetivo desse Guia
+estabelecer critérios objetivos de análise, mas tão somente ressaltar que as políticas
+comerciais de empresas com posição dominante são tanto menos preocupantes
+quanto:
+a. Menor for sua duração;
+b. Menor for o percentual de vendas do mercado afetadas;
+c. Mais simples for a replicação de tal política por concorrentes igualmente
+eficientes;
+d. Menor for o potencial efeito anticompetitivo.
+3. Possíveis justificativas econômicas. A análise de tais condutas e restrições também
+pode levar em consideração seus benefícios econômicos, em termos de maior
+eficiência produtiva (i.e. menores custos de produção), proteção de investimentos
+necessários para viabilizar novos produtos e serviços, dentre outros aspectos. Neste
+ponto, a empresa pode analisar, em especial, se há justificativas econômicas para a
+política em questão. Via de regra, uma prática é tanto mais justificável quanto:
+a. Mais necessário e proporcional for seu aspecto restritivo (exclusividade,
+fidelização, venda em conjunto, etc.) para se obter os benefícios econômicos
+almejados, especialmente no que se refere à proteção de investimentos que
+viabilizem tais benefícios;
+38b. Maiores forem os benefícios dos consumidores finais, especialmente em
+termos de menores preços, melhores produtos/serviços e maior inovação.
+O último dos critérios acima indicados revela-se extremamente importante na medida
+em que as normas antitruste não visam proteger um ou outro competidor em específico, mas
+sim o processo concorrencial, de forma que a disputa entre os agentes econômicos beneficie
+o consumidor. Nesse sentido, a maioria dos precedentes do Cade sobre restrições verticais e
+condutas unilaterais consideram haver uma infração concorrencial se forem comprovados
+prejuízos diretos ou indiretos ao consumidor, em termos de preços mais elevados, menor
+qualidade, e menos inovação.
+Diante da complexidade dos fatores envolvidos na avaliação deste tipo de prática,
+recomenda-se que programas de compliance adotem algum tipo de avaliação prévia de
+programas verticais e unilaterais a serem levados ao mercado. Ainda que, em eventual
+investigação, a análise da conduta pela autoridade antitruste possa divergir daquela
+empreendida pela empresa, é importante que esta possa demonstrar que seu programa de
+compliance submete cada prática a um processo prévio de aprovação, com base em análise
+econômica e jurídica fundamentada.
+3.3 Impactos nas penalidades administrativas
+Ainda que iniciativas de implementação de programas de compliance sejam cada vez
+mais entendidas como práticas de boa governança corporativa, por constituírem instrumento
+importante para difundir a cultura de respeito à LDC na comunidade empresarial e promover
+o bem-estar do consumidor, a mera existência de um programa de compliance não é suficiente
+para afastar a possibilidade de imposição pelo Cade das penalidades administrativas, que
+incluem, como visto, multas potencialmente vultuosas.
+Espera-se, na verdade, que a adoção de um programa sério e robusto impeça que a
+organização e seus colaboradores se envolvam em práticas comerciais que configurem
+infrações à ordem econômica. Ou seja, um programa que funciona de modo ideal mantém o
+status quo, quando a empresa já possui uma cultura corporativa de cumprimento da
+legislação, ou altera sua configuração para que essa cultura seja promovida. Não obstante, a
+adoção dos programas pode ter impactos bastante positivos para organizações e
+39colaboradores investigados pelo Cade, seja por condutas coletivas ou unilaterais, ainda
+quando tais empresas não consigam evitar por completo a promoção de práticas ilícitas.
+Isso ocorre porque, como a experiência nos mostra, a adoção de programas de
+compliance atua positivamente ao favorecer a identificação de potenciais problemas e a rápida
+busca por soluções. Nesse sentido, são quatro os possíveis principais efeitos do compliance
+para as organizações, a saber: a adesão ao programa de leniência, a celebração de termos de
+compromisso de cessação, a submissão de consultas ao Tribunal e a dosimetria das
+penalidades aplicadas.
+3.3.1 Leniência
+A adoção de um programa de compliance é uma ferramenta bastante importante para
+a identificação de uma possível infração concorrencial e a tomada das decisões necessárias
+para defender os interesses da entidade e seus colaboradores.
+A primeira dessas providências é a possibilidade de adesão ao Programa de Leniência,
+que permite a organizações e pessoas físicas participantes de cartel ou de outra prática
+anticoncorrencial coletiva denunciar a prática ao Cade e cooperar com as investigações,
+recebendo em troca imunidade nas esferas administrativa e criminal ou redução de um a dois
+terços das penalidades administrativas aplicáveis.
+Para obter tal benefício, é preciso que a organização ou pessoa física seja a primeira a
+se apresentar ao Cade para reportar a infração e confessar sua participação. Ou seja, a rapidez
+com que se identifica o problema existente e se contata o Cade é essencial para garantir a
+possibilidade de imunidade total ou parcial.
+Essa rapidez é diretamente afetada pelo compliance. Programas bem estruturados são
+capazes, ainda que não consigam evitar a conduta, de identificar prontamente distorções e
+tomar conhecimento dos ilícitos, o que possibilita que a entidade administre a situação de
+modo ágil, recorrendo ao Cade para celebração de um acordo de leniência e assim evitando
+uma série de penalidades. O programa de compliance não garante que a leniência será
+assinada, mas ele pode aumentar substancialmente as chances de a entidade poder contar
+com essa ferramenta.
+403.3.2 Termos de Compromisso de Cessação
+Caso a empresa ou pessoa física contate o Cade para reportar uma infração e não possa
+aderir ao Programa de Leniência por não ser a “primeira da fila”, ela tem ainda a alternativa
+de negociar um Termo de Compromisso de Cessação (TCC).
+O TCC é uma ferramenta que, diferentemente do Acordo de Leniência, pode também ser
+usada em caso de prática anticoncorrencial unilateral. Sua celebração com a Superintendência-
+Geral do Cade na fase inicial das investigações assegura redução da multa esperada para os
+investigados que propuserem TCC, redução esta que respeita a ordem de chegada e os termos
+da Resolução nº 5/2013. Nesse sentido, a existência do compliance ou o compromisso com
+sua adoção/atualização pode ter influência na alíquota aplicada.
+Novamente, a rapidez na identificação da infração e tomada de decisão, favorecida
+como visto pela adoção de um programa de compliance, é essencial para garantir os melhores
+benefícios financeiros sob um TCC. O compliance de forma alguma garante que um Termo
+venha a ser assinado, mas, assim como no caso do Acordo de Leniência, pode aumentar
+substancialmente as chances de que isso ocorra.
+3.3.3 Consultas
+O art. 9º, §4º, da LDC autoriza o Tribunal do Cade a responder a consultas sobre a
+interpretação da legislação concorrencial, inclusive no que tange à legalidade de práticas
+comerciais já iniciadas ou ainda em fase de concepção e planejamento.
+A conscientização criada pela adoção de um programa de compliance tende a facilitar
+iniciativas como a apresentação destas consultas. Assim como identificar uma conduta ilícita
+colusiva consumada colabora para a possível entrada no Programa de Leniência, identificar
+condutas que geram dúvida quanto à licitude colabora para a apresentação de uma consulta
+à autoridade. Isso é positivo na medida em que a resposta à consulta pelo Tribunal, caso se
+entenda pela legalidade da prática, será vinculante pelo prazo máximo de cinco anos e
+impedirá a aplicação retroativa de uma nova interpretação para a imposição de qualquer
+penalidade à parte que formulou a consulta. Caso se entenda pela impossibilidade de levar
+adiante a conduta, a empresa também é beneficiada, já que terá a oportunidade de não
+41praticá-la, economizando recursos que seriam despendidos tanto na sua execução, como em
+eventuais investigações posteriores que questionariam a legalidade dos atos.
+Ou seja, os efeitos são bastante significativos e podem gerar muitos benefícios para as
+empresas consulentes, especialmente em matéria de segurança quanto à condução de suas
+atividades.
+3.3.4 Dosimetria da pena
+Apesar de, como visto, um programa de compliance não ser suficiente para afastar a
+possibilidade de imposição de penalidades pelo Cade, em algumas situações ele pode
+impactar favoravelmente a determinação dessas penalidades, afastando, por exemplo, certas
+proibições ou até mesmo reduzindo o valor da multa aplicável. Isso porque, ao aplicar as
+penalidades previstas na LDC, o Tribunal do Cade deve levar em consideração, segundo o art.
+45, fatores como a boa-fé do infrator; o grau de lesão à livre concorrência, à economia
+nacional, aos consumidores ou a terceiros; os efeitos econômicos negativos produzidos no
+mercado; e a reincidência.
+A adoção de um programa de compliance robusto, com medidas de controle de danos,
+que atenda aos requisitos expostos na seção III.2 acima, pode ser considerada evidência da
+boa-fé da organização infratora e da redução dos efeitos econômicos negativos da prática
+ilícita no mercado. Por conta disso, é possível que o Tribunal enquadre o programa de
+compliance como (i) uma evidência de boa-fé e o configure como uma atenuante no cálculo
+da multa, reduzindo-a, ou como (ii) um critério a ser considerado quando do cálculo da
+contribuição pecuniária, em eventual TCC a ser assinado pela organização, que poderia levar
+o percentual de desconto ao máximo permitido. Ademais, programas com essas características
+tendem a reduzir o risco de reincidência – que faz com que a multa aplicável seja dobrada
+pelo Cade.
+Cumpre salientar que é ônus exclusivo do investigado demonstrar que possui um
+programa de compliance robusto, sob o qual práticas anticompetitivas são claramente
+contrárias às políticas da organização e às orientações dos seus administradores.
+424. Considerações finais
+Já que a ideia dos programas de compliance concorrencial é que as entidades ajam
+sempre em conformidade com a LDC, o acesso ao maior número possível de informações a
+respeito da aplicação da lei é salutar.
+Dessa forma, recomenda-se, como complemento a este material, a leitura dos demais
+Guias publicados pelo Cade, disponíveis na plataforma da autarquia, bem como o
+acompanhamento constante das decisões da autoridade e das evoluções dos debates nas
+esferas nacional e internacional.
+43

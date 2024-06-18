@@ -1,0 +1,1751 @@
+1Ministry of Justice and Public Security
+Administrative Council for Economic Defense
+Guide for Fighting Cartels in Procurements
+Administrative Council for Economic Defense – Cade
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip Code: 70770-504 – Brasília/DF
+www.cade.gov.br
+2Institutional Presentation
+President of Brazil
+Jair Messias Bolsonaro
+Minister of Justice and Public Security
+Sérgio Fernando Moro
+CADE President
+Alexandre Barreto de Souza
+CADE Commissioners
+Mauricio Oscar Bandeira Maia
+Paula Farani de Azevedo Silveira
+Lenisa Rodrigues Prado
+Luis Henrique Bertolino Braido
+Sérgio Costa Ravagnani
+Luiz Augusto Azevedo de Almeida Hoffmann
+CADE General Superintendent
+Alexandre Cordeiro Macedo
+CADE General Attorney
+Walter de Agra Junior
+CADE Chief Economist
+Guilherme Mendes Resende
+3Editorial Information
+Coordination
+Amanda Athayde Linhares Martins Rivera
+Diogo Thomson de Andrade
+Fernanda Garcia Machado
+Proofreading
+Alexandre Cordeiro Macedo
+Collaboration
+Beatriz Bellintani
+Felipe Leitão Valadares Roquete
+Juliano Pimentel Duarte
+Lívia Dias de Melo
+Mariana Piccoli Lins Cavalcanti
+Mônica Tiemy Fujimoto
+Priscilla Craveiro da Costa Campos
+Renata Souza da Silva
+Editing and Graphic Designing
+Communications Unit of CADE
+Translation
+Arianne Mesquita Rodrigues
+Bruna Queiroz Assunção
+Editing and Proofreading (English)
+Ariel Daltrozo Menezes
+Bruna Queiroz Assunção
+Nayara Kazeoka Zago
+4CONTENT
+PRESENTATION
+INTRODUCTION - WHAT ARE CARTELS IN PROCUREMENTS AND WHAT
+ARE THEIR CONSEQUENCES?
+PART I - CARTELS IN PROCUREMENTS: BASIC NOTIONS AND A BRIEF
+OVERVIEW OF THE FIGHT AGAINST CARTELS IN BRAZIL
+I.1. Cartels in procurements according to Competition Law
+I.1.1. How are cartels penalised? The penalties imposed by the
+Administrative Tribunal of CADE
+I.1.2. How are cartels detected? Cartel detection methods
+1.2. Other authorities responsible for investigating and penalising cartel
+conduct and other related infractions: fighting cartels in procurements in
+the administrative, criminal and civil domains, related infractions, and
+competent authorities
+PART II - DETECTING CARTELS IN PROCUREMENTS: ENABLERS,
+FORMS OF COLLUSION AND EVIDENCE
+II.1. Which aspects enable cartel formation? Characteristics of
+government procurement markets favourable for the creation of cartels
+and favourable for the monitoring of cartels in procurement processes
+II.2. Difficulties in detecting cartels in government procurements and the
+importance of circumstantial evidence
+II.3. Types of collusion: the main strategies used by companies to form
+cartels in procurements
+II.3.1. Cover Bidding
+II.3.2. Bid suppression and bid withdrawal
+II.3.3. Bidder collusion in in-person reverse auction
+II.3.4. Bid rotation
+II.3.5. Market division
+II.3.6. Other strategies: legal mechanisms used to implement
+anticompetitive strategies
+II.4. Evidence of collusion in government procurements
+5PART III – PREVENTING CARTELS IN PROCUREMENTS
+III.1. Contributions of government procurement officials to the fight against
+cartels
+III.2. What measures can be adopted to mitigate the risk of having a cartel
+in procurements
+PART IV – CRIMES ASSOCIATED WITH CARTELS IN PROCUREMENTS
+IV.1. Cartel and fraud in procurements
+IV.2. Cartel in procurements and corruption
+6PRESENTATION1
+This Guide for Fighting Cartels in Procurements, elaborated by the Administrative
+Council for Economic Defense (CADE), updates the 2008 Handbook Fighting
+Cartels in Procurements2 by the former Secretariat of Economic Law of the
+Minister of Justice (SDE/MJ)3 and is aimed at assembling the experience gained
+by the Brazilian antitrust authority during the more than twenty years it has been
+fighting cartels, especially the experience related to collusion in government
+procurement processes.
+In this regard, the main purpose with this Guide is instructing and providing
+assistance to all parties involved in organising and carrying out procurement
+processes (such as auctioneers, members of procurement committees, and
+other authorities responsible for investigating and penalising this sort of illegal
+conduct), and to society at large, regarding how to recognise the main signs of
+collusive behaviour in government procurements, with the intent of improving
+the chances of cartels being detected, prevented and penalized accordingly.
+Disclaimer: This document is neither binding nor a rule (i.e. it does not change
+any of the provisions of the Statutes of CADE). Practices and procedures hereby
+described may be amended as CADE sees convenient and opportune,
+depending on the specific circumstances of actual cases.
+This Guide is divided into four parts:
+(I)Cartels in procurements: basic notions and a brief overview of the fight against
+cartels in Brazil
+(II) Detecting cartels in procurements: enablers, forms of collusion and evidence
+(III) Preventing cartels in procurements: what can be done
+(IV) Crimes associated with cartels in procurements
+1We would like to acknowledge the assistance of former students from the PinCade program Bruna
+Caixeta, Elisa Sarto, Julia Braga and Mario Norris in the researches that subsidised this document.
+2The original document Cartilha de Combate a Cartéis em Licitações by the former Secretariat of
+Economic Law of the Ministry of Justice (SDE/MJ) was published in 2008 and is available only in
+Portuguese at: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/documentos-da-antiga-lei/cartilha_licitacao.pdf/view>.
+3Duties of the SDE/MJ have been taken on by the General Superintendence of CADE, in
+accordance with the provisions of Law 12529/2011.
+7INTRODUCTION – WHAT ARE CARTELS IN PROCUREMENTS AND WHAT
+ARE THEIR CONSEQUENCES?
+Cartels in procurement are a form of collusion amongst economic agents aimed
+at eliminating or restricting competition in government procurements of goods
+and services.
+This practice changes the regular and expected conditions of effective
+competition in a procurement, imposing less favourable conditions for the
+Government to purchase goods and services, such as higher prices and inferior
+goods and services, or even limiting the purchase to an inferior amount than
+what was originally intended.
+In other words, cartels in government procurements undermine the efforts of the
+Government to efficiently and effectively dispose of its assets to provide society
+with goods and services and promote the development of the country, thus
+being detrimental to society as a whole.
+All levels of the Brazilian Government (federal, state, and local governments, as
+well as the government of the Federal District) allocate every year considerable
+amounts for the acquisition of goods and services needed to carry out their
+duties. Such legal arrangements allow the State to fulfil its responsibilities related
+to healthcare, education, public security, infrastructure and others.
+In order to better use its assets, the Government must make purchases based on
+the best proposal for itself, considering, among other aspects, the quality and
+price of the good or service. The procurement must meet high standards of
+equity, quality and efficiency, without favouring any competitor. Therefore, it is
+of utmost importance that procurements be transparent and economical. These
+principles are closely related to competition in a procurement. Procurements
+with clear and widely known rules allow for a higher number of bidders,
+increasing competitiveness and, consequently, resulting in more advantageous
+proposals. Thus, for the Government, effective competition among companies
+in procurements is essential.
+8According to the Organisation for Economic Co-operation and Development
+(OECD)4, such collusions take assets from acquirers and taxpayers, weaken
+public confidence in the competitive process and undermine the advantages
+of a competitive market.
+The severity of cartels in procurements: according to the OECD, considering its
+member countries, government procurements represent approximately 15% of
+their respective GDPs, and should one consider non-member countries this
+percentage might be even higher. In Brazil, in 2018, the Federal Government
+alone carried out more than 100 thousand procurement processes, totalling
+about BRL 48 billion5, an amount that shows the impact cartels have on the
+Treasury.
+The Brazilian legal system, like those of many other countries, provides for several
+procurement methods, in an attempt to adapt the procurement to different
+situations, rationalise the contracting process and optimise the allocation of
+assets. Among the main methods currently being used, it is worth mentioning
+those provided for (1) in Law 8666/1993 (the Procurement Law); (2) in Law
+10520/2002 (the Reverse Auction Law); (3) in Law 12462/2011 (the Direct
+Contracting Law); and (4) in Law 13303/2016 (State-Owned Companies Law).
+Each one of these methods entails specific advantages and disadvantages, thus
+an ideal method that avoids or resolve any possible problem does not exist, be
+them antitrust issues or any of several other problems that affect procurements.
+In any case, even though no procurement method is immune from fraud, the
+requesting agency, following best practices, is responsible for designing notices
+that, on the one hand, encourage competitiveness and the participation of as
+many bidders as possible, and on the other hand, make it difficult for cartels to
+operate. Thereby, this Guide is not dedicated to any specific method of
+procurement, it is rather aimed at pinpointing the characteristics of government
+acquisitions that may facilitate collusion, the main strategies used by economic
+4OECD. Guidelines for Fighting Bid Rigging in Public Procurement (2009). Available at:
+<https://www.oecd.org/daf/competition/cartels/42851044.pdf>.
+5Data collected from the Brazilian Federal Government Procurement Dashboard. Available at:
+<http://paineldecompras.planejamento.gov.br>. Retrieved: 24 Jan 2019.
+9agents, and the most common evidence of a cartel, improving the chances of
+cartels being prevented and detected.
+PART 1 - CARTELS IN PROCUREMENTS: BASIC NOTIONS AND A BRIEF
+OVERVIEW OF THE FIGHT AGAINST CARTELS IN BRAZIL
+I.1. Cartels in procurements according to Competition Law
+In general, a cartel consists of an agreement or practice concerted amongst
+competitors to fix prices, establish quotas or limit production, divide operation
+markets and settle any competitively sensitive variable, both in government and
+private procurements. It is universally considered the most outrageous economic
+crime6.
+According to the OECD, cartels:
+(…) harm consumers and have pernicious effects on economic
+efficiency. A successful cartel raises price above the competitive
+level and reduces output. Consumers (which include businesses
+and governments) choose either not to pay the higher price for
+some or all of the cartelised product that they desire, thus
+forgoing the product, or they pay the cartel price and thereby
+unknowingly transfer wealth to the cartel operators. Further, a
+cartel shelters its members from full exposure to market forces,
+reducing pressures on them to control costs and to innovate. All
+of these effects harm efficiency in a market economy7.
+As previously mentioned, among the several types of cartel, cartels in
+procurements are especially devastating because they prevent or spoil the
+Government’s chances of making purchases of quality goods and services for a
+6See precedents set by CADE, such as: Opinion 24/2015 by the General Superintendence which
+launched Administrative Proceeding 08700.007351/2015-51; the Opinion by the General
+Superintendence which launched Administrative Proceeding 08012.008821/2008-22, and the vote
+of the Rapporteur of the case, Commissioner Gilvandro Vasconcelos; and the Opinion by the
+former SDE regarding Administrative Proceeding 08012.005255/2010-11.
+Likewise, the OECD (2002) has stated that “Cartels are universally recognised as the most harmful
+of all types of anticompetitive conduct. Moreover, they offer no legitimate economic or social
+benefits that would justify the losses that they generate.”
+7OECD, Hard Core Cartels: Recent progress and challenges ahead (OECD Publishing, 2003), p. 8.
+Available at: <https://dx.doi.org/10.1787/9789264101258-en>.
+10lower price, resulting in heavy losses to the Treasury and, consequently, to
+taxpayers.
+According to the OECD8, cartels result in overpricing of about 10% to 20%9,
+comparing to the price in a competitive market, causing annual losses of
+hundreds of billions of Brazilian reals to consumers. In terms of amounts, some of
+the most relevant cases of collusion are linked to government procurements10.
+An example in Brazil is the Security Revolving Doors Cartel (Administrative
+Proceeding 08012.009611/2008-51), which, according to studies by the
+Department of Economic Studies of CADE, the collusion resulted in overpricing
+of 25%11.
+Considered an extremely serious anticompetitive practice, cartel behaviour is
+covered in Law 12529/2011 (the Brazilian Competition Law), in its article 36,
+section 3, subsection 1(d):
+Art. 36. It is considered an economic crime, regardless of fault,
+each and every practice carried out anyhow, intended to or
+which can have the following effects, even if not successful:
+(…)
+Section 3. The following conducts, amongst others, insofar as
+they have been provided for in the head of this article or its
+sections, are considered economic crimes:
+Section 1. agreeing, combining, manipulating or colluding with
+competitors, by any means:
+8OECD. Fighting Hard Core Cartels: harm effective sanctions and leniency programs (2002).
+Available at: <www.ocde.org/competition>.
+9Despite difficulties in estimating increases in price and, more broadly, the damages caused, a
+conservative estimative indicates an increase of 10% per year in prices because of cartel activity
+(WERDEN, 2009, p. 12). Other authors mention more alarming numbers with average overpricing
+in cartelised markets varying between 10% and 20%, and even reaching up to 50% (ARAUJO,
+CHEDE, 2012; CONNOR, BOLOTOVA, 2006). According to Connor, average overpricing for all types
+of cartels is of 23%, considering a long term from 1890 to 2013 (CONNOR, 2014); however,
+depending on the year and the type of cartel this percentage may be substantially higher, for
+example, from 1990 to 1999, average overpricing for international cartels was about 45.5%.
+10MCAFFEE, R. Preston; MCMILLAN, John. Bidding rings. The American Economic Review: vol. 82, no.
+3, June 1992, p. 579.
+11See the opinion by the Department of Economic Studies of CADE (DEE/CADE) which has been
+attached to the vote of Commissioner Gilvandro Vasconcelos Coelho de Araujo (Administrative
+Proceeding 08012.009611/2008-51).
+11a) the prices of goods or services individually offered;
+b) the production or trade of a restricted or limited amount of
+goods, or the provision of a restricted or limited amount, volume
+or frequency of services.
+c) the division of parts or segments of a current or potential
+market for goods or services, by means of, amongst others,
+dividing customers, suppliers, regions or periods;
+d) the prices, conditions, advantages or non-participation in
+government procurements.
+I.1.1. How are cartels penalised? The penalties imposed by the
+Administrative Tribunal of CADE12
+According to the provisions of Law 12529/201113, companies participating in
+cartels are subject to administrative fines imposed by the Tribunal of the
+Administrative Council for Economic Defense which may vary between 0.1% and
+20% of the gross turnover corresponding to the field of activity related to the
+respective crime, in addition to other penalties such as publication of the
+decision in a widely read newspaper; prohibition of contracting with official
+financial institutions and of participating in government procurements; and
+divestiture of assets. Individuals involved in the practice are also subject to fines
+varying between BRL 50 thousand and BRL 2 billion, and, should the individuals
+be administrators directly or indirectly responsible for the crime, the applicable
+fine may vary between 1% and 20% of the one imposed to the company.
+One of the most severe penalties CADE may impose to cartels in procurements
+is prohibiting the wrongdoer from participating in procurements for a minimum
+of 5 years14.
+12As it shall be seen in item I.2, cartel is also a criminal offence according to the Brazilian Law. Thus,
+besides the administrative penalties imposed by CADE, individuals involved in cartels are also liable
+to fines and imprisonment for 2 to 5 years, in accordance with art. 4 of Law 8137/1990, which defines
+economic and tax crimes, as well as crimes against consumers.
+13See Law 12529/2011, art. 37 and 38.
+14The measure has similar effects to those of the declaration of ineligibility provided for in the
+Procurement Law (Law 8666/1993), in its article 87, section 4.
+12I.1.2. How are cartels detected? Cartel detection methods
+Members of a cartel, aware of the unlawfulness of their behaviour and afraid of
+being detected, especially considering the significant increase in cartel
+prosecution and punishment in recent years, are often extremely careful and
+prudent with information, meetings and the accomplishment and
+implementation of their agreements, making it increasingly difficult to detect a
+cartel. For that reason, authorities need more elaborate detection and
+investigation techniques in their toolbox for a cartel investigation to be
+successful.
+The existence of cartels can be known to CADE in many ways. It can be reported
+by companies or individuals involved in the collusion, in which case the informers
+can have their penalties reduced or even gain immunity, as it will be seen below.
+Third parties or other authorities can also report such practices to CADE, and the
+antitrust authority itself has investigation tools to use when a suspicion of cartel
+arises.
+The main means currently used by CADE to detect cartels are listed below.
+1. Leniency Agreement15
+A Leniency Agreement is a mechanism aimed at bringing illegal practices to the
+knowledge of the antitrust authority which could, otherwise, continue to be
+undisclosed. At the same time, it ensures a more efficient investigation, which is
+why it is widely used in several countries16.
+15For further information on the Leniency Program, see CADE’s Antitrust Leniency Program Guide.
+Portuguese version available at: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/guias_do_Cade/guia_programa-de-leniencia-do-cade-final.pdf>. English version
+available at: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/guias_do_Cade/guidelines-cades-antitrust-leniency-program-1.pdf>.
+16The benefits of designing a leniency program have been studied and agreed on by several
+authorities worldwide. The mechanism is appointed as an important tool for effectively fighting
+cartels, as it: i) discourages companies from participating in cartels; ii) encourages companies to
+withdrawal from pre-established cartels; iii) increases the probability of detecting a cartel; and iv)
+increases the possibility of the conduct being punished by the Government. For more information
+on this matter, see: International Competition Network. Anti-cartel enforcement manual. Chapter
+2: Drafting and implementing an effective leniency policy (2014). Available at:
+<https://www.internationalcompetitionnetwork.org/wp-
+content/uploads/2018/05/CWG_ACEMLeniency.pdf>.
+As highlighted by the OECD in its report about fighting hardcore cartels (2019, p.6), the main
+challenge for a policy to fight cartels is precisely its detection which is the aspect that explains the
+13In Brazil, the Leniency Program17 has as its premise that individuals or companies,
+currently or previously involved in cartels, can confess and collaborate with
+investigations in exchange for total immunity or partial in relation to applicable
+administrative and criminal penalties. The collaboration involves presenting
+information and documents that allow CADE to identify other co-authors and
+evidence of the practice reported or under investigation.
+It must be emphasized that only the first individual or company to report the
+conduct will be granted administrative and criminal immunity, that is, exemption
+from monetary and nonmonetary penalties, which means the programme is a
+destabilising element for current cartels.
+The Leniency Program is one of the most effective mechanisms for detecting,
+investigating and preventing anticompetitive behaviours with potential to have
+a negative effect on competition and social welfare. Therefore, it constitutes an
+important element in any policy to fight cartels.
+2. Cease and Desist Agreement (TCC)18
+A Cease and Desist Agreement (TCC, in its acronym in Portuguese), foreseen in
+article 85 of Law 12529/2011 and art. 219 through 236 of the Statutes of CADE, is
+an agreement that may be signed between CADE and companies and/or
+individuals who are not eligible to sign Leniency Agreements. In this case, the
+agreement is made when the investigation into the illegal behaviour is already
+significance of the leniency program. In fact, a leniency program properly structured and used by
+an antitrust authority naturally produces an instability in running cartels and decreases the
+advantage of joining or forming a new coordinated anticompetitive group, since it weakens the
+trustworthy relationship between participants and encourages the reporting of any ongoing
+anticompetitive conduct to the Official Authority. For more information on this matter, see: OCDE.
+Recommendation of the Council concerning Effective Action against Hard Core Cartels (2009).
+Available at: <https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0452>.
+17Provided for in art. 86 and 87 of the Brazilian Competition Law and in art. 237 through 251 of the
+Statutes of CADE.
+18For further information on TCCs, see: Guidelines: Cease and Desist Agreement for cartel cases.
+Portuguese version available at: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/guias_do_Cade/guia-tcc-versao-final.pdf>. English version available at:
+<http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/guias_do_Cade/guidelines_tcc-1.pdf/view>.
+14in progress19 and, unlike the Leniency Agreement, it comes with no advantages
+for signatories in criminal proceedings.
+Similar to what happens in the Leniency Agreement, the signatories of TCCs must
+also confess to their participation in the conduct, and collaborate20 with
+investigations by providing CADE with reports containing relevant information
+and documents that can be used to identify or confirm the identity of other
+persons or companies involved in the conduct, and are evidence of the
+conduct21.
+Any party who enters into a TCC with CADE receives a discount that can reach
+up to 50% of the expected fine in case of conviction. In addition, signing the TCC
+results in a halt in the investigations into any signatories, while the terms
+established in the agreement are fulfilled; consequently, signatories have to
+comply with the established obligations, including immediately ceasing their
+participation in the conduct under investigation.
+TCCs are important mechanisms in the prosecution of cartels, as they add new
+information and documents to what has been obtained with the Leniency
+Agreement, and confirm information already known by the antitrust authority,
+strengthening investigations and any respective administrative proceedings.
+3. Complaints and the Clique-Denúncia Platform for Reporting
+Violations
+19We would like to emphasize that the Leniency Agreement may be signed during the course of
+the proceedings. However, this can only happen by means of a Partial Leniency Agreement that
+grants the Petitioner reduction of one to two thirds of the applicable penalty, as per the provisions
+of art. 86, section 4 of Law 12529/2011.
+20Regarding collaboration, it is necessary to stress that TCCs signed in more advanced stages of
+proceedings – as is the case, for example, if an Administrative Proceeding is already at the Tribunal
+– have little or almost no chance of adding relevant information to the case. Its main use, in terms
+of cost reduction, would be achieved by means of an early conclusion of the proceeding,
+avoiding future legal disputes.
+21A TCC may be signed both with the General Superintendence and the Administrative Tribunal,
+with some specificities arising from the procedural moment in which the agreement has been
+signed.
+15The General Superintendence of CADE (SG/CADE) may also, depending on the
+amount of proof and evidence, choose to launch a Preliminary Inquiry, an
+Administrative Investigation or an Administrative Proceeding on the basis of a
+reasoned complaint by any interested party which provides evidence of an
+economic crime (article 66, section 1 of Law 12529/2011).
+Members of the Brazilian National Congress, or of any of its Chambers, as well as
+members of the Secretariat of Competition Advocacy and Competitiveness
+(SEAE) linked to the Ministry of Economy, of regulatory agencies and of the Office
+of the Attorney General at CADE, in accordance to the provisions of article 66,
+section 6 of the Competition Law, are also eligible informers.
+In addition to complaints, CADE has a tool for reporting violations, the Clique-
+Denúncia platform22, which is a basically an integrated Electronic Information
+System, which any and every citizen can access to blow the whistle in case of
+knowledge of an economic crime23.
+The best way for citizens to report a violation to the General
+Superintendence of CADE is through the Clique-Denúncia platform. The
+reporting form is available at: http://www.cade.gov.br/
+You can also contact the SG/CADE on the telephone number: +55 61 3221
+8445
+Reports may be a nonymous and CADE guarantees absolute secrecy about the
+identity of whistle-blowers should it be requested.
+4. Search and Seizure
+The possibility of the Superintendence of CADE carrying out a search and seizure
+is provided for in article 13, section 6(d) of Law 12529/2011. Search and seizures
+are crucial due to the difficulty of obtaining evidence in investigations into
+cartels, and because there is an element of surprise which prevents the spoliation
+of evidence.
+22Available at:
+<https://sei.cade.gov.br/sei/modulos/cliquedenuncia/formulario_denuncia.php?acao_externa=
+denuncia&acao_origem_externa=denuncia&id_orgao_acesso_externo=0&id_orgao_acesso_ext
+erno=0> (form for reporting a violation only available in Portuguese), or
+<http://en.cade.gov.br/report_a_violation> (information in English on how to report a violation by
+e-mail).
+23The Clique-Denúncia platform can be used by any citizen to file reports related to cartel activity,
+other anticompetitive practices, and mergers and acquisitions.
+165. Economic Analysis and Screening
+The General Superintendence of CADE also uses proactive tools for detecting
+cartels, such as screening. Screening is the use of data base, software and
+statistical testing applications to identify and measure any collusion risk in specific
+markets or sectors and to detect suspicious behaviour by respective economic
+agents.
+1.2 Other authorities responsible for investigating and penalizing cartel conduct
+and other related infractions: fighting cartels in procurements in the
+administrative, criminal and civil domains, related infractions, and competent
+authorities
+The Brazilian legal system defines a cartel as an antitrust offense, as per the
+provisions of Law 12529/2011, previously detailed. Therefore, in the administrative
+domain, cartels are investigated as anticompetitive conduct, e.g. a violation
+that negatively affects free competition is investigated and an administrative
+proceeding is launched by the Superintendence of CADE (article 13, section 5
+of Law 12529/2011) and is later tried in the Tribunal of CADE (article 9, section 3
+of Law 12529/2011) which may impose fines to individuals and companies, in
+addition to other penalties established by Law.
+17ADMINISTRATIVE LAW
+Cartel in procurements as anticompetitive conduct – Law 12529/2011
+Law 125 29/2011
+(Competition Law)
+Art. 36. It is considered an economic crime, regar dless of fault, each and every practice carried out
+anyhow, intended to or which can have the following effects, even if not successful:
+Section 3. The following conducts, among others, insofar as they have been provided for in the head
+of this article or in its sections, are considered economic crimes:
+Section 1. agreeing, combining, manipulating or colluding with competitors, by any means:
+a) the prices of goods or services individually offe red;
+b) the production or trade of a restricted or limited amount of goods, or the provision of a restricted
+or limited amount, quantity or frequency of services;
+c) the division of parts or segments of a current o r potential market for goods or services, by means
+of, amongst others, dividing customers, suppliers , regions or periods;
+d) the prices, conditions, advantages or non-par ticipation in government procurements.
+Administrative Council for Economic Defense – CADE
+General Superintendence: investigates the practice, launches the Administrative
+Proceeding into a cartel in a procurement, and issues a Technical Opinion
+recommending whether the case should be thrown out or go to trial.
+Tribunal of CADE: tries the case and imposes fines and other applicable penalties,
+including, in the case of cartels in procurements, the prohibition of participating in
+government procurements for a period of five years.
+Cartel conduct is also considered an economic crime, as per the provisions of
+article 4 of Law 8317/1990, and in the criminal domain, is investigated by the
+police and Prosecution Services. In this case, individuals involved in the practice
+are liable to fines and imprisonment for a period of two through five years, which
+may be increased by one third up to one half should the crime be considered
+especially harmful to society, be committed by a civil servant or be related to
+essential goods or healthcare and life services.
+Furthermore, cases of cartels in government procurements can also be
+considered crimes as per the provisions of article 90 of Law 8666/1993. Individuals
+involved in the practice are subject to fine and imprisonment for a period of two
+to four years.
+18CRIMINAL LAW
+Cartels in procurements as an economic crime (Law 8137/1990) and as a
+crime that negatively affects procurements and acquisitions by the
+Government (Law 8666/1993)
+Law 8137/1990
+Economic Crimes Law Law 8666/1993
+Procurement Law
+Art. 4. It is considered an economic crime:
+Section 2. agreements, covenants, Art. 90. Frustrate or defraud, by means
+adjustments or partnerships between of adjustment, combination or any other
+competitors, aimed at: means, the competitive nature of
+a) artificially fixing prices or amounts sold or procurements, in order to obtain, for
+produced; oneself or for others, advantage resulting
+b) the regionalized control of the market by a from the award of the object of the
+company or group of companies; procurement.
+c) the control of the distribution network or Penalty – imprisonment for a period of 2
+suppliers, considered harmful to competition. to 4 years, and a fine.
+Penalty – imprisonment for a period of 2 to 5
+years, and a fine.
+Prosecution Services and the Police
+As it is considered a crime, the Police and Prosecution Services are responsible for investigating
+and bringing to criminal courts any cases related to cartels.
+Judicial Branch
+Therefore, if the Prosecution Services understand that a crime has been committed, the case
+will be taken to the judiciary. Once the judiciary Is aware of the situation, criminal proceedings
+are launched to be tried and decided by the competent judge.
+Furthermore, the members of a cartel are also liable in the civil domain, subject
+to lawsuits for damages caused by the cartel conduct, which may be filed by
+any party harmed by the cartel, according to the provisions of article 47 of Law
+12529/2011, as well as to civil actions by the Prosecution Services and other
+authorised agents.
+19CIVIL LAW
+Damages to the Treasury and private individuals
+Brazilian Federal Constitution of 1988
+Art. 37. Direct and autonomous government bodies of any of the branches of the Federal, State and
+Local Governments, as well as the Government of the Federal District, shall observe the principles of
+legality, impersonality, morality, publicity and efficiency, as well as the following:
+Section 4. Malfeasance in office shall result in the suspension of political rights, just cause removal
+from office, blocked assets and compensation for damages to the Treasury, in the form and pace
+provided for by law, notwithstanding any other applicable penalties.
+Section 5. The Law shall establish the statute of limitations for violations, practiced by any agent, civil
+servant or not, resulting in damages to the Treasury, except for the respective compensation actions.
+Law 12529/2011
+(Competition Law)
+Art. 47. Anyone that has been harmed, by oneself or by any parties referred to in art. 82 of Law 8078,
+of 11 September 1990, shall file a lawsuit, in defense of their individual interests or homogeneous
+individual rights, to have the economic crime stopped and receive compensation for losses and
+damages suffered, regardless of any ongoing administrative investigation or proceeding, which shall not
+be suspended due to the filing of a lawsuit.
+Law 7347/1985
+Law 8429/1992
+(Civil Action)
+(Malfeasance in Office)
+The compensation for damages to the
+Malfeasance in office, in addition to
+Treasury are liable to civil lawsuit (art. 1,
+penalising the government agent that
+section 5), which can be requested by the
+committed the crime, is aimed at
+affected government body (the Federal
+compensating the damages caused to
+Government, as well as State and Local
+the Treasury.
+Governments, and the Government of the
+This action is filed by the Prosecution
+Federal District; agencies, state
+Services.
+enterprises, foundations and private
+companies controlled by the government),
+as well as by the Prosecution Services.
+Civil Action (Law 10406/2002)
+(Compensation)
+Compensation is provided for in article 927, which establishes that
+“whoever causes losses to another by unlawful conduct is obliged to
+compensate the other party for it.”
+20It is important to emphasize that the conduct legally considered as cartel activity
+before the antitrust authority may also constitute different administrative
+violations, which can be analysed and investigated by other authorities,
+especially control agencies.
+This happens because each authority, as well as the respective laws, are
+responsible for different legal matters; the same conduct can affect different
+legal assets and therefore be subject to the competence of different authorities.
+In other words, the Antitrust Law protects legal interests related to competition;
+the Anticorruption Law protects the Government; the Federal Court of Accounts
+Law is aimed at controlling and protecting government accounts; the
+Procurement Law protects the fairness of procurement processes carried out by
+the Government. Therefore, cartels in procurements, as a mean to restrict the
+competitive nature of a procurement, affect many different legal interests, thus,
+this sort of conduct can be investigated and punished in accordance with the
+provisions of other laws.
+In this context, the Brazilian Federal Court of Accounts (TCU), for instance, in its
+role of overseeing government budgets, has a duty to monitor government
+procurement processes and acquisitions, and, should any fraud be detected in
+a procurement, the Court has the power to determine the ineligibility of bidders,
+and request the rendering of accounts, should it be determined that there were
+losses to the Treasury (art. 41, 46 and 47 of Law 8443/1992).
+On the other hand, the Office of the Comptroller General of Brazil (CGU) is the
+control body in charge of investigating, prosecuting and trying unlawful
+practices that threaten public assets, including attempting to frustrate or defraud
+the competitive nature of procurements (article 5, section 4, and article 9 of Law
+12846/2013).
+With regards to Anticorruption Law, the Office of the Attorney General of Brazil
+(AGU) may require the blocking of assets or funds necessary to ensure the
+payment of fines or compensation for damages (article 19, section 4 of Law
+12846/2013). At last, it is important to emphasize that the Office of the Attorney
+General is authorised to file Civil Actions aimed at receiving damages for any
+losses suffered.
+21ADMINISTRATIVE LAW
+Cartels in procurements according to the provisions of Law 12846/2013
+Law 12846/2013
+(Anticorruption Law)
+Art. 5. For the purposes of this Law, is it consi dered a harmful practice for national or foreigner
+Governments, all conducts by legal entities, mentioned in art. 1, section 1, that threaten national or
+foreigner public assets, Government principles, or international commitments made by Brazil, and
+are defined as follows:
+Section 4. with regard to procurements and acquisitions:
+a) frustrating or defrauding, by means of adjustment, agreement or any other means, the
+competitive nature of government procurements;
+Office of the Comptroller General of Brazil (CGU)
+CGU has power to investigate, prosecute and try any unlawful behaviour listed in
+the anticorruption law, such as fraud in procurements which may be related to
+agreements between bidding companies (art. 9 of Law 12846/2013).
+Office of the Attorney General of Brazil and Prosecution Services
+The Attorney General and Official Legal Services Providers/Prosecution Services
+may require the blocking of assets or funds necessary to ensure the payment of
+fines or compensation for damages (art. 19 of Law 12846/2013).
+As aforementioned, the same conduct considered an antitrust violation may be
+classified as different administrative violations, of which it seems important to
+mention fraud in government procurements, corruption and managerial
+wrongdoing. The differences and correlation between such practices are
+detailed in the last section of this Guide, which is dedicated to crimes related to
+cartels.
+22PART II - DETECTING CARTELS IN PROCUREMENTS: ENABLERS,
+FORMS OF COLLUSION AND EVIDENCE
+II.1. Which aspects enable cartel formation? Characteristics of
+government procurement markets favourable for the creation of
+cartels, and for the monitoring of cartels in procurement processes
+Some particularities of the government procurement market, in Brazil and
+abroad, have major implications for both the prevention and the fight against
+cartels in government procurements. Amongst the main structural elements of
+government acquisitions which facilitate cartel formation as well as the
+monitoring by cartel members24, it is worth mentioning:
+(I) Consistency of products and services, absence of substitutes and minor
+technological changes: when products and services to be acquired have minor
+or no difference amongst them, it is easier to come to an agreement, because
+the members of a cartel will need to define together only one variable which
+can be easily controlled and measured: price. This is particularly common in
+government acquisitions because in most procurements there are no significant
+quality and/or technological differences amongst products and services to be
+acquired, as most procurements are for common goods and services. Besides,
+when there are few substitutes for a product, or yet, when a product does not
+involve major changes in terms of technology, companies are more confident of
+the success of their agreement and are sure it will last for a longer time.
+(II) Market conditions, stability of demand and recurrence of government
+procurements: significant alterations in demand or in supply conditions tend to
+destabilize possible collusive agreements in course. On the other hand, a
+constant and predictable demand by the Government increases the risk of
+collusion. The consequence of this – in addition to companies having access to
+the term of current contracts – is the facility to make agreements and arrange
+possible future rewards, or even to maintain long-term agreements, since it
+reduces the costs involved in monitoring cartel activity and makes it easier to
+discipline any potential deviant behaviour.
+24 See: OECD. Competition and Procurement (2011); and OECD. Guidelines for Fighting Bid Rigging
+in Public Procurement: helping governments to obtain best value for money (2009). Both available
+at: <www.ocde.org/competition>.
+23(III) Maintenance of notice provisions: the recurrent need to contract services
+and purchase products for government maintenance leads officials responsible
+for procurements to maintain notice provisions unaltered over time, thus
+reproducing the content of notices in several consecutive procurements, which
+brings predictability to the interaction amongst competitors and stability to the
+terms that support the collusive agreement.
+(IV) Transparency: information related to government procurements are public
+by nature, as a result of the constitutional provision that requires disclosure of all
+administrative processes, and is a necessary mechanism for effective oversight
+of government activities. However, it also allows companies unrestricted access
+to commercial information that, in private markets, are considered commercially
+sensitive data. In government procurements, companies know the prices
+charged by competitors (commercial proposals), technical and quality
+characteristics of the products and services offered (government notice rules
+and qualification documents), costs (price breakdown spreadsheets),
+commercial strategies (record of participation in government procurements),
+contract portfolio (supporting experience documentation), amongst other
+information. In this sense, such structural characteristics reduce the costs involved
+in monitoring and disciplining deviant behaviour by the companies participating
+in the anticompetitive agreement.
+(V) Restricted number of competitors: the probability of collusion in government
+procurements increases when there is only a few number of companies with
+technical and economic capacity to provide the good or service. The fewer the
+number of agents in the market, the easier it is for them to enter into an
+agreement.
+(VI) Entry barriers: Should a market have high entry barriers (e.g. in case entering
+a market is costly, difficult or slow), the companies in that market are protected
+from competitive pressure by potential new competitors, which facilitates the
+establishment and maintenance of collusive agreements, and allows cartel
+members to abuse of their joint market power. In the case of government
+acquisitions, reviewing entry barriers might involve, at times, reviewing the
+respective procurement notices. Procurement notices are the documents that
+establish the rules that will control the interaction amongst competitors (aspects
+24related to price, quantity, quality, technology, execution deadline, contract
+period, etc.} seeking to reproduce the competitive environment that, in theory,
+would prevail in private markets. However, this reproduction is faulty, since the
+government procurement notices have provisions that exclude some potential
+competitors (due to requirements related to prior experience, technical
+expertise, technical qualification, fulfilment of tax liabilities, etc.), therefore, being
+effectively an entry barrier.
+(VII) Necessity of a successful procurement: the difficulty the Government faces
+to react to significant price increases (because it is not feasible, to cancel and/or
+postpone the contracting of certain goods and services), makes price fixing at
+supra competitive levels, in several procurements, a viable and successful
+strategy, leaving the Government at the mercy of artificial conditions established
+by bidders.
+(VIII) Frequent interactions between bidders: another aspect that facilitates
+collusion is the existence of markets in which contact between bidders are
+frequent and continuous. Whether because the same companies usually
+participate of a great amount of procurements in that market or because they
+interact through associations or events in the field. Such contacts facilitate the
+establishment of a common strategy, as well as the monitoring and disciplining
+deviant behaviour by cartel members. In Brazil, where procurements are
+decentralized (each management unit carries out its own procurement
+processes to meet its needs), the frequency of contact between companies in
+certain sectors can be quite meaningful.
+II.2. Difficulties in detecting cartels in government procurements and
+the importance of circumstantial evidence
+In order to prove the existence of collusive agreements, the antitrust authority
+may use both direct (documents that prove the material existence of the
+agreement between bidders) and circumstantial evidence25. Due to the
+25Article 239 of the Brazilian Criminal Code defines circumstantial evidence as a set of stated
+incidents – even if at random – which may, by induction, allow for the inference that a crime has
+been committed.
+25difficulty of obtaining direct evidence, circumstantial evidence is an important
+mean for proving there are agreements in place.
+During investigations into cartels in government procurements, the use of
+circumstantial evidence is common, especially concerning suspicious behaviour
+of participants that deviate from what would be expected in a regular
+procurement, in which competition amongst competitors actually happens. E.g.:
+proposals with similar errors, rotation of winning bidders amongst competitors,
+and the existence of pattern in the price margin of the proposals presented.
+Circumstantial evidence result from active interpretation (e.g. logical inferences,
+economic reviews and deductions) by the authority, of facts and evidence that,
+taken together, might prove the anticompetitive conduct, since no other
+plausible explanation can account for such behaviour by the investigated
+parties26.
+On the one hand, cartel participants that have direct evidence of an
+agreement, make a lot of effort to keep the conduct a secret. On the other
+hand, antitrust authorities face all these strategies adopted by cartel members
+to destroy and tamper with evidence27 by making use of circumstantial
+evidences which play an important role in proving the existence of collusive
+agreements, as seen in international precedent.
+GLOBAL USE OF CIRCUMSTANTIAL EVIDENCE
+The Department of Justice of the United States, the body responsible for the
+criminal prosecution of antitrust conduct in the United States, has already
+suggested convicting cartels in government procurements based on
+circumstantial evidence1. There are, yet, other precedents that support the
+possibility of using circumstantial evidence in cases of investigations into collusive
+agreements:
+Indeed, it is axiomatic that the typical conspiracy is "rarely
+evidenced by explicit agreements," but must almost always be
+proved by "inferences that may be drawn from the behaviour of
+26CONSIDERA, C., DUARTE, G.F.S. A Importância de Evidências Econômicas para a Investigação
+de Cartéis: A Experiência Brasileira (Universidade Federal Fluminense, 2005).
+27GUERRIN, M., KYRIAZISYM, G. Cartels: Proof and Procedural Issues (1992), p. 266.
+26the alleged conspirators." Thus, an antitrust plaintiff may prove
+the existence of a combination or conspiracy by providing either
+direct or circumstantial evidence sufficient to "warrant a . . .
+finding that the conspirators had a unity of purpose or common
+design and understanding, or a meeting of the minds in an
+unlawful arrangement".2
+The European antitrust authority also agrees to the use of circumstantial
+evidence to prosecute cartels3. See, for instance, an excerpt from the decision
+of the European Court of Justice in the case of Aalborg Portland A/S and others
+v. Commission, which reviews an appeal against the decision of the European
+Commission that convicted a cartel in the European cement market4.
+Since the prohibition on participating in anti-competitive
+agreements and the penalties which offenders may incur are
+well known, it is normal for the activities which those practices
+and those agreements entail to take place in a clandestine
+fashion, for meetings to be held in secret, most frequently in a
+non-member country, and for the associated documentation to
+be reduced to a minimum.
+Even if the Commission discovers evidence explicitly showing
+unlawful contact between traders, such as the minutes of a
+meeting, it will normally be only fragmentary and sparse, so that
+it is often necessary to reconstitute certain details by deduction.
+In most cases, the existence of an anti-competitive practice or
+agreement must be inferred from a number of coincidences and
+indicia which, taken together, may, in the absence of another
+plausible explanation, constitute evidence of an infringement of
+the competition rules.5
+The international literature also follows the same approach. The OECD collected
+information on the use of circumstantial evidence by different antitrust
+authorities. Amongst the main conclusions, the following stand out:
+2. The better practice is to use circumstantial evidence
+holistically, giving its cumulative effect, rather than on an item-
+by-item basis. (…)
+4. There are two general types of circumstantial evidence:
+communication evidence and economic evidence. Of the two,
+communication evidence is considered to be the more
+important.6
+Furthermore, it is also important to note that, according to the Anti-Cartel
+Enforcement Manual prepared by the International Competition Network7, the
+way in which each jurisdiction determines the evidence necessary to prove the
+27existence of cartels differs. However, regardless of whether the evidence
+reviewed is direct or circumstantial, it is necessary to observe the following
+evidence, amongst others:
+1 – Evidence that indicates prior knowledge of information about
+prices or bids given by a competitor;
+2 – Evidence that indicates competitors have discussed bids or
+have come to an agreement regarding their bids;
+3 – Evidence of monitoring of agreements;
+4 – Evidence that a particular customer or contract is exclusive
+for a specific company;
+1United States v Champion International Corporation Case, 557 F.2d 1270 (9th Cir. 1977),
+related to cartel in government procurements for the sale of timber. See: OECD.
+Prosecuting Cartels without Direct Evidence (2006), p.174.
+2ES Development, Inc. v. RWM Enterprises, Inc., 939 F.2d 547 (1991). United States Court of
+Appeals for the Eighth Circuit. Available at: <https://cite.case.law/f2d/939/547/>.
+Retrieved:22 Sep 2020.
+3See, for instance, the decision of the European Court Justice on the “Dyestuffs Case”
+(ICI vs Commission, Case 48/69, 1972, §§66-68). Available at: <https://eur-
+lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:61969CJ0048&from=EN>.
+Retrieved: 3 May 2013.
+4Cases IV/33.126 and 33.322 – Cement. Available at: <https://eur-lex.europa.eu/legal-
+content/EN/TXT/PDF/?uri=CELEX:31994D0815&from=EN>, Retrieved: 3 May 2013.
+5Aalborg Portland A/S and others v Commission (Joined Cases C-204/00 P, C-205/00 P,
+C-211/00 P, C-213/00 P, C-217/00 P and C-219/00 P). Available at:
+<http://curia.europa.eu/juris/showPdf.jsf;jsessionid=9ea7d0f130d58a5500806a
+674a49b719cceb5a3d6dae.e34KaxiLc3eQc40LaxqMbN4Oah0Se0?text=&docid=48825
+&pageIndex=0&doclang=EN&mode=lst&dir=&occ=first&part=1&cid=299626>.
+Retrieved: 3 May 2013.
+6See: OCDE. Prosecuting Cartels without Direct Evidence (2006), p. 9-11.
+7See: ICN. Anti-Cartel Enforcement Manual (2008), p. 13.
+THE SOLAR HEATER CASE
+(Administrative Proceeding 08012.001273/2010-24)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2012 to investigate an alleged
+cartel in government procurements for the acquisition of solar heaters for low-
+income houses built by the Housing and Urban Development Company of the
+State of São Paulo (CDHU).
+28The investigation showed some companies combined prices and divided the
+market in procurements for the acquisition of solar heaters by CDHU; such
+agreements were implemented by means of suspension/withdrawal of proposals
+in procurements – in addition to a regular rotation of winning bidders for several
+lots – and the use of the strategy commonly known as bidder collusion in in-
+person reverse auction.
+The case was tried by the Tribunal of CADE in 2015. A majority decided for the
+conviction of all companies involved, and threw out the case against an
+association and two individuals. In addition to imposing a fine, the Tribunal also
+decided for the imposition a nonmonetary penalty: the inclusion of the
+companies in the Brazilian Consumer Protection Registry (Cadastro Nacional de
+Defesa do Consumidor) which was created as a means to keep track of
+companies found guilty of economic crimes].
+CIRCUMSTANTIAL EVIDENCE
+In this case, the use of circumstantial evidence was noteworthy because, taken
+as a whole, they led to the conviction of the companies. Amongst the evidence,
+it was particularly important the similarities observed in the prices listed in the
+proposals submitted by different companies for lots in procurements. The
+proposals (submitted in sealed envelopes), were at times completely identical –
+to the cents – too remarkable to be by coincidence, as explained by the
+Rapporteur of the case, Commissioner Márcio de Oliveira Júnior, in his vote:
+310. (…) typical price and market agreements are followed by
+manoeuvres in procurement processes aimed at emulating
+competitiveness. Such actions are taken to conceal the
+anticompetitive nature of the agreement, since an
+anticompetitive agreement cannot be expected to be formally
+written in a contract and signed. For this reason, the authorities
+responsible for investigating and trying these cases must consider
+different types of evidence to unveil a cartel.
+311. Evidence must essentially show: (i) the similarities in the
+behaviour of competitors in procurements, (ii) that companies
+participating in the cartel won the desired lots or allowed a
+company chosen by them to be the winner, (iii) there is a rotation
+to lose or win lots based on cover biddings and bid
+suppression/withdrawal, (iv) the existence of entry barriers, (v) the
+existence of communication channels or transparency forums
+that facilitate competitors to share information amongst them. In
+29this sense, the type of evidence – whether direct or circumstantial
+– is irrelevant, since the whole body of evidence is considered in
+court rulings. What may be different in a case based on
+circumstantial evidence from a classic case based on direct
+evidence is the greatest effort required in the discovery and
+examination to identify the elements that evince the economic
+crime.
+312. The case files indicated (i) the occurrence of price fixing and
+bid suppression/withdrawal to favour cartel participants, (ii) the
+winners of each lot were those chosen by the cartel, (iii) the
+bidding phase was used for bid rotation for the Defendants to
+simulate competition, (iv) entry barriers that favoured the offer of
+products to larger companies, coincidentally, the size of the
+companies on trial, (v) the Defendants used ABRAVA – the
+Brazilian Association for Refrigeration, Air Conditioning,
+Ventilation and Heating – to increase transparency in this market,
+as the majority of companies that participated in the
+procurement were part of it. (…)
+314. In this Administrative Proceeding, I observed there are odd
+coincidences related to the prices of several of the lots, which
+similarities in the price of inputs (hereby considered as the goods
+and services included in the lots) and the full homogeneity of all
+aspects that shape the prices cannot account for. Neither was
+there any explanation for how prices contained in sealed
+envelopes for five different lots were similar, always including the
+same company – Enalter –, which gave up its right to bid every
+single time
+Hence, it is clear the importance of circumstantial evidence, and its broad
+acceptance by different antitrust authorities for investigating and understanding
+how cartels operate.
+It is important to observe that circumstantial evidence have no value separately,
+at the risk of depreciating evidence, despite being a relevant indicator for the
+detection of cartels by the authorities. The collected evidence must be assessed
+as a whole, in order for evidence and circumstances to be interpreted at once,
+making the valuation of such evidence an interpretive ruling.28 Thus, the conduct
+of each company must be assessed both by comparing it with the conduct of
+other competitors and with the situation of the market in question.29
+Therefore, it is possible to state that, especially in the case of cartels in
+government procurements, there are circumstances that, when reviewed
+28ICI vs Commission, Case 48/69, 1972, §68.
+29GUERRIN, M., KYRIAZISYM, G. Cartels: proof and procedural issues (1992), p. 266.
+30together, indicate there is no other rational explanation for the behaviour of
+bidders, except the existence of a previous anticompetitive agreement amongst
+them; such evidence is fundamental for the detection and investigation of
+cartels in procurements, especially considering the increasing difficulty of finding
+any sort of direct evidence.
+II.3. Types of collusion: the main strategies used by companies to form
+cartels in procurements
+Cartels in procurements may assume different forms, combining one or more
+strategies in order to negotiate the illegal agreement. The strategies used by
+cartel members, especially in government procurements, as a general rule,
+involve reducing competition and artificially allocating contracts, in a private
+manner, between companies that are supposed to be competing against each
+other. In this sense, the simultaneous use of common strategies allows these
+agents to completely define the market, by allocating everything from contract
+portfolios, contracting agencies, geographical areas, though billing, amongst
+other criteria, all of it aiming at distributing any additional profits resulting from
+the reduction of competitive pressure.
+II.3.1. Cover Bidding
+Cover bidding (also known as cover pricing, and complementary or courtesy
+bidding) is the most common way of establishing collusion schemes amongst
+competitors. It is arranged to give an appearance that bidders are actually
+competing against each other. This sort of arrangement happens when
+individuals or companies agree on submitting proposals concerning at least one
+of the following:
+(1) One of the competitors agrees on submitting a proposal with prices higher
+than the ones offered sin the proposal submitted by the bidder chosen to win the
+procurement process;
+(2) A competitor deliberately submits a proposal that is too overpriced to be
+accepted; or
+31(3) A competitor submits a proposal with specificities that are known to be
+unacceptable to the purchaser.
+Some real-life cases involving cover bidding are detailed below:
+THE CARTEL CASE RELATED TO OUTSOURCED LAUNDRY SERVICES FOR
+HOSPITALS IN RIO DE JANEIRO (OPERATION “DIRTY LAUNDRY”)
+(Administrative Proceeding 08012.008850/2008-94)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2008, and was aimed at
+investigating a potential cartel to defraud government procurements for laundry
+services for hospitals in Rio de Janeiro. The investigation showed that
+representatives of companies operating in the sector, in several occasions,
+engaged in phone calls and held in-person meetings aiming at sharing
+commercial sensitive information such as prices, amounts of commercial
+proposals, contract portfolios, etc. The purpose of these contacts was to work
+towards agreements to divide the market division, submit cover bidding
+proposals and impose entry barriers for potential new competitors. Additionally,
+it was shown that their union operated to facilitate the establishment of these
+agreement amongst companies.
+The case was tried by the Tribunal of CADE in 2016. The Tribunal decided for the
+conviction of all the defendants, with the exception of two individuals, one of
+which because of a Cease and Desist Agreement.
+COVER BIDDING
+The use of the cover bidding strategy was evident in this case, for instance,
+because of price lists including quoted prices and prices for “coverage” that had
+to be higher than the winning one. The cover prices and even the sum of the
+amounts defined for each participant of the agreement were established. Cover
+bidding was one of the main strategies used for the implementation of the
+anticompetitive agreement in procurements.
+32FIGURE 130
+FIGURE 231
+INTERNATIONAL PRECEDENT
+30Figure 1 is a piece of evidence which was attached to the case files of the public version of the
+aforementioned Administrative Proceeding (§159 of the vote of the Rapporteur of the case,
+Commissioner Ana Frazão). It details a cover bidding to be submitted by companies involved in
+the collusion.
+31Figure 2 is another piece of evidence which was attached to the case files of the public version
+of the aforementioned Administrative Proceeding (§161 of the vote of the Rapporteur of the case,
+Commissioner Ana Frazão). It is a price list detailing a new proposal for market division which
+includes the prices to be submitted by cartel members in the proposals for each lot of the
+procurement.
+33THE CARTEL CASE RELATED TO MEDICAL DEVICES (INDIA)
+CASE SUMMARY
+The case concerns an anticompetitive conduct related to the manipulation of
+procurement proposals for supplying, installing, testing and commissioning a
+Modular Operation Theatre (MOT) and a Medical Gas Ammunition System
+(MGMS) for the Sports Injury Centre (SIC) of the Safdarjung Hospital, in New Delhi.
+The companies investigated were: (i) PES Installtions Pvt. Ltd. (PES); (ii) MDD
+Medical Systems Pvt. Ltd. (MDD); and (iii) Medical Products Services (MPS).
+COVER BIDDING
+The Competition Commission of India (CCI), after assessing the proposal forms
+submitted by the parties, stated that “not only was there the same typographical
+error in the price calendar, but the same dates were also mentioned in the
+various sections of the proposal forms submitted by PES and MDD. The Indian
+antitrust authority also observed that the same typographical errors appeared in
+the different proposals because the bidders shared printed copies of the price
+calendar format amongst themselves to be able to prepare and file the bidding
+documents together. Besides, according to the CCI, the coincidence of the
+errors observed in the forms submitted by bidders indicated they colluded to
+manipulate the procurement process. Therefore, the CCI concluded that the
+three competitors had indeed an agreement and, according to what was
+established in such agreement, PES and MPS submitted complementary
+proposals that were incredibly overpriced in comparison with the proposal
+submitted by MDD.
+II.3.2. Bid suppression and bid withdrawal
+The bid suppression strategies involve agreements amongst competitors for one
+or more companies to refrain from competing or withdrawing previously
+submitted proposals, so that the winner of the procurement is the bidder chosen
+by the cartel.
+34Therefore, the company can choose not to participate in the procurement from
+the beginning (what we call bid suppression) or withdraw its proposal in the
+middle of the process, in order for the other cartel member to win.
+Two cases in which this strategy was used are detailed below:
+THE DUCT CONSTRUCTION CARTEL IN SÃO PAULO
+(Administrative Proceeding 08012.009885/2009-21)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2010, based on a Petition
+submitted by the Basic Sanitation Company of the State of São Paulo (SABESP),
+which mentioned some alleged irregular behaviour by the companies SAENGE
+and CONCIC in a procurement (International Request for Proposals CSO
+53542/07).
+The case was tried by the Tribunal of CADE in 2015. The Tribunal voted for the
+conviction of all investigated parties, with the exception of a single individual.
+BID SUPPRESSION
+The bid suppression was evinced because, after winning the first phase, the
+company CONCIC simply stopped submitting the documentation requested by
+SABESP within the established deadline. After its disqualification from the
+procurement, SAENGE was declared the winner.
+Subsequently, SABESP became aware of the existence of a partnership
+agreement between CONCIC and SAENGE, regarding the construction related
+to the procurement process, which had been signed before the end of the
+procurement process, when CONCIC was still in first place. Under the terms of
+the “Private Partnership Agreement for Specific Purposes” (Instrumento Particular
+de Constituição de Sociedade em Cotas de Participação de Propósito
+Específico), the legal business was aimed at “the joint execution of the
+construction works of Lot 3 of the Mambu/Branco Water Production System of
+Baixada Santista”. Therefore, considering the withdrawal of the company that
+was in first place resulted from the private agreement, and in view of the rest of
+the evidence related to the nature of the contract, the moment it was signed
+35and the economic incentives that motivated the agreement, the non-submission
+by CONCIC of the documents required was considered as a suppression of its
+initial proposal.
+FIGURE 332
+Private Agreement (p. 177)
+INTERNATIONAL PRECEDENT
+THE POWER CABLES CARTEL (EUROPEAN COMMISSION)
+CASE SUMMARY
+An investigation was launched because the main submarine and underground
+power cable producers held meetings and engaged in bilateral and multilateral
+talks, aiming at restricting competition in specific territories.
+32Figure 3 can be found at page 177 of the public version of the case files of the aforementioned
+Administrative Proceeding. The figure shows an excerpt of a clause of the private agreement,
+which specifies the percentage of shares that would go for each company.
+36BID SUPPRESSION
+According to the decision of the European Commission, as of February 1999, the
+main submarine and underground power cable producers allocated projects
+according to geographical area and consumers. Additionally, information about
+aspects such as prices was exchanged to ensure the winning bidder would be
+the one chosen by the cartel. Thus, the chosen bidder would offer the lowest
+price, while the others submitted higher offers, suppressed their offers or
+submitted unattractive proposals in procurements.
+The companies were also forced to share information, which allowed for the
+monitoring of cartel members and ensured the fulfilment of the agreements.
+Other actions were also taken in order to strengthen the cartel, such as a
+collective refusal to provide accessories or technical assistance to certain
+competitors.
+II.3.3. Bidder collusion in in-person reverse auction
+Bidder collusion in in-person reverse auction (bloqueio em pregão presencial) is
+an anticompetitive strategy characterized by an agreement between a
+company that supplies a specific good or service requested in a procurement
+process and at least two other companies. In general, these companies are
+involved in some sort of supply chain relationship. The purpose of this sort of
+agreement is minimizing the chances of bidders who are not cartel members
+passing to the bidding phase in an in-person reverse auction, thus restricting
+competition in that procurement.
+The in-person reverse auction is divided into two phases:
+• Phase 1 or proposal phase: the proposals which will go through to the oral
+bidding phase are selected, namely: the best proposal and those with
+prices higher than the best proposal up to the limit of 10%. If there are not
+at least two proposals that fit the criteria of being higher than the best
+proposal up to the limit of 10%, the three best proposals are selected for
+the oral bidding phase;
+37• Phase 2: the oral bidding phase33, the procurement’s peak competitive
+phase, takes place. All of those who passed to this phase become aware
+of the prices offered by the others and start to openly compete for the
+contract. Therefore, this phase allows, when there is actual competition for
+the contract, the Government is able to obtain the most advantageous
+price proposal, which results in savings for the Treasury34.
+Thus, when using such strategy, cartel members are aware of the proposals of
+one another, and one of them submits a competitive proposal with a lower price,
+while the others submit proposals with prices within the 10% mark. These proposals
+are considered cover biddings35. The expectation is that only cartel members
+pass to the oral bidding phase. With this strategy, companies that are not
+participating in the collusion – whose proposals do not fall within the 10% range
+from the best proposal – may be artificially prevented from participating in the
+oral bidding phase, thus effectively removing competition in this phase of the
+reverse auction. Consequently, the cartel members that pass to the bidding
+phase, fail to submit new proposals or submit fake proposals with only a small
+price reduction.
+Restriction of competition in reverse auctions is agreed upon because, in the
+absence of collusion amongst companies, proposals with values above the
+range of 10% would pass to the bidding phase, ensuring actual competition in
+the second phase of reverse auctions.36
+Bidder collusion in in-person reverse auctions does not always ensure that a cartel
+win the reverse auction, since other competitors may submit proposals with
+prices lower or within the 10% range, thus passing to the oral bidding phase. In
+33In the form of a reverse auction, with successive and decreasing bids.
+34After the bidding phase, and the selection of the best proposal by the criterion of best price, the
+eligibility of the company in first place is verified more quickly than in other types of procurement.
+In case the first placed is not deemed eligible, the eligibility of the company in second place is
+assessed. Both phases are crucial for the Government not to simply obtain the proposal with the
+best price, but the most advantageous one.
+35Opinion 10/2016/CGEP/PFE-CADE-CADE/PGF/AGU. Proceeding 08012.009645/2008-46,
+launched based on the Petition submitted by CMW Saúde e Tecnologia Importação e Exportação
+Ltda., informing that Support Produtos Nutricionais Ltda., supplier of “food for special medical
+purposes”, had allegedly sold goods below the cost price, and fixed or practiced, in agreement
+with competitors, prices and conditions for the sale of goods in government procurements.
+36The strategy of bidder collusion does not apply to electronic reverse auctions, since in this type of
+procurement all companies with proposals qualified on the first phase can participate on the
+competitive phase, in which bids are presented (art. 23 of Ruling 5450/2005).
+38any case, collusion has a significant anticompetitive potential, since it deals with
+agreements amongst competitors involving variables such as prices and
+quantities that are considered competitively sensitive and must be assessed by
+CADE.
+THE CARTEL CASE RELATED TO THE ACQUISITION OF PAINTS
+(Administrative Proceeding 08012.006199/2009-07)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2012 to investigate a cartel in a
+government procurement (in-person reverse auction) organized by the City Hall
+of Lages (Prefeitura de Lages), in Santa Catarina, for the acquisition of painting
+and hydraulic materials.
+The case was tried by the Tribunal of CADE in 2014, which voted for the conviction
+of three of the investigated companies and the imposition of a fine and
+compliance with ancillary obligations.
+BIDDER COLLUSION IN IN-PERSON REVERSE AUCTION
+Despite the relative lack of direct evidence, there was a robust set of evidence
+consisting mainly of economic evidence of parallel pricing and circumstantial
+evidence such as the visually identical proposals, which had the same spelling
+errors and similarities in both formatting and wording.
+Such evidence proved the collusion in in-person reverse auctions, since the
+companies, by submitting identical prices or similar ranges to those of the initial
+proposals, aimed precisely at ensuring that, besides the company chosen by the
+cartel to be the winner of the procurement, at least one of the other two
+companies passed to the bidding phase. In some cases, when the use of this
+strategy allowed the three cartelists to pass to the bidding phase, two of them
+simulated competition and ended up giving up bidding for the benefit of the
+company chosen by the cartel to be the winner, thus effectively turning the
+bidding phase useless. In other cases, when bidders that were not part of the
+cartel passed to the bidding phase, the offenders worked on behalf of their
+chosen winner and against the newcomer, in order to “block” other potential
+competitors from submitting proposals that were actually more advantageous
+39to the Government. This strategy was used by the members of the cartel. This way
+the companies that passed to the bidding phase did not face competitive
+pressure from other bidders that had not passed to this phase.
+II.3.4. Bid rotation
+In the bid rotation scheme, the cartel members continue to compete, but agree
+to take turns submitting the winning proposal, either for different lots in the same
+procurement or for different procurements, so that each member of the cartel
+would have a “share”. In other words, it is a form of market division.
+The way in which bid rotation is implemented may vary. The division can be done
+in equal amounts (same number of lots) or, for instance, in proportion to the size,
+market share or productive capacity of each company.
+THE CARTEL CASE RELATED TO SECURITY REVOLVING DOORS
+(Administrative Proceeding 08012.009611/2008-51)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2008 to investigate a cartel in
+government procurements organised by Banco do Brasil and Banrisul for the
+acquisition of metal detector doors.
+The case was tried in 2014 and the Tribunal voted for the conviction of 4
+companies and 10 individuals.
+BID ROTATION
+The cartel members took turns submitting winning proposals, which was evinced
+by the conversations they had to discuss which company would win each
+procurement, based on previous wins. The strategy of bid rotation was also
+facilitated by the use of tables to keep track of the ranking of each member of
+the cartel, in order to determine the order in which each company would win
+future procurements.
+40FIGURE 437
+II.3.5. Market division
+The strategy of market division involves a scheme to submit proposals with the
+intent to somehow divide the market amongst the members of the cartel. The
+division may refer to, for example, customer portfolio (several government
+bodies), type of product/service, or geographic market (region/city/state, etc.).
+This strategy can be closely related to other aforementioned strategies, such as
+bid rotation, cover bidding, or bid suppression. Competing companies may, for
+example, assign specific customers or types of customers to different companies,
+so that other competitors do not submit proposals (or only submit fake proposals)
+in procurements carried out by these potential customers. In return, the
+competitor does not present competitive proposals to other specific groups of
+customers, which were assigned to other members of the cartel.
+37Figure 4 is a piece of evidence showing a chat conversation amongst bidders in which they are
+seen discussing prices agreements. It can be found at page 147 of the public case files of the
+Administrative Proceeding.
+41THE CASE OF THE INTERNATIONAL CARTEL OF MARINE HOSES
+(Administrative Proceeding 08012.010932/2007-18)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2007 after the signing of a
+Leniency Agreement concerning an alleged international cartel with effects in
+Brazil on the market of rubber marine hoses.
+The case was tried in 2015 and the Tribunal decided for the conviction of three
+companies and one individual and for dismissing the case against three
+companies and four individuals. In addition, four Cease and Desist Agreements
+were signed, which resulted in the dismissal of the case against the signatories.
+MARKET DIVISION
+The cartel was highly institutionalised and governed by rules of conduct and
+discipline provisions for anyone those who circumvented the agreement. It also
+had a “technical committee”, made up of the main members of the cartel,
+which was aimed at scrutinising and specifying rules.
+According to the “technical committee”, the cartel should be organised by a
+coordinator and aim at: (i) maximizing prices and profits, (ii) ensuring that the
+winning bidder would effectively win, using cover biddings, (iii) exchanging
+information about price, quantity, market share, and other competitively
+sensitive information, (iv) monitoring compliance with the agreement and
+enforcing discipline amongst members, especially with regard to “project”
+allocation and punishment for members who violated the rules, and ( v) reducing
+transaction costs related to attracting customers and sales strategies.
+The cartel coordinator was responsible for setting the rules to be followed by the
+members and monitoring the compliance with the market share agreed by the
+companies. This person was entrusted with the task of resolving conflicts amongst
+participants and seeking cover biddings (which they called “support”) for the
+winner appointed by the cartel (the "champion").
+In structural terms, such cover biddings were designed based on market shares,
+supply records, and operation of factories. Regarding the anticompetitive
+conduct, the cover biddings were also drawn up based on a company’s record
+42of compliance with the agreement, a division of the market intended to ensure
+specific market shares, and a balance of gains and losses amongst competitors.
+FIGURE 538
+INTERNATIONAL PRECEDENT
+THE CARTEL CASE RELATED TO PIPES WITH THERMAL INSULATION
+(BELGIUM)
+CASE SUMMARY
+The case was launched to investigate an alleged cartel on the market of pipes
+with thermal insulation.
+MARKET DIVISION
+At the end of the year 1990, four Danish producers signed an agreement for
+general cooperation in their domestic market and, as of the fall of 1991, two
+German producers started to participate regularly in the meetings. According to
+the European Commission, it was within this context that negotiations occurred,
+38Figure 5 is a piece of evidence attached to the public version of the opinion of the Rapporteur
+of the case, Commissioner Márcio de Oliveira Júnior, §269. It is a document evincing an agreement
+of international repercussion amongst cartelists.
+43which, in 1994, led to an agreement to allocate shares for the entire European
+market. These shares were allocated to each company by a team of directors
+(the presidents or CEOs of the companies participating in the cartel), both at the
+European and national levels. These countries included Germany, Austria,
+Denmark, Finland, Italy, the Netherlands, and Sweden.
+In 1995, the Swedish company Powerpipe AB (the only large company that did
+not participate in the cartel) reported the case to the Commission, complaining
+that its activities in the domestic market were being hampered. In 1998, the
+Commission concluded there were a number of agreements and practices
+aimed at dividing the national market amongst producers and, more precisely,
+to hinder the activities of the direct competitor Powerpipe AB. A Danish cartel
+went on to became a European cartel with considerable effects on intra-
+community trade.
+II.3.6. Other strategies: legal mechanisms used to implement
+anticompetitive strategies
+a) Consortia
+Article 33 of Law 8666/1993 includes the legal authorization for the establishment
+of consortia in government procurements, which is an important mechanism for
+increasing competitiveness in procurements, particularly in the case of large
+contracts, in which a company alone would not be able to provide the good or
+service requested.
+However, according to Marçal Justen Filho, even though there are some cases
+in which consortia contribute to increase the number of participants, particularly
+in procurements involving complex markets or products/services, the
+establishment of consortia may reduce the range of competitors and make it
+easier for potential interested parties to negotiate agreements with one another.
+It is important to mention that consortia are legitimate instruments and sometimes
+the only possible way to purchase the needed products or services. In some
+cases, they are essential to widen the range of the process, allowing smaller
+companies to compete with those with more capacity and/or the leaders of a
+market or sector. Nonetheless, this instrument, when used for something other
+than its intended purpose, may be harmful to procurement competition or even
+be used to implement anticompetitive agreements.
+This happens because in certain cases consortia can create distortions intended
+to ensure a previously-agreed division of the market between competitors.
+Consider this example: in a given procurement process, there are five companies
+44with technical and financial capacity to separately provide the requested
+service or product. However, they illegally discuss the possibility of creating a
+consortium and agree on who will be awarded the contract and what
+companies will formally propose the consortium. In this case, it is dangerous to
+competition and to the Treasury because the companies will submit proposals
+with higher prices than they would have submitted in a scenario in which they
+faced actual competition. This is made even worse by the fact that three
+companies will have submitted cover bids.
+This strategy was seen in the Train Cartel case39, tried in July 2019. In his opinion,
+the Rapporteur of the case, Commissioner João Paulo Resende, stressed
+consortia are allowed by law and their existence alone does not imply any
+wrongdoing. Nevertheless, it may be used in a twisted way, resulting in what he
+called "shell consortia", which "reduce the competition in a procurement since
+potential competitors suppress their individual bids and divide parts of the
+product or service requested in order to give shares to the members of
+consortium, ultimately dividing the market between these companies".
+In this regard, procuring bodies, when drafting procurement notices or designing
+the process itself, should be aware of their intended goal in allowing consortia to
+be created. And control agencies and auctioneers should know, in their turn,
+that although allowed by public notice, this kind of process may give rise to
+suspicious patterns.
+b) Subcontracting
+Similarly, subcontracting can be allowed in government procurements. It is a
+mechanism by which the winning bidder transfers part of a work or service to be
+carried out by a third party. In certain situations, bidders may take advantage of
+subcontracting to implement anticompetitive agreements, as in the case of
+companies that suppress their bids or cover other bids to be rewarded with a
+subcontract. Thus, subcontracting collaborating companies allows for the
+exceptionally high profits – consequence of the reduction of competition
+caused by the agreement signed by bidders – to be divided amongst cartel
+members.
+Once again, this is not to say that subcontracting is always and necessarily the
+result of an agreement amongst bidders. However, the potential risks of
+subcontracting, regarding possible collusive strategies available to bidding
+39Administrative Proceeding 08700.004617/2013-41. §100 of the vote of the Rapporteur of the
+case, Commissioner João Paulo Resende.
+45companies, should be analysed in the context of investigations about collusion
+in government procurements.
+THE AIRMAIL CARTEL CASE
+(Administrative Proceeding 08012.010362/2007-66)
+CASE SUMMARY
+The Administrative Proceeding was launched in 2007 based on a Complaint by
+the Federal Prosecution Services of the Federal District, requiring an investigation
+into an alleged cartel in a procurement carried out by Correios, the Brazilian
+postal service, to hire airmail services.
+The case was tried in 2014 by the Tribunal of CADE, which found all investigated
+parties guilty and imposed fines.
+SUBCONTRACTING
+Four days prior to the date for submitting proposals, the two investigated
+companies signed a “Subcontracting Commitment”, according to which the
+company that won any procurement lot would subcontract the other to provide
+50% of the respective services. The unlawfulness and anticompetitive nature of
+the referred subcontracting is evident, since it was prior to the procurement and
+aimed at maintaining a certain previously-set allocation.
+46FIGURE 640
+II.4. Evidence of collusion in government procurements
+Besides the market characteristics that facilitate cartel formation which were
+mentioned in item II.1., there is also evidence that may serve to call the attention
+of authorities and individuals in charge of procurement processes and
+acquisition procedures for the possibility of collusion. Such evidence differs from
+one procurement to another and are particularly linked to cases which CADE is
+responsible for investigating, as exemplified below:
+(I) Evidence at the stage of proposal submission:
+40Figure 6 is a piece of evidence attached to the public version of the Administrative Proceeding,
+page 2294. It is an excerpt of the subcontracting agreement regarding the subject matter.
+47• Number of submitted proposals substantially lower than the usual or
+expected.
+• Unexpected withdrawal of some companies from the procurement
+process, without a reasonable justification, or unexpected decrease in the
+number of bidders in the procurement process.
+• Submission of proposals by agents that clearly would not be able to win
+the contract (e.g. common errors, above the reference price) or by
+companies that continue to submit proposals despite being repeatedly
+unsuccessful.
+• A bidder presents several proposals or submits a proposal on their behalf
+and on behalf of other competing companies.
+• Regular competing bidders do not submit proposals when they would be
+expected to do so, continuing to compete in other processes.
+• Companies enter into a consortium, although they are clearly able to
+submit individual proposals.
+• Two or more proposals:
+o Have identical price values (particularly in the case of sealed
+proposals).
+o Have similar wording and formatting, similar or identical errors
+(typing, grammatical, and spelling errors or mathematical
+calculations).
+o Are sent from the same address, email, or fax or have postage
+stamps with sequential numbers and/or that were sent from the
+same post office.
+o When submitted through electronic means, were created or
+edited by the same supplier.
+o Have similar letterhead paper, forms, or contact details.
+(II) Evidence in the statements of bidders:
+• Justification of proposed prices referring to “price suggested by the
+market,” “standard market price”, or “price list of the market”.
+• Express reference to proposals submitted by competitors or to the
+existence of some type of agreement.
+• Reference to the prerogative of a company to deal within a territory or
+with a specific customer.
+48• Declarations of business associations with detailed reference to proposals.
+• Unions and business associations acting before courts or governmental
+agencies to prevent the participation of companies by mentioning the
+inadequacy of a company or proposals with impracticable prices.
+(III) Evidence related to the behaviour of bidders during/at a procurement
+process and in the business conditions of proposals:
+• Winning bidders subcontract competitors who have lost a contract,
+withdrawn from the process or refused to submit proposals, and/or
+regularly hire the same competitor.
+• In a set of procurement processes, suppliers usually win the same or similar
+amounts of contracts.
+• There is an odd and unreasonable price margin between the winning
+proposal and the others.
+• A company requests procurement documents for itself and one or more
+competitors or a company submits a proposal along one or more
+competitors. The value of proposals significantly decreases when a new
+bidder enters into the procurement process; or, on the contrary, it
+significantly increases without bidders or costs changing.
+(IV) Evidence related to the outcome of the procurement process:
+• There is a rotation pattern of contract winners related to procurement lots
+and geographic distribution.
+• The same company always wins the contracts awarded by a specific
+government body and others keep participating even though they
+always lose.
+• A great variation in the prices offered in procurements for similar products
+or services. Disclaimer: one needs to be sure the contracts are
+comparable in terms of quantity, product, and timeframe.
+In the face of evidence that indicate a cartel in government procurements, the
+government procurement official must report it to CADE by means of a reasoned
+complaint or the Clique-Denúncia, the channel available at CADE’s website for
+anyone to report a violation. Once CADE has knowledge of the case, an
+administrative investigation into it will be launched.
+49PART III – PREVENTING CARTELS IN PROCUREMENTS
+III.1. Contributions of government procurement officials to the fight
+against cartels
+CADE’s experience shows that the design of pro-competitive notices must be
+based on a principle to elaborate notice rules that simultaneously: (i) diminish the
+predictability of the main procurement baselines (such as reference price,
+purchased quantity, lot division, technical qualification criteria, etc.); and, thus,
+(ii) introduce destabilising elements into markets where there is a greater
+propensity of cartel activity.
+Such principle should not be understood as an insult to the stability of the rules
+governing government procurements or to legal certainty, which are aimed at
+ensuring predictability for economic agents, an essential requirement for
+efficient and effective investments.
+Thus, government procurement officials must pay close attention to the items
+presented below from the beginning of the drafting of a notice in order to reduce
+the risks associated with cartels in procurement and detect potential
+anticompetitive conduct amongst bidders during the process.
+III.2. What measures can be adopted to mitigate the risk of having a
+cartel in procurements41
+Considering all aspects that have already been mentioned, a brief checklist is
+presented below with measures that can be adopted to prevent and reduce
+the risk of collusion in government procurements:
+(I) General recommendations:
+• Request a Non-Collusive Bidding Certificate (Declaração de Elaboração
+Independente de Proposta), under the terms of Regulation no. 2, 16 Sep
+2009, by the Ministry of Planning, Budget, and Management. This
+41See CADE’s contributions in Medidas para estimular o ambiente concorrencial dos processos
+licitatórios. Available at: <http://www.cade.gov.br/acesso-a-informacao/publicacoes-
+institucionais/contribuicoes-cade-ppi.pdf/view>.
+50document is intended as a means to require that bidders guarantee,
+through a document signed by their legal representatives, that their
+commercial proposal and bids have been prepared without sharing any
+commercial sensitive information with a competing company.
+• Prohibit the disclosure of the reserve price/reference price, in accordance
+with the terms of Law 12462, 4 Aug 2011, the Differential Procurement
+Regime Law (Regime Diferenciado de Contratações).
+• Review the relevance of adopting concurrent auctions – in case of more
+than one concession related to a similar object – in order to prevent
+market division (a strategy facilitated by sequential auctions).
+• Plan concurrent auctions for complimentary projects – whether within the
+same auction or with projects that have already been included in
+previous procurements – in order to enable the creation of situations of
+super cumulative valuation in auctions, attracting both companies that
+are already active in the market and possible entrants. Consider the
+possibility of using different auction designs, in the manner of the “mixed
+auction model” (which combines open and closed formats) established
+in the Differential Procurement Regime Law, according to att. 23 and 24
+of Executive Order 7581, 11 Oct 2011.
+• Ensure that clarifications related to the notice – provided to interested
+parties in the phase prior to the submission of proposals – are offered in a
+virtual environment, to prevent the identification of companies.
+• Avoid opportunities for representatives of any interested companies to
+meet in person, both in the internal and external phases (that is, the
+procedures conducted before and after a notice is issued).
+(II) Recommendations for designing public notices:
+• Consortia: consider adopting criteria that stimulate competition,
+encourage the participation of entrants and prevent consortia from being
+used as a way to “strategically reduce demand” (which is harmful for
+asset valuation, from the point of view of the requesting party).
+51• Subcontracting: establish criteria for the monitoring and registration of
+subcontracted companies, making registration mandatory, to prevent
+subcontracting being used to carry out illegal agreements and reward
+companies that fail to propose effective bids in the expectation of being
+subcontracted later. Create incentives for entrants related to the scoring
+criteria for the technical evaluation of proposals.
+Establish different requirements for performance bonds in order to encourage
+competition in auctions. In Brazil, these bonds are managed and issued by
+the government-owned companies ABGF and FGIE.
+(III) Recommendations for during the procurement process:
+• Use a specific computerised system to carry out the auction, which
+considers the specificities of its rules42, to ensure there is:
+o A testing environment to emulate the auction.
+o Secrecy regarding participants and the bids offered.
+• Avoid in-person stages, in order to prevent representatives of participating
+companies from meeting during the auction.
+(IV) Recommendations on the specificities of each market and procurement
+contract:
+• Each market has specificities, regulations, and needs that can differently
+affect procurement design. As an example, the regulatory, technical,
+quality, safety, and even competition needs during the concession period
+must be balanced with the need for stimulating competition in the
+procurement process itself, in order to achieve an ideal balance between
+the design of the concession contract and the public notice.
+• Having a database – whether kept by the requesting bodies or other
+authorities – that unifies significant procurement information is essential for
+effectively fighting cartels in government procurements. This is because
+the effective monitoring of procurement procedures can have a
+deterrent effect, in addition to facilitating the detection of cartels.
+42In this regard, see the experience of ANEEL, the Brazilian Electricity Regulatory Agency.
+52PART IV – CRIMES ASSOCIATED WITH CARTELS IN PROCUREMENTS
+IV.1. Cartel and fraud in procurements
+Not rarely, fraud and cartels in government procurements are handled as a
+single thing – synonyms for the same illegal practice. However, as briefly
+explained on item I.2., although similar in several situations, such practices regard
+different legal concepts.
+Thus, it is important to properly recognise the legal parameters of each one and
+convergent and divergent aspects between them since this results in different
+and significant outcomes, such as which competent authority is in charge of
+investigating and trying a case and which type of penalty is applicable in each
+case. Fraud in government procurements is set forth in Article 46 of Law
+8443/1992, the Federal Court of Accounts Law and Article 93 of Law 8666/1993
+(the Procurement Law):
+Art. 46. Once fraud in a procurement process is confirmed,
+the Court must disqualify the bidder from federal
+government procurements for up to five years.
+Art. 93. Impede, disturb or defraud any procurement
+process:
+Penalty – 6 months to 2 years’ imprisonment, and a fine.
+The Procurement Law provides for a penalty ranging from six months to two
+years’ imprisonment and a fine to anyone convicted for defrauding any
+procurement process. Fraud occurs when there is, during a procurement
+process, any misleading, deceitful action, carried out in bad faith, with the
+purpose of harming or deluding, or of preventing the fulfilment of a duty provided
+by law or by the notice of the respective procurement process.
+It should be noted that in all types of fraud (whether it is related to the forgery of
+a mandatory document, or the delivery of a good instead of another, etc.), any
+fraudulent conduct in a procurement process will always endanger the fairness
+53and safety of government enterprises and procedures, which are protected by
+the Procurement Law.
+It is important to emphasise that this Law defines several types of fraudulent
+behaviour. Amongst which there are those that endanger, simultaneously, the
+integrity of administrative practices and the competitive nature of government
+procurements, e.g. fraud conducted through arrangements or agreements
+(cartels), which is specifically provided for in Article 90 of this Law.
+Therefore, the Prosecution Services, who are responsible for ensuring the
+effective observance of Government Authorities and defending the legal order,
+in addition to investigating, pursuing, and prosecuting any agent (public or
+private) whose conduct falls within the definitions of fraud established in Law
+8666/1993, either in its most general form (article 93) or in the specific form of
+fraud related to the competitive nature of a procurement process (article 90).
+After the Judicial Branch assesses the reports, granting the right to defence, the
+corresponding criminal penalties may be imposed on any fraudulent agents. The
+Brazilian Court of Accounts (TCU) also has jurisdiction, in the administrative
+domain, to investigate and punish fraudulent conduct, according to the Brazilian
+Court of Accounts Law, effectively declaring the bidder ineligible.
+As a deceitful practice against the Government, cartels in procurements are, at
+the same time, a type of fraud subject to the aforementioned criminal penalties
+and an economic crime, thus, CADE has jurisdiction to investigate and punish
+such conduct. Some cases in which cartels and fraud may be confused are listed
+below:
+(I) Companies participating in a procurement with common partners that are
+part of the same corporate group: in theory, there is no antitrust violation (cartel),
+but a potential fraud of the competitive nature of the procurement process;
+(II) Companies with common partners that are not clearly from the same
+corporate group: it may involve both an antitrust violation and fraud in a
+procurement process, when the close relationship between bidders may
+indicate the existence of a cartel and should therefore be assessed together with
+the rest of the evidence; or
+54(III) Companies with a kinship or relationship between partners: can be
+considered both an antitrust violation, and fraud in a procurement process, since
+the relationship between partners is only a circumstantial piece of evidence of a
+close relationship between bidders, which must be assessed together with the
+rest of the evidence.
+Although there is an apparent misunderstanding, the main issue is recognising
+two different situations: (i) competing economic agents that start acting in
+partnership in procurements – a cartel; versus (ii) economic agents that have
+never competed (because they share common partners, shell companies, straw
+parties, etc.) and start participating in procurement processes as if they were
+bidders – fraud. In addition, there are some ways to defraud procurements that,
+besides not involving agreements between competitors, can be made
+unilaterally, such as the provision of misleading information by the winning
+company.
+In the two last cases of fraud aforementioned, that is, fraud between different
+agents that do not really compete with each other, and fraud that did not even
+involve an agreement between companies, we are not facing a cartel in a
+procurement process and, therefore, CADE does not have jurisdiction to try these
+cases; the authorities with jurisdiction are the Prosecution Services and the
+Brazilian Court of Accounts. Therefore, even though fraud and cartels are similar,
+they have important differences, and to each corresponds different applicable
+rules and competent bodies responsible for investigating and prosecuting the
+cases related to them.
+55Fraud in government procurements as per the terms of Law 8666/1993
+and Law 8443/1992
+Law 8666/1993
+Law 8443/1992 (the Procurement Law)
+(the Brazilian Court of Accounts Law)
+Art. 93. Impede, disturb, or defraud any
+Art. 41. To ensure efficient monitoring and
+procurement process:
+in vestigation of accounts, the Court is to audit conducts
+carried out by those under its jurisdiction that result in
+Penalty – six months to two years’ imprisonment,
+revenue or expense, and must, for this purpose,
+and a fine.
+particularly:
+I – monitor, (…)
+b) government procurement notices, contracts,
+including administrative ones, and covenants,
+agreements, arrangements, or other similar
+instruments, as well as the conducts referred to in
+Ar ticle 38 of this Law;
+Prosecution Services and Police Forces
+Ar t. 46. Once fraud is detected, the Court must declare
+As far as crimes are concerned, the Police forces
+the fraudulent bidder ineligible to participate in
+pr ocurement processes held by the Federal and Prosecution Services are responsible for
+Government for up to five years. investigating and prosecuting cartels in the
+Art. 47. In audits, in case of embezzlement, criminal domain.
+misappropriation of funds, or other irregularity that
+results in losses to the Treasury, the Court is to
+immediately order the proceeding to become a case of
+special rendering of accounts, with the exception of the
+situations provided for in Article 93 of this Law.
+Judicial Branch
+If the Prosecution Services understand a crime
+has been committed, they report it to the
+judiciary, which will launch a criminal
+Brazilian Federal Court of Accounts (TCU)
+proceeding that will be prosecuted and tried by
+Should TCU, in its duty of supervising and auditing
+a judge with jurisdiction over the case.
+notices of procurement processes, in addition to
+contracts and covenants, detect fraud in a procurement
+process, the Court has jurisdiction to declare the
+fraudulent bidder ineligible to participate in other
+procurement processes for up to five years, as well as to
+conduct a special rendering of accounts, in the event of
+losses to the Treasury.
+56IV.2. Cartel in procurements and corruption
+Cartels in government procurement have several specificities that make the
+subject more complex. One of them is particularly challenging: the potential
+coexistence, in government procurements, of cartels and corruption (amongst
+cartelists and government officials).
+Their coexistence and interrelation can take different forms. One possible way is,
+for instance, when a government official intends to gain undue advantage and
+contacts a company or a group of companies to offer guidance related to a
+procurement. On the other hand, it is also possible that members of a cartel,
+aiming to ensure the success of their illegal agreement, engage in corrupt
+actions to make the government official in charge of the process turn a blind eye
+or even collaborate with the agreement.
+Thus, it is notable that, in the context of government procurements, the
+coexistence of these illegal conducts is somewhat usual and can strengthen one
+another, creating a type of vicious cycle that further aggravates the already
+severe losses caused by each conduct alone. However, it is necessary to
+understand that even if corruption and collusion are interconnected, they are
+actually separate illegal practices, i.e. one is not a prerequisite for the existence
+of the other, and may, in this sense, exist completely independently.
+As a consequence, cartels in government procurements and corrupt conducts
+are violations of different natures and are separately addressed by the Brazilian
+legal system. Thus, it is crucial to properly recognise what characterises one and
+the other and the resulting effects, such as the type of penalty applicable in
+each case, which bodies investigate the case and impose such penalties, etc.
+Cartels in government procurements, as it has already been explained, are
+agreements amongst bidders aimed at restricting or neutralise competition in the
+procurement process. Ultimately, this is the most serious type of economic crime,
+in which competitors are driven by the fact they have a common goal, while
+consumers (and the Government itself, in the case of procurements) suffer the
+negative effects.
+The power to prevent and deter economic crimes, including cartels, falls on the
+Administrative Council for Economic Defense (CADE), which, under the terms of
+57Law 12529/2011, is the agency with jurisdiction to impose administrative penalties
+for the anticompetitive conducts defined in Article 36 of the Procurement Law,
+such as cartels in government procurements.
+On the other hand, corruption is a crime against the Government, set forth in the
+Brazilian Criminal Code, that can be committed by a civil servant (passive
+corruption – Article 317) or a private individual (active corruption – Article 333),
+with a penalty of 2 to 12 years’ imprisonment and a fine applicable in both cases.
+In this sense, the Anticorruption Law (Federal Law 12846/2013) established an
+administrative interface that complements the performance of CADE and the
+Prosecution Services, aimed at making companies strictly liable – in the
+administrative and civil domains – for conducts harmful to the Government.
+According to the Anticorruption Law, conducts that are harmful to the
+Government are (amongst others provided for in Article 5):
+(I) promising, offering, or giving, directly or indirectly, undue advantages to
+government officials or to third parties related to them – that is, active corruption;
+(II) frustrating or defrauding, by means of arrangement, agreement, or any other
+way, the competitive nature of government procurement processes – that is,
+cartels in government procurements.
+Passive corruption involves requesting or receiving undue advantages, or
+accepting a promise of advantages for oneself or for others, directly or indirectly,
+even if not in office or before taking office, but related to an official position.
+Active corruption, on the other hand, involves offering or promising undue
+advantages to civil servants to have them do, omit to do, or delay performing
+their duties related to their position.
+Criminally prosecuting agents involved in passive or active corruption is a duty of
+the Prosecution Services, which must take the case to the Judicial Branch,
+without prejudice to actions taken by administrative bodies responsible for
+internal and external controls, such as courts of accounts, comptrollers’ offices,
+boards of ethics, etc.
+If cartels in government procurements and corruption happen at the same time,
+it is all the more important that the defence of competition and the fight against
+58corruption also be carried out simultaneously, which demands all competent
+authorities take action together.
+A good example of joint action is the Memorandum of Understanding signed
+between the Prosecution Services of the State of São Paulo (MPF/SP) and CADE,
+aimed at fighting cartels and working especially on leniency agreement
+negotiations. As the signing of leniency agreements at the administrative level
+also offers advantages at the criminal level, it is important that the antitrust
+authority and the Prosecution Services have an understanding in this matter.
+Therefore, cartels in government procurements and corruption, despite being
+violations of a different nature and which endanger different legal interests, they
+can be dealt with at the same time, and thus require complementary actions by
+the competent authorities. The interface between the actions to be taken by the
+competent authorities are exemplified and summarised in the table below. It is
+important to emphasize that the interactions between these domains happen in
+a coordinated manner (because fighting corruption falls outside the jurisdiction
+of CADE, even though the practice is closely linked to cartels).
+CADE Office of the Comptroller Prosecution
+General (CGU) Services and Police
+Competition Law (cartel)
+Forces
+Anticorruption Law
+(corruption) Crimes (e.g. cartel,
+corruption, money
+laundry, etc.)
+Penalties Administrative (up to 20% of gross Administrative (up to 20% Imprisonment +
+revenue) + prohibition to contract with of gross revenue) + community service
+the government, if applicable prohibition to contract + fines
+with the government, if
+applicable
+Type of Leniency Cease and Desist Leniency Agreement – Plea agreements –
+agreement Agreement Agreement Law 12846/2013 Law 12850/2013
+(CADE) – Law (CADE) – Law and others
+12529/2011 and 12529/2011 and
+the Statutes of the Statutes of
+CADE CADE
+Beneficiary Companies and Companies and Companies (only applies Individuals (there is
+individuals (only individuals (applies to the 1st applicant) usually no
+apples to the 1st to the 2nd and any requirements
+applicant)
+59following related to the order
+applicants) of application)
+Jurisdiction Signed by the Approved by - Highest authority of Approved by the
+General CADE’s Tribunal, each body or judge at the
+Superintendence with no government agency request of the Chief
+of CADE, in interference from of Police,
+- At the federal level:
+consultation with the Prosecution Prosecution
+CGU, the Office of the
+the Prosecution Services Service, or
+Attorney General (AGU),
+Services collaborator
+Prosecution Services
+- Brazilian Court of
+Accounts (TCU) has
+jurisdiction to monitor
+and review the
+agreements (not a
+consensus)
+Administrative Complete Fine reduction by Fine reduction (up to 2/3) - Acquittal
+and/or immunity or up to 50% (the and immunity or
+- Reduction of the
+criminal partial of Statutes of CADE) mitigation of the
+imprisonment
+benefits administrative and authorisation prohibition to contract
+sentence (up to
+and criminal to contract with the Government
+2/3)
+penalties (1 to
+2/3) and - Alternative
+authorisation to sentences instead
+contract of imprisonment
+Civil benefits No automatic civil No automatic civil No automatic civil No automatic civil
+benefits granted. benefits granted. benefits granted. benefits granted.
+Changes may be
+made to the
+legislation on joint
+and several
+liabilities.
+Source: ATHAYDE, Amanda. Manual dos Acordos de Leniência no Brasil: teoria e
+prática (2019).
+60

@@ -1,0 +1,2181 @@
+1Ministry of Justice
+Administrative Council for Economic Defense (Cade)
+Updated in March of 2020.
+Guidelines: Cade’s Antitrust Leniency Program
+General Superintendence
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Zip Code: 70770-504 – Brasília/DF
+www.cade.gov.br
+2Coordination:
+Vinicius Marques de Carvalho
+Eduardo Frade Rodrigues
+Amanda Athayde Linhares Martins
+Editing:
+Amanda Athayde Linhares Martins
+Andressa Lin Fidelis
+Revision:
+Diogo Thomson de Andrade
+Victor Santos Rufino
+Cade’s Commissioners:
+Alexandre Cordeiro Macedo
+João Paulo Resende
+Cristiane Alkmin Junqueira Schmidt
+Márcio de Oliveira Júnior
+Paulo Burnier da Silveira
+Gilvandro Vasconcelos Coelho de Araujo
+In-house Contributors
+Andressa Lin Fidelis
+Christiana Chianca Pereira
+Daniel Costa Rebello
+Joice Arantes Luciano
+Lívia Dias de Melo
+Rafael Braian Gonçalves Bitencourt
+3March of 2020 Revision:
+Alden Caribé de Sousa
+Joice Arantes Luciano
+Rafael Braian Gonçalves Bitencourt
+4FREQUENTLY ASKED QUESTIONS
+INTRODUCTION .................................................................................................. 11
+PART I. GENERAL ASPECTS OF THE ANTITRUST LENIENCY PROGRAM OF
+THE ADMINISTRATIVE COUNCIL FOR ECONOMIC DEFENSE (CADE) ......... 12
+1. What is the Antitrust Leniency Program of Cade? ............................................................................................ 12
+2. To which violations does Cade’s Leniency Agreement apply? ........................................................................ 13
+3. Is participating in a cartel an administrative or a criminal offense? ............................................................... 14
+4. Who are the competent authorities to investigate and punish the participation in a cartel in the
+administrative and criminal spheres? ......................................................................................................................... 14
+5. Is it possible to enter into an Antitrust Leniency Agreement exclusively with the Public Prosecution
+Service and/or the Judiciary? ....................................................................................................................................... 14
+6. What penalties apply to participation in a cartel? ............................................................................................ 15
+7. Why apply for Cade’s Leniency Agreement? ..................................................................................................... 16
+8. Is it possible to apply for a Leniency Agreement regarding conducts occurring outside of Brazil? .......... 17
+9. How long has the Leniency Program existed in Brazil? .................................................................................... 17
+10. Did Law nº 12.529/2011 promote any legislative changes in Cade’s Leniency Program? .......................... 18
+11. Can a cartel leader apply for a Leniency Agreement? ...................................................................................... 19
+12. What are the requirements to apply for Cade’s Leniency Agreement? ......................................................... 19
+13. How should the leniency applicant make a confession of wrongdoing? ...................................................... 20
+14. Who can apply for a Leniency Agreement? ....................................................................................................... 20
+15. Does it make a difference if the leniency applicant is a company or an individual? .................................... 20
+16. Is it possible to report on an alleged cartel even if the whistleblower has not participated in the offense
+to be reported? ............................................................................................................................................................. 21
+17. Who coordinates Cade’s Leniency Program? .................................................................................................... 21
+18. What benefits are granted to an applicant who signs and fulfills a Leniency Agreement? ........................ 22
+19. When are the benefits under a Leniency Agreement fully and partially granted? ....................................... 22
+20. When will the benefits under the Leniency Agreement be effectively granted? .......................................... 23
+21. To which crimes do the benefits granted to a Leniency Applicant? ............................................................... 24
+22. Do the benefits granted under a Leniency Agreement extend to other administrative offenses? ............ 24
+523. Can the second company inquire about a leniency application apply for any other type of benefit from
+Cade? .............................................................................................................................................................................. 24
+24. What are the differences between a Leniency Agreement and a Cease and Desist Agreement (TCC)? ... 25
+25. What does a “cooperation agreement” entail? ................................................................................................. 26
+26. What is the relationship between Cade’s Leniency Agreement and the Leniency Agreement set forth in
+Law nº 12.846/2013 (“Clean Company Act”/“Anticorruption Act”)? ....................................................................... 27
+27. Is there a Model Leniency Agreement? .............................................................................................................. 29
+PART II. PHASES OF NEGOTIATION OF CADE LENIENCY AGREEMENTS ... 29
+28. How is a Leniency Agreement negotiated with Cade? ..................................................................................... 29
+PART II.1. FIRST PHASE: SECURING A MARKER ............................................ 30
+29. What is a marker request? ................................................................................................................................... 30
+30. To whom at Cade’s General Superintendence should a marker be requested? ........................................... 30
+31. What must be reported to Cade’s General Superintendence in order to request a marker? ..................... 30
+32. Must a request for a marker be accompanied by evidentiary documents of the reported violation? ...... 31
+33. Why is it important to request a marker as soon as possible? ....................................................................... 31
+34. How does Cade’s General Superintendence verify the availability of a marker? .......................................... 32
+35. How long does it take for Cade’s General Superintendence to answer whether or not a marker is
+available to negotiate a Leniency Agreement? ......................................................................................................... 32
+36. What happens if the marker is available? .......................................................................................................... 32
+37. What happens if the marker is not available? ................................................................................................... 33
+38. What happens if Cade’s General Superintendence is already aware of the offense reported in the
+request for a marker? ................................................................................................................................................... 34
+39. Can a marker be amended? ................................................................................................................................. 34
+40. Can the leniency applicant withdraw its leniency application? ....................................................................... 35
+41. What happens if the leniency applicant withdraws its leniency application? ............................................... 35
+42. Does securing a marker guarantee that a Leniency Agreement will be signed? .......................................... 35
+43. Who has access to the terms of the marker? .................................................................................................... 36
+44. How long does the marker request remain in effect? ...................................................................................... 36
+45. What are Cade's confidentiality procedures at Phase II.1 (marker request)? ................................................ 36
+6PART II.2. SECOND PHASE: SUBMISSION OF EVIDENTIARY INFORMATION
+AND DOCUMENTS OF THE OFFENSE REPORTED OR UNDER
+INVESTIGATION .................................................................................................. 37
+46. What is the submission of evidentiary information and documents of the offense reported or under
+investigation? ................................................................................................................................................................ 37
+47. What kind of information must be provided by the leniency applicant? ...................................................... 38
+48. Which documents the leniency applicant must provide? ................................................................................ 39
+49. What precautions should be taken by the leniency applicant when collecting electronic documents and
+hard copies? ................................................................................................................................................................... 40
+50. How should the information and documents provided by the leniency applicant be presented to Cade’s
+General Superintendence? ........................................................................................................................................... 41
+51. If, in the course of the negotiation, the leniency applicant, in its internal investigation, finds evidence
+that the antitrust activity was broader than initially reported, can the negotiation be expanded to include the
+newly discovered conduct? .......................................................................................................................................... 42
+52. What is a History of Conduct? ............................................................................................................................. 42
+53. What is the time limit for negotiating a Leniency Agreement? ...................................................................... 43
+54. Can a leniency application be rejected by Cade? ............................................................................................. 43
+55. If a Leniency Agreement proposal is withdrawn or rejected, what guarantees do leniency applicants
+have? ............................................................................................................................................................................... 43
+56. When is the negotiation of a Leniency Agreement finalized by Cade’s General Superintendence and the
+document signed? ........................................................................................................................................................ 44
+57. What are Cade's confidentiality procedures in the phase of submission of evidentiary information and
+documents of the offense reported or under investigation (Phase II.2)? .............................................................. 44
+58. Can individuals be interviewed by Cade’s General Superintendence? ........................................................... 46
+59. What are the procedures to interview leniency applicants? ............................................................................ 46
+PART II.3. THIRD PHASE: EXECUTION OF THE LENIENCY AGREEMENT .... 47
+60. What is necessary for the execution of the Leniency Agreement? ................................................................. 47
+61. How does the State and/or Federal Public Prosecution Services participate in the Leniency
+Agreement? ................................................................................................................................................................... 47
+62. How and when are the State and/or Federal Public Prosecution Services contacted? ................................ 48
+63. How is it determined which office of the Public Prosecution Service will act in a given Leniency
+Agreement? ................................................................................................................................................................... 49
+764. Where is the Leniency Agreement signed? ....................................................................................................... 49
+65. Can a Leniency Agreement be entered into in bilingual form? ...................................................................... 50
+66. When must the leniency applicant hand over the hard copies of the evidentiary documents of the
+reported violation?........................................................................................................................................................ 50
+67. Which representation documents must be submitted by companies and individuals when signing the
+Leniency Agreement? ................................................................................................................................................... 50
+68. If the individuals decide not to sign the Leniency Agreement together with the company, will this hinder
+the execution of the agreement with Cade? ............................................................................................................. 51
+69. What does an Addendum to the Leniency Agreement mean? ....................................................................... 51
+70. What can be done if a leniency applicant does not communicate in Portuguese? ..................................... 52
+71. Must individuals located outside of Brazil personally attend to sign the Leniency Agreement? ............... 52
+72. Must the leniency recipients be represented by an attorney or by an agent? ............................................. 53
+73. What terms and conditions are set forth in the Leniency Agreement? ......................................................... 53
+74. Is there a Model Leniency Agreement? .............................................................................................................. 54
+75. What are Cade's confidentiality procedures in the Leniency Agreement execution phase (Phase II.3)? ... 55
+PART III. AFTER THE EXECUTION OF THE LENIENCY AGREEMENT ............ 56
+76. What happens after the Leniency Agreement is signed? ................................................................................ 56
+77. What happens if the terms and conditions stipulated in the Leniency Agreement are not fulfilled? ........ 56
+78. When a preliminary investigation or administrative proceeding is launched, what kind of information
+provided on the Leniency Agreement will be made public? ................................................................................... 57
+79. When a search and seizure warrant or other court measure is carried out, what kind of information
+provided on the Leniency Agreement will be made public? ................................................................................... 58
+80. Can the leniency recipient provide the information and/or documents negotiated in connection with the
+Leniency Agreement to third parties, other government agencies, or foreign authorities? ............................... 58
+81. What should the leniency recipient do if, after signing the Leniency Agreement, new information or
+documents on the reported violation are discovered? ............................................................................................ 59
+82. When does Cade declare the fulfillment of the Leniency Agreement and when does the leniency
+recipient’s duty to cooperate cease? .......................................................................................................................... 59
+83. Can the leniency recipient be held liable in a civil action for damages? ....................................................... 60
+84. Does the confidentiality of the information and documents submitted during the negotiation of the
+Leniency Agreement remain in effect after Cade’s Tribunal issues a final decision? ........................................... 60
+85. What are Cade's confidentiality procedures after the signature of the Leniency Agreement? .................. 61
+8PART IV. LENIENCY PLUS .................................................................................. 62
+86. What is Leniency Plus? ......................................................................................................................................... 62
+87. How does the marker request relates to Leniency Plus? ................................................................................. 64
+88. Is it possible to obtain Leniency Plus if the leniency applicant has previously signed a Leniency
+Agreement in another market with the SG-Cade? ................................................................................................... 66
+89. Is it possible to obtain discounts related to both the Cease and Desist Agreement (TCC) and Leniency
+Plus? ................................................................................................................................................................................ 66
+90. Is the Leniency Plus discount bounded to the celebration of a Cease and Desist Agreement? ................. 68
+91. Is it possible to obtain discounts in two Leniency Plus arrangements within a single administrative
+proceeding? ................................................................................................................................................................... 68
+92. If I have been able to celebrate a new Leniency Agreement, but it is still being negotiated, can I use it to
+get the benefit of Leniency Plus on a TCC? ............................................................................................................... 69
+93. If the applicant who qualifies for Leniency Plus is negotiating more than one New Leniency Agreement
+and is investigated in more than one case, how will the benefits be granted? .................................................... 69
+94. May the Partial Leniency be used in order to obtain the Leniency Plus benefit? ......................................... 72
+95. When does the leniency applicant receive the discount pursuant to Leniency Plus? .................................. 72
+PART V. LENIENCY AGREEMENTS FOR INTERNATIONAL CARTELS ........... 73
+96. About international cartels cases, is there any peculiarity regarding the marker request? ......................... 73
+97. Is it possible for the applicants and Cade's General Superintendence to adopt an oral procedure during
+the submission of information and documents phase, proving the reported or investigated infringement? . 73
+98. Does Cade share information on a Leniency Agreement with authorities of other countries? .................. 74
+99. In the interest of maintaining the secrecy of negotiations and / or investigations in other countries, may
+Cade coordinate the timing of the publicizing of its investigation with foreign authorities? ............................ 75
+100. May defendants disclose information and / or documents of the Leniency Agreement to foreign
+authorities? .................................................................................................................................................................... 75
+9LIST OF ABBREVIATIONS AND ACRONYMS
+Cade - Administrative Council for Economic Defense
+CGU - General Comptroller’s Office (in its Portuguese acronym)
+DOU - Federal Official Gazette ( in its Portuguese acronym)
+GEDEC - Special Group for Economic Offenses (in its Portuguese acronym)
+Leniency Agreements - Cade’s Leniency Agreements
+Leniency Program - Cade’s Leniency Program
+MP - Public Prosecution Service (in its Portuguese acronym)
+MPE - State Public Prosecution Service ( in its Portuguese acronym)
+MPF - Federal Public Prosecution Service (in its Portuguese acronym)
+MPF/SP - Federal Public Prosecution Service of São Paulo (in its Portuguese acronym)
+RiCade - Cade’s Internal Statute
+SDE/MJ - Secretariat of Economic Law of the Ministry of Justice (in its acronym in
+Portuguese)
+SG-Cade - Cade’s General Superintendence
+TCC - Cease and Desist Agreement
+10INTRODUCTION
+This FAQ on Cade’s Leniency Program consolidates the best practices and procedures
+usually adopted during the negotiation of Leniency Agreements with Cade. Its objective
+is to provide an institutional framework for future negotiations and to serve as a
+reference for public-sector employees, attorneys, and society as a whole in proceedings
+involving this important activity in connection with the Brazilian competition law and
+policy for dismantling cartels, and prosecuting antitrust conspiracy.
+It is important to note that this document is not binding and is not classified as a norm.
+The practices and procedures described in this FAQ may change at the discretion of SG-
+Cade, depending on the circumstances of the case at hand. Nevertheless, a large portion
+of the subject matter of this FAQ comes directly from Law nº 12.529/2011 and Cade’s
+Internal Statute - RiCade (Cade Resolution nº 22/2019), both of which are indeed
+binding.
+The structure of this FAQ is based on the main phases for negotiating and entering into
+a Leniency Agreement, according to articles 86 and 87 of Law nº 12.529/2011 and 196
+to 210 of RiCade):
+(I) General Aspects of Cade’s Leniency Program (Questions 1 to 27)
+(II) Phases of negotiation of Cade’s Leniency Agreements (Question 28)
+(II.1.) First phase: securing a marker ("marker)" (Questions 29 to 45)
+(II.2.) Second phase: submission of evidentiary information and
+documents proving the offense reported or under investigation
+(Questions 46 to 59)
+(II.3.) Third phase: execution of the Leniency Agreement (Questions
+60 to 75)
+(III) After signing the Leniency Agreement (Questions 76 to 85)
+(IV) Leniency Plus (Questions 86 to 95)
+(V) Leniency Agreement for international cartels cases (Questions 96 a 100)
+11PART I. GENERAL ASPECTS OF THE ANTITRUST LENIENCY PROGRAM OF
+THE ADMINISTRATIVE COUNCIL FOR ECONOMIC DEFENSE (CADE)
+1. What is the Antitrust Leniency Program of Cade?
+Cade’s Leniency Program is a set of initiatives aimed at detecting, investigating, and
+punishing offenses against the economic order; informing and permanently orienting
+companies and citizens in general regarding the rights and guarantees set forth in articles
+86 and 87 of Law nº 12.529/2011 (the Brazilian Competition Law) and in articles 196 to 210
+of RiCade; and incentivizing, orienting, and assisting leniency applicants to enter into
+Leniency Agreements.
+The Leniency Program allows companies and/or individuals currently involved or that were
+involved in a cartel or other antitrust conspiracy to obtain administrative and criminal
+benefits through applying for a Leniency Agreement with Cade, and, therefore, by
+committing to cease the illegal conduct, report and confess its participation in the
+wrongdoing, and cooperate with the investigations by submitting information and
+documents relevant to the investigation.
+In the administrative sphere, as long as applicants collaborate with the investigation and
+the result of such collaboration leads to the identification of others involved in the violation
+and to the obtention of information and documents evidencing the offense reported or
+under investigation, the leniency recipient will avoid administrative fines (if Cade’s General
+Superintendence does not have prior knowledge of the reported violation) or a reduction
+by one to two-thirds of the applicable administrative fines (if the SG-Cade already has prior
+knowledge of the reported violation) (article 86, paragraph 4, of Law nº 12.529/2011
+combined with article 208, I and II, RiCade). Regarding “prior knowledge” (see question 19).
+In the criminal sphere, the celebration of the Leniency Agreement will suspend the
+limitation period and also grant protection from criminal conviction and prison terms with
+respect to the antitrust offenses set forth in the Economic Crimes Act (Law nº 8.137/1990)
+and other crimes directly related to participation in a cartel, such as those set forth in the
+General Procurement Act (Law nº 8.666/1993) and in article 288 of the Criminal Code
+(criminal conspiracy). Once the Leniency Agreement has been fulfilled, the ability to
+sanction the above mentioned crimes is immediately extinguished (article 87 of Law nº
+12.529/2011 combined with article 208, sole paragraph, RiCade) (see questions 18 to 20).
+12Regarding civil actions, Law nº 12.529/2011 does not require the leniency applicant the
+obligation to compensate consumers potentially harmed by the cartel as a condition sine
+qua non for entering into a Leniency Agreement. However, the law does not exempt the
+leniency recipient from being held liable for antitrust damages in a civil action filed against
+the leniency recipient and other participants in the antitrust violation.
+2. To which violations does Cade’s Leniency Agreement apply?
+Cade’s Leniency Agreement applies to violations set forth in article 36 of Law nº
+12.529/2011, previously set forth in articles 20 and 21 of Law nº 8.884/1994. In general,
+Leniency Agreements are signed in cartel cases, i.e., when competing companies
+coordinate and agree for the purpose of, or with the potential to produce the following
+effects, even if not achieved (I) limiting, falsifying, or otherwise hindering free competition
+or free enterprise; (II) dominating a relevant market for goods or services; (III) arbitrarily
+increasing profits; and (IV) exercising a dominant position abusively (article 36,
+introductory paragraph, I to IV, of Law nº 12.529/2011).
+The Leniency Agreement applies to, among other things, antitrust conspiracies set forth in
+article 36, paragraph 3, part I, subparagraphs “a”, “b”, “c” and “d” and part II of Law nº
+12.529/2011, namely: (I) to agree to, set, manipulate, or collude with a competitor, in any
+manner, on (a) the prices of goods or services offered individually; (b) the production or
+trade of a restricted or limited quantity of goods or provision of a restricted or limited
+number, volume, or frequency of services; (c) the division of parts or segments of a current
+or potential market for goods or services, by means of, among other things, the division of
+customers, suppliers, regions, or periods; and/or (d) prices, conditions, advantages, or
+refraining from participating in a public bidding; and (II) to promote, obtain or influence
+uniform or concerted commercial conduct among competitors (as in the context of
+associations and syndicates, for example).
+Note that, according to the introductory paragraph of article 36 of Law nº 12.529/2011 and
+the Cade’s case law, cartel participation is considered “infringement by object”. This means
+that it is not necessary to demonstrate the effects of a cartel on the market. It is sufficient
+that the collusive conduct has the potential to cause an adverse effect, even if not achieved.
+In addition, an antitrust violation exists regardless of whether the companies involved are
+at fault.
+133. Is participating in a cartel an administrative or a criminal offense?
+Participation in a cartel is an illicit act both under administrative law (article 36, paragraph
+3, I, of Law nº 12.529/2011) and under criminal law (article 4, II, of Law nº 8.137/1990).In
+addition, participants may be subjected to civil liability in private and/or public damages
+actions (article 47, Law nº 12.529/2011).
+4. Who are the competent authorities to investigate and punish the participation in a
+cartel in the administrative and criminal spheres?
+In the administrative sphere, Cade’s General Superintendence has jurisdiction to
+investigate and initiate administrative proceedings regarding cartels and other antitrust
+conspiracies (article 13, V, of Law nº 12.529/2011), and the Plenary of Cade’s Tribunal has
+jurisdiction to issue a final decision (article 9, III, of Law nº 12.529/2011).Through the
+Leniency Agreement companies and/or individuals apply for obtaining full immunity or a
+reduction of the applicable fine by Cade. Such benefits are granted definitively in the
+judgment of the administrative proceeding by the Plenary of Cade’s Tribunal (article 86,
+paragraph 4, of Law nº 12.529/2011) (see questions 18 to 20).
+In the criminal sphere, the State and/or MP are competent to bring a case to the Judiciary
+regarding cartel activity (article 16, Law nº 8.137/1990), and the final decision is issued by
+the Judiciary. In the criminal sphere, entering into a Leniency Agreement suspends the
+limitation period and prevents the criminal prosecution of the leniency recipient regarding
+the offenses set forth under the Economic Crimes Act (Law nº 8.137/1990), and other
+offenses directly related to cartel activity, such as those set forth in the General
+Procurement Act (Law nº 8.666/1993), and in the article 288 of the Criminal Code (criminal
+conspiracy). Once the Leniency Agreement is fulfilled, the ability to sanction the above
+crimes is automatically extinguished, according to article 87 of Law nº 12.529/2011,
+5. Is it possible to enter into an Antitrust Leniency Agreement exclusively with the Public
+Prosecution Service and/or the Judiciary?
+14No. Law nº 12.529/2011 establishes that Cade’s General Superintendence is the competent
+authority to celebrate Antitrust Leniency Agreements (see question 30). Thus, although
+parts can contact the Public Prosecution Service and/or the Judiciary to negotiate leniency
+agreements related in whole or in part to other offenses, companies and/or individuals
+must negotiate an Antitrust Leniency Agreement directly with Cade, with the participation
+of the State and/or Federal Public Prosecution Services as a consenting party (see questions
+60 to 62).
+Entering into a leniency agreement with other institutions (such as the Public Prosecution
+Service and the General Comptroller’s Office), do not exclude Cade’s competence to
+celebrate Antitrust Leniency Agreements pursuant to Law nº 12.529/2011.
+6. What penalties apply to participation in a cartel?
+Participation in a cartel is an offense under both administrative and criminal law (see
+questions 3 e 4).
+In the administrative sphere, according to article 37, parts I to III, of Law nº 12.529/2011,
+the monetary penalties (fines) applicable to antitrust violations are the following:
+I. Regarding companies, a fine of 0.1% to 20% of the gross revenues of the company,
+group, or conglomerate, earned in the last fiscal year before the initiation of the
+administrative proceeding, in the line of the business activity in which the violation
+occurred, which will never be lesser than the advantage obtained, when it is possible
+to estimate its value;
+II. in the case of individuals or legal entities governed by public or private law, as well as
+associations, and syndicates that do not carry out business activity, if it is impossible
+to use the criterion of the value of gross revenues, a fine of BRL 50,000.00 to BRL
+2,000,000,000.00; and
+III. in the case of managers directly or indirectly responsible for the violation committed,
+if their fault or willful misconduct is proven, a fine of 1% to 20% of the one imposed
+on the company.
+15As set forth in article 38 of the same law, in addition to the fines, other penalties may be
+imposed separately or cumulatively in the administrative sphere, such as: (i) the
+requirement to publish the conviction decision in a newspaper of wide circulation; (ii) a
+prohibition on contracting with financial institutions and participating in biddings held by
+public bodies; (iii) a split-up of the company or a divestiture of certain assets; (iv) a
+recommendation for a compulsory license to be granted for an intellectual property right;
+(v) a prohibition on granting an arrangement for payment of tax in installments; (vi) a
+prohibition on engaging in commerce, and/or any other act or measure as necessary to
+eliminate the effects harmful to the economic order.
+In the criminal sphere, according to article 4, part II, of Law nº 8.137/1990 (Economic
+Crimes Act), committing a cartel-related crime subjects the individuals involved to the
+penalties of imprisonment for two to five years and a fine. According to article 12 of the
+same law, such penalty may be increased by one-third to one-half if the crime causes
+serious harm to society, is committed by a public-sector employee in the exercise of his or
+her duties, or is related to goods or services essential to life or health.
+7. Why apply for Cade’s Leniency Agreement?
+Entering into a Leniency Agreement with Cade provides significant benefits for the leniency
+recipients – companies and/or individuals (see questions 14 and 15) – in the administrative
+and criminal spheres (see questions 18 and 19), as Cade’s Tribunal recognize the fulfillment
+of the obbligations set in the agreement. If no Leniency Agreement is signed, all companies
+and/or individuals that participate in the antitrust conspiracy may be convicted and fined
+in both the administrative and criminal spheres.
+Those involved in such violations are subject to severe administrative sanctions (article 37
+of Law nº 12.529/2011), and, in the case of companies, the antitrust violation exists
+regardless of fault. Administrative punishment for such antitrust violations is consolidated
+on Cade's case law, both under the current Law nº 12.529/2011 and the previous legislation
+(Law nº 8.884/1994). Cade’s Tribunal has been firm in punishing agreements between
+competitors with the objective of or potential to produce the effects, even if not realized,
+of (I) limiting, falsifying, or otherwise hindering free competition or free enterprise; (II)
+dominating a relevant market for goods or services; or (III) arbitrarily increasing profits. In
+addition, those involved can also be punished criminally for the violation, since
+16participation in a cartel is also a crime set forth in article 4 of Law nº 8.137/1990 (see
+questions 3 to 6).
+Moreover, the participants in the antitrust conspiracy must keep in mind that, even though
+no Leniency Agreement has been proposed, Cade may be aware of an illicit agreement
+among competitors through many other sources (for example, representations of clients
+or third parties, news and information in the press, cooperation with national regulatory
+authorities or foreign antitrust authorities on investigations underway in other
+jurisdictions, ex officio investigations, etc.), or, furthermore, by means of other
+administrative measures (for example, search and seizure, inspections, requests for
+information, and the use of intelligence procedures to detect cartels activity in biddings),
+which represent yet another incentive to entering into a Leniency Agreement with Cade.
+8. Is it possible to apply for a Leniency Agreement regarding conducts occurring outside
+of Brazil?
+Yes. As set forth in article 2, the introductory paragraph of the Brazilian Competition Law
+(Law nº 12.529/2011), Cade’s Leniency Program comprises conduct committed wholly or
+in part within the Brazilian territory or even in another jurisdiction, as long as they produce
+or may produce effects in Brazil.
+For entering into a Leniency Agreement regarding conducts which occurred outside of
+Brazil, the company and/or individual must demonstrate that the effects were felt or could
+have been felt in the Brazilian territory, thus establishing a connection between the
+anticompetitive conduct and such effects in Brazil.
+9. How long has the Leniency Program existed in Brazil?
+The benefit of leniency was introduced in Brazil by Law nº 10.149/2000, which amended
+the previous Competition Law (Law nº 8.884/1994, arts. 35-B and C), with the objective
+of strengthening the activity of combatting antitrust violations. Under Law nº
+8.884/1994, the benefit of leniency was regulated by the Ministry of Justice’s
+Ordinances nº 4/2006 (article 61) and nº 456/2010 (article 59).
+Since 2003, the criminal prosecution of cartels has become a priority in Brazil, and Cade
+has been cooperating with the State and Federal Public Prosecution Services and with
+17the Federal Police to ensure that directors, managers, and employees of involved
+companies that do not sign Leniency Agreements are prosecuted for committing the
+crime of participation in a cartel, for which the prescribed penalty is two to five years of
+imprisonment and a fine (article 4, II, of Law nº 8.137/1990, Economic Crimes Act).
+With the advent of the new Competition Law (Law nº 12.529/2011), on May 29, 2012,
+the current Cade’s Leniency Program was introduced, with a specific chapter (Chapter
+VII, Title VI), whose rights and guarantees are set forth in its articles 86 and 87 and in
+articles 196 to 210 of the RiCade.
+The first leniency applicant in Brazil presented itself before the former SDE/MJ - whose
+functions were similar to those currently carried out by Cade’s General Superintendence
+– in 2003, after two search and seizure operations in that year, at which time the
+Secretariat had already earned a positive reputation in the business community
+regarding its ability to expose and investigate anticompetitive practices. Since then,
+Cade has perfected the institution of antitrust leniency in Brazil to make it more
+transparent, efficient, and secure.
+Current data on the total number of Leniency Agreements signed from year to year with
+Cade can be accessed here.
+10. Did Law nº 12.529/2011 promote any legislative changes in Cade’s Leniency Program?
+Yes. Law nº 12.529/2011, which instituted the current Cade’s Leniency Program (Chapter
+VII, Title VI), promoted a few changes in the previous legislation (Law nº 8.884/1994),
+namely:
+I. alteration of the competent authority: under Law nº 8.884/1994, it was the Federal
+Government, through the SDE/MJ, which was competent to enter into Leniency
+Agreements. Under Law nº 12.529/2011, it is now Cade, through its General
+Superintendence;
+II. repealing the rule stating that the cartel leader could not propose a leniency
+agreement; and
+III. specification of the benefits of the Leniency Agreement in the criminal sphere: Law
+nº 12.529/2011 provides that execution of a Leniency Agreement leads to suspension
+of the limitation period and prevents the criminal prosecution of the leniency
+recipient regarding the offenses set forth in the Economic Crimes Act (Law nº
+188.137/1990) and other crimes directly related to cartel activity, such as those set forth
+in the General Procurement Act (Law nº 8.666/1993), and on article 288 of the
+Criminal Code (criminal conspiracy). Once the Leniency Agreement has been fulfilled,
+the ability to sanction the above crimes is automatically extinguished, according to
+article 87 of Law nº 12.529/2011.
+11. Can a cartel leader apply for a Leniency Agreement?
+Yes. Law nº 12.529/2011 eliminated the previous rule preventing a cartel leader from
+proposing a Leniency Agreement (see question 10). Thus, Cade’s General Superintendence
+may enter into a Leniency Agreement with the cartel leader as long as the applicant meets
+the legal requirements (article 86 of Law nº 12.529/2011 combined with article 197 of the
+RiCade) (see question 12).
+12. What are the requirements to apply for Cade’s Leniency Agreement?
+Articles 86 of Law nº 12.529/2011 and 197 of the RiCade list the requirements for entering
+into a Leniency Agreement in Brazil. According to those articles:
+I. the company must be the first in with respect to the violation reported or under
+investigation;
+II. the company and/or individual must cease its participation in the violation reported
+or under investigation;
+III. when the agreement is proposed, Cade’s General Superintendence must not have
+sufficient evidence to ensure the conviction of the company and/or the individuals;
+IV. the company and/or individuals must confess the wrongdoing;
+V. the company and/or individual must fully and permanently cooperate with the
+investigation and the administrative proceeding, and attend, at their own expenses,
+whenever requested, at all procedural acts, until a final decision is rendered by Cade
+on the reported violation; and
+VI. the cooperation must result on the identification of the others involved in the
+violation and the collection of evidentiary information and documents of the offense
+reported or under investigation.
+1913. How should the leniency applicant make a confession of wrongdoing?
+The confession of wrongdoing can be made orally or in writing. However, the Leniency
+Agreement is itself a written agreement that contains an express clause referring to the
+admission of the participation of the company and/or individual in the antitrust conspiracy
+reported. The confession clause has the following wording:
+“Each of the Signatories confess the participation in the Reported Violation as described in
+the ‘History of Conduct’.” (see question 72).
+14. Who can apply for a Leniency Agreement?
+According to article 86 of Law nº 12.529/2011, both companies and individuals involved or
+that have been involved in the antitrust violation can propose a Leniency Agreement, as
+long as they meet the requirements set forth in articles 86 of Law nº 12.529/2011 and 197
+of the RiCade (see question 11).
+Negotiation of the Leniency Agreement with Cade’s General Superintendence is normally
+conducted with the leniency applicant’s legal representative. The leniency applicant should
+grant the attorney specific powers to negotiate and execute the Leniency Agreement with
+Cade and with the State and/or Federal Public Prosecution Service.
+15. Does it make a difference if the leniency applicant is a company or an individual?
+Yes. If the leniency applicant is a company, the benefits of the agreement can be extended
+to its current and former directors, managers, and employees, as well as to companies of
+the same economic group, de facto and de iure, involved in the violation, as long as they
+cooperate with the investigations and sign the instrument together with the company
+(article 86, paragraph 6, of Law nº 12.529/2011 combined with article 197, paragraph 1,
+RiCade).
+The individuals and companies of the same economic group can enter into the agreement
+together with the applicant company or in an addendum to the original Leniency
+Agreement when authorized by Cade, according to its discretion (article 197, paragraph 2,
+RiCade). Companies and their directors, managers, and employees may be represented by
+the same or different legal representatives or attorneys.
+20However, if the leniency applicant is an individual and the agreement is signed without the
+participation of the legal entity, the benefits will not be extended to the company with
+which the individual is or was associated (article 86, paragraph 6, Law nº 12.529/2011
+combined with article 197, paragraph 3, RiCade). The justification for this is to increase the
+instability of the cartel, so that all participants involved, whether they are companies or
+individuals, still have a strong incentive to report the anticompetitive practice to Cade as
+soon as possible.
+16. Is it possible to report on an alleged cartel even if the whistleblower has not
+participated in the offense to be reported?
+Yes. If a whistleblower that did not participate in the violation becomes aware of the cartel
+or other antitrust conspiracy, he or she should notify Cade’s General Superintendence as
+soon as possible. This notice may be in the form of a petition filed with Cade or through the
+link "Clique Denúncia", a channel on Cade’s website for reporting violations. It is important
+for the notice to be substantiated and accompanied by evidentiary information and
+documents of the antitrust offense when possible, in order to assist the investigation of the
+SG-Cade. This information submission is not a Leniency Agreement proposal, since this type
+of agreement is only offered to cartel participants.
+17. Who coordinates Cade’s Leniency Program?
+According to article 86 of Law nº 12.529/2011, the body responsible for negotiation and
+execution of Leniency Agreements is Cade’s General Superintendence. Cade’s Tribunal
+does not participate in the negotiation and/or execution of Leniency Agreements and is
+only responsible for declaring whether or not the leniency agreement has been fulfilled, at
+the time it issues a final decision on the corresponding administrative proceeding (article
+86, paragraph 4, of Law nº 12.529/2011).
+Although articles 86 and 87 of Law nº 12.529/2011 do not expressly require the
+participation of the State and/or Federal Public Prosecution Services for entering into a
+Leniency Agreement, Cade's consolidated experience shows that, in light of the criminal
+repercussions of a cartel, the Public Prosecution Service should be invited to co-sign, as it
+is the competent body to bring criminal charges and initiate a public criminal action. Hence,
+a member of the State and/or Federal Public Prosecution Services can participate in the
+celebration of the agreement as a consenting party, even in the international cartel cases,
+21in order to grant greater legal security for the leniency recipients and facilitate the criminal
+investigation of the cartel (see questions 60 to 62).
+18. What benefits are granted to an applicant who signs and fulfills a Leniency
+Agreement?
+In the administrative sphere, entering into a Leniency Agreement grants companies and/or
+individuals full immunity or a reduction of the applicable fine by Cade. Such benefits are
+definitively rendered in the judgment of the administrative proceeding by the Plenary of
+Cade’s Tribunal (article 86, paragraph 4, of Law nº 12.529/2011).
+According to article 86, paragraph 4, of Law nº 12.529/2011 combined with article 208 of
+the RiCade, once Cade’s Tribunal declare that the Leniency Agreement as fulfilled, the
+leniency recipients will benefit from:
+I. administrative immunity under Law nº 12.529/2011, in cases in which the Leniency
+Agreement’s proposal is submitted to Cade’s General Superintendence when this
+authority was not aware of the reported violation; or
+II. a reduction by one to two-thirds of the applicable fine under Law nº 12.529/2011, in
+cases in which the Leniency Agreement’s proposal is submitted to the SG-Cade after
+this authority becomes aware of the reported violation (see question 38).
+In the criminal sphere, entering into a Leniency Agreement leads to the suspension of the
+limitation periods and prevents the criminal prosecution of the leniency recipient with
+respect to the antitrust offenses set forth in the Economic Crimes Act (Law nº 8.137/1990),
+and other crimes directly related cartel activity, such as those set forth in the General
+Procurement Act (Law nº 8.666/1993), and on article 288 of the Criminal Code (criminal
+conspiracy). Once the Leniency Agreement has been fulfilled, the ability to sanction the
+above mentioned crimes is automatically extinguished (article 87 of Law nº 12.529/2011).
+19. When are the benefits under a Leniency Agreement fully and partially granted?
+Full immunity (total leniency) or the reduction by one to two-thirds of the applicable fine
+(partial leniency) (article 86, paragraph 4, of Law nº 12.529/2011), depends on the “prior
+knowledge” of Cade’s General Superintendence concerning the reported violation (article
+208, I and II, RiCade):
+22I. if the SG-Cade did not have prior knowledge of the violation, the company and/or
+individual will receive, upon declaration of fulfillment of the Leniency Agreement by
+the Plenary of Cade’s Tribunal, the benefit of full immunity by the public
+administration regarding the reported violation;
+II. if the SG-Cade already had prior knowledge of the conduct but did not have enough
+proof to ensure a conviction of the cartel participants, then the company and/or
+individuals may enter into a Leniency Agreement with partial benefits (Partial
+Leniency, see question 38) and will receive, upon declaration of fulfillment of the
+Leniency Agreement by the Plenary of Cade’s Tribunal, the benefit of a reduction of
+one to two-thirds of the applicable penalty, depending on the effectiveness of the
+cooperation and the fulfillment of the Leniency Agreement by the leniency
+proponent.
+Although under the Brazilian law there is no express concept of “prior knowledge” of the
+conduct by Cade’s General Superintendence, prior knowledge is understood to be present
+only when, at the time of submission of the proposal of Leniency Agreement, there is an
+ongoing administrative proceeding (arts. 66 and 69, Law nº 12.529/2011) with reasonable
+evidence of anticompetitive practices that is the object of the proposed Leniency
+Agreement. In this regard, information submitted through the “Clique Denúncia” channel,
+news articles, or information on the existence of an investigation within another body of
+the public administration not yet investigated by Cade, among other situations, generally,
+do not qualify as “prior knowledge” by Cade’s General Superintendence, unless this
+information has sufficient probative value to support opening an administrative
+proceeding.
+20. When will the benefits under the Leniency Agreement be effectively granted?
+In the administrative sphere, the benefits will be effectively granted upon declaration of
+the fulfillment of the Leniency Agreement by Cade’s Tribunal, at the time Cade issues its
+final decision on the corresponding administrative proceeding (article 86, paragraph 4, I
+and II, of Law nº 12.529/2011). Cade’s declaration of the fulfillment of the Leniency
+Agreement does not need to be confirmed by the Judiciary.
+In the criminal sphere, entering into a Leniency Agreement suspends the limitation period
+and prevents the criminal prosecution with respect to the leniency recipient regarding, for
+example, the offenses listed on article 87 of Law nº 12.529/2011. In turn, the ability to
+23sanction is automatically extinguished when Cade declares the fulfillment of the Leniency
+Agreement.
+21. To which crimes do the benefits granted to a Leniency Applicant?
+The benefits of a Leniency Agreement covers the offenses directly related to the cartel
+activity. In the criminal sphere, entering into a Leniency Agreement suspends the limitation
+periods and prevents the criminal prosecution of the leniency recipient in connection with
+the offenses set forth in the Economic Crimes Act (Law nº 8.137/1990), and other crimes
+directly related to the cartel activity, such as those set forth in the General Procurement
+Act (Law nº 8.666/1993), and on article 288 of the Criminal Code (criminal conspiracy),
+according to article 87 of Law nº 12.529/2011. Therefore, article 87 brings a non-exhaustive
+list of offenses directly related to cartel activity. Hence, the ability to sanction the offenses
+mentioned above is extinguished automatically when Cade declares the fulfillment of the
+Leniency Agreement.
+22. Do the benefits granted under a Leniency Agreement extend to other administrative
+offenses?
+There is no law provision stating that the benefits granted under a Leniency Agreement
+result in the extinguishment of the ability to sanction or in the reduction of the
+administrative penalties for other administrative illicit acts other than those set forth on
+article 87, caput, of Law nº 12.529/2011, although this is a non-exhaustive list.
+23. Can the second company inquire about a leniency application apply for any other type
+of benefit from Cade?
+Yes. The companies and/or individuals investigated for an antitrust conspiracy that do not
+qualify to enter into a Leniency Agreement (see question 12) may, in principle, propose a
+Cease and Desist Agreement (TCC) with Cade (article 85 of Law nº 12.529/2011 combined
+with arts. 183 to 188, RiCade) (see question 24 ).
+2424. What are the differences between a Leniency Agreement and a Cease and Desist
+Agreement (TCC)?
+The Leniency Agreement is available only to the first in to report the antitrust conspiracy
+to Cade (article 86, paragraph1, I of Law nº 12.529/2011) (see question 12) and may grant
+both administrative and criminal benefits (article 86, paragraph 4, combined with article 87
+of Law nº 12.529/2011).
+In turn, the TCC is accessible to all other persons investigated for anticompetitive conduct
+(article 85 of Law nº 12.529/2011) and generates benefits only in the administrative sphere,
+without automatic benefits in the criminal sphere. Specifically for cases of agreement,
+coordination, manipulation, or arrangement among competitors, such as the case of a
+cartel, the TCC has the following requirements:
+I. payment of a monetary contribution to the Fund for the Defense of Diffuse Rights,
+according to articles 85, paragraph 1, III, of Law nº 12.529/2011 and 183, introductory
+paragraph, of the RiCade, which is established based on the amount of the expected
+fine, subject to a percentage reduction that will vary depending on when the TCC is
+proposed and the scope and utility of the collaboration of the committed party in the
+fact-finding, according to article 186, parts I, II, III, and article 187 of the RiCade, as
+follows:
+a. immediately after initiation of an administrative proceeding and before
+the proceeding is remitted to Cade’s Tribunal, the monetary
+contribution will be calculated based on the expected fine, which will be
+subject to:
+i. a reduction of 30% to 50% for the first in;
+ii. a reduction of 25% to 40% for the second in;
+iii. a reduction of up to 25% for the remaining proponents of a TCC;
+b. after the case is remitted to Cade’s Tribunal: the monetary contribution
+will be calculated based on the expected fine, subject to a reduction of
+up to 15% (these parameters may be changed if Leniency Plus has also
+been granted; see question 89)
+II. the proponent must admit having participated in the investigated conduct, according
+to article 184 of the RiCade;
+III. the proponent must collaborate in the fact-finding process, according to article 185
+of the RiCade;
+IV. the proponent must case its participation in the conduct, according to paragraph 1,
+of article 85 of Law nº 12.529/2011;
+25V. a fine will be set for total or partial nonfulfillment of the obligations undertaken.
+Since the TCC does not generate automatic benefits in the criminal sphere, the Public
+Prosecution Service does not participate in the agreement and may bring criminal action
+against the parties to the TCC. Nevertheless, if the person interested in entering into a TCC
+with Cade also wishes to concurrently negotiate an cooperation agreements with the Public
+Prosecution Service and/or the Federal Police (see question 25), then Cade’s General
+Superintendence can assist in the interaction with the Public Prosecution Service and/or
+with Federal Police. Hence, the negotiation and execution of any agreements will be up to
+the discretion of such authorities.
+Aiming at facilitating the communication between the TCC’s proponent and the Public
+Prosecution Service, Cade, on March 16, 2016, signed a Memorandum of Understanding
+with the GEDEC of the MPF/SP [link]. This document formalizes the possibility of
+institutional coordination in case the TCC’s proponent wants to collaborate both within
+Cade’s TCC and with MPF/SP’s cooperation agreement. In parallel with Cade’s TCC, there
+are two possible agreements in the criminal sphere: (i) Cooperation Agreement; in
+accordance with Law 12.850/2013 (article 4); and (ii) Confession qualified by Denunciation,
+set forth on article 16, of Law nº 8.137/1990.
+Note that, even if no Leniency Agreement has been entered into with Cade, it is possible
+that only the negotiation of a TCC is available for companies and/or individuals, depending
+on whether or not the requirements for negotiation and execution of each of these types
+of agreement have been met (see question 12).
+25. What does a “cooperation agreement” entail?
+In Brazil, a “cooperation agreement” is provided in several special laws, such as Law nº
+7.492/86 (on crimes against the Brazilian financial system, in article 25, paragraph 2), Law
+nº 8.072/90 (on heinous crimes, in article 8, sole paragraph), in Law nº 8.137/90 (tax crimes,
+economic crimes, and consumer-related crimes, article 16, sole paragraph), in Law nº
+9.613/1998 (on crimes involving the laundering and concealment of property, rights, and
+assets, in its article 1, paragraph 5), in Law nº 9.807/1999 (on the organization and
+maintenance of special programs for the protection of threatened victims and witnesses,
+in article 14), in Law nº 11.343/2006 (on crimes set forth in the Anti-Drugs Act, article 41),
+26in the Criminal Code (article 159), and in Law nº 12.850/2013 (on crimes of criminal
+organization, in article 4).
+The cooperation agreements, specifically within the scope of Law nº 12.850/2013
+(regarding criminal conspiracy offenses), is an agreement in the criminal sphere that can
+be entered into with the individual informant who voluntarily collaborates with the
+investigation of the competent authority and with the criminal proceeding. In
+consequence, cooperation agreements could result in the benefit of judicial pardon or a
+reduction of up to two-thirds of the prison sentence or substitution of imprisonment with
+a rights restricting sentence. Also, it is a benefit that must be approved by a judge, upon
+request from the police chief, or from a member of the Public Prosecution Service, or the
+collaborator assisted by his attorney.
+In this sense, the “cooperation agreement” should not be mistaken with the Antitrust
+Leniency Agreement, as they are different tools, with different characteristics and
+regulations.
+26. What is the relationship between Cade’s Leniency Agreement and the Leniency
+Agreement set forth in Law nº 12.846/2013 (“Clean Company Act”/“Anticorruption
+Act”)?
+The Leniency Agreement set forth in Law nº 12.846/2013 (“Clean Company Act”/”
+Anticorruption Act”) benefits the companies responsible for acts that are injurious to
+Brazilian and foreign public administrations, as defined in article 5, and is entered into by
+the highest authority of each body or entity; in the sphere of the federal executive branch,
+the CGU is the competent body.
+Only companies can apply for this type of leniency agreement, by fulfilling five conditions:
+I. it must be the first one to express interest in cooperating in the investigation of a
+specific injurious act, when such circumstance is relevant;
+II. it must have completely ceased its involvement in the offense as of the date of
+proposal of the agreement;
+III. it must admit its participation in the administrative violation;
+IV. it must fully and permanently cooperate with the investigations and the
+administrative proceeding and attend, at its own expense and whenever requested,
+in procedural acts, until their conclusion; and
+27V. it must provide evidentiary information, documents, and elements of the
+administrative violation.
+Once the leniency agreement set forth in Law nº 12.846/2013 has been fulfilled, the
+company may have the following benefits:
+I. exemption from the extraordinary publication of the administrative decision
+imposing the penalty;
+II. exemption from the prohibition on receiving incentives, subsidies, subventions,
+donations, or loans from public-sector bodies or entities and public-sector or
+government-controlled financial institutions;
+III. a reduction in the final amount of the applicable fine, subject to the set forth in article
+23; or
+IV. exemption or reduction of the administrative sanctions set forth in arts. 86 to 88 of
+Law nº 8.666, of 1993, or other rules governing biddings and contracts.
+Note that if a company or an individual has participated in an illicit act concurrently
+involving the crimes of participation in a cartel and other illicit act, there is no pre-
+established legal rule regarding which body should be first approached by the applicant. If
+the applicant first approaches Cade’s General Superintendence, then Cade may coordinate
+with the Public Prosecution Service, the CGU, and other investigative bodies, at the request
+of the antitrust leniency applicant. However, if the applicant first approaches the Public
+Prosecution Service, the CGU, and/or other bodies, then they may also seek out the SG-
+Cade to negotiate the Leniency Agreement, at the request of the proponent of the
+agreement.
+Nevertheless, note that the negotiations of a leniency agreement set forth in Law nº
+12.529/2011 and Law nº 12.846/2013 occur within the scope of different authorities and
+the negotiations are independent from each other. The negotiation of both leniency
+agreements therefore occur at the discretion of the competent authorities and do not
+depend on the agreements entered into with other authorities. Thus, even though Cade’s
+General Superintendence can assist the leniency applicant in this interaction with the
+competent authority for investigation of other illicit acts, the negotiation and execution of
+any agreements will be at the discretion of the competent authorities.
+2827. Is there a Model Leniency Agreement?
+Yes. A standard model of the Leniency Agreement is available here. Note that, as a rule, the
+standard wording of Cade’s Leniency Agreement should be used to expedite the
+negotiations and maintain equal treatment regarding agreements. Requests for
+amendments by the leniency applicant should be exceptional and duly grounded in light of
+the circumstances of the case at hand. The SG-Cade also reserves the right to make changes
+and updates to the standard model as the circumstances of the case so require.
+PART II. PHASES OF NEGOTIATION OF CADE LENIENCY AGREEMENTS
+28. How is a Leniency Agreement negotiated with Cade?
+Generally, negotiation of a Leniency Agreement occurs in three phases, which are
+analyzed in detail throughout this Guide:
+I. Phase of securing a marker;
+II. Phase of submission of evidentiary information and documents of the offense
+reported or under investigation; and
+III. Phase of execution of the Leniency Agreement.
+Second Phase:
+submission of
+evidentiary Third Phase: Execution
+First Phase: securing a
+information and of the Leniency
+marker
+documents of the Agreement
+offense reported or
+under investigation
+29PART II.1. FIRST PHASE: SECURING A MARKER
+29. What is a marker request?
+A request for a marker is the act whereby the leniency applicant contacts Cade’s General
+Superintendence to communicate the interest in proposing a Leniency Agreement
+regarding a given antitrust conspiracy and thus be ensured that he is the first leniency
+applicant in relation to such conduct. Therefore, the applicant is in a race with its co-
+conspirators to contact the antitrust authority to report the violation, and become a
+candidate for the benefits of the Leniency Agreement – which are granted only to the first-
+in applicant that fulfills the requirements set forth by Law nº 12.529/2011.
+30. To whom at Cade’s General Superintendence should a marker be requested?
+The request for a marker must be submitted to the General Superintendence’s Chief of
+Staff, or, in his or her absence, to the Substitute General Superintendent at the telephone
+number +55 61 3221-8563 or e-mail: leniencia@cade.gov.br. It is also possible to submit
+the request for a marker in person (at the address SEPN 515, Conjunto D, Lote 4, Ed. Carlos
+Taurisano, Brasília/DF) and in writing (by submitting an application), according to articles
+198, introductory paragraph, and 200 of the RiCade. It is suggested to expressly state that
+the call is meant to secure a marker to negotiate a Leniency Agreement.
+The leniency applicant should not submit the marker request to any other Cade’s
+employee, as such applications will not be considered valid. This measure aims mainly at
+ensuring the security of the Leniency Program.
+31. What must be reported to Cade’s General Superintendence in order to request a
+marker?
+According to article 198, paragraph 1, of the RiCade, and regardless of whether the
+application is made orally or in writing, the leniency applicant must submit the following
+information, even if partially, regarding the reported violation:
+I. “Who?”: a complete identification of the leniency applicant, as well as the identity of
+the other known perpetrators of the reported violation. Therefore, in general, it is not
+possible to anonymously request a marker;
+30II. “What?”: the market, products, and services affected by the reported violation;
+III. “When?”: the estimated duration of the reported violation, when possible;
+IV. “Where?”: the geographic area affected by the reported violation. In the event of an
+international cartel, it must be stated that the conduct has at least the potential to
+generate effects in Brazil, according to article 2, introductory paragraph, of Law nº
+12.529/2011.
+Noteworthy, the amount of information necessary to obtain the request for a marker may
+vary from case to case, since there will be circumstances in which Cade’s General
+Superintendence will need more or less information to know whether the marker is
+available for the violation reported or under investigation.
+32. Must a request for a marker be accompanied by evidentiary documents of the
+reported violation?
+Not necessarily. Cade’s General Superintendence does not require that the request for a
+marker be accompanied by documents and/or evidence that show the existence of the
+reported violation, since those will need to be presented in the phase of submission of
+evidentiary information and documents of the offense reported or under investigation (see
+Part II.2). In this initial phase, for securing a marker, the leniency applicant must be the first
+to seek out and qualify before the SG-Cade (see question 31).
+33. Why is it important to request a marker as soon as possible?
+Time is essential in making a successful leniency application. Cade’s General
+Superintendence enters into only one Leniency Agreement per antitrust conspiracy so that
+the violators - whether they are companies or individuals - are in a race to be the first ones
+to apply for the benefits of the Leniency Program of Cade. Even if the leniency applicant
+does not have immediate access to all the information necessary for entering into a
+Leniency Agreement, it is recommended that the interested party contact the SG-Cade as
+soon as possible (see question 29), since another participant in the same violation could
+apply at any time, preventing other participants to secure a marker by only a matter of
+minutes.
+3134. How does Cade’s General Superintendence verify the availability of a marker?
+After the receipt of a marker request, Cade’s General Superintendence will internally verify
+whether a marker is available regarding the reported conduct, by examining:
+I. whether there has been a prior request for a marker by another company or
+individual related to the same conduct;
+II. whether there is a negotiation of a Leniency Agreement underway with another
+company or individual about the same conduct;
+III. whether it has prior knowledge of the conduct; if it does, the SG-Cade will verify
+whether it has sufficient evidence to ensure the conviction of the company or
+individual involved in the violation or whether it is possible to negotiate Partial
+Leniency (see question 38); and
+IV. whether a Leniency Agreement has been executed with another company or
+individual, with or without initiation of an investigation or administrative proceeding.
+35. How long does it take for Cade’s General Superintendence to answer whether or not
+a marker is available to negotiate a Leniency Agreement?
+Cade’s General Superintendence will verify the availability of a marker for negotiation of a
+Leniency Agreement within 5 (five) business days (article 198, paragraph 2, RiCade), but
+the reply is generally provided on the same day or on the day after the application is made.
+36. What happens if the marker is available?
+The first applicant to appear before Cade’s General Superintendence to report a violation
+will obtain a declaration (“Marker Declaration”) that attests that such applicant appeared
+on that date to submit information regarding anticompetitive practices performed by a
+given company and/or individual in the market, in the reported geographical area and
+period. Furthermore, the declaration certifies that the leniency applicant meets the
+requirements to negotiate a Leniency Agreement and indicates, if applicable, whether an
+investigation is already underway (see question 19). On the date the declaration is issued,
+it is scheduled a new meeting so that the first Leniency Agreement proposal can be
+submitted to the SG-Cade by the leniency applicant (article 198, paragraph 3, RiCade). To
+access the Model Marker Declaration, click here. It is worth noting that merely securing a
+marker does not grant the benefits arising from the Leniency Agreement to the leniency
+applicant.
+3237. What happens if the marker is not available?
+If the marker is not available, the General Superintendent, the General-Superintendence’s
+Chief of Staff or a case handler specifically designated for that purpose will inform such
+unavailability to the leniency applicant, certifying that the applicant, if he/she is interested,
+can be placed on the waiting line for eventually applying for a leniency agreement on the
+same reported violation (article 199, RiCade).
+In this case, the declaration issued by SG-Cade will contain the complete qualification of
+the leniency applicant, the other participants known of the offense, the products/services
+affected, the geographical area affected, and, if possible, the estimated duration of the
+reported violation, as well as the date and time that the applicant contacted the SG-Cade.
+The declaration will not contain any information regarding the identity of other eventual
+leniency applicants or regarding the chronological order of the marker request of the
+applicant relative to other previous or subsequent applicants (article 199, paragraph 1,
+RiCade). Therefore, the "waiting line" is organized by SG-Cade in order of arrival (second,
+third, and fourth to arrive, for example), although the leniency applicants that have not
+secured a marker do not know their exact position in line.
+Being in a “waiting line” can be important for at least two reasons. First, because the next
+leniency applicant in line (second, third, fourth, etc., in chronological order) will be invited
+to negotiate a new Leniency Agreement in case the negotiation of the Leniency Agreement
+underway is rejected or withdraw (article 198, paragraph 3 c/c article 199, paragraph 2, c/c
+article 204, RiCade).
+Second, being in the waiting line is important because if the negotiation of the Leniency
+Agreement underway is accepted and the agreement is signed, the leniency applicants that
+are still in line will have their marker requests automatically converted into applications for
+a TCC (see questions 23 and 24) (article 199, §4º do RiCade). In this case, the proponents
+will be called, also in the order of the marker requests for leniency, to express their interest
+in negotiating a TCC and obtaining the resulting benefits, such as reduction of the monetary
+contribution owed, according to article 85 of Law nº 12.529/2011 and articles 183 to 188
+of the RiCade. If the leniency applicant express interest in negotiating a TCC, then the
+request will be forwarded to the Office of the General Coordinator of the SG-Cade
+responsible for the case even before an administrative proceeding is initiated.
+All information provided by the proponents on the waiting line will be considered
+confidential (article 199, paragraph 3, c/c article 205, RiCade).
+3338. What happens if Cade’s General Superintendence is already aware of the offense
+reported in the request for a marker?
+If there is already an administrative proceeding open with reasonable indications of
+anticompetitive practices (see question 18), but the evidence is insufficient to ensure the
+conviction of the company and/or the individual when the Leniency Agreement is
+proposed, then a marker may also be granted, but only for a partial leniency.
+39. Can a marker be amended?
+It is possible for the Marker Declaration to be amended. It is important that the information
+stated in the Marker Declaration be as complete as possible (see question 29). However, if
+new information and documents are discovered during the internal investigations
+conducted by the leniency applicant, then it will be possible to amend the Marker
+Declaration to include such newly discovered information and thus expand its scope,
+according to the circumstances of the case. For example, the estimated period of the
+conduct or the geographic area affected can be changed, as can other information on the
+reported violation. The Marker Declaration can be amended even to include conduct that
+has not been reported previously, as long as there is no Leniency Agreement celebrated or
+being negotiated on the reported violation, and as long as the conduct is part of the same
+anticompetitive activity reported.
+The scope of the Marker Declaration can be expanded only if the requirements set forth in
+articles 86 of Law nº 12.529/2011 and 197 of the RiCade are met (see question 12) and if
+the leniency applicant has not acted in bad faith or attempted to conceal or disguise the
+subsequently reported information. If there is new information – understood as
+information or documents not known or not available at the start of the negotiations – on
+the conduct already reported in the Leniency Agreement under negotiation (see question
+52) or in a Leniency Agreement already executed (see question 81), then the Leniency
+Agreement should be supplemented.
+If the newly discovered information characterizes a new and different anticompetitive
+conduct, then the leniency applicant should submit a new application for a marker to
+Cade’s General Superintendence, which will be evaluated separately (see question 52).
+3440. Can the leniency applicant withdraw its leniency application?
+Yes. The leniency applicant can withdraw its leniency application at any time before it is
+signed (article 205, part I, RiCade) (see questions 41, 55 and 56).
+41. What happens if the leniency applicant withdraws its leniency application?
+If the applicant withdraws its leniency application – as in the case of rejection of the
+leniency application by Cade’s General Superintendence (see questions 55 and 56) –, all
+documents submitted to Cade will be returned to the leniency applicant, all information
+submitted will be kept confidential. Cade will not be permitted to share or use such
+information for any purpose, including for initiating investigations (article 86, paragraph 9,
+of Law nº 12.529/2011), except if they are voluntarily submitted to support an eventual
+TCC.
+In other words, Cade cannot open an investigation based on the information submitted by
+a leniency applicant that in the context of a Leniency Agreement was rejected or
+withdrawn. However, the General-Superintendence is able to open an investigation
+regarding facts reported on the proposed leniency agreement when the new investigation
+arises from independent evidence (article 205, paragraph 4, RiCade).
+In addition, withdrawal or rejection of a proposal does not lead to acknowledgment of any
+illegality or a confession of wrongdoing (article 86, paragraph 10, of Law nº 12.529/2011).
+If there are other leniency applicants in the waiting line, then SG-Cade will contact the next
+in line, so that a new negotiation can be initiated (see question 37).
+42. Does securing a marker guarantee that a Leniency Agreement will be signed?
+Securing a marker does not guarantee entering into a Leniency Agreement, because it
+depends on the fulfillment of all legal requirements (see question 12) and the conclusion
+of all phases of negotiation of the Leniency Agreement in Cade.
+3543. Who has access to the terms of the marker?
+Access to the Marker Declaration and the information and documents submitted in
+connection with the negotiation of the Leniency Agreement – all of a confidential nature –
+is restricted to the General Superintendent, the Substitute General Superintendent, the
+General Superintendence’s Chief of Staff, and his or the civil servants responsible for
+conducting the negotiation of the Leniency Agreement. As a rule, no other Cade’s employee
+has access to the leniency documents and information received during the negotiation with
+SG-Cade.
+44. How long does the marker request remain in effect?
+In the first Marker Declaration, Cade’s General Superintendence will indicate a deadline for
+the leniency applicant to submit the Leniency Agreement proposal – usually 30 days for
+national cartels and 45 days for international cartels with effects in the Brazilian market.
+Deadline extensions will be defined case by case, according to the interim deadlines
+defined by SG-Cade (article 198, paragraph 3, c/c article 204, RiCade).
+45. What are Cade's confidentiality procedures at Phase II.1 (marker request)?
+The confidentiality of the Leniency Agreement proposal and the whole negotiation
+proceeding is both a guarantee afforded to the leniency applicant by Cade’s General
+Superintendence (article 86, paragraph 9, of Law nº 12.529/2011 combined with article
+200, paragraphs 1 and 2, RiCade) and a duty of the leniency applicant, under penalty of
+hindering the progress of the investigations.
+The SG-Cade follows a set of procedures to ensure confidentiality during the marker
+request phase, such as:
+I. access to the information on the marker request is restricted to the General
+Superintendent, the Substitute General Superintendent, the General
+Superintendence’s Chief of Staff, and his or her advisors responsible for conducting
+the negotiation of the Leniency Agreement;
+II. the information annotated in the internal controls of the General Superintendence’s
+Chief of Staff for analysis of the marker request is accessed only by the employees of
+the Office of SG’s Chief of Staff;
+III. any documents submitted for the marker request are kept in a vault room, which is
+accessed only by the advisors of the General Superintendence’s Chief of Staff;
+36IV. submission and safekeeping of the documents and/or evidence for analysis by the SG-
+Cade may be coordinated on a case-by-case basis between the leniency applicant and
+the SG-Cade; and
+V. communication with the leniency applicant is made primarily orally.
+PART II.2. SECOND PHASE: SUBMISSION OF EVIDENTIARY INFORMATION
+AND DOCUMENTS OF THE OFFENSE REPORTED OR UNDER
+INVESTIGATION
+46. What is the submission of evidentiary information and documents of the offense
+reported or under investigation?
+The submission of information and documents evidencing the offense reported or under
+investigation represents the first Leniency Agreement proposal, which may be performed
+orally or in writing (article 200, RiCade). This information and these documents are
+submitted after securing a marker (see question 29 and 36), and the leniency applicant
+must state (articles 201, 202, and 203, RiCade):
+I. the leniency applicant’s complete identification;
+II. details of the alleged violation or under investigation;
+III. the identification of the other co-conspirators of the violation reported or under
+investigation;
+IV. the products or services affected;
+V. the geographic area affected;
+VI. the estimated duration of the violation reported or under investigation;
+VII. a description of the information and the documents that will be submitted upon
+execution of the Leniency Agreement;
+VIII. information on other proposals of Leniency Agreements concerning the same
+practice submitted in other jurisdictions, as long as there is no prohibition on doing
+so by the foreign authority;
+IX. information on other proposals of Leniency Agreements concerning the same
+practice, submitted in other jurisdictions, as long as there is no prohibition on doing
+so by the foreign authority;
+X. that the leniency applicant has been advised to seek legal counsel;
+37XI. that the leniency applicant is aware that failure to comply with the orders of Cade’s
+General Superintendence will lead to the rejection of the Leniency Agreement
+proposal.
+Hence, after securing the marker and submitting the initial proposal of the Leniency
+Agreement, the negotiation phase itself begins. During this period of negotiation, the
+leniency applicant must provide detailed information and documents concerning the
+reported violation (see questions 47 and 48), as detailed in the following section.
+47. What kind of information must be provided by the leniency applicant?
+As a rule, the applicant must provide at least the following information:
+I. a summary description of the violation reported or under investigation;
+II. identification of the leniency applicants – companies and/or individuals, as well as a
+detailed description of the participation of each of them;
+III. identification of the other participants of the violation reported or under investigation
+– companies and/or individuals, as well as a detailed description of the participation
+of each of them, also indicating, if possible, the hierarchy among such persons and
+changes in representation over the years;
+IV. identification of the competitors and clients in the affected market;
+V. duration of the violation reported or under investigation;
+VI. detailed description of the reported violation or under investigation – explanation of
+the objective of the anticompetitive conduct (for example, fixing of prices and/or
+commercial conditions, allocation of clients, and/or exchange of commercially
+sensitive information); the dynamics of the conduct (for example, explanation of the
+anticompetitive conduct by client affected, by bidding, by product, depending on how
+the agreements with the competitors took place); the dates and places of the
+meetings; the frequency and method of the communications; the organization of the
+cartel (for example, explaining the documents that served as a basis and/or supported
+the agreements made among competitors); monitoring and/or punishment
+mechanisms implemented by the cartel, etc.;
+VII. description of the effects in the Brazilian territory, if the conduct is international –
+explanation of the direct or indirect effects of the violation in Brazil;
+VIII. description of the market affected, with an explanation of the product or service
+involved in the reported violation; and
+IX. an indication of the existing evidentiary documents of the reported violation.
+38The structure and amount of information and documents required by Cade’s General
+Superintendence may change in a given case in order to describe the reported violation as
+clearly as possible.
+In the initial negotiation phase, the leniency applicant must submit the information as
+completely as possible to SG-Cade, even if the leniency applicant does not immediately
+have all the information needed to perfect the Leniency Agreement proposal. For the
+Leniency Agreement proposal to be accepted by the SG-Cade, the information submitted
+by the leniency applicant must be considered sufficient. The leniency applicant must submit
+all the information he/she is aware of and to act in good faith and not concealing or
+disguising information or submitting false or misleading information.
+The leniency applicant only has the duty to report other criminal or administrative
+violations apart from the anticompetitive conduct if such information is necessary for the
+SG-Cade to understand the alleged reported violation. However, it should be noted that
+the benefits of the Leniency Agreement will only apply to the conduct duly reported to the
+SG-Cade and that is the object of the Leniency Agreement (see questions 18 to 20).
+48. Which documents the leniency applicant must provide?
+The leniency applicant must submit all documents that it has and considers suitable for
+evidencing the alleged conduct. The types of evidence most commonly received by Cade’s
+General Superintendence to evidence the antitrust conspiracy reported or under
+investigation are documents demonstrating the following:
+I. exchange of bilateral e-mails among competitors;
+II. exchange of e-mails between individuals of the same company, describing the illegal
+arrangements between competitors;
+III. exchange of mail among competitors;
+IV. exchange of written communication between individuals of the same company,
+describing the illegal arrangements between competitors;
+V. exchange of electronic messages by text and/or voice (SMS, WhatsApp, Skype, etc.);
+VI. agendas, handwritten annotations, notebooks;
+VII. recordings;
+VIII. Excel tables and spreadsheets;
+39IX. proof of meetings (minutes, Outlook appointments, reservation of meeting rooms,
+hotel reservations, credit card bills, travel expenses statements, itinerary electronic
+record, etc.);
+X. telephone bills;
+XI. competitors’ business cards;
+XII. invitations to tender and award notices;
+XIII. registers of instant message software communication; etc.
+Furthermore, SG-Cade may request, according to its discretion, interviews with the
+individual leniency applicants to obtain more information and details concerning the
+documents submitted and the facts reported to Cade (see question 51).
+Failure to submit the minimum amount of documents needed to prove the alleged conduct
+may lead to rejection of the Leniency Agreement proposal by the SG-Cade, and this
+assessment is made on a case-by-case basis (see question 55).
+49. What precautions should be taken by the leniency applicant when collecting electronic
+documents and hard copies?
+It is important that the leniency applicant take technical precautions when obtaining the
+evidence. As a rule, the applicant must register the chain of custody of the electronic
+documents and the hard copies to be submitted to Cade, i.e., the chronological history of
+the evidence, and provide specific information on those responsible for the collection.
+In addition, for electronic documents, the leniency applicant, in general, must be able to
+describe the method of extracting the evidence, i.e.: a) identifying the devices (CPU, e-mail
+server, notebooks, and flash drives) from which the evidence was obtained and who were
+the owners/custodians/users of the equipment and/or the extracted files; b) identifying
+the procedures adopted and the equipment/software used to extract the evidence.
+Describe, for example, if a forensic image was made of the HD, detailing which type of
+image (AD1, E01, DD); if a write blocker was used, detailing which model; what hash was
+obtained from the image (MD5, SHA1); and the date and place of collection; c) identify the
+types of files extracted and the compatible software to open them, including the versions
+(for example, e-mail files, Lotus Notes, Outlook, database files); d) state other data relevant
+to the case. Furthermore, the leniency applicant, in general, should be able to describe the
+method of analysis and expert examination of the electronic evidence and explain which
+software was used and who performed the analysis.
+40In the case of e-mails, it should be submitted to Cade metadata on the header of each
+email, such as: From, To, Cc, Bcc, Subject, Date, Delivery Date, Received, Return-Path,
+Envelope-to, Message-ID, Mime-version, Content-type, etc.
+It is noteworthy that the leniency applicant must preserve, whenever possible, the hard
+disks or the original equipment (from which the evidence was extracted) and/or its
+authenticated forensic image, preserved without alterations; and extract hash numbers
+from the original documents, since they may be requested by Cade’s General
+Superintendence during the investigations. It is possible to submit to Cade the original hard
+disks or equipment, whenever feasible.
+As a rule, when the documents submitted are not the originals, the applicants must provide
+proof of the existence of the original document or, alternatively, the justification for its
+absence.
+The SG-Cade will evaluate on a case-by-case basis the precautions taken to ensure the
+authenticity of the documents. It is noteworthy that an eventual impossibility of following
+some of the proceedings mentioned above does not prevents SG-Cade from using the
+documents submitted.
+50. How should the information and documents provided by the leniency applicant be
+presented to Cade’s General Superintendence?
+Communication between Cade’s General Superintendence and the leniency applicants
+and/or their attorneys is primarily oral (in person or by telephone). If it is necessary to
+exchange e-mails between the SG-Cade and the attorneys, there is no mention of the name
+of the company and/or the individuals and market that are the objects of the negotiation
+of the Leniency Agreement, in order to maintain the confidentiality of the negotiation.
+More details about confidentiality procedures adopted in the phase of submission of
+information and documents can be found in question 57.
+In addition, the submission of evidentiary information and documents of the offense
+reported or under investigation is made through flash drives, hard copies, or by other
+means at the discretion of the leniency applicant and the SG-Cade, and may even be
+encrypted. Any document submitted is kept in vault rooms, which are accessed only by the
+General-Superintendence’s Chief of Staff or its civil servants, and the submission and
+41safekeeping of the documents and/or evidence for analysis by the SG-Cade may be
+arranged on a case-by-case basis between the leniency applicants and the SG-Cade.
+51. If, in the course of the negotiation, the leniency applicant, in its internal investigation,
+finds evidence that the antitrust activity was broader than initially reported, can the
+negotiation be expanded to include the newly discovered conduct?
+It is important that the information stated in the Marker Declaration be as complete as
+possible (see questions 31 and 39). However, if new information and/or documents are
+found during the internal investigations conducted by the leniency applicant, then it will be
+possible to expand the scope of the negotiation to include such information. For example,
+the period of the conduct or the geographic area affected can be amended, as can any
+other information on the reported violation.
+However, the scope of the negotiation can be expanded only if the requirements contained
+in articles 86 of Law nº 12.529/2011 and 197 of the RiCade are met (see question 12) and
+if the leniency applicant has not acted in bad faith or attempted to conceal or disguise the
+subsequently reported information. If there is new information – understood as
+information or documents not known or not available at the start of the negotiations – on
+the conduct already reported in an executed Leniency Agreement (see question 81), then
+the Leniency Agreement should be supplemented.
+If the newly discovered information characterizes a new and different anticompetitive
+conduct, then the leniency applicant should submit to Cade’s General Superintendence a
+new marker request, which will be evaluated separately (see question 29).
+52. What is a History of Conduct?
+The History of Conduct is a document drawn up by Cade’s General Superintendence that
+contains a detailed description of the anticompetitive conduct, according to the
+understanding of the SG-Cade, based on the information and the documents submitted by
+the leniency applicant (see questions 46 and 47). This is a document prepared and signed
+by the SG-Cade, and it is not signed by the leniency applicant or by the applicant’s
+attorneys.
+4253. What is the time limit for negotiating a Leniency Agreement?
+As the information and documents are submitted by the leniency applicant, the negotiation
+period can be extended by means of “Meeting Terms” (article 201, III and IV, RiCade).
+Therefore, the negotiation of a Leniency Agreement ends when the interim deadlines
+defined by SG/Cade are concluded (article 204, introductory paragraph, RiCade). In
+general, other proponents in the waiting line will only be contacted by SG/Cade after the
+negotiation with the first-in applicant is concluded (article 199, paragraphs 2, 3 and 4,
+RiCade).
+54. Can a leniency application be rejected by Cade?
+Yes. A leniency application can be rejected by Cade for several reasons, including the
+following:
+I. failure to submit the Leniency Agreement proposal until the deadline term of the
+negotiation (see question 44 and 53);
+II. failure to cooperate throughout the negotiation, either by not supplying the
+information and documents requested by Cade’s General Superintendence or by
+otherwise obstructing the investigations ;
+III. insufficiency of the evidentiary information and/or documents of the alleged conduct
+reported or under investigation;
+IV. failure to demonstrate the impact on the Brazilian territory of conduct that took place
+abroad.
+At the discretion of the SG-Cade, prior notice may be given to the leniency applicant of the
+intent to reject the marker request, giving the leniency applicant one last opportunity to
+submit the requested information and documents on the case.
+55. If a Leniency Agreement proposal is withdrawn or rejected, what guarantees do
+leniency applicants have?
+According to articles 86, paragraph 10, and 205, RiCade, in the event of rejection of the
+proposal by Cade’s General Superintendent– or withdrawal by the leniency applicant (see
+questions 39 and 41) –, the leniency application will not be subject to disclosure, all
+documents will be returned, and the information and documents submitted by the leniency
+applicant during the negotiation may not be used for any purposes by the authorities that
+43had access to them. However, it is still possible for an investigation to be launched based
+on independent evidence that SG-Cade learned by other means, according to article 205,
+paragraph 4, RiCade.
+If the Leniency Agreement proposal is rejected by the SG-Cade, it is possible for the leniency
+applicant to obtain a formal document entitled “Term of Rejection”, in which the SG-Cade
+will declare that the information and documents submitted by the leniency applicant were
+not able to prove the violation reported or under investigation, or that the applicant did
+not meet some of the requirements provided on article 86, paragraph 1, Law nº
+12.529/2011. To access the model “Term of Rejection”, click here.
+Moreover, in the event of rejection of the leniency application by the SG-Cade – or if the
+leniency applicant withdraws its application (see questions 40 and 41) –, if there are other
+leniency applicants in the waiting line, then the SG-Cade’s Chief of Staff will contact the
+next applicant in line, so that a new negotiation can be initiated (see question 37).
+56. When is the negotiation of a Leniency Agreement finalized by Cade’s General
+Superintendence and the document signed?
+The negotiation of the Leniency Agreement may be extended through a "Meeting
+Agreement" (article 201, III and IV, RiCade).
+Once all the requested information and documents have been submitted, the SG-Cade’s
+Chief of Staff will forward the Leniency Agreement proposal to the Substitute General
+Superintendent for analysis. The Substitute General Superintendent may suggest new
+arrangements and/or explanations from the leniency applicant or may forward the
+proposal to the General Superintendent for final analysis. If the analysis is positive, the
+proposal will be considered complete by Cade’s General Superintendence and the case will
+move on to the phase of execution of the Leniency Agreement (see Part II.3).
+57. What are Cade's confidentiality procedures in the phase of submission of evidentiary
+information and documents of the offense reported or under investigation (Phase
+II.2)?
+The confidentiality of the Leniency Agreement proposal and the whole negotiation
+proceeding is both a guarantee afforded to the leniency applicant by Cade’s General
+44Superintendence (article 86, paragraph 9, of Law nº 12.529/2011 combined with article
+200, paragraphs 1 and 2, of the RiCade) and a duty of the leniency applicant, under penalty
+of hindering the progress of the investigations.
+The SG-Cade follows a set of procedures to ensure confidentiality during the phase of
+submission of information and documents, such as:
+I. access to the information on the negotiation is restricted to the General
+Superintendent, the Substitute General Superintendent, the General
+Superintendence’s Chief of Staff, and its advisors responsible for conducting the
+negotiation of the Leniency Agreement;
+II. the information submitted to the Chief of Staff of the SG-Cade is accessed only by the
+employees of that office;
+III. any documents submitted to the SG-Cade for analysis during the negotiation are kept
+in a vault room, which is accessed only by employees of the Chief of Staff of the SG-
+Cade;
+IV. submission and safekeeping of the documents and/or evidence for analysis by the SG-
+Cade may be coordinated on a case-by-case basis between the leniency applicants
+and the SG-Cade;
+V. communication with the leniency applicants is made primarily orally. If it is necessary
+to exchange emails between the SG-Cade and the attorneys, there is no mention of
+the name of the company and/or the individuals and/or market that are the objects
+of the negotiation of the Leniency Agreement, so as to maintain the confidentiality of
+the negotiation;
+VI. in the History of Conduct prepared by the SG-Cade (see question 52) there is no direct
+mention of the name of the company and/or the individuals as leniency recipients of
+the Leniency Agreement – they are identified as participants of the conduct, along
+with the other companies, and the individuals are identified by acronyms;
+VII. the company and/or the individuals that are leniency recipients are identified
+separately from the History of Conduct; and
+VIII. the employees of the Chief of Staff´s Office of the SG-Cade keep up-to-date reports
+on internal custody that record each step of the persons who have access to the
+information and documents da negotiation of the Leniency Agreement.
+4558. Can individuals be interviewed by Cade’s General Superintendence?
+Yes. Cade’s General Superintendence may request, according to criteria of convenience and
+opportunity, interviews with the leniency applicant individual to obtain more information
+and details concerning the documents submitted (see question 59).
+59. What are the procedures to interview leniency applicants?
+When Cade’s General Superintendence finds convenient and opportune, the interviews
+conducted within the negotiation of the Leniency Agreement must be arranged by the
+employees of the Office of SG-Cade’s Chief of Staff, according to articles 86 and 87 of Law
+12.529/2011.
+After scheduling the interview, the lawyers who will accompany the applicant must be
+designated, being recommended the presence of, at maximum, three attorneys, and
+strongly advised the intervention of only one attorney during the interview. The attorneys
+must be designated by proof of power of attorney with expressed bestowal of power to
+the designated attorney(s).
+The interview will begin at the exact scheduled time, without settled ending time. It is
+recommended that the applicant and attorneys should buy occasional flight tickets to the
+last flight available on the day of the interview so that there will be no time restriction.
+Before the interview, it is necessary that all the mobiles are turned off and also that, during
+the interview, the attorneys do not interrupt the interviewer. In case they want to make
+additional consideration or questions, it is suggested that they do only at the end of the
+interview, so the collaborative nature of the interview will not be undermined.
+Finally, the collaboration of the interviewee with the General Superintendence must be full
+and unrestrained, according to article 86, paragraph 1, part IV, of Law 12.529/2011. It
+includes the collaboration over all the anticompetitive misconducts that the interviewee
+has taken part in and has already demonstrated interest in collaborating with the General
+Superintendence, may the provided collaboration be with the Office of the SG-Cade or with
+Office of the General Coordinator of SG-Cade. On the assumption that the interviewee
+refuses to collaborate in the cases where he has secured a marker, the General
+Superintendence may understand it as a violation to the obligation of full and permanent
+collaboration of the applicant (see article 86, paragraph 1, part IV and article 85, paragraph
+1 of Law 12.529/2011) and call off the negotiation with the interviewee. Noteworthy, the
+collaboration is voluntary, so that it will not be required on the cases in which the
+46interviewee has not shown expressed interest in collaborating with the General
+Superintendence.
+PART II.3. THIRD PHASE: EXECUTION OF THE LENIENCY AGREEMENT
+60. What is necessary for the execution of the Leniency Agreement?
+After the conclusion of the phase of submission of information and documents on the
+conduct reported or under investigation (see Parte II.2 and question 57), the procedures
+for execution of the Leniency Agreement are initiated by both the leniency applicant and
+the SG-Cade.
+For example, the leniency applicant must obtain certified copies of documents, sworn
+translations, and consular authentication of foreign documents and take technical
+precautions when obtaining electronic evidence (see question 49). All leniency applicants
+must sign the Leniency Agreement, including the company and/or the individuals, or their
+respective legal representatives with specific powers for applying to, negotiating,
+confessing and entering into the Leniency Agreement (see questions 64 and 71).
+In this phase, the SG-Cade also initiates contact with the offices of the Public Prosecution
+Service for submission of the Leniency Agreement (see questions 61 and 62).
+61. How does the State and/or Federal Public Prosecution Services participate in the
+Leniency Agreement?
+Although arts. 86 and 87 of Law nº 12.529/2011 do not expressly require the participation
+of the Prosecution Service for execution of a Leniency Agreement, Cade's consolidated
+experience shows that, as the exclusive holder of the right to bring criminal charges and
+initiate a public criminal action, the Prosecution Service should be permitted to participate,
+in light of the criminal repercussions of the leniency. Hence, the State and/or Federal
+Prosecution Services can participate in the agreement as an interested agent, to confer
+greater legal security for the leniency recipients and facilitate the criminal investigation of
+the cartel (see questions 17 and 62).
+4762. How and when are the State and/or Federal Public Prosecution Services contacted?
+Aiming to safeguard the secrecy of the agreement, as set forth in article 86, paragraph 9,
+of Law nº 12.529/2011, as well as rationalize the negotiaton procedures, in principle, only
+after the conclusion of the phase of submission of information and documents on the
+conduct reported or under investigation (see Part II.2 and question 57), the SG-Cade
+initiates contact with the offices of the State and/or Federal Public Prosecution Services for
+submission of the case.
+If relevant to the case, and in light of specific circumstances, the SG-Cade, the leniency
+applicant, and the State and/or Federal Public Prosecution Services may, by mutual
+agreement, choose to initiate contact with the Public Prosecution Service in an initial stage
+of the negotiation of the Leniency Agreement.
+Dealings with the offices of the Public Prosecution Service generally have three phases:
+I. determination of which office of the Public Prosecution Service will handle the case
+(see question 63), whether a State and/or Federal office;
+II. notification of the offices of the Public Prosecution Service to schedule a meeting; in
+the notice, the SG-Cade states that it received information on the practice of the
+antitrust violations set forth in articles 36, paragraph 3, I, of Law nº 12.529/2011, that
+could be classified as crimes under article 4 of Law nº 8.137/90 and that the informer
+has expressed an interest in participating in the Leniency Program. The SG-Cade does
+not forward the information and the documents that are the object of the Leniency
+Agreement proposal, due to its confidential character. With this notice, the case is
+distributed internally within the competent State and/or Federal office of the Public
+Prosecution Service for subsequent scheduling of a meeting with the Federal and/or
+State prosecutor; and
+III. a meeting is held with the offices of the Public Prosecution Service to present the case
+and determine the strategy for integrating the actions between the two entities.
+As a third party to the agreement, the Public Prosecution Service may put forth questions,
+request changes, and request additions to the Leniency Agreement. However, such
+alteration requests by the Public Prosecution Service are generally intermediated by the
+SG-Cade, in light of the legal competence of the SG-Cade to enter into Leniency Agreements
+(article 86 of Law nº 12.529/2011).
+48Since Law nº 12.529/2011 designates the SG-Cade as the competent authority to enter into
+Leniency Agreements, the Public Prosecution Service does not have access to the
+information and documents negotiated with the proponent of a Leniency Agreement
+during the phase of submission of documents and information regarding the conduct.
+After a meeting is held with the offices of the Public Prosecution Service and any
+adjustments proposed by the Federal and/or State prosecutor are made, the parties will
+validate the terms of the Leniency Agreement and date will be set for its signing (see
+question 64).
+It should be noted that the parties may first approach the Public Prosecution Service and
+then seek out the SG-Cade to negotiate the Leniency Agreement regarding participation in
+the cartel, which is both a crime and an administrative offense (see questions 3 to 5).
+Negotiation of the Leniency Agreement, however, remains subject to the availability of the
+marker (see question 34) and fulfillment of the legal requirements (see question 12).
+63. How is it determined which office of the Public Prosecution Service will act in a given
+Leniency Agreement?
+This definition derives from the attributions established by law and jurisprudence for
+criminal violations of the economic order. It is often an offense that affects the market in a
+wide aspect and therefore it attracts the competence of the Federal Presecution’s Office
+(even more evident when federal resources are involved). In cases involving local interests,
+however, an intervention by the State Public Ministry is possible. In any event, the
+definition of the consenting Public Prosecutor requires collaboration with the proponent
+and expression of interest by the respective prosecution’s office.
+64. Where is the Leniency Agreement signed?
+The Leniency Agreement can be signed at Cade's headquarters in Brasília, in the city in
+which the State and/or Federal Public Prosecution Service that will act as interested third
+party in the case is located (see question 62) or in some other place agreed upon among
+the parties.
+The leniency applicant, accompanied or represented by his attorney and in possession of
+the representation documents (see question 59), must appear on the date and place
+49previously designated for the signature of the Leniency Agreement, at which time Cade’s
+representative(s) and the member of the intervening Public Prosecution Service’s member
+will also attend.
+65. Can a Leniency Agreement be entered into in bilingual form?
+Yes. The Leniency Agreement can be signed in bilingual form (Portuguese and English), even
+if the reported cartel is not international. In the event of doubt, the Portuguese version will
+prevail over the English version. A public standard model of the Leniency Agreement is
+available here.
+66. When must the leniency applicant hand over the hard copies of the evidentiary
+documents of the reported violation?
+The definitive submission to the SG/Cade and the Public Prosecution Service of the
+documents evidencing the reported conduct shall only be made upon the signature of the
+Leniency Agreement. The applicant is also requested to provide digitalized copies of the
+documents with traceability marks whose pattern is provided by SG/Cade. For documents
+originally registered in electronic media, the preservation of the media is required or, when
+there is an impediment, provision of electronic copies certified as identical to the originals
+by technical expertise. In the event of cancellation or rejection of the Leniency Agreement
+proposal, the SG-Cade ensures the confidentiality of the information and documents
+submitted (see questions 40 and 41, 55 and 56).
+67. Which representation documents must be submitted by companies and individuals
+when signing the Leniency Agreement?
+For the execution of the Leniency Agreement, the companies and/or individuals must
+submit the following documents:
+I. a certified copy of the corporate documents that demonstrate the company's
+fulfillment of the legal and contractual requirements (for example, bylaws or articles
+of incorporation) and a certified copy of the identity card and natural person Brazilian
+taxpayer card of the company's legal representatives;
+II. a certified copy of the individuals’ ID and passport; and
+III. proof of power of attorney document with notarized signatures granting specific
+powers for proposing, negotiating, confessing and signing the Leniency Agreement
+50with Cade and the State and/or Federal Public Prosecution Service (for a Model Power
+of Attorney, click here)
+68. If the individuals decide not to sign the Leniency Agreement together with the
+company, will this hinder the execution of the agreement with Cade?
+No. If the leniency applicant is a company, the benefits of the agreement can be extended
+to its current or former directors, managers, and employees and to companies of the same
+economic group, de facto or de jure, involved in the violation. To that end, they must
+cooperate with the investigations and sign the agreement together with the company
+(article 86, paragraph 6, of Law nº 12.529/2011 combined with article 197, paragraph 1,
+RiCade;see question 15).
+The individuals and companies of the same economic group can enter into the agreement
+together with the company or in an addendum to the original Leniency Agreement when
+authorized by Cade, according to its discretion (article 197, paragraph 2, RiCade).
+Companies and their directors, managers, and employees may be represented by the same
+or different attorneys.
+If, however, the current and former directors, managers, and employees decide not to sign
+the Leniency Agreement, this will not prevent the execution of the agreement with the
+company. In this case, the benefits of the agreement (see question 18) do not extend to
+the individuals who do not sign it. Thus, it is highly recommended that the company explain
+to its current and former employees that they will obtain the benefits of the Leniency
+Agreement only if they sign the agreement with the company and cooperate with the
+investigations.
+69. What does an Addendum to the Leniency Agreement mean?
+An addendum to the Leniency Agreement means signing of an Addendum to the Leniency
+Agreement to include individuals to the original Leniency Agreement. If the leniency
+applicant is a company (see question 15), the benefits of the agreement can be extended
+to its current or former directors, managers, and employees and to companies of the same
+economic group, de facto or de jure, involved in the violation, as long as they cooperate
+with the investigations and sign the agreement together with the company (article 86,
+paragraph 6, of Law nº 12.529/2011 combined with article 197, paragraph 1, RiCade).
+51The individuals and companies of the same economic group can execute the agreement
+together with the company or by an Addendum to the original Leniency Agreement, when
+authorized by Cade, according to its discretion (article 197, paragraph 2, RiCade). If the
+individuals are given the opportunity but decide not to sign the Leniency Agreement
+together with the company (see question 15 and 68), signing an Addendum to the original
+Leniency Agreement becomes less probable.
+It should be noted that an Addendum to the Leniency Agreement will be possible only upon
+the fulfillment of the requirements for execution of a Leniency Agreement (see question
+12). Those requirements consists in having participated in the conduct, confessing the
+participation in the wrongdoing, and collaborating with the investigations, and as long as
+the SG-Cade does not have sufficient evidence to ensure a conviction. A Model of
+Adherence to the Leniency Agreement can be accessed here– “Annex I to the Model
+Leniency Agreement.”
+If the leniency recipient is an individual, then the benefits will not be extended to the
+company (article 197, paragraph 3, RiCade), which will not be able to sign an Addendum to
+the Leniency Agreement signed by the individual (see question 15).
+70. What can be done if a leniency applicant does not communicate in Portuguese?
+It is recommended that an attorney or an agent represent individuals who do not
+communicate in Portuguese (see question 71). The leniency applicant may hire, at its own
+expense, a translator for the entire process of negotiation of the Leniency Agreement. On
+an exceptional basis, if an individual is not represented by a Brazilian attorney, Cade’s
+General Superintendence may evaluate the situation in the case at hand.
+71. Must individuals located outside of Brazil personally attend to sign the Leniency
+Agreement?
+Personally attending to sign Cade’s Leniency Agreement depends on the case at hand. As a
+rule, individuals outside of Brazil may be represented by a Brazilian attorney or agent (see
+question 70).
+5272. Must the leniency recipients be represented by an attorney or by an agent?
+The company and/or individuals are encouraged to be accompanied by an attorney or
+agent with a document of power of attorney with notarized signatures granting specific
+powers for negotiating and signing the Leniency Agreement with Cade and the State and/or
+Federal Public Prosecution Service (article 203, II, RiCade).
+73. What terms and conditions are set forth in the Leniency Agreement?
+Once the legal conditions for entering into a Leniency Agreement have been met, the
+clauses listed in parts I to VIII of article 206, RiCade, must be stated in the agreement,
+namely:
+I. complete identification of the companies and individuals that will sign the Leniency
+Agreement and complete identification of the legal representative (including the
+name, corporate name, identity document, passport number, individual or corporate
+taxpayer number (CPF or CNPJ), complete address, telephone, fax, and email);
+II. identification of the legal representative with powers to receive notices during the
+administrative proceeding;
+III. fax and e-mail address for receiving notices during the course of the administrative
+proceeding;
+IV. statement of facts related to the reported violation, identification of the actors, the
+products or services affected, the geographic area affected, and the duration of the
+violation reported or under investigation, according to the information and
+documents submitted by the leniency recipients – which information is normally
+presented in the document entitled History of Conduct, prepared by Cade’s General
+Superintendence (see question 52);
+V. confession by the leniency recipient, company and/or individuals, of having
+participated in the reported violation;
+VI. declaration by the leniency recipient, company and/or individual, that its involvement
+in the reported violation has ceased;
+VII. a list of all documents and information provided by the company and/or by the
+individual leniency recipient, for the purpose of evidencing the violation reported or
+under investigation;
+VIII. obligations of the leniency recipient:
+ a submission to the SG-Cade and to any other authorities intervening in the
+Leniency Agreement of all the information, documents, or other materials
+in their possession, custody, or control, capable of evidencing the violation
+reported or under investigation;
+53 submission to the SG-Cade and to any other authorities intervening in the
+Leniency Agreement of all new information, documents, or other materials
+of which they become aware during the course of the investigations;
+ submission of all the information, documents, or other materials related to
+the reported violation in their possession, custody, or control, whenever
+requested by the SG-Cade and by any other authorities intervening in the
+Leniency Agreement in the course of the investigations;
+ they must fully and permanently cooperate with the investigations and the
+administrative proceeding in connection with the reported violation, to be
+conducted by the SG-Cade and any other authorities intervening in the
+Leniency Agreement;
+ they must appear, at their own expense, at all procedural acts, until a final
+decision is rendered by Cade’s Tribunal on the reported violation;
+ notification to the SG-Cade and to any other authorities intervening in the
+Leniency Agreement of any change in the data stated in the Leniency
+Agreement, including the personal identifications; and
+ to act with honesty, loyalty, and good faith during the fulfillment of these
+obligations;
+IX. a statement to the effect that nonfulfillment by the leniency recipient of the
+obligations set forth in the Leniency Agreement will result in loss of immunity, in
+addition to fines and other penalties;
+X. a statement by SG-Cade that the leniency recipient was the first to be qualified
+regarding the violation reported or under investigation, as the case may be;
+XI. a declaration by the SG-Cade that it did not have sufficient evidence to ensure the
+conviction of the leniency recipient for the reported violation when the Leniency
+Agreement was proposed;
+XII. declaration of the SG-Cade as to whether or not it had prior knowledge of the
+reported violation, at the time the Leniency Agreement was proposed; and
+XIII. other obligations that, in light of the circumstances of the case at hand, are
+considered necessary.
+74. Is there a Model Leniency Agreement?
+Yes. A Model Leniency Agreement is available here. Note that, as a rule, the standard
+wording of the Leniency Agreement should be used to expedite the negotiations and
+54maintain equal treatment regarding agreements. Requests for amendments by the
+leniency applicant should be exceptional and duly grounded in light of circumstances of the
+case at hand. The SG-Cade also reserves the right to make changes and update the standard
+model when specific circumstances of the case at hand so require.
+75. What are Cade's confidentiality procedures in the Leniency Agreement execution
+phase (Phase II.3)?
+The confidentiality of the Leniency Agreement proposal and the whole negotiation
+proceeding is both a guarantee afforded to the leniency applicant by Cade’s General
+Superintendence (article 86, paragraph 9, of Law nº 12.529/2011 combined with article
+200, paragraphs 1 and 2, RiCade) and a duty of the leniency applicant, under penalty of
+hindering the progress of the investigations.
+The SG-Cade follows a set of procedures to ensure confidentiality during the phase of
+execution of the Leniency Agreement, such as:
+I. when notifying the offices of the MP to schedule a meeting, the SG-Cade states that
+it received information on the practice of the antitrust violations set forth in articles
+36, paragraph 3, I, of Law nº 12.529/2011, that could be classified as crimes under
+article 4 of Law nº 8.137/90 and that the informer has expressed an interest in
+participating in the Leniency Program. The SG-Cade does not forward the information
+and the documents that are the object of the Leniency Agreement proposal, due to
+its confidential character. With this notice, the case is distributed internally within the
+competent State or Federal office of the Public Prosecution Service for subsequent
+scheduling of a meeting with the State and/or Federal prosecutor (see question 61);
+II. upon submission of the Leniency Agreement proposal to the representative of the
+Public Prosecution Service, an “Instrument of Receipt” is signed attesting that the
+State and/or Federal prosecutor is aware of the confidentiality of the information to
+which he or she has had access to (article 86, paragraphs 6 c/c with 9, or Law nº
+12.529/2011);
+III. in the interaction of the SG-Cade with external bodies, traceable versions of
+documents are provided;
+IV. if it is necessary to apply for a search and seizure order, there is no direct mention to
+the name of the company as a leniency recipient in the motion submitted by
+PFE/Cade. The company is identified as a participant in the conduct, like the other
+companies, and the individuals are identified by initials; the company and the
+55individual leniency recipient are identified in a document separate from the History
+of Conduct, prepared by SG-Cade (see question 52); and
+PART III. AFTER THE EXECUTION OF THE LENIENCY AGREEMENT
+76. What happens after the Leniency Agreement is signed?
+After signing the Leniency Agreement, Cade may initiate an investigation or administrative
+proceeding to investigate the violation reported in the Leniency Agreement and carry out
+other investigative measures, such as searches and seizures and/or inspections, requests
+for information, and intelligence procedures, to detect cartels in biddings (see question 78
+e 79).
+In this scenario, throughout the entire process, the leniency recipients must fully and
+permanently cooperate with the investigations and the administrative proceeding, and
+appear, at their own expense, whenever requested, in all procedural acts, until their
+conclusion (article 86 of Law nº 12.529/2011 and 198 c/c with article 206, I to VIII, RiCade).
+77. What happens if the terms and conditions stipulated in the Leniency Agreement are
+not fulfilled?
+When the analysis of the General-Superintendence is concluded, the SG-Cade verifies
+whether the leniency recipient met all the legal requirements set forth in the Leniency
+Agreement and refers the administrative proceeding to Cade’s Tribunal with a non-binding
+opinion on the case. The final decision issued by Cade’s Tribunal analyses if the terms and
+conditions stipulated in the Leniency Agreement (see question 72) are fulfilled. If not, the
+leniency recipient responsible for the noncompliance will lose his respective benefits, and
+be submitted to the fines and other applicable penalties (article 206, paragraph 1, IX,
+RiCade). This will happen, for example, if the leniency recipient ceases to cooperate with
+Cade or submits false information. In general, it is not considered a breach of the Leniency
+Agreement if Cade’s Tribunal does not condemn all the companies and/or individuals
+identified as co-authors of the reported violation by the leniency recipient.
+Furthermore, if one or more leniency applicant – company or individual – does not
+cooperate with the investigations it does not invalidate the Leniency Agreement with
+respect to the other leniency applicants who did collaborate.
+56Until today, none of the Leniency Agreements celebrated with SG-Cade was declared
+breached by Cade’s Tribunal. Cade’s Reporting Commissioner, with the approval of Cade’s
+Tribunal, is the one responsible for verifying whether there has been a breach of the
+Leniency Agreement, at the time he/she issues a final decision on the administrative
+proceeding derived from the Leniency Agreement.
+78. When a preliminary investigation or administrative proceeding is launched, what kind
+of information provided on the Leniency Agreement will be made public?
+As a rule, the contents of the Leniency Agreement and all its related documents are
+confidential and will not be disclosed, even after a preliminary investigation or an
+administrative proceeding is opened by Cade, except in the case of a court order or by
+express authorization of the leniency recipients. As a rule, the identity of the leniency
+recipients will be treated as confidential and not publicly released until the final judgment
+by Cade of the administrative proceeding related to the violation reported.
+The defendants in the administrative proceeding opened in connection with the Leniency
+Agreement will be prohibited to disclose information and/or documents to third parties,
+other government bodies, or foreign authorities. Those defendants, i.e., the companies and
+individuals investigated for the reported violation, will have access to the identity of the
+leniency recipients and other information and documents of the Leniency Agreement.
+Access to such information, however, must be used strictly in light of due process principles
+and defendants’ contradictory rights in the administrative proceeding underway at Cade
+(article 207, paragraph 2, I, RiCade).
+If it becomes necessary to release or share confidential information, by order of a court or
+any other nontransferable legal obligation, then the leniency recipient will previously notify
+the SG-Cade – or be informed by the SG-Cade – of the need to disclose the information.
+Then access will be granted exclusively to the addressee of the court order and/or to the
+holder of the nontransferable legal prerogative, thus keeping the information restricted
+from the public.
+In specific situations, it is still possible for the leniency recipients to waive the
+confidentiality of their identity and/or the content of the Leniency Agreement and/or their
+documents and other attached materials, wholly or in part. It relies on if so agreed among
+the leniency recipient, Cade, and the State and/or Federal Public Prosecution Service, in
+57the interest of the leniency recipients or the investigation. However, Cade will not require
+the leniency recipients to waive their guarantee of confidentiality if they wish to keep it.
+Cade’s General Superintendence follows a set of procedures aiming at ensuring
+confidentiality after the execution of the Leniency Agreement and when opening a
+preliminary investigation or an administrative proceeding (as in question 85).
+79. When a search and seizure warrant or other court measure is carried out, what kind
+of information provided on the Leniency Agreement will be made public?
+The Leniency Agreement and the information contained in its documents may support a
+request to the courts for a search and seizure warrant, as well as other court measures, by
+Cade’s General Superintendence and/or the competent criminal authorities, according to
+Law nº 12.529/11. When a request is submitted to a court, the SG-Cade and/or the
+competent criminal authorities will seek to protect the confidential information and
+documents submitted by the leniency recipients and will request the courts to safeguard
+their confidentiality within the scope of the lawsuit.
+The SG-Cade follows a set of procedures to ensure confidentiality also after signing a
+Leniency Agreement (see question 85).
+80. Can the leniency recipient provide the information and/or documents negotiated in
+connection with the Leniency Agreement to third parties, other government agencies,
+or foreign authorities?
+No. The confidentiality protection of the Leniency Agreement is also a duty of the leniency
+recipient, unless otherwise expressly agreed upon with Cade’s General Superintendence.
+The leniency recipient has the obligation to cooperate and cannot compromise the secrecy
+of the investigations (article 206, paragraph 1, VIII, “d”, and article 207, paragraph 2, II,
+RiCade, combined with article 86, paragraph 9 of Law nº 12.529/2011).
+Those represented in the administrative proceeding initiated in connection with the
+Leniency Agreement are also prohibited from disclosing information and/or documents to
+third parties, other governmental entities, or foreign authorities. The defendants, i.e., the
+companies and individuals investigated for the reported violation, will have access to the
+identity of the leniency recipients and other information and documents of the Leniency
+58Agreement. Access to such information, however, must be used strictly in light of due
+process principles and defendants’ contradictory rights in the administrative proceeding
+underway at Cade (article 207, paragraph 2, I, RiCade).
+81. What should the leniency recipient do if, after signing the Leniency Agreement, new
+information or documents on the reported violation are discovered?
+Even after signing the Leniency Agreement, the leniency recipient has the duty to report to
+Cade’s General Superintendence any new information and documents referring to the
+reported violation (article 206, paragraph 1, VIII, “d”, RiCade).
+Supplementation of the information and submission of new documents constitutes the
+continuous obligation of cooperation with the progress of the investigations. It will not give
+cause to allegations of breaching of the obligations of the leniency recipient unless the
+leniency recipient has tried to conceal the information subsequently reported – understood
+as information or documents unknown or not available at the beginning of the
+negotiations. There may be noncompliance with the obligation to cooperate if the leniency
+recipient conceals documents that were already available at the time of the leniency
+application or submits inconsistent information on the same fact.
+If the newly discovered information characterizes a separate conspiracy, then the applicant
+of the Leniency Agreement should submit to SG-Cade a new marker request, which will be
+evaluated separately (see question 29).
+82. When does Cade declare the fulfillment of the Leniency Agreement and when does
+the leniency recipient’s duty to cooperate cease?
+The Leniency Agreement is considered to have been fulfilled and the duty of the leniency
+recipient to cooperate with Cade ceases after judgment of the administrative proceeding
+by Cade’s Tribunal. The moment in which fulfillment of all obligations of the leniency
+recipient will be certified and the benefits of the Leniency Agreement will be conferred
+(article 87 of Law nº 12.529/2011 combined with article 208, RiCade). However, if the
+administrative proceeding is split into individual parts, the leniency recipients must
+continue to cooperate with the investigations.
+59The leniency recipient’s obligation to collaborate does not encompass eventual private or
+public actions for damages following Cade’s final decision on the administrative
+proceeding, except if the leniency recipients and Cade agree otherwise in the case at hand.
+The leniency recipient must report to Cade any lawsuits in Brazil or abroad concerning any
+aspects of the violation reported in the Leniency Agreement, as well as eventual judicial
+and extrajudicial agreements that are of his knowledge.
+83. Can the leniency recipient be held liable in a civil action for damages?
+Yes. Those harmed by the anticompetitive conduct can file a lawsuit to defend their
+individual or individual homogenous rights to obtain an order to cease antitrust violations,
+and to receive damages, regardless of the existence of a preliminary investigation or an
+ongoing administrative proceeding, which will not be stayed because of the filing of an
+action for damages (article 47 of Law nº 12.529/2011).
+Law nº 12.529/2011 does not obligate the leniency recipient to compensate consumers
+potentially harmed by the cartel as a condition sine qua non for entering into a Leniency
+Agreement. However, the law does not exempt the leniency recipient of being held liable
+for antitrust damages in a civil action filed against the leniency recipient and other
+participants in the antitrust violation.
+If a court requires the leniency applicant to disclose leniency material in a civil action for
+damages, PFE/Cade can intervene to ensure the maintenance of the confidentiality of the
+information and documents provided by the leniency applicant while Cade’s investigation
+is ongoing. After Cade’s Tribunal issues its final decision, PFE/Cade can also intervene in the
+context of civil actions for damages to ensure that access to the leniency material is
+reasonable, proportional, and that the plaintiff has a legitimate interest in the discovery.
+Generally, all the information able to support a plaintiff’s claim is contained in the
+Reporting Commissioner’s vote.
+84. Does the confidentiality of the information and documents submitted during the
+negotiation of the Leniency Agreement remain in effect after Cade’s Tribunal issues a
+final decision?
+Cade’s General Superintendence follows its set of procedures even after the Plenary of
+Cade’s Tribunal issues its final decision on the administrative proceeding. The final decision
+60on the administrative proceeding makes the identity of the leniency recipient public, at
+which time essential information for understanding and solving the case may also be
+disclosed by the release of the Reporting Commissioner’s public vote. Generally, Cade’s
+final decision is detailed and includes information and images of the evidence used to
+support the reported violation against all the defendants, whether leniency recipients,
+TCC’s proponents or not. Even after the final decision is released, Cade will use its best
+efforts to maintain the confidentiality of the documents and information voluntarily
+submitted by the leniency recipient that is/are considered business secrecy.
+Hence, with respect to interested third parties (for example, clients and consumers
+potentially harmed by the reported violation), as a general rule, Cade does not grant access
+to the information and documents voluntarily provided in connection with the Leniency
+Agreement beyond those that are already contained in the Reporting Commissioner’s vote.
+However, Cade has the duty to submit information, at any time and including leniency
+material, in case there is a national court order requesting so. In this case, access to
+information and documents disclosed should only be granted to the plaintiffs that asked
+for discovery, should only be used in the context of the civil action in which the discovery
+was requested, and should not be disclosed to third parties (including abroad). PFE/Cade
+can intervene in the judicial proceeding to ensure the protection of the leniency material
+and Cade’s Leniency Program as a whole (see question 83).
+85. What are Cade's confidentiality procedures after the signature of the Leniency
+Agreement?
+As a rule, the contents of the Leniency Agreement and all its related documents are
+restricted and will not be disclosed to the public neither during the initiation of a
+preliminary investigation, during an administrative proceeding nor in the case of a search
+and seizure warrant (see questions 75 and 78).
+Cade’s General Superintendence follows a set of procedures aiming at ensuring
+confidentiality after signing the Leniency Agreement and upon initiation of the preliminary
+investigation or administrative proceeding, such as:
+I. the possibility of not publishing the information that the case originated from a
+Leniency Agreement;
+II. the order for initiation of the administrative proceeding, when published in the DOU”,
+as a rule, does not contain the names of the individuals and the attorneys in the case,
+but only the names of the legal entities involved, in alphabetic order;
+61III. the confidential information and documents related to the Leniency Agreement
+remain in restricted files in the electronic system of Cade, and there is only one
+separate public record;
+IV. the information related to the Leniency Agreement is labeled and/or highlighted as
+being of restricted access in the Technical Notes; and
+V. in interaction with external bodies, traceable versions of documents are provided.
+Furthermore, if it is necessary to apply for a search and seizure order, other confidentiality
+measures are adopted, such as: (i) a request for the maximum level of confidentiality
+available in the Brazilian court system; (ii) a personal request by Cade's Chief-Attorney
+Office (PFE/Cade ) to the assigning judge and the judge assigned to the case and a specific
+alert as to the confidentiality of the Leniency Agreement; (iii) there is no direct mention of
+the name of the company and/or the individuals as leniency recipients; the person is
+identified as a participant in the conduct, like the other companies, and the individuals are
+identified by acronyms; (iv) the leniency recipients individuals are identified in a document
+separate from the History of Conduct, prepared by the SG-Cade (see question 52); and (v)
+proactive action by the PFE/Cade at the courts, in the event of appeals, after
+implementation of the search and seizure measure.
+PART IV. LENIENCY PLUS
+86. What is Leniency Plus?
+A Leniency Plus consists of the reduction by one to two-thirds of the applicable penalty for
+a company and/or individual that does not qualify for a Leniency Agreement in connection
+with the conduct in which it has participated (Original Leniency Agreement), but provides
+information on another conduct which Cade’s General Superintendence had no prior
+knowledge of (article 86, paragraph 7, and paragraph 8, Law nº 12.529/2011 c/c article 209,
+RiCade) (New Leniency Agreement).
+If, for example, a company and/or individual, already investigated for a cartel in a first
+market (first cartel), which does not qualify for the negotiation of Leniency Agreement (see
+question 37). If this company and/or individual is interested in collaborating with the
+investigation in the first market, it may do so through a TCC (see question 23). In addition,
+this company and/or individual may report to SG-Cade another cartel in another market
+62(second cartel) of which SG / Cade has no prior knowledge. In this case, in addition to
+obtaining the full benefits of the Leniency Agreement with respect to the second cartel,
+that company and-or individual may obtain a reduction of one-third of the penalty
+applicable to the first cartel, as represented below:
+1st Cartel 2nd Cartel
+A
+(Leniency Applicant)
+B
+(Leniency Applicant)
+B
+(Investigated Party) 1/3
+E
+(Investigated Party)
+C
+(Investigated Party)
+F
+(Investigated Party)
+In chronological terms, the timeline that must be covered by the company and/or individual
+willing to benefit from leniency plus is as follows:
+Investigation of the
+1stcartel is in course
+in the SG-Cade Leniency Agreement
+(whether public or related to the 1st B requests, at the
+confidential) cartel is not avaiable same time or not, a
+for B. marker related to a
+2ndcartel in another SG-Cade provides a
+market of which SG-
+marker for B and
+Cade has no prior
+initiates the
+knowledge. It makes
+the 1st cartel eligible negotiation of a New
+for leniency plus Leniency Agreement
+benefit
+regarding the 2nd
+cartel.
+63The leniency plus benefit is consistent with Cade's higher objective of combatting illegality,
+specifically cartels, given that the collaboration by the company and/or the individuals
+allows information and documents regarding different and still undiscovered
+anticompetitive conducts to be obtained.
+Hence, with regard to the new violation reported (second cartel), once the legal
+requirements have been met (see question 12), the leniency recipient will receive all the
+benefits of the Leniency Agreement (article 86, paragraph 1, and article 86, paragraph 4, I
+and II, of Law nº 12.529/2011). In regard to the violation already under investigation by the
+SG-Cade (first cartel), the leniency recipient may benefit from a reduction of one-third of
+the applicable fine (leniency plus).
+87. How does the marker request relates to Leniency Plus?
+The request for a marker that generates Leniency Plus benefit is mostly made in the same
+manner as indicated above (Part II.1). If available, the applicant will then receive a marker
+declaration.
+The specificity of this request is that the applicant must expressly indicate on which
+applicable penalty they intend to use the benefit. Unavailability can refer both to
+administrative proceedings in which it is already investigated by SG-Cade and to waiting
+lines in which it may appear (see question 37).
+Once again, in chronological terms, the timeline that must be covered by the company
+and/or individual that intends to request a marker that incurs leniency plus benefit is as
+follows:
+64Investigation of the
+1stcartel is in course
+in the SG-Cade Leniency Agreement B requests, at the
+(whether public or related to the 1st same time or not, a
+confidential) . cartel is not avaiable marker related to a
+for B.
+2ndcartel in another SG-Cade provides a
+market of which SG-
+marker for B and
+Cade has no prior
+initiates the
+knowledge and
+expressedly indicates negotiation of a
+that intends to use New Leniency
+the leniency plus
+Agreement
+benefit upon the 1st
+regarding the 2nd
+cartel
+cartel.
+This means that if the company and/or individual has previously entered into a Leniency
+Agreement in one market and is subsequently investigated in another administrative
+proceeding in another market, the leniency plus benefit will not be applicable retroactively,
+since it will not bring any new information to Cade, allowing it to enter into a TCC. Also in
+chronological terms, the timeline that will not give the company and/or individual the
+benefit of leniency plus is as follows:
+B requests a marker
+related to a 1stcartel
+SG-Cade provides a
+of which the SG-
+marker for B and
+Cade has no prior
+initiates the Investigation of a 2nd
+prior knowledge.
+negotiation of the cartel is initiated in
+Leniency Agreement the SG-Cade in B’s request for the
+regarding the 1st. which B is benefits of leniency
+investigated (may
+plus to be applied
+the investigation be
+public or secret). on the fine imposed
+for its participation
+in will be denied.
+65Thus, the company and/or individual, when requesting leniency plus benefit, should,
+therefore, endeavor to make SG-Cade aware of all anticompetitive behaviors in which it
+has participated, changing its behavior in competitive terms, under penalty of having this
+situation considered under the terms of art. 39 c/c art. 45, II of Law nº 12.529 /2011.
+In addition, it should be noted that, pursuant to art. 86, paragraph 7 of Law nº 12.529/2011,
+in order to obtain the benefit of leniency plus, it is necessary that the marker request for
+the second be submitted to SG-Cade prior to the submission of the administrative
+proceeding that investigates the first cartel for judgment by the Cade’s Tribunal.
+88. Is it possible to obtain Leniency Plus if the leniency applicant has previously signed a
+Leniency Agreement in another market with the SG-Cade?
+nº Leniency Plus is a benefit granted to a company or individual that does not qualify, in
+the course of the investigation or administrative proceeding underway, to enter into a
+Leniency Agreement, and therefore provides information on another cartel about which
+Cade’s General Superintendence had no prior knowledge (article 209 of the RiCade
+combined with article 86, paragraph 9, of Law nº 12.529/2011) (see question 19).
+Accordingly, if the company and/or individual previously entered into a Leniency
+Agreement in one market and is later represented in other administrative proceedings in
+another market, the benefit of Leniency Plus will not be retroactively applied to such
+person, since he/she will not bring any new information to Cade. In this case, the company
+will only be eligible to apply for a TCC (see II.2 and questions 36 and 87).
+Thus, when a company and/or individuals request a Leniency Plus to Cade, they should use
+their best efforts to submit to SG-Cade information on all anticompetitive conducts in
+which they had participated, and enhance compliance and improve their competitive
+behavior in the market. Otherwise, the penalties foreseen in article 39 c/c article 45, of Law
+nº 12.529/2011 may apply.
+89. Is it possible to obtain discounts related to both the Cease and Desist Agreement (TCC)
+and Leniency Plus?
+Yes. Under the terms of article 209, paragraph 3 of RiCade, the company and/or
+individual that celebrates a TCC regarding a certain anticompetitive conduct already
+under investigation (first cartel) can benefit from the combination of leniency plus and
+66TCC benefits, if, until the referral of the proceeding for judgment, qualify to enter into a
+leniency agreement related to another infringement, of which Cade has no prior
+knowledge (second cartel).
+Both discounts are applied subsequently (first leniency plus and then TCC discount) and
+not cumulative (not simply adding both discounts). The cumulative application could
+bring excessive benefit to the company and/or individual who has practiced cartel in
+various markets, with possible reduction of deterrence effect and possible disincentive
+to the prompt submission of new Leniency Agreement proposals. Subsequent
+application has interpretation that is derived from the legislation itself, and maintains
+the consistency between the maximum value of leniency plus and TCC discounts
+compared to the partial leniency hypothesis (see question 19).
+Thus, in the same example given in question 86, if the company investigated for
+participating in the cartel (first cartel) in the first market wishes to enter into a TCC in
+the administrative proceeding arising from the investigation of the first cartel and also
+to report to SG-Cade another anticompetitive infringement in which it has participated
+(second cartel) in a second market, of which Cade has no prior knowledge, it may, in
+relation to the first cartel, receive the benefit of leniency plus (reduction of 1/3 of the
+applicable penalty) and thus subsequently, but without accumulation, receive the
+discount for the celebration of the TCC.
+Since TCC negotiation provides discount ranges (see TCC Guide), the subsequent
+application of leniency plus with TCC may result in the following total discount
+parameters on the expected fine:
+ In case it’s the first proponent of a TCC with Leniency Plus: from 53.33% to
+66.67%;
+ In case it’s the second proponent of a TCC with Leniency Plus: from 50% to
+60%; and
+ for all other proponents of a TCC with Leniency Plus: up to 50%.
+In addition, it is recalled that no requirement may provide a percentual reduction higher
+than that established in TCCs with leniency plus already entered into in the same
+administrative proceeding, given the subsidiary application of the TCC rules (art. 209, §4
+of RiCade).
+6790. Is the Leniency Plus discount bounded to the celebration of a Cease and Desist
+Agreement?
+No. The reduction of one third concerning the leniency plus is applicable to the expected
+fine from administrative proceeding in which the one who applied for leniency is
+investigated for the first alleged cartel (article 209, paragraph 1 of RiCade). Hence, it is
+not necessary to negotiate a TCC within the first administrative proceeding to apply for
+the leniency plus discount, after all the latter is not conditioned by the existence of a
+TCC. However, if the applicant to the new Leniency Agreement also applies for a TCC, he
+may receive both benefits.
+91. Is it possible to obtain discounts in two Leniency Plus arrangements within a single
+administrative proceeding?
+No. The benefit of leniency plus is applied only once to each existing investigation. The
+relation is one to one, that is, with each New Leniency Agreement, the leniency plus
+benefit will be applied in only one of already existing investigations.
+If, for example, the company and/or individual is already investigated by cartel in a first
+market (first cartel), in which he/she does not qualify for the Leniency Agreement
+negotiation, and reports to SG-Cade another cartel in another market ( second cartel),
+of which SG-Cade has no prior knowledge, in addition to obtaining all the benefits of the
+Leniency Agreement with respect to the second cartel, may obtain a reduction of one
+third of the penalty applicable in the first cartel.
+In another example, if this company and/or individual is investigated by a cartel in two
+markets (first and second cartel), and does not qualify for the Leniency Agreement
+negotiation in any of them, it may report to SG-Cade another two or more cartels, of
+which SG-Cade has no prior knowledge. This will result in a reduction of one-third of the
+penalty applicable in the first and second cartels, after the declaration of the fulfillment
+of the obligations set forth in the new Leniency Agreements concerning the 3rd and 4th
+cartels. Any 5th cartel reported to SG-Cade will not be able to grant leniency plus
+discounts, but will continue to preserve all benefits of the 5th New Leniency Agreement.
+Visually, one has the following:
+681st Cartel 2nd Cartel 3rd Cartel 4th Cartel 5th Cartel
+A (Leniency X (Leniency B (Leniency B (Leniency B (Leniency
+Applicant) Applicant) Applicant) Applicant) Applicant)
+1/3 1/3
+B (Investigated B (Investigated F (Investigated D (Investigated Y (Investigated
+Party) Party) Party) Party) Party)
+C (Investigated Y (Investigated C (Investigated Y (Investigated Z (Investigated
+Party) Party) Party) Party) Party)
+Furthermore, If the applicant is negotiating more than one New Leniency Agreement
+with the SG-Cade, as a rule, the first New Leniency Agreement, considering the moment
+of the market request, shall be used for the obtentions of the leniency plus benefit.
+92. If I have been able to celebrate a new Leniency Agreement, but it is still being
+negotiated, can I use it to get the benefit of Leniency Plus on a TCC?
+Yes, provided that the General Superintendence, in its analysis of convenience and
+opportunity,
+identify the strong likelihood of success of the proposed New Leniency Agreement, the
+granting of “conditional leniency plus” is possible. It is a benefit that can be applied
+under a suspensive condition, that is, if the New Leniency Agreement in negotiation is
+not concluded or non-compliance is declared by the Cade’s Court, the anticipated
+discount granted at a TCC should be collected as complemental monetary contribution
+to the Fund for the Defense of Diffuse Rights (article 209, paragraphs 2 and 3 of RiCade).
+Also, specifically in the event of a declaration of non-compliance, the Signatories will
+also forfeit the benefits of the New Leniency (article 206, paragraph 1, part IX of RiCade).
+93. If the applicant who qualifies for Leniency Plus is negotiating more than one New
+Leniency Agreement and is investigated in more than one case, how will the benefits
+be granted?
+In this case, SG-Cade will use the following criteria, observing the principles of efficiency
+and celerity, depending on the case, in order to evaluate which the previous
+investigation will the leniency plus benefit be granted:
+ the chronological order of marker (see question 88), if applicable;
+69 the New Leniency Agreement which has already been celebrated, if applicable;
+and
+ if there is no New Leniency Agreement signed, but there is more than one
+simultaneous negotiation of New Leniency Agreements, there will be two
+possibilities, depending on whether the marker request happens at the same
+time.
+A. When marker requests are made at the same time (“Same time marker Requests”),
+the most advanced in the negotiation will prevail at the applicant’s discretion. The
+criterion of the chronological order of marker requests is not applicable then,
+remaining the analysis of the leniency plus benefit in expected fine following the
+subsequent criteria: has the New Leniency Agreement already been signed? If not,
+which negotiation is more advanced? Thus, the four scenarios shown in Table 1
+below are possible:
+Table 1. Markers Requested on the same date
+Marker1 e Marker2 -Both It is not relevant for the application
+of the leniency plus benefit of the
+Leniency Agreements are
+Leniency Agreement 1 or 2 on the
+signed
+investigations in course.
+Marker1with an agreement The leniency plus benefit obtained
+from the execution of the Leniency
+signed and Marker2 with an
+Agreement 1 must be applied on
+Marker1 e agreement in negotiation
+the investigation still in course.
+Marker2
+(requested
+Marker1 with an agreement The leniency plus benefit obtained
+at the same
+in negotiation and Marker2 from the execution of the
+time) Leniency Agreement 2 must be
+with Leniency Agreement
+applied on the investigation still in
+signed. course.
+The marker from the most
+Marker1 e Marker2 with advanced negotiation will be used
+for the application of the leniency
+agreements in negotiation
+plus benefit on the other
+investigation still in course.
+These four scenarios can be summarized as follows:
+1. If the New Leniency Agreements are already signed, anyone can be chosen to be
+granted with leniency plus, once the marker requests happened at the same time
+and the New Leniency Agreements are signed;
+2. If only one New Leniency Agreement is already signed, the applicant must
+necessarily use it to claim for a leniency plus; and
+703. If there is still no New Leniency Agreement celebrated, the applicant must
+necessarily use the most advanced in negotiation the claim for the leniency plus. The
+evaluation of which is the most advanced in negotiation is at discretion of SG-Cade.
+B. When marker requests happen on distinct time (“distinct time marker requests”),
+as a rule, the New Leniency Agreement, related to the first marker, must be used
+for leniency plus. Three criteria should be analyzed for eventual leniency plus
+benefit: what is the chronological order of the marker requests? Has the New
+Leniency Agreement already been signed? If not, which trade is more advanced?
+Thus, the four scenarios shown in Table 2 below are possible:
+Table 2. Markers Requested on different date
+The leniency plus benefit obtained from
+Marker1 e Marker2 -Both Leniency Agreement 1, the oldest, must
+Leniency Agreements are signed be applied on the investigation still in
+course.
+Marker1with Leniency
+The leniency plus benefit obtained from
+Marker1 e Agreements signed and Marker the execution of the Leniency
+Marker2 2 with an agreement2 in Agreement 1 must be applied on the
+(Marker1 is negotiation investigation still in course.
+requested
+before
+Marker2, at Marker1 with an agreement in The leniency plus benefit obtained from
+the execution of the Leniency
+different negotiation and Marker2 with
+Agreement 2 must be applied on the
+times. Leniency Agreement signed.
+investigation still in course.
+As a rule, the leniency plus benefit
+obtained from Leniency Agreement 1,
+Marker1 and Marker2 with an the oldest, must be applied.
+agreement in negotiation Exceptionally, the marker from the most
+advanced negotiation may be used for
+the obtention of the benefit.
+For marker requests in different time (different time marker requests), the four
+scenarios above can be summarized as follows:
+1. If the New Leniency Agreements are already signed, the leniency plus claim will be
+bounded to the first marker requested by the proponent. In this case, the
+chronological criterion of the marker request prevails;
+2. If only one New Leniency Agreement is already signed and there is another under
+negotiation, the applicant must necessarily use it to claim for leniency plus;
+3. If no New Leniency Agreement has been celebrated yet, the claim for leniency plus
+will be bounded to the first marker requested by the applicant. Exceptionally, SG-
+Cade may assess whether it is convenient and opportune that the benefit of the
+71marker of the most advanced investigation should be granted to the applicant,
+regardless of chronological criterion. In this case, the principles of efficiency and
+celerity will be taken in consideration. The assessment of which negotiation is most
+advanced is at the discretion of SG-Cade.
+94. May the Partial Leniency be used in order to obtain the Leniency Plus benefit?
+No. Partial leniency is a situation in which SG-Cade has prior knowledge of the reported
+infringement, but has no sufficient evidence to ensure the conviction of the company or
+individual when the marker is requested. As observed in article 86, paragraph 7, of Law
+n. 12.529/2011 combined with article 209, of RiCade, the New Leniency Agreement
+must refer to a new infringement of which SG-Cade has no prior knowledge. In this
+sense, a partial leniency is not enough to obtain the benefit of leniency plus, since SG-
+Cade already has prior knowledge of the anticompetitive conduct (article 86, paragraph
+1, part III and paragraph 4, part 2 of Law 12.529/2011 combined with article 196, part 3
+and 6 and article 208, part 2 of RiCade.
+95. When does the leniency applicant receive the discount pursuant to Leniency Plus?
+Under the terms of article 209, Paragraph 1 of RiCade, the reduction of one third of the
+penalty applicable to the investigation of the first cartel will, as a rule, be granted upon
+the judgment of the administrative proceeding in relation to the second cartel, object
+of the New Leniency Agreement reported by the company and / or individual. On this
+occasion, the Cade’s Tribunal will assess fulfillment of the obligations of the signatories
+of the New Leniency Agreement (second cartel) and, if it declares compliance, the
+leniency plus benefit will be granted on the first cartel market.
+If, however, the judgment of the administrative proceeding relating to the first cartel is
+prior to the judgment of the administrative proceeding in relation to the second cartel,
+object of the New Leniency Agreement reported by the company and / or individual,
+article 209, paragraph 2 of RiCade foresees an alternative. The judgment of the first
+cartel may then contain provisions that, if the fulfillment of the obligations established
+in the New Leniency Agreement is not verified in the administrative proceeding of the
+second cartel, the discount granted in advance shall be collected as a complementary
+monetary contribution to the Fund for the Defense of Diffuse Rights (article 209,
+paragraph 2 of RiCade).
+In turn, there is also a chance that the signatory to the New Leniency Agreement will
+also be the applicant for a TCC and obtain the benefits of leniency plus in that application
+(see question 90).
+72PART V. LENIENCY AGREEMENTS FOR INTERNATIONAL CARTELS
+In this part, the procedures of Leniency Agreements for international cartels will be
+approached, regarding the three phases of the Leniency Agreement negotiation (see
+Part II), which contemplate the marker request, the submission of pieces of evidence of
+the offense reported or under investigation and the execution of the Leniency
+Agreement.
+96. About international cartels cases, is there any peculiarity regarding the marker
+request?
+No. In respect of the marker request phase, the applicant may come to SG-Cade to
+formalize an oral or written request regarding a particular violation to be reported or
+under investigation, under article 198 of RiCade (see Part II.1).
+97. Is it possible for the applicants and Cade's General Superintendence to adopt an oral
+procedure during the submission of information and documents phase, proving the
+reported or investigated infringement?
+Yes. During the second phase of the negotiation, applicants may submit information and
+documents proving the reported or under investigation infringement in two ways: oral
+or written. These possibilities (written or oral) will be set out in the Marker Declaration
+to be granted by SG / Cade (see question 36).
+In the oral form, the applicants may give oral statements to SG-Cade, providing detailed
+information and documents regarding the reported practice (see question 46), which
+will support the preparation of the document entitled History of Conduct, to be signed
+only by the General Superintendence (see question 52).
+In turn, in written form, the legal representatives of the applicants may come to Cade to
+report the facts related to the infringement, pursuant to the information and documents
+provided by the applicants. The due date for the completion of this presentation must
+be agreed in advance between the legal representatives and SG-Cade, on a case-by-case
+basis, to reserve the notebook and the room at Cade's facilities.
+73In order to safeguard the confidentiality of the negotiation, any questions and / or
+comments that SG / Cade has during the preparation of the History of Conduct will be
+communicated orally or written to the applicants and/or their legal representatives,
+depending on the requested option. If requested, SG-Cade may forward its comments
+in a document apart that does not identify the companies and/or individuals, not even
+the market affected by the reported practice (see question 50).
+Finally, it should be emphasized that the History of Conduct is a document prepared
+internally by the employees of the Office of the SG’s Chief of Staff, which follows the
+confidentiality procedures of the proposal and the entire process of the Leniency
+Agreement negotiation (see question 57).
+98. Does Cade share information on a Leniency Agreement with authorities of other
+countries?
+No. Cade does not share information from a Leniency Agreement with antitrust
+authorities of other countries, except if the leniency applicants and/or recipients
+expressly allow the sharing of the provided information with the authorities of other
+jurisdictions (waiver). The waiver can involve both formal aspects (procedural waiver)
+and material aspects of the investigation (full waiver).
+In the context of international cartels, in situations in which the Leniency Agreement
+proposal is made in multiple jurisdictions, the waiver can fulfill the interests of the
+leniency applicant, since such procedure aims at avoiding the duplication of information
+to be generated by them and to fulfill the interests of the antitrust authorities, thus
+allowing for expedited investigations and international coordination of procedures.
+This sharing of information, however, must be previously agreed upon by both the
+leniency recipient and Cade’s General Superintendence. In addition, the SG-Cade does
+not disclose information or documents in connection with a Leniency Agreement at the
+request of a foreign judge or authority, which do not have competent jurisdiction in
+Brazil.
+Same as Question 79.
+7499. In the interest of maintaining the secrecy of negotiations and / or investigations in
+other countries, may Cade coordinate the timing of the publicizing of its investigation
+with foreign authorities?
+Yes. In order to preserve investigations in other jurisdictions and / or not harm any
+negotiations of agreements by the signatory in other countries, cooperation between
+Cade and foreign antitrust authorities is desirable, opportune and usual, so as to
+negotiate the timing of the publicizing of the Agreement, or even the moment of the
+opening of the administrative proceeding, what makes the investigation public. Thus,
+confidentiality may be applied to the proceedings, documents, objects or information
+and procedural acts, as long as in the interest of the investigations, at the discretion of
+Cade’s General Superintendence (article 50 combined with article 140, paragraph 1 of
+RiCade).
+In turn, the opening of the administrative proceeding by SG-Cade will guarantee to the
+defendants the contradictory rights, giving them full access to the documents used to
+form the conviction of Cade (sole paragraph of article 50 combined with article 207,
+paragraph 2 of the RiCade). The order determining its establishment shall include the
+indications of the defendants, the imputation of the infringement to each defendant,
+indicating the facts to be ascertained, that is, the market affected by the unlawful
+conduct, the period of conduct and the dynamics of the cartel (article 186 of the RiCade).
+As a rule, following the Leniency Agreement, the content of the Agreement and all
+related documents will remain restricted and will not be disclosed to the public, even
+after any inquiry or administrative proceeding have been opened by Cade, except for a
+judicial branch order or express authorization of the signatories. The identity of the
+signatories will, as a rule, be treated as restricted access to the public until the judgment
+of the Administrative Proceedings by the Cade (Article 207 of RiCade) (see question 76).
+100. May defendants disclose information and / or documents of the Leniency
+Agreement to foreign authorities?
+No. The defendants in the Administrative Process opened due to the Leniency
+Agreement can not disclose or share, in whole or in part, information an /or documents
+to third parties, even if they are other governmental agencies or foreign authorities,
+without Cade's authorization (Article 207 , Paragraph 2, item II of RiCade). Access to such
+information shall be used strictly for the purpose of exercising the right to due process
+in the administrative process before Cade (article 207, paragraph 2, item I of RiCade).
+75

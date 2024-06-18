@@ -1,0 +1,2018 @@
+1Ministério da Justiça
+Conselho Administrativo de Defesa Econômica
+Guia de Remédios Antitruste
+Conselho Administrativo de Defesa Econômica
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+2Institucional
+Presidente da República
+Michel Miguel Elias Temer Lulia
+Ministro da Justiça
+Torquato Jardim
+Presidente do Cade
+Alexandre Barreto de Souza
+Conselheiros do Cade
+João Paulo de Resende
+Cristiane Alkmin Junqueira Schmidt
+Mauricio Oscar Bandeira Maia
+Paula Farani de Azevedo Silveira
+Paulo Burnier da Silveira
+Polyanna Ferreira Silva Vilanova
+Superintendente-Geral do Cade
+Alexandre Cordeiro Macedo
+Procurador-Chefe do Cade
+Walter de Agra Junior
+Economista-Chefe
+Guilherme Mendes Resende
+3Ficha Técnica
+Coordenação:
+Alexandre Barreto de Souza
+Alexandre Cordeiro Macedo
+Patrícia A. Morita Sakowski
+Kenys Menezes Machado
+Guilherme Mendes Resende
+Revisão:
+Maria Cristina de Souza L. Attayde
+Ricardo Medeiros de Castro
+Colaboradores Internos:
+Alexandre Barreto de Souza
+Guilherme Mendes Resende
+Kenys Menezes Machado
+Marcelo Nunes de Oliveira
+Maria Cristina de Souza L. Attayde
+Patrícia A. Morita Sakowski
+Patricia Semensato Cabral
+Paulo Burnier da Silveira
+Rodrigo Abreu Belon Fernandes
+Simone Maciel Cuiabano
+Colaboradores Externos:
+Eduardo Pontual Ribeiro
+Edição e Planejamento Gráfico:
+Assessoria de Comunicação Social do Cade
+4Sumário
+Apresentação .................................................................................................................................. 7
+1 Remédios Antitruste: aspectos gerais ....................................................................................... 9
+1.1 O que são remédios antitruste? ............................................................................................ 9
+1.2 Base legal ........................................................................................................................... 9
+1.3 Para que servem? Problemas concorrenciais a mitigar ........................................................ 10
+1.4 Quais os tipos de remédios? .............................................................................................. 11
+1.5 Quando podem ser negociados? Oportunidade de desenho de remédios em ACC ............... 12
+2 Princípios e diretrizes gerais para remédios efetivos ............................................................... 14
+2.1 Princípios .......................................................................................................................... 14
+2.1.1 Proporcionalidade ................................................................................................. 14
+2.1.2 Tempestividade ..................................................................................................... 14
+2.1.3 Factibilidade .......................................................................................................... 15
+2.1.4 Verificabilidade ..................................................................................................... 15
+2.2 Diretrizes gerais ................................................................................................................. 15
+2.2.1 Preferência por remédios estruturais ...................................................................... 15
+2.2.2 Preferência por trustee de monitoramento .............................................................. 16
+2.2.3 Não necessidade de acompanhamento contínuo .................................................... 16
+2.2.4 Remédios que requerem cautela ............................................................................ 17
+3 Remédios Estruturais ............................................................................................................. 18
+3.1 O Pacote de Ativos ............................................................................................................ 19
+3.1.1 Definição do pacote de ativos ................................................................................ 19
+3.1.2 Cuidados e boas práticas na definição do pacote de ativos ..................................... 22
+3.1.3 Medidas de preservação e separação ..................................................................... 28
+3.2 O Comprador .................................................................................................................... 30
+3.2.1 Momento de definição do comprador .................................................................... 31
+3.2.2 Requisitos do comprador ....................................................................................... 34
+3.2.3 Aprovação do comprador pelo Cade ...................................................................... 36
+3.3 O processo de desinvestimento .......................................................................................... 37
+3.3.1 Prazos para o desinvestimento ............................................................................... 37
+3.3.2 Possibilidade de adoção de trustee de desinvestimento .......................................... 38
+3.3.3 Cláusulas de Preço................................................................................................. 38
+3.3.4 Auditoria prévia (due diligence) ............................................................................. 38
+3.3.5 Aprovação da alienação......................................................................................... 39
+54 Remédios Comportamentais .................................................................................................. 39
+4.1 Cuidados e boas práticas na definição de remédios comportamentais ................................. 41
+5 Trustees ................................................................................................................................ 43
+5.1 Funções............................................................................................................................. 43
+5.1.1 Trustee de monitoramento ..................................................................................... 43
+5.1.2 Trustee de operação .............................................................................................. 45
+5.1.3 Trustee de desinvestimento ................................................................................... 45
+5.2 Outros aspectos ................................................................................................................. 46
+5.2.1 Momento de nomeação ......................................................................................... 46
+5.2.2 Requisitos ............................................................................................................. 46
+5.2.3 Seleção ................................................................................................................. 47
+5.2.4 Aprovação pelo Cade............................................................................................. 47
+5.2.5 Deveres e obrigações da compromissária perante o trustee .................................... 48
+5.2.6 Remuneração ........................................................................................................ 48
+5.2.7 Substituição, dispensa e recondução do trustee ...................................................... 49
+6 Monitoramento do ACC ......................................................................................................... 49
+6.1 Monitoramento pelo Cade x Monitoramento pelo Trustee .................................................. 50
+6.2 Sanções e Penalidades ....................................................................................................... 52
+6.3 Revisões do ACC ............................................................................................................... 53
+7 Cumprimento do ACC ............................................................................................................ 53
+8 Aspectos adicionais ............................................................................................................... 54
+8.1 Setores regulados .............................................................................................................. 54
+8.2 Cooperação internacional .................................................................................................. 55
+Anexos .......................................................................................................................................... 56
+Anexo A - Glossário ................................................................................................................... 56
+Anexo B - Mandato do trustee ................................................................................................... 59
+Anexo C - Waiver de confidencialidade ...................................................................................... 64
+6Apresentação
+O presente Guia sobre Remédios Antitruste (“Guia”) coleciona as melhores práticas e
+procedimentos usualmente adotados no desenho, aplicação e monitoramento de remédios
+pelo Conselho Administrativo de Defesa Econômica (“Cade”), de forma a dar maior
+previsibilidade e transparência em relação à atuação deste Conselho
+Remédios antitruste são entendidos como restrições necessárias para corrigir os
+eventuais efeitos nocivos de um Ato de Concentração (“AC”), de acordo com o art. 61 da Lei
+12.529/2011. Os remédios buscam evitar que um AC possa resultar na eliminação da
+concorrência em parte substancial de mercado relevante, no aumento da probabilidade de
+coordenação entre competidores, na criação ou reforço de posição dominante ou, ainda, que
+possa resultar na dominação de mercado relevante de bens ou serviços, seguindo os arts. 36
+e 88 da Lei 12.529/2011.
+Desta forma, se o AC não for aprovado integralmente, a imposição de remédios
+constitui condição necessária para sua aprovação. Todavia, na impossibilidade de aplicação
+de remédios para uma operação que gere potencialmente prejuízo à concorrência, segundo o
+art. 88 da Lei 12.529/2011, o ato de concentração deve ser reprovado pelo Tribunal
+Administrativo do Cade (“Tribunal”).
+Esses remédios podem ser negociados com as Requerentes, por meio de Acordo em
+Controle de Concentrações (“ACC”), integrante das recomendações da Superintendência-Geral
+do Cade (“SG”), quando da impugnação, ou de decisões do Tribunal, seguindo a
+regulamentação ditada pelo Regimento Interno do Cade (“RICADE”), em seus arts. 161, 165 e
+168.
+Os remédios também podem ser designados unilateralmente pelo Tribunal do Cade ou
+fazer parte de Termos de Compromisso de Cessação (“TCC”) em casos de infrações à ordem
+econômica advindas de condutas, no contexto dos arts. 36 e 38 da Lei 12.529/2011. Por
+conveniência da exposição abaixo, o tratamento dos remédios será referido apenas a ACs,
+embora sua aplicação possa ser dada a casos de condutas.
+Nesse contexto, o Guia de Remédios destina-se a servir de referência a servidores,
+Requerentes, terceiros interessados e sociedade com relação aos procedimentos relativos ao
+desenho, adoção e monitoramento de remédios futuros.
+O Guia está organizado da seguinte forma: a Seção 1 trata dos aspectos gerais de
+remédios antitruste como definição, tipos, base legal e objetivos; a Seção 2 trata de princípios
+e diretrizes gerais para remédios efetivos; a Seção 3 refere-se a remédios estruturais nos
+7seguintes aspectos: (1) pacote de ativos, (2) comprador e (3) processo de desinvestimento; a
+Seção 4 apresenta remédios comportamentais, cuidados e boas práticas para sua adoção; a
+Seção 5 trata de trustees e quando usá-los. Por sua vez, a Seção 6 trata do monitoramento do
+ACC, sanções, penalidades e revisões do ACC; a Seção 7 aborda o cumprimento do ACC;
+enquanto a a Seção 8 complementa alguns aspectos no que se refere a setores regulados e
+cooperação internacional em relação a ACs que abrangem outras jurisdições. Por fim, o Guia
+apresenta Glossário, Mandato do trustee e Waiver de Confidencialidade na Seção de Anexos.
+Este documento não é vinculativo e não possui caráter de norma, não substituindo ou
+alterando dispositivos do RICADE. As práticas e procedimentos aqui descritos podem ser
+alterados ao juízo de conveniência e oportunidade do Cade, a depender das circunstâncias no
+caso concreto.
+81 Remédios Antitruste: aspectos gerais
+1.1 O que são remédios antitruste?
+Um remédio antitruste consiste em um processo, imposto pelo Cade ou negociado
+entre o Cade e as Requerentes, como condição de aprovação de um AC, que envolve (i) a
+delimitação de ações e comandos para as partes envolvidas na operação, (ii) a forma de
+aplicação dessas ações, (iii) seu monitoramento e (iv) a verificação de cumprimento. Muitas
+vezes o desenho de um remédio refere-se apenas à etapa (i), mas este Guia destaca a
+necessidade de um remédio efetivo atender, para além da etapa (i), todas as demais etapas
+para que haja uma solução mais completa que de fato sane as preocupações concorrenciais
+advindas do AC da forma como apresentado.
+O desenho de remédios pode incluir a venda de ativos tangíveis e intangíveis e/ou
+unidades de negócios das Requerentes, assim como impor comportamentos no curso de seus
+negócios. O desenho do remédio deve orientar-se pelo objetivo de corrigir os eventuais efeitos
+nocivos à concorrência de um AC. Assim, o desenho de remédios depende das particularidades
+do caso concreto e dos fatos envolvidos na operação e deve partir do potencial dano à
+concorrência identificado na avaliação da operação.
+1.2 Base legal
+O art. 9º, incisos V e X, da Lei 12.529/2011 prescreve que cabe ao Plenário do Tribunal,
+dentre outras atribuições, “aprovar os termos do compromisso de cessação de prática e do
+acordo em controle de concentrações, bem como determinar à Superintendência-Geral que
+fiscalize seu cumprimento”; e “apreciar processos administrativos de atos de concentração
+econômica”, “fixando, quando entender conveniente e oportuno, acordos em controle de atos
+de concentração”.
+De acordo com o art. 61 da Lei 12.529/2011, compete ao Tribunal, no julgamento do
+pedido de aprovação do AC, “aprová-lo integralmente, rejeitá-lo ou aprová-lo parcialmente,
+caso em que determinará as restrições que deverão ser observadas como condição para a
+validade e eficácia do ato”.
+Ainda, o § 2o do referido artigo determina que tais restrições (remédios) incluem:
+I - a venda de ativos ou de um conjunto de ativos que constitua uma atividade
+empresarial;
+II - a cisão de sociedade;
+III - a alienação de controle societário;
+IV - a separação contábil ou jurídica de atividades;
+V - o licenciamento compulsório de direitos de propriedade intelectual; e
+9VI - qualquer outro ato ou providência necessários para a eliminação dos efeitos
+nocivos à ordem econômica.
+Conforme prevê o art. 165 do RICADE, entre outras disposições, o Cade poderá receber
+propostas de ACC, de forma que os remédios são negociados com as Requerentes, desde o
+momento da notificação até 30 (trinta) dias após a impugnação da operação pela SG, sem
+prejuízo da análise de mérito da operação.
+Por sua vez, o art. 168 do RICADE menciona que, em caso de aprovação parcial do AC,
+o Tribunal determinará os remédios, ou seja, as restrições que deverão ser observadas como
+condição para a validade e eficácia do ato, nos termos do art. 61 da Lei nº 12.529/2011.
+Além disso, no contexto dos arts. 36 e 38 da Lei 12.529/2011, remédios podem ser
+aplicados em casos de infrações à ordem econômica advindas de condutas.
+1.3 Para que servem? Problemas concorrenciais a mitigar
+Esta seção sintetiza, de forma não exaustiva, os tipos gerais de problemas
+concorrenciais que podem surgir no âmbito de uma operação.
+ACs horizontais ou verticais podem gerar prejuízos à concorrência ao mudarem os
+incentivos em dados mercados, criando condições para que as Requerentes diretamente
+envolvidas possam exercer poder de mercado (efeito unilateral). Ainda, ACs podem alterar a
+configuração do mercado relevante de tal forma que aumente a probabilidade de coordenação
+tácita ou explícita entre competidores (efeito coordenado). Por fim, ACs verticais, ao criarem
+ou reforçarem posição de dominância, seja a montante ou a jusante, podem gerar prejuízos à
+concorrência pela eliminação ou discriminação de concorrentes eficientes atuais ou potenciais
+(fechamento de mercado).
+Em todos esses casos, os remédios devem mitigar o potencial prejuízo ao ambiente
+concorrencial decorrente da operação, restaurando as condições de rivalidade e de entrada
+presentes no cenário pré-operação. Por sua vez, não é objetivo dos remédios corrigir
+problemas concorrenciais pré-existentes que não tenham sido gerados pelo AC.
+Cabe ainda ressaltar que, caso não seja encontrada uma solução, via remédio, capaz
+de sanar os potenciais prejuízos da operação ao ambiente concorrencial, a medida mais
+adequada é a reprovação da operação, com base na Lei 12.529/2011. Este Guia, portanto,
+busca detalhar e consolidar a experiência do Cade nas situações em que os problemas
+concorrenciais no âmbito de um AC são localizados e solucionáveis, podendo-se vislumbrar a
+aplicação de remédios antitruste que sejam efetivos.
+101.4 Quais os tipos de remédios?
+Remédios antitruste podem ser concebidos em diferentes formatos. Eles podem ser
+classificados, de forma geral, (i) em estruturais, quando envolverem a transmissão definitiva
+de direitos e ativos, ou (ii) em comportamentais, quando envolverem práticas comerciais sem
+a necessária transmissão de direitos e ativos. É importante destacar que o desenho de uma
+solução antitruste via remédios que confira validade e eficácia ao AC pode envolver mais de
+um tipo de remédio1.
+De forma exemplificativa e baseando-se na experiência do Cade, nos termos do § 2º,
+art. 61 da Lei 12.529/2011, e na experiência internacional, as restrições estruturais incluem:
+i. Venda de ativos ou de um conjunto de ativos que constitua uma atividade
+empresarial;
+ii. Cisão de sociedade;
+iii. Alienação de controle societário ou de participações societárias;
+iv. Transmissão definitiva de direitos de propriedade intelectual, inclusive
+patentes, marcas e outros.
+O item (i) acima inclui a venda de unidades de negócios pré-existentes, que operem
+de forma individualizada, e a transmissão de conjuntos de ativos que passem a constituir uma
+unidade de negócios viável, que possa ser imediatamente gerida pelo comprador. Em ambos
+os casos os ativos devem ter (a) capacidade comprovada de atuar de forma competitiva no
+mercado relevante sob a nova direção; e (b) capacidade de mitigar os efeitos nocivos do AC.
+Para isto, a venda de ativos geralmente deve incluir todos os ativos físicos e intangíveis
+necessários para que a unidade de negócios continue atuando de forma efetiva, tais como
+mão de obra; bens para produção, distribuição e vendas; direitos de propriedade intelectual;
+contratos de fornecimento e distribuição; sistemas de informação; atividades e infraestrutura
+de pesquisa e desenvolvimento; licenças e autorizações de autoridades públicas relevantes e
+quaisquer outros requisitos indispensáveis para permitir o alcance dos itens (a) e (b) descritos
+anteriormente. Também podem ser necessárias obrigações comportamentais acessórias, tais
+como acordos transitórios de fornecimento de determinado insumo ou assistência técnica ao
+comprador, de forma a garantir a efetividade do desinvestimento.
+1 Há casos nos quais as medidas comportamentais têm sido utilizadas de forma complementar a um remédio
+estrutural. No AC envolvendo a Perdigão S/A e a Sadia S/A (AC nº 08012.004423/2009-18), determinou-se a
+alienação de um pacote de ativos – marcas e propriedade intelectual, bens e direitos relativos a determinadas
+unidades produtivas e centros de distribuição. Além disso, foram adotadas medidas comportamentais
+complementares, como a determinação de não celebração de acordos de exclusividade com pontos de venda
+durante a vigência do acordo, a suspensão do uso das marcas Perdigão e Batavo, entre outras. Consultar nos
+autos do processo fls. 3881 a 3895 – versão pública.
+https://sei.cade.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedimento_
+visualizar&id_anexo=27291&infra_sistema=100000100&infra_unidade_atual=110000960&infra_hash=1bc
+978da94be76ec6475cb1504dddbdeb584615446bbff47baa877a949e8a000 Acesso: 06.02.2018
+11De forma complementar e alternativa, em algumas situações em que um remédio
+estrutural não for efetivo ou for desproporcional, podem ser utilizados remédios
+comportamentais. Estes remédios consistem em obrigações de práticas comerciais, financeiras
+ou econômicas das partes envolvidas no AC, englobando ou não ativos diretamente afetados
+por ele, nos mercados relevantes relativos à operação. Estas obrigações incluem de forma não
+exaustiva os seguintes:
+i. separação contábil ou jurídica de atividades;
+ii. obrigações de transparência negocial com e para terceiros em atividades de
+fornecimento e compra de insumos e produtos;
+iii. comportamento não discriminatório e/ou concorrencialmente inapropriado
+com terceiros nas atividades de fornecimento e compras, em relação a partes relacionadas por
+meio do AC;
+iv. suspensão ou eliminação de cláusulas de exclusividade de fato ou de direito
+em relações comerciais com partes relacionadas por meio do AC;
+v. obrigação de fornecimento de insumos ou acesso a ativos-chave para
+concorrentes verticalmente relacionados;
+vi. obrigação de notificação de AC, mesmo não notificável por critérios de
+faturamento;
+vii. suspensão de direitos políticos ou societários advindos de participações ou dos
+efeitos concorrenciais derivados de instrumentos financeiros;
+viii. impedimentos no acesso e transmissão de informações concorrencialmente
+relevantes entre partes relacionadas dos Requerentes do AC;
+ix. licenciamento obrigatório de propriedade intelectual, inclusive marcas.
+1.5 Quando podem ser negociados? Oportunidade de desenho de remédios em ACC
+Nos termos do art. 165 do RICADE, as Requerentes podem apresentar uma proposta
+de remédio desde o momento de pré-notificação do AC até 30 dias após a impugnação da
+operação pela SG no formato de um ACC. A apresentação de proposta de remédio ocorre sem
+prejuízo de as Requerentes poderem realizar ajustes posteriores a esta proposta inicial.
+Mais especificamente, segundo o RICADE: “art. 165. O Cade poderá receber propostas
+de Acordo em Controle de Concentrações (ACC) desde o momento da notificação até 30 (trinta)
+dias após a impugnação pela Superintendência-Geral, sem prejuízo da análise de mérito da
+operação.” Ainda segundo o RICADE neste art. 165: “§ 2º As propostas de ACC serão
+submetidas à aprovação pelo Tribunal.” e “§ 3º O ACC negociado na Superintendência-Geral
+deverá ser encaminhado ao Tribunal, para homologação, juntamente com a impugnação do
+referido ato de concentração.” Esta proposta de ACC deve trazer as informações necessárias
+para sua efetiva avaliação de adequabilidade, como previsto no § 4º do art. 165 do RICADE.
+12Tanto na Superintendência Geral quanto no diálogo com o Conselheiro-Relator, com
+vistas a respeitar o princípio da proporcionalidade, antes do início da discussão de remédios,
+a autoridade deverá apresentar os potenciais problemas concorrenciais identificados, ainda
+que em âmbito preliminar, dando oportunidade para as partes apresentarem esclarecimentos
+adicionais. No Tribunal, a negociação de remédios deverá ser iniciada com o Conselheiro-
+Relator, sem prejuízo de as Requerentes poderem apresentar a operação aos demais
+Conselheiros a qualquer tempo.
+A consolidação dos fundamentos obtidos ao fim da instrução ou para julgamento sobre
+a extensão e caracterização do dano concorrencial com nexo causal da operação pode exigir
+remédios com outro perfil ou mais extensos aos propostos, mesmo que as Requerentes tragam
+um remédio implementado antes do Parecer da SG ou da decisão do Tribunal.
+A celebração de um ACC contribui positivamente para a correta aplicação do remédio
+antitruste. O compromisso das partes em efetivar o remédio reduz riscos e permite um melhor
+foco do remédio, além de promover uma gestão positiva dos ativos até o desinvestimento,
+com a manutenção do valor destes para a empresa. Para a autoridade e para as partes, o ACC
+reduz os riscos de não efetividade e de judicialização do remédio2.
+Quanto à confidencialidade, tanto no caso de ACC como de remédios impostos
+unilateralmente pelo Cade, alguns aspectos sensíveis comercialmente ou sensíveis para a
+própria efetividade do remédio podem ser considerados de acesso restrito ao Cade e às
+Requerentes, sendo apresentadas, assim, versões públicas e de acesso restrito dos
+documentos decisórios, em consonância com o RICADE.
+2 São comuns nas decisões do Cade determinações no sentido de proteger o pacote de ativos enquanto não há
+a conclusão do processo de desinvestimento. Vide AC Novartis AG/Alcon Inc. (AC nº 08012.003521/2008-57)
+que estabeleceu no acordo a transferência de direitos, títulos e ativos, pertencentes à Novartis, do medicamento
+Zaditen Colírio para agente econômico que já seja detentor de unidades produtivas atuantes na indústria
+farmacêutica ou para novo entrante. Nesse caso, as medidas constantes no acordo para preservar os ativos e
+garantir a efetividade do desinvestimento foram mantidas confidenciais. Consultar nos autos do processo fls. 410
+a 413 – versão pública.
+https://sei.cade.gov.br/sei/controlador.php?acao=documento_download_anexo&acao_origem=procedimento_
+visualizar&id_anexo=32357&infra_sistema=100000100&infra_unidade_atual=110000960&infra_hash=f3df
+ad0e64e98a0440cdc7ebbd216e966d6a71bbc68c097df156a637cf1089b6 Acesso: 07.02.2018
+132 Princípios e diretrizes gerais para remédios efetivos
+Remédios efetivos são aqueles que de fato solucionam as preocupações concorrenciais
+decorrentes de um AC. Esta seção descreve princípios gerais que contribuem para a efetividade
+de remédios antitruste e que devem ser observados durante a negociação de um ACC. São
+eles: proporcionalidade, tempestividade, factibilidade e verificabilidade.
+2.1 Princípios
+2.1.1 Proporcionalidade
+Um remédio antitruste deve ser proporcional no sentido de impor ações mitigadoras
+necessárias, adequadas e suficientes à efetiva reversão do potencial prejuízo à concorrência
+decorrente especificamente do AC. Essa proporcionalidade requer, em primeiro lugar, que as
+medidas aplicadas sejam capazes, por si só, de sanar os problemas concorrenciais
+identificados. Por outro lado, implica que se evite a adoção de remédios que ultrapassem o
+necessário para restaurar a concorrência no mercado. Além disso, a proporcionalidade busca
+preservar eventuais sinergias entre as Requerentes, desde que garantida a supressão dos
+danos potenciais à concorrência gerados pela operação.
+2.1.2 Tempestividade
+Pelo princípio da tempestividade, um remédio que resolva as preocupações
+concorrenciais mais rapidamente é preferível a um que tenha efeitos em um horizonte de
+tempo mais longo. Quanto maior o prazo do remédio, maiores os custos de monitoramento e
+mais suscetível a efetividade do remédio a eventos futuros.
+A definição de um prazo razoável deve levar em consideração as características do
+caso concreto. Com relação a remédios que envolvam a venda de ativos ou negócios, um prazo
+longo de implementação pode impor ônus e custos para as Requerentes, tendo em vista, por
+exemplo, o condicionamento da consumação da operação ao cumprimento das obrigações de
+desinvestimento; para a autoridade, que incorre em maiores custos de monitoramento; e para
+a sociedade, uma vez que os efeitos anticoncorrenciais identificados não são efetivamente
+mitigados sem a total implementação do remédio. Por outro lado, no caso de remédio que
+envolva obrigações sobre comportamento da empresa em seus negócios, o prazo deve ser
+suficientemente longo para alcançar a reversão dos efeitos negativos da operação.
+142.1.3 Factibilidade
+Um remédio terá efetividade apenas se for factível em suas várias etapas. O remédio
+estrutural, por exemplo, precisa ser desenhado para que os ativos a serem vendidos troquem
+de controlador sem perda de tônus concorrencial e possam atuar como competidor real no(s)
+mercado(s) relevante(s) afetado(s) negativamente pela operação. O remédio deve ter
+condições de ser monitorado, trazer formas de resolução real de contingências e mostrar
+garantias nos mecanismos de cumprimento ao longo do tempo. Obrigações como remédios
+que (i) não possam ser monitorados no curso normal dos negócios ou das atividades da
+administração pública, (ii) gerem questões que possam ser dirimidas apenas com custo
+expressivo, (iii) gerem dúvidas sobre responsabilidades ou (iv) apresentem grande risco de não
+serem cumpridos não podem ser considerados factíveis.
+Os riscos atrelados ao desenho, aplicação e monitoramento de remédios envolvem,
+por exemplo, a ausência de compradores para ativos ou participações societárias, constatação
+da insuficiência dos ativos concorrerem efetivamente após transmissão, a possibilidade de
+omissão ou burla no monitoramento ou distorção dos termos necessários ao cumprimento da
+restrição e impedimentos regulatórios para a observação integral do remédio.
+2.1.4 Verificabilidade
+Os remédios propostos devem ser verificáveis. A verificação envolve (i) mecanismos de
+checagem de obrigações; (ii) viabilidade de acompanhamento das ações realizadas pelas
+Requerentes de modo eficiente e efetivo; (iii) aferição de consequências, se necessário; e (iv)
+identificação dos sujeitos das ações necessárias para desenlace dos remédios acordados ou
+impostos. O desenho de um remédio verificável reduz riscos de implementação e facilita a
+busca de cumprimento por vias judiciais cabíveis, na eventualidade de seu descumprimento.
+2.2 Diretrizes gerais
+A experiência do Cade e as melhores práticas internacionais permitem avaliar, a priori,
+os remédios que melhor se ajustam aos princípios mencionados, dentro do contexto tratado.
+Nesse sentido, esta seção apresenta diretrizes gerais para remédios efetivos, que podem
+orientar e balizar as negociações de ACCs. Não obstante, ressalta-se que tais diretrizes
+possuem caráter geral e sua adequação deve ser avaliada, tendo em vista as especificidades
+do caso sob análise.
+2.2.1 Preferência por remédios estruturais
+Remédios estruturais devem ser considerados prioritariamente, visto que a origem do
+problema concorrencial reside em mudança na configuração da estrutura de um mercado
+15relevante, em ACs horizontais e ACs verticais. Nesse sentido, um remédio estrutural, tal como
+um desinvestimento, tende a ser mais efetivo, visto que direciona a causa do dano
+concorrencial de forma mais direta. Além disso, remédios estruturais trazem menor custo de
+monitoramento e menor risco de distorções do mercado pelos remédios impostos na operação.
+A adoção de remédios estruturais refere-se à transferência dos direitos de propriedade.
+Esta resulta em mudança significativa de incentivos na forma de gerenciamento de ativos,
+dado que implica um novo proprietário. Ao segmentar a propriedade em duas massas de
+capital, os incentivos à coordenação de decisões sobre o uso desses ativos diminuem
+substancialmente, o que potencializa resultados mais competitivos no mercado.
+Em contraposição, visto que nos remédios comportamentais não há alteração de
+propriedade de ativos, não há mudanças, a princípio, sobre os incentivos do proprietário. A
+Autoridade Concorrencial prescreve medidas econômicas ao proprietário do ativo que,
+possivelmente, não seriam tomadas na ausência da intervenção. Por conseguinte, podem
+surgir problemas de risco moral, que podem comprometer a efetividade desse tipo de remédio.
+2.2.2 Preferência por trustee de monitoramento
+Tendo em vista a impossibilidade do Cade estar constante e diretamente envolvido na
+supervisão da execução dos compromissos envolvidos nos remédios antitruste, é desejável a
+previsão de um trustee de monitoramento que auxilie a Autoridade a monitorar e garantir o
+cumprimento das obrigações estabelecidas no ACC.
+A adoção de um trustee de monitoramento favorece a identificação tempestiva de
+eventual descumprimento de obrigações e deveres das Requerentes e a adoção de medidas
+cabíveis pela Autoridade, aumentando a probabilidade de efetividade dos remédios. O escopo
+de atuação do trustee de monitoramento depende das obrigações e comandos estabelecidos
+no ACC.
+Ver mais detalhes sobre trustee de monitoramento na Seção 5.1.1.
+2.2.3 Não necessidade de acompanhamento contínuo
+Remédios devem estar direcionados para a correção de efeitos anticoncorrenciais de
+uma dada operação e, por isso, devem incorrer em mudanças duradouras na estrutura de
+mercado. No entanto, as condutas de mercado das Requerentes não devem, a princípio, estar
+sujeitas a um acompanhamento prolongado por parte da Autoridade Concorrencial, ao
+considerar os custos de monitoramento envolvidos.
+16Especificamente com relação a remédios comportamentais, pode-se impor às
+Requerentes obrigações quanto à forma de conduzir os negócios. No entanto, para que danos
+concorrenciais sejam evitados de forma permanente, os comportamentos em causa devem ter
+impacto duradouro e sustentável nas condições de mercado. Esses efeitos duradouros devem
+ser o resultado do cumprimento estrito dos requisitos comportamentais previstos no ACC.
+Remédios comportamentais podem estar voltados ao funcionamento interno da
+empresa e/ou afetar a forma como a empresa interage com clientes ou concorrentes. Remédios
+comportamentais que buscam alterar a estrutura de incentivos dos agentes de forma pró-
+competitiva - por exemplo, ao melhorar a troca de informações com clientes, entre outros -
+são, em geral, mais efetivos do que controle de resultados, ou seja, controle de preços, acordos
+sobre níveis de serviços e compromissos de fornecimento. Logo, remédios comportamentais
+efetivos implicam monitoramento, supervisão e aplicação factíveis. Entretanto, é importante
+destacar que o monitoramento, além de implicar custos para a Autoridade Concorrencial,
+impõe às Requerentes custos de coleta, processamento e envio de informações ao Cade. Por
+isso, entre outras razões, os remédios devem ser temporários, mas possibilitar efeitos
+duradouros.
+2.2.4 Remédios que requerem cautela
+Remédios que limitam a liberdade das empresas em conduzirem as suas decisões de
+negócios podem levar as firmas a atuarem contrariamente a seus incentivos, o que demanda,
+por parte da Autoridade Concorrencial, um monitoramento contínuo das obrigações
+estabelecidas. Nesse sentido, há remédios que, caso aplicados por questões de
+proporcionalidade e razoabilidade, devem ser feitos com extremo cuidado, como acesso a
+mercado e restrições de vendas.
+Igualmente, merecem ser avaliados com cautela remédios que envolvem obrigações
+organizacionais, como por exemplo: (i) separação jurídica dentro de um grupo econômico; (ii)
+obrigações de realizar ou não determinados investimentos; (iii) obrigações de fornecimento de
+longo-prazo; (iv) obrigações de não exercer certos direitos de acionistas. Tais obrigações
+podem alterar os mecanismos de incentivos das empresas, de maneira a inviabilizar o negócio
+de maneira competitiva. Não obstante, tais instrumentos podem ser úteis em situações
+específicas, especialmente como remédios acessórios.
+Da mesma forma, price caps, ou seja, a fixação de um preço máximo por um dado
+período, são remédios pouco aceitáveis porque, além de demandar um monitoramento
+contínuo, na prática não representam medidas efetivas voltadas para impactos negativos nas
+condições de mercado no contexto de uma fusão. Nesse sentido, price caps são medidas que
+têm o potencial de gerar distorções indesejáveis nos incentivos econômicos, pois a limitação
+17de preços pode constranger a entrada de novos concorrentes no mercado, o que compromete
+o nível de diversidade e/ou de quantidades ofertadas.
+Com relação a obrigações de fazer investimentos, essas medidas visam mitigar o risco
+de redução de capacidade após a fusão. No entanto, esse tipo de remédio, ao impor um
+aumento de capacidade, pode representar um desincentivo a fusões eficientes, pois remédios
+que extrapolam o objetivo de combater problemas concorrenciais identificados se apoderam,
+muitas vezes, de parte das eficiências geradas numa fusão.
+Essas medidas podem ser caracterizadas, em muitos casos, como de amplo escopo
+(broad-scope), ou seja, quando não têm um nexo causal estrito com potenciais danos
+concorrenciais decorrentes da fusão. Um exemplo seria a imposição de investimentos em
+Pesquisa e Desenvolvimento (P&D) com intuito de suprir deficiências do país em inovação
+tecnológica, o que transcende os objetivos precípuos da atuação de uma autoridade antitruste.
+Por outro lado, obrigações de não fazer investimentos, ou seja, medidas restritivas de
+incremento de capacidade podem reduzir o risco de comportamento predatório da firma
+fusionada. No entanto, há a probabilidade de uma limitação do desenvolvimento da firma,
+além da redução da oferta.
+3 Remédios Estruturais
+O primeiro passo no desenho do remédio estrutural consiste na delimitação dos ativos
+a serem desinvestidos, envolvendo tanto uma listagem desses ativos, quanto a determinação
+de sua capacidade de geração de negócios, como volume de receita ou outros indicadores e
+magnitudes auditáveis.
+Estes ativos devem ter condições de exercer pressão competitiva efetiva para reverter
+os efeitos negativos da operação no(s) mercado(s) relevante(s) afetado(s). Os ativos podem ser
+(i) unidades de negócios já operacionais individualizadas ou, se não for possível, (ii) parte de
+unidades de negócios já existentes que seriam segregados para compor uma entidade
+empresarial viável e ativa após a venda.
+Questões tecnológicas, produtivas, comerciais ou financeiras específicas do caso em
+análise podem justificar que o escopo dos ativos a serem desinvestidos inclua unidades com
+negócios fora do mercado relevante afetado negativamente pela operação ou ativos das partes
+não afetados diretamente pela operação. Isto pode ocorrer quando os ativos necessários para
+atender o mercado relevante afetado negativamente não alcançarem escala mínima para
+18tornar o remédio efetivo, quando há restrições tecnológicas para segregar a produção
+envolvida no remédio e quando o impacto nas eficiências da operação for pequeno, dentre
+outras situações possíveis.
+Delimitado o escopo dos ativos, eles devem ser mantidos segregados e funcionando
+da melhor forma possível até a concretização do desinvestimento, com capacidade de gerar
+valor e atender clientes de forma plena. Isso inclui esforços das Requerentes para manter as
+forças de trabalho e de vendas mobilizadas, contratos de fornecimento e atuação dos canais
+de distribuição ativos etc. O Cade poderá nomear um trustee (Ver Seção 5) a partir de indicação
+das Requerentes para administrar o negócio até que a venda seja realizada, quando a venda
+for posterior ao julgamento do caso pelo Tribunal.
+A apresentação de um comprador para os ativos pode se dar tanto na apresentação
+do caso junto ao Cade, como ao longo da instrução ou, ainda, após o julgamento do caso. No
+período determinado para a realização do desinvestimento, as Requerentes devem
+empreender os esforços necessários para a venda dos ativos. Este período pré-determinado
+deve ser curto para não degradar o ativo e minimizar o perigo concorrencial da operação.
+As seções seguintes trazem orientações para o pacote de ativos, a seleção do
+comprador e o processo em si do desinvestimento. As subseções abordam classificações das
+variadas formas de desinvestimentos estruturais, assim como orientações para questões
+possivelmente mais sensíveis na seleção do formato e de ativos; a subseção seguinte descreve
+o processo de seleção do comprador, guiando e condicionando requisitos; a última subseção
+descreve prazos e o procedimento de desinvestimento junto à Autoridade.
+3.1 O Pacote de Ativos
+3.1.1 Definição do pacote de ativos
+Como princípio geral, o pacote de ativos deve ser a menor unidade operacional de um
+negócio que contenha todas as operações pertinentes ao mercado em questão e que tenha
+condições de competir efetivamente de maneira autônoma.
+Em outras palavras, o pacote de ativos que compõe um remédio de desinvestimento
+deve ser suficiente de forma que o adquirente se torne um concorrente efetivo no mercado
+relevante. Logo, o(s) vendedor(es) deve(m) disponibilizar um pacote contendo todos os ativos
+necessários (tangíveis e/ou intangíveis) de forma que o comprador se torne um concorrente de
+fato, de longo prazo e de maneira permanente.
+19O pacote de ativos deve ser descrito da forma mais clara e precisa possível. A descrição
+deve conter todos os itens que fazem parte do pacote como ativos tangíveis; ativos intangíveis;
+autorizações e permissões requeridas para o negócio; contratos de fornecimento; de locação,
+entre outros. Esses itens estão explicitados na Seção “Cuidados e boas práticas na definição
+de pacote de ativos” a seguir.
+Em seguida, são listados, de forma não exaustiva, exemplos de remédios comumente
+aplicados em AC.
+3.1.1.1 Negócio autônomo viável
+O negócio autônomo viável opera de forma independente de transações/relações com
+o alienante, ou seja, fornecimento de insumos, assistência técnica, pessoal ou outras formas
+de cooperação do alienante, embora acordos transitórios possam ser necessários.
+Trata-se de um pacote de desinvestimento que está equipado com todos os recursos
+necessários – e.g., ativos físicos, pessoal, carteira de clientes, sistemas de informação, ativos
+intangíveis (direitos de propriedade intelectual) e infraestrutura gerencial – para competir
+efetivamente com as Requerentes. Isso requer que o desinvestimento seja um negócio viável,
+comercializável e represente um valor sustentável.
+Uma entidade de negócios preexistente provê aos consumidores correntes e potenciais
+um histórico que permite avaliar se a unidade continuará a ser um fornecedor confiável do
+produto relevante. Com isso, o histórico de uma entidade de negócio preexistente estabelece
+uma presunção de que esta pode se transformar em um competidor viável em determinado
+mercado.
+Por outro lado, deve-se atentar para a questão do tamanho ótimo das firmas
+resultantes da intervenção, ou seja, o desinvestimento e o negócio que permanece com as
+Requerentes. Isso porque, para assegurar que determinado desinvestimento seja atrativo para
+compradores potenciais, pode ser necessário ir além do conjunto de ativos necessários para
+compensar os problemas concorrenciais constatados. Essa hipótese será avaliada caso a caso,
+para garantir a proporcionalidade do remédio e coibir comportamento oportunista de possíveis
+interessados no desinvestimento.
+3.1.1.2 Carving-out: desinvestimento de unidade de negócio que integra uma estrutura maior
+No caso de carving-out, o pacote a ser desinvestido consiste numa unidade de negócio
+a ser separada, ou seja, “cavada” e desintegrada de uma estrutura maior da companhia.
+Exemplos comuns são uma filial, um ponto de vendas, uma unidade de produção, entre outros.
+20O negócio a ser desinvestido, objeto de carving-out, deve preencher alguns requisitos
+de forma que a empresa permaneça competitiva em base permanente. A parte submetida a
+carving-out deve ser separável do resto da empresa de forma clara, o que pressupõe uma
+separação física e jurídica. É necessária uma estrutura organizacional separada com
+capacidade de operar por conta própria, independentemente das Requerentes.
+Nesse tipo de desinvestimento, as Requerentes e o negócio desinvestido deixam de
+operar de forma integrada. Transições e acordos de fornecimentos temporários podem ser
+necessários e apropriados enquanto os ativos estiverem sendo integrados ao adquirente, mas
+não é adequado para um desinvestimento carving-out que unidades de negócios se
+sobreponham com outras e requeiram uma cooperação contínua com as Requerentes para o
+seu funcionamento.
+Em certos casos, um procedimento de carving-out pode não ser um remédio suficiente.
+Por exemplo, quando o desinvestimento envolve atividades de vendas sem a transferência da
+capacidade produtiva correspondente, a fidelidade de clientes importantes pode ficar
+comprometida e estes se voltarem, muito provavelmente, para o produtor, i.e. a Requerente
+que está se desfazendo do negócio. Logo, a transferência de participação de mercado não
+ocorre se não houver a transferência simultânea da produção e distribuição.
+O processo de carving-out, para ser realizado pelas partes, necessita da supervisão do
+trustee de monitoramento em cooperação com o trustee de operação (ver seção 5 – Trustees).
+Os ativos e parte do quadro de pessoal que são partilhados entre o negócio a ser desinvestido
+e os negócios remanescentes das partes devem ser alocados de forma que garanta a
+viabilidade e competitividade do desinvestimento. A alocação de ativos e pessoal será
+monitorada e deve ser aprovada pelo trustee de monitoramento.
+Além disso, o processo de carving-out pode requerer uma duplicação de ativos e
+pessoal no intuito de assegurar a viabilidade e competitividade do desinvestimento. A título
+de exemplo, a participação do negócio a ser desinvestido numa rede central de Tecnologia da
+Informação (TI) pertencente às partes poderá demandar a instalação de um sistema de TI
+distinto.
+Em geral, as principais medidas a serem tomadas em um processo de carving-out, o
+que inclui a possibilidade de duplicação de ativos e funções, variam caso a caso. Nesse ínterim,
+cabe às partes fornecer os ativos e serviços necessários para a viabilidade do desinvestimento
+até que este seja capaz de funcionar em uma base autônoma.
+213.1.1.3 Mix-and-match: desinvestimento de um pacote que combina ativos de mais de uma das
+partes envolvidas
+Remédios mix-and-match combinam ativos de mais de uma das partes envolvidas na
+fusão sem uma coordenação mútua preexistente. Desinvestimentos mix-and-match podem
+levantar preocupações quanto à sua viabilidade e competitividade, porque há incertezas (i) se
+as partes anteriormente separadas conseguirão trabalhar juntas de forma efetiva; (ii) se as
+partes podem ser rapidamente integradas após o remédio (desinvestimento) ter sido
+implementado e (iii) se a nova unidade de negócios terá capacidade de operar de forma eficaz.
+Isso, contudo, não implica que remédios do tipo mix-and-match não sejam adequados
+em determinadas situações. Em certos casos, esses remédios podem ser necessários para
+garantir que o adquirente do desinvestimento tenha os ativos apropriados para continuar a
+competir efetivamente. Nesses casos, de forma a mitigar os riscos associados a pacotes do
+tipo mix-and-match, a autoridade pode consultar fornecedores, consumidores, concorrentes e
+adquirentes potenciais com o objetivo de averiguar a viabilidade do pacote e se ele permitirá
+ao adquirente competir de modo efetivo.
+3.1.1.4 Desinvestimento ou concessão de uma licença exclusiva (comportamental), de longo prazo,
+com duração indefinida ou até a expiração da patente
+Em determinados casos, o desinvestimento de ativos específicos, como de uma
+patente ou a concessão de uma licença, pode ser um remédio adequado. Sob determinadas
+circunstâncias, é possível aceitar como remédio a concessão de uma licença exclusiva,
+irrevogável e ilimitada, desde que seja, de fato, suficiente para transferir a posição de mercado.
+No entanto, em geral é preferível o desinvestimento de um pacote de ativos ou de uma
+unidade de negócios, pois envolve graus de incertezas e riscos menores com relação à possível
+transferência de posição de mercado de forma permanente.
+3.1.2 Cuidados e boas práticas na definição do pacote de ativos
+3.1.2.1 Necessidade de ser completo
+É fundamental que o ACC seja completo, ou seja, abarque todos os ativos necessários
+para a efetividade do remédio. Por exemplo, é importante haver referências à transferência de
+pessoal chave ou a contratos essenciais com terceiros, fatores que podem ser cruciais para o
+sucesso de um novo player em determinados mercados relevantes.
+Em algumas situações, o pacote de desinvestimentos deve prever a transferência de
+relações contratuais, tais como compromissos de compra de longo prazo, contratos exclusivos
+de prestação de serviços ou de fornecimento de bens e produtos tanto em mercados upstream
+quanto, downstream.
+22Caso essas relações contratuais não sejam transferidas juntamente com o
+desinvestimento, permanecendo com as Requerentes, a competitividade do negócio a ser
+adquirido pode ficar seriamente comprometida. Nesse caso, a posição de mercado não seria
+transferida para o adquirente de forma bem-sucedida.
+Da mesma forma, contratos de aluguel relativos a unidades de produção, pontos de
+vendas e instalações logísticas exigem os melhores esforços da Requerente para obter o
+consentimento da outra parte contratual (locador) em relação à substituição da Requerente
+pelo adquirente do desinvestimento no contrato de locação. Nesse sentido, a Requerente deve
+assegurar que o contrato de locação seja transferido prontamente e dentro do prazo do
+desinvestimento.
+3.1.2.2 Necessidade de definição detalhada dos ativos envolvidos: Ativos tangíveis, intangíveis,
+autorizações, pessoal, documentos, contratos, marcas e licenças
+O ACC deve detalhar com clareza todos os ativos envolvidos no pacote de
+desinvestimento, tais como os descritos a seguir:
+ Todos os ativos tangíveis relevantes (e.g. instalações de produção; pontos de vendas;
+instalações logísticas; sítios de armazenagem, o que inclui estoques e inventários;
+instalações de TI e P&D; entre outros.
+ Todos os ativos intangíveis relevantes (e.g. patentes, marcas, licenças, entre outros.).
+Mercados nos quais as marcas exercem um papel importante, como no setor de bens
+de consumo, em geral é necessário incluir direitos de uso de marcas consolidadas no
+pacote de desinvestimento. Da mesma forma, licenças relativas a patentes ou a outros
+direitos de propriedade industrial ou a transferência de know-how devem ser, em
+regra, exclusivas de modo que a posição de mercado do licenciador seja transferida
+ao licenciado. Nem sempre é necessário que a licença tenha abrangência mundial. A
+licença deve cobrir as áreas nas quais as atividades do negócio envolvido sejam
+relevantes, conforme os mercados geográficos determinados no AC.
+ Todas as autorizações e permissões requeridas para que o negócio, objeto de
+desinvestimento, funcione de forma independente e permanente (e.g. licenças de
+funcionamento, certificações governamentais, certificações de qualidade, marcas de
+certificação, entre outras.)
+ Pessoal-chave: equipe e gerentes, que são parte ou são requisitados de forma
+permanente e independente na operação do negócio desinvestido, e que detêm
+contatos de clientes e fornecedores chaves ou possuem habilidades específicas e know
+how relativos a P&D, TI, produção, logística, que são importantes para a
+competitividade do negócio objeto de desinvestimento. Ao adquirente, deve ser
+permitido celebrar contratos de trabalho em substituição às Requerentes.
+23 Todos os documentos e registros relevantes relacionados ao negócio objeto de
+desinvestimento.
+ Todos os contratos necessários para o funcionamento do negócio, objeto de
+desinvestimento (e.g. contratos com fornecedores e clientes assim como contratos de
+locação). Ao adquirente, deve ser permitido celebrar relações contratuais já existentes
+em substituição às Requerentes.
+3.1.2.3 Possibilidade de envolvimento de ativos de outros mercados relevantes
+Em casos específicos, há a necessidade de incluir no pacote de desinvestimentos, além
+da empresa ou unidade de negócios a ser desinvestida, recursos humanos específicos ou ativos
+no intuito de assegurar a competitividade e a viabilidade econômica do desinvestimento:
+ Atividades em mercados geográficos ou de produto próximos ou instalações próximas
+que, caso disponibilizadas e combinadas com o negócio a ser desinvestido, fazem com
+que o desinvestimento se torne economicamente viável.
+ Funções específicas, e.g. funções centrais que um adquirente não consegue substituir
+prontamente, especialmente em situações nas quais uma empresa do mesmo grupo
+fornece serviços específicos para todas as outras empresas grupo.
+ Unidades de negócios adicionais que não estão diretamente relacionadas aos
+problemas concorrenciais suscitados pela fusão, mas têm que ser incluídas a fim de
+assegurar que o pacote de desinvestimento seja o melhor ajuste estratégico para
+possíveis adquirentes. Por exemplo, a entrada em determinado mercado só se torna
+rentável se houver uma escala mínima de atividades ou um maior portfólio de
+produtos.
+3.1.2.4 Cláusula de não aliciamento de pessoal-chave (Key personnel clause)
+Ao definir o pacote de ativos, há casos nos quais é necessário prever no contrato
+cláusulas relativas a obrigações de não solicitação de pessoal por parte das Requerentes. Isso
+se aplica quando a competitividade do desinvestimento está intrinsecamente relacionada ao
+pessoal-chave quanto a habilidades, expertise, reputação ou relações com clientes.
+Caso as Requerentes atraiam o pessoal-chave que faz parte do negócio a ser
+desinvestido, uma parte essencial do negócio fica comprometida, visto que o potencial
+competitivo do desinvestimento pode ser transferido de volta para as Requerentes. Logo, em
+alguns casos, há a necessidade de que as Requerentes abdiquem de direitos por meio de
+cláusulas não-concorrenciais previstas em contratos de trabalho com relação a seus
+empregados-chave.
+243.1.2.5 Realização de testes de mercado (market tests)
+Testes de mercado representam uma importante fonte de informações no intuito de
+avaliar se os compromissos (remédios) propostos são adequados, necessários e proporcionais
+para eliminar problemas concorrenciais identificados pelo Cade. Nesse sentido, principais
+clientes, fornecedores e concorrentes, assim como terceiros interessados admitidos no
+processo são geralmente questionados no intuito de fornecer diferentes visões com relação à
+adequação dos remédios propostos, bem como aos prováveis impactos sobre os mercados
+afetados.
+Em geral, o Cade encaminha uma versão de compromissos propostos juntamente com
+alguns questionamentos. Testes de mercado permitem também que terceiros interessados
+admitidos no processo tenham a oportunidade de se manifestar com relação às implicações,
+no mercado, dos remédios propostos. Por outro lado, testes de mercado não serão realizados
+pelo Cade caso os compromissos propostos sejam claramente inadequados para eliminar
+problemas concorrenciais.
+Dependendo das circunstâncias do caso, testes de mercado podem abordar as
+seguintes questões ou auxiliar a respondê-las:
+ Se o pacote de remédios (ou qual pacote) iria eliminar problemas concorrenciais
+identificados na investigação.
+ Se há riscos e problemas potenciais que podem surgir durante a implementação dos
+remédios.
+ Se há obstáculos potenciais à eficácia dos remédios.
+Com relação à aplicação de remédios estruturais, especificamente desinvestimentos,
+podem ser relevantes as seguintes questões:
+ Quais requisitos são necessários para que o desinvestimento assegure a efetiva
+transferência da posição de mercado ao adquirente?
+ Quais condições deveriam ser cumpridas pelo adquirente a fim de que atue como um
+efetivo competidor?
+ Se há compradores potenciais que estariam interessados em adquirir o negócio objeto
+de desinvestimento. Os compradores potenciais estariam aptos a entrarem numa
+posição competitiva nos mercados relevantes com base no pacote de remédios
+previstos ou quais condições deveriam ser preenchidas para tal?
+Testes de mercado poderão ser realizados em momento incial, ainda em âmbito do
+pre-filing e antes mesmo da notificação formal (por meio de waivers).
+25Caso a Superintendência-Geral ou o Tribunal consultem os agentes de mercado a
+respeito da eficácia do remédio, deverão atentar-se à confidencialidade das informações e da
+existência de negociação e seus termos. Os questionamentos devem evitar não apenas os
+dados concorrencialmente sensíveis das Requerentes, como também não devem ser
+compartilhadas informações que possam comprometer a capacidade de as partes negociarem
+no mercado os ativos a serem desinvestidos.
+Segundo a prática, sempre que oportuno, o(s) terceiro(s) interessado(s) consultado(s)
+sobre determinado(s) remédio(s) terá(ão) pelo menos 3 dias úteis para se manifestar(em) a
+respeito.
+As respostas fornecidas geralmente contêm informações importantes que podem
+ajudar na investigação e servir de comprovação extremamente valiosa para a análise do Cade.
+No entanto, deve-se levar em conta a qualidade e os fundamentos das respostas, assim como
+o fato de que as respostas refletem os respectivos interesses econômicos dos agentes
+consultados. Por isso, a avaliação fornecida pelos participantes do mercado não é vinculativa
+em relação à investigação do Cade.
+Por fim, para averiguação do efetivo estado dos ativos envolvidos no pacote de
+remédios ou de outros aspectos relevantes para o caso concreto, a autoridade pode solicitar
+visitas in loco em unidades de produção ou em centros de logística pertencentes às
+Requerentes ou a outros players. Em geral, o funcionamento das instalações é explicado no
+local. Encontros com compradores potenciais também podem ser importantes em
+determinados casos antes da decisão relativa ao remédio a ser adotado.
+3.1.2.6 Estabelecimento de Joias da Coroa (Crown Jewels)
+Em casos excepcionais, quando há um nível de incerteza acima do aceitável pelo Cade
+quanto a um potencial comprador para o desinvestimento, pode-se estabelecer a adoção de
+joias da coroa (crown jewels). Nesses casos, o pacote de desinvestimento se expande em
+relação aos mercados considerados problemáticos no AC, com o objetivo de aumentar a
+atratividade econômica do negócio a ser alienado.
+Com isso, o processo de desinvestimento ocorre em duas etapas, ou seja, o primeiro
+desinvestimento é substituído (ou complementado) por um desinvestimento alternativo (ou
+adicional), assim chamado de joias da coroa, caso se verifique que o primeiro desinvestimento
+não ocorrerá dentro do período de tempo estabelecido.
+Um desinvestimento será aceito como uma solução alternativa, i.e., como joias da
+coroa, se não estiver absolutamente claro para o Cade que haverá um comprador adequado,
+ou seja, que o desinvestimento poderá ser vendido sem dificuldade, observado o princípio da
+26proporcionalidade. Como regra, joias da coroa devem ser um negócio mais atrativo do que o
+primeiro desinvestimento, sob a perspectiva tanto do comprador potencial quanto do
+vendedor.
+Há casos nos quais o procedimento de desinvestimento por meio de duas etapas na
+forma de joias da coroa representa uma solução quando se verificam outros obstáculos para
+o comprador do negócio a ser desinvestido, tais como direitos preferenciais de co-acionistas
+em acordos de joint-ventures, direitos de propriedade intelectual previstos em licenças,
+dificuldades na celebração de contratos, entre outros.
+É recomendável que o período de tempo total, o que inclui ambas as etapas do
+procedimento de desinvestimento, não seja significativamente maior do que o previsto no
+presente guia para desinvestimentos em geral. Caso contrário, a implementação do presente
+remédio apenas se torna efetiva em uma fase um tanto tardia. Um período razoavelmente
+longo na adoção de remédios crown jewel também colocaria em risco o desinvestimento, o
+que demandaria medidas adicionais para salvaguardar a viabilidade econômica e a
+competitividade do negócio.
+Por outro lado, um prazo excessivamente curto pode favorecer o oportunismo de
+terceiros interessados no negócio alternativo. Nesse sentido, particularmente quando o
+número de compradores viáveis é baixo, a autoridade deve atentar para que o adquirente não
+utilize o processo ligado a joias da coroa para obter um pacote de desinvestimento mais
+valioso do que aquele necessário para endereçar a preocupação concorrencial decorrente da
+operação.
+3.1.2.7 Outros cuidados na definição do pacote de ativos
+A implementação de remédios estruturais de desinvestimentos envolve riscos quanto
+à dificuldade de se compor um pacote de ativos que seja efetivamente suficiente no sentido
+de tornar o comprador um concorrente efetivo com todos os recursos e expertise necessários
+no mercado em questão.
+Nesse sentido, na definição do pacote de desinvestimento, a Autoridade deve atentar
+a eventual comportamento de cherry picking pelas Requerentes, (ou seja, a escolha seletiva
+de ativos, cuja venda mais as beneficie), quando esse comportamento prejudicar a efetividade
+do remédio na solução dos problemas concorrenciais identificados.
+O desinvestimento também está sujeito ao problema de empty shell, ou seja, que o
+pacote de ativos seja uma espécie de “casco vazio”. Ilustrativamente, isso pode ocorrer,
+quando os recursos humanos necessários para compor o pacote de desinvestimentos são de
+27difícil identificação ou mesmo de difícil transferência, seja, por exemplo, pela vontade
+individual dos empregados, seja por questões ligadas à legislação trabalhista.
+Pacotes de desinvestimento compostos de ativos que não operavam como uma
+unidade autônoma antes do remédio tendem a ser mais suscetíveis a erros relativos à sua
+suficiência, o que pode implicar dificuldades de implementação. Nesse sentido, há risco de
+que remédios do tipo mix-and-match – que combinam ativos de diferentes empresas
+envolvidas na fusão - possam não ser bem-sucedidos devido à grande assimetria de
+informações entre vendedor e comprador. O vendedor tem incentivos a não incluir os ativos
+corretos; a Autoridade Concorrencial, por sua vez, pode não ter informações suficientes para
+avaliar se o pacote oferecido é adequado.
+Por outro lado, deve-se considerar que determinado negócio autônomo viável nem
+sempre representa a melhor solução como remédio, pois embora seja menos suscetível a erros
+relacionados à suficiência, a seleção de apenas alguns ativos para compor o pacote de
+desinvestimentos pode ser mais adequada em casos nos quais o comprador já detém alguns
+dos ativos necessários para desenvolver o negócio. Com isso, a inclusão desses ativos no
+desinvestimento poderia resultar numa aquisição ineficiente, pois o adquirente estaria
+obrigado a comprar ativos dos quais não necessita para competir efetivamente no mercado
+relevante. Além disso, a determinação de venda do negócio por completo pode ser
+desproporcional ao dano concorrencial identificado, o que restringiria de maneira excessiva
+eventuais eficiências decorrentes da operação.
+Há também a possibilidade da permanência de relações de dependência vertical em
+mercados à montante ou à jusante (por exemplo, fornecimento de determinadas matérias-
+primas ou suporte técnico). Nesse caso, também o remédio tende a não restabelecer a
+concorrência de forma satisfatória – seja pela dificuldade de o comprador se estabelecer de
+maneira efetiva (por depender de fornecimento e/ou suporte do vendedor), ou porque
+comprador e vendedor passam a atuar de maneira coordenada.
+3.1.3 Medidas de preservação e separação
+É importante evitar que haja deterioração dos ativos durante o período que antecede
+o desinvestimento. Nesse sentido, é importante que remédios de desinvestimentos prevejam
+obrigações relativas a não degradação do pacote de ativos a ser vendido. Tais obrigações
+podem incluir: (i) manter o negócio e não adotar medidas que tenham impacto negativo
+significativo no seu valor, gestão e competitividade; (ii) dar suporte financeiro necessário à
+continuação do negócio; (iii) reter pessoal chave; entre outras.
+28Além de medidas relativas à proteção do pacote de desinvestimento, é importante
+estabelecer medidas de separação entre o negócio desinvestido e o negócio retido pelas
+Requerentes.
+3.1.3.1 Possibilidade de adoção de trustee de operação
+Há casos nos quais há a necessidade de indicar um trustee de operação como medida
+de preservação e separação do pacote de desinvestimento. O trustee de operação é um gestor,
+indicado pelas partes, que será responsável pela administração do negócio durante o período
+de transição até o efetivo desinvestimento, preservando o negócio desinvestido e garantindo
+a separação entre este e o negócio retido pelas partes, sob a supervisão de um trustee de
+monitoramento.
+Assim, a função do trustee de operação é estabelecer a independência dos ativos a
+serem desinvestidos e cortar, tão rápido quanto possível, toda a influência das partes no
+negócio a ser desinvestido para assegurar a preservação de sua viabilidade, boas condições
+de alienação (marketability) e competitividade.
+Ver mais detalhes sobre trustee de operação na seção 5.1.2.
+3.1.3.2 Ring-fencing: evitar troca de informações entre o negócio desinvestido e o vendedor
+Outras medidas de separação são as de segmentação da informação entre os negócios,
+ou seja, o estabelecimento de ring-fencing entre o alienante e o pacote de desinvestimento.
+É importante assegurar que o pessoal-chave da empresa fusionada (vendedora) não
+tenha nenhum envolvimento com o negócio desinvestido e vice-versa. Deve-se evitar a troca
+de informações entre o negócio desinvestido e o vendedor.
+Nesse sentido, as partes devem tomar todas as medidas necessárias para assegurar a
+não obtenção de segredos de negócios ou outras informações confidenciais do negócio
+desinvestido. Quaisquer documentos ou informações confidenciais relativos ao
+desinvestimento obtidos pelas partes antes da adoção da decisão devem ser restituídos ao
+negócio desinvestido ou serem destruídos.
+A princípio, ring-fencing é de mais fácil aplicação quando o desinvestimento já é um
+negócio independente (stand alone) com uma gerência distinta do vendedor. No entanto, há,
+de qualquer forma, um problema significativo de assimetria de informação no ring-fencing,
+sendo muito difícil, por parte do Cade, o monitoramento deste tipo de obrigação.
+293.1.3.3 Compromisso de manutenção da marca
+As marcas, apesar de integrarem a propriedade intelectual, possuem características e
+funções bastante distintas das patentes e desenhos industriais. Basicamente são espécies de
+sinais distintivos cuja principal atribuição é diferenciar os concorrentes dentro do mercado.
+Além de resguardar a identidade dos fabricantes, comerciantes e prestadores de serviços, esse
+tipo de sinal também visa reduzir custos de transação, na medida em que facilita a busca do
+consumidor pelo produto que deseja3.
+Quando os remédios envolvem direitos de uso de marcas consolidadas no pacote de
+ativos, deve-se atentar para a proteção desses ativos, enquanto o desinvestimento
+efetivamente não ocorre. Com relação às decisões do Cade, há determinações no sentido de
+manter o curso normal dos negócios até a consumação do desinvestimento. Especificamente
+com relação a marcas, uma forma de manter o valor da marca enquanto o desinvestimento
+não se completa é a manutenção dos patamares dos investimentos em marketing nas marcas
+a serem alienadas.
+3.2 O Comprador
+Em remédios estruturais, o comprador deve ser, a princípio, entidade econômica não
+relacionada em estrutura societária com as partes e deve comprovar, junto ao Cade,
+capacidade e interesse em manter os ativos funcionando e competindo de forma plena no
+mercado relevante.
+Um comprador capaz e potencialmente entrante no mercado relevante pode trazer
+maior probabilidade de reverter os problemas concorrenciais decorrentes do AC em relação a
+um comprador que já atue no mercado, tendo em vista que o remédio pode criar ou reforçar
+posições dominantes pré-existentes. Os players maiores e financeiramente mais capazes são
+os que possuem maior potencial de fazer ressurgir um problema concorrencial que se deseja
+evitar. Isso ocorre quando o comprador já tem uma atuação expressiva no mercado relevante
+da operação ou atue como um fornecedor ou um cliente expressivo, o que contribuiria para
+um potencial fechamento de mercado.
+Por outro lado, um comprador que já atue no mercado pode ter maior probabilidade
+de mitigar o problema concorrencial, tendo em vista sua expertise e experiência. Em qualquer
+caso, as Requerentes devem buscar anuência do Cade para o comprador. A apresentação do
+3 Exceto pelas indicações geográficas, todas as demais espécies de propriedade intelectual possuem um prazo de
+duração limitado. As marcas têm vigência de dez anos, prorrogável por períodos iguais e sucessivos, nos termos
+do art. 133 da Lei nº 9.279/1996.
+30comprador ao Cade junto com a proposta do remédio reduz o tempo necessário para
+consumação da operação original.
+3.2.1 Momento de definição do comprador4
+A definição do comprador pode ocorrer em diferentes momentos em relação à
+aprovação e à consumação do AC. No caso do fix-it-first, a definição do comprador ocorre
+anteriormente à aprovação da operação e o pacote de investimentos é definido
+especificamente para o referido comprador. No upfront buyer, a consumação do AC fica
+condicionada à identificação do comprador, a qual ocorre após a aprovação da operação. No
+caso de pós-consumação, a identificação do comprador ocorre posteriormente à consumação
+da operação, ou seja, o AC pode ser consumado imediatamente após a aprovação da
+operação.
+O quadro a seguir resume esses diferentes casos e as seções seguintes detalham cada
+uma dessas alternativas.
+Elaboração: Cade.
+Obs.: No fix-it-first, a consumação do desinvestimento também pode ocorrer antes da assinatura do ACC. Ver
+seção 3.3.1 “Prazos para o desinvestimento” referente aos prazos para identificação do comprador.
+4 Em âmbito internacional, há variações entre as Autoridades Concorrenciais, como Federal Trade Commission
+(FTC) e Comissão Europeia, nas definições a seguir, ou seja, fix-it-first, upfront buyer e pós-consumação.
+313.2.1.1 Fix-it-first5
+No remédio fix-it-first, a definição do comprador para o pacote a ser desinvestido e a
+celebração de acordo vinculativo ocorrem antes da aprovação da operação. O fix-it-first ocorre
+nos casos em que as partes oferecem medidas reparadoras estruturais durante a fase de
+análise do AC. As partes identificam um comprador para o pacote a ser desinvestido e
+celebram com ele um acordo vinculativo durante o processo de análise. Caso o Cade aprove o
+AC, nenhuma outra decisão adicional com relação à aprovação do comprador será necessária
+e o fechamento do desinvestimento pode ocorrer logo em seguida à aprovação do AC.
+A modalidade fix-it-first ocorre em casos nos quais a identidade do comprador é
+fundamental para a efetividade do remédio proposto. Isso porque, nesses casos, há muito
+poucos compradores considerados adequados, especialmente quando (i) o desinvestimento
+não é um negócio viável por si mesmo, e, por isso, depende de determinados ativos do
+comprador, (ii) ou quando o comprador precisa ter características específicas de forma que o
+remédio proposto consiga sanar problemas concorrenciais referentes à operação.
+Uma das vantagens do fix-it-first é que o pacote de ativos a ser desinvestido é
+adaptado ao comprador identificado. Dessa forma, ele tende a ser mais parcimonioso do que
+um pacote que tenha que ser suficiente para qualquer que seja o comprador, como seria o
+caso de um remédio do tipo upfront buyer ou pós-consumação. Além disso, o fix-it-first permite
+a consumação imediata da operação após sua aprovação.
+Há também a indicação de um fix-it-first nos casos em que há riscos significativos de
+degradação dos ativos envolvidos nesse ínterim – período entre a celebração do ACC e a
+conclusão do processo de desinvestimento. Por exemplo, (i) perda eventual do pessoal chave
+e/ou clientes relativos ao negócio objeto de desinvestimento; e (ii) dificuldades de realizar um
+processo de carve-out nesse ínterim, dado que esse processo depende da celebração de um
+acordo vinculativo com o comprador.
+3.2.1.2 Upfront buyer
+Há casos nos quais é necessária a adoção de um upfront buyer de forma a permitir
+que o Cade conclua, com o devido grau de certeza, que o negócio será alienado para um
+comprador adequado. Nesses casos, as partes devem se comprometer a celebrar um acordo
+vinculativo com um comprador aprovado pelo Cade, como pré-condição para a consumação
+do AC. Diferentemente do fix-it-first, a identificação do comprador ocorre após a aprovação da
+5 Algumas jurisdições denominam como remédios fix-it-first propostas de desinvestimento para um comprador
+selecionado pelas Requerentes sem a celebração de ACC (ICN, 2016 – Merger Remedies Guide, p. 16). Em
+casos específicos, o problema concorrencial pode ser solucionado sem a necessidade de ACC, podendo
+configurar também solução fix-it-first.
+32operação. Assim, o pacote de ativos tende a ser mais amplo do que no caso do fix-it-first, por
+ter que ser suficiente para que o comprador se torne um concorrente de fato, qualquer que
+seja ele.
+Essa modalidade é indicada para casos nos quais há obstáculos significativos para um
+desinvestimento, e.g. direitos de terceiros ou incertezas quanto à possibilidade de encontrar
+um comprador adequado. Em tais casos, um upfront buyer permitirá ao Cade concluir, com o
+grau de certeza necessário, que os compromissos serão implementados, uma vez que o
+comprador é definido antes da consumação da operação.
+A existência de riscos significativos de degradação dos ativos também tende a
+favorecer a adoção de um upfront buyer em relação a um pós-consumação. Cabe ressaltar que
+a compromissária (Requerente) tem incentivos reais de deixar de investir e de manter a
+participação do ativo, objeto do desinvestimento, no período entre a celebração do ACC e a
+transferência efetiva desse ativo. Nesse sentido, o upfront buyer deve garantir que a
+compromissária zele por manter o perfeito estado de conservação das instalações,
+maquinários e equipamentos das unidades, bem como da disponibilização de mão de obra
+necessária à produção, sem interrupção de funcionamento.
+A adoção de upfront buyer pode ser benéfica (i) para as Requerentes, pois abrevia o
+processo de desinvestimento; proporciona maior grau de certeza sobre a viabilidade do
+desinvestimento do que uma decisão tradicional de procurar um comprador para um pacote
+de ativos após a consumação do AC; evita a possibilidade de uma venda determinada pelo
+Cade em que as partes tenham que abrir mão de um pacote de ativos maior (ex.: Crown
+Jewels); e (ii) também para a autoridade, por proporcionar maior grau de certeza acerca da
+efetividade do desinvestimento em termos concorrenciais.
+3.2.1.3 Pós-consumação
+No caso pós-consumação, a definição do comprador e, por consequência, a celebração
+do acordo vinculativo com o comprador ocorre, dentro de um prazo fixado, após a aprovação
+da operação. Essa modalidade é adequada na maioria dos casos nos quais há a possibilidade
+de encontrar vários compradores, visto que o desinvestimento não envolve questões
+complicadas. Caso haja a necessidade de que o comprador tenha qualificações específicas,
+essa modalidade pode ser adequada se houver um número suficiente de potenciais
+compradores que preencham os requisitos necessários.
+O Cade, por sua vez, deve ter um nível de confiança suficiente em relação ao pacote
+de ativos de forma que o permita avaliar positivamente a capacidade de atrair compradores
+adequados e que não haverá a degradação dos ativos até a concretização da venda. Como no
+caso do upfront buyer, são necessárias medidas de preservação do pacote de ativos até que o
+33desinvestimento seja concretizado. Essa modalidade tende a apresentar maiores riscos de
+implementação em relação ao fix-it-first e upfront buyer.
+3.2.2 Requisitos do comprador
+3.2.2.1 Independência em relação às firmas que são partes na fusão
+Para que um comprador seja adequado do ponto de vista concorrencial, ele deve
+possuir incentivos econômicos para operar o negócio desinvestido como competidor tanto das
+partes quanto dos demais players de determinado mercado. Isso significa que o comprador
+deve ser independente em relação às Requerentes e das respectivas empresas afiliadas,
+inclusive com relação (i) a possíveis participações societárias – mesmo minoritárias – e (ii) a
+administrações interligadas (e.g. determinado CEO ou diretor administrativo de uma das
+empresas do grupo adquirente também é membro da diretoria de uma das empresas
+Requerentes).
+As participações minoritárias frequentemente abrem possibilidades de influenciar
+comportamentos concorrenciais de empresa coligada. Caso o comprador detenha participação
+societária em empresas pertencentes aos grupos econômicos das Requerentes, os incentivos
+para competir com as Requerentes são reduzidos se o desinvestimento opera no mesmo
+mercado das Requerentes ou em mercados upstream ou downstream.
+Da mesma forma, relações contratuais com as Requerentes relativas aos mercados
+afetados pela fusão também podem levantar suspeitas sobre a independência do comprador
+e possíveis repercussões em termos concorrenciais. Por exemplo, acordos de fornecimento que
+tenham um peso econômico relevante e acordos de cooperação relacionados aos mercados
+afetados pela fusão ou em mercados geográficos ou de produto próximos.
+Por fim, os valores pagos pelos ativos pelo comprador podem ser utilizados como um
+indicativo do grau de independência do comprador em relação às Requerentes. Nesse sentido,
+esses valores pagos podem ser utilizados na verificação de indícios de fraude, pois caso
+estejam muito abaixo do valor de mercado, pode-se aventar a possibilidade de o comprador
+não ter interesse em reempregar os ativos adquiridos para competir efetivamente no mercado.
+343.2.2.2 Não gerar novas preocupações concorrenciais
+O comprador deve elaborar um plano de negócios convincente que estabeleça a forma
+como o desinvestimento irá operar, especificamente nos mercados nos quais a fusão levanta
+preocupações concorrenciais, de modo a explorar o potencial concorrencial plenamente. Caso
+contrário, a atuação do comprador pode gerar novas preocupações concorrenciais, conforme
+as circunstâncias descritas abaixo:
+ O comprador planeja utilizar o negócio adquirido em atividades que diferem das
+atividades correntes do negócio desinvestido, e.g. operação em outros mercados.
+ O desinvestimento adquirido será revendido a uma terceira parte em futuro próximo.
+ O comprador tem incentivos para se separar do negócio adquirido.
+ Empréstimos adquiridos do vendedor irão possivelmente reduzir o risco do negócio
+para o adquirente e podem levar a uma situação na qual a operação do negócio
+adquirido torna-se dependente do credor, isto é, de uma das Requerentes. Ao adquirir
+empréstimo de uma das Requerentes, o comprador pode sinalizar que não tem
+interesse suficiente em utilizar o negócio adquirido a fim de competir com as
+Requerentes, ou que não utilizará de forma plena o potencial concorrencial do
+negócio.
+3.2.2.3 Incentivo/capacidade de manter e desenvolver o negócio desinvestido
+O efeito pretendido de um desinvestimento será alcançado apenas se o negócio for
+transferido a um comprador que seja capaz de tornar o negócio efetivamente competitivo.
+Para isso, o comprador deve ter incentivos econômicos e habilidade para manter e desenvolver
+o negócio desinvestido.
+a) Higidez financeira
+O comprador deve demonstrar que possui recursos financeiros necessários para
+garantir o desenvolvimento do negócio desinvestido com capacidade competitiva.
+Caso a Requerente (alienante) seja responsável pelo financiamento do comprador na
+aquisição dos ativos, há uma probabilidade elevada de que o alienante exerça controle parcial
+sobre os ativos e sobre o comprador, além de indicar dificuldades deste para obter
+financiamento junto aos bancos.
+Logo, ao contrair empréstimo junto a uma das Requerentes, o comprador pode
+sinalizar que não tem interesse em competir de forma efetiva com as Requerentes, e, por
+consequência, não utilizar de forma plena o potencial concorrencial do negócio.
+35b) Capacidade de obter todas as aprovações regulatórias necessárias
+A aquisição do negócio, objeto de desinvestimento, pelo comprador proposto, não
+deve criar novos problemas concorrenciais nem gerar riscos de atraso quanto ao cumprimento
+dos compromissos estabelecidos. Sendo assim, espera-se que o comprador tenha as condições
+necessárias para que sejam aprovadas todas as exigências regulatórias para a aquisição do
+negócio.
+c) Expertise
+Dependendo do caso, é desejável que o comprador tenha comprovada expertise no
+mercado relevante, experiência suficiente e recursos financeiros de forma a possibilitar que o
+negócio adquirido seja operado de forma bem-sucedida. Isso será necessário em mercados
+que demandam uma expertise ou recursos específicos para competir de forma bem-sucedida.
+3.2.3 Aprovação do comprador pelo Cade
+A aplicação bem-sucedida de um remédio estrutural depende da escolha de um
+comprador adequado para o negócio desinvestido. Conforme demonstrado anteriormente, os
+remédios de desinvestimento estabelecem critérios para potenciais compradores, e.g.
+independência em relação às firmas que são partes na fusão, não gerar novas preocupações
+concorrenciais, higidez financeira, entre outros.
+Nesse sentido, independentemente dos critérios utilizados no processo de escolha do
+comprador ou do momento no qual este é escolhido – fix-it-first, upfront buyer, ou pós-
+consumação – a depender da especificidade da operação, há a necessidade de que o nome
+do comprador seja aprovado pelo Cade antes do negócio de venda ser concluído, seja na
+hipótese de seleção do comprador por procedimento público, seja por meio de livre escolha
+pelas Requerentes.
+Em regra, fica à livre escolha das partes a seleção do comprador para os ativos, desde
+que sejam atendidos os compromissos constantes do ACC e desde que haja submissão e
+aprovação do Cade. Há também a possibilidade de que a venda dos ativos seja realizada por
+meio de procedimento público (leilão, oferta pública, entre outros.).
+Especificamente no caso de leilões públicos, ressalte-se o fato de que os players mais
+prováveis de ganharem podem ser justamente aqueles que potencialmente são capazes de
+reintroduzir problemas concorrenciais no mercado. Isso porque tais players podem incorporar
+em seus lances rendas de poder de mercado que outros players menores não incorporarão.
+Por outro lado, essa preocupação pode ser afastada pelo Cade quando este estabelece
+restrições sobre os players elegíveis a participar do leilão, algo que deve ser pré-identificado
+pela autoridade.
+36Por consequência, na aprovação do comprador, o Cade deve certificar-se, tanto no
+caso de procedimento público, quanto no caso de escolha pelas Requerentes, que todas as
+exigências dos compromissos previstos no ACC sejam cumpridas.
+3.3 O processo de desinvestimento
+3.3.1 Prazos para o desinvestimento
+O período para cumprimento do remédio estrutural deve ser o menor possível, com a
+experiência apontando de três a seis meses. No período para cumprimento, as obrigações
+podem ser compartimentalizadas, com previsão de penalidades e perda de independência das
+partes na condução do remédio pelo não cumprimento das obrigações. Na hipótese de
+insucesso na alienação do ativo após o prazo acordado, salvo alguma impossibilidade técnica,
+os ACCs contemplarão dispositivo prevendo o uso de leilões, em vez de negociações, com
+possibilidade de não imposição de preço mínimo para garantir o cumprimento das obrigações
+de desinvestimento. O não cumprimento dos desinvestimentos irá gerar a rejeição do Ato de
+Concentração e o desfazimento da operação, mesmo que prevista alguma integração entre as
+partes no ACC.
+Após a celebração do contrato de venda e até a transferência efetiva dos ativos6, as
+partes devem eliminar todos os vínculos com os ativos desinvestidos, exceto naqueles
+aspectos indispensáveis para sustentabilidade do remédio, o que pode envolver autorizações
+e/ou licenças regulatórias. Isso pode incluir também contratos de fornecimento, uso de canais
+de distribuição ou outros contratos e relacionamentos necessários para o funcionamento do
+negócio desinvestido. Nestes casos excepcionais, os vínculos pós-venda devem ser
+transparentes e pelo menor tempo possível e tais que mantenham a eficácia do remédio em
+mitigar o dano concorrencial da operação.
+Cabe acrescentar que há a possibilidade de continuidade do monitoramento de
+obrigações estruturais na fase pós-desinvestimento. Isto porque a venda, transferência de
+ativos e de contratos de clientes/fornecedores, por vezes, não são suficientes para garantir a
+viabilidade do negócio para o adquirente, especialmente quando se trata de um novo player,
+entrante no mercado.
+6 Vale ressaltar que a celebração do contrato de compra e venda não significa necessariamente a implementação
+do desinvestimento, pois esta envolve, além da referida celebração do contrato, a transferência em termos reais
+dos ativos, a transferência de relações contratuais - contratos com fornecedores e clientes, contratos de locação,
+uso de canais de distribuição, entre outros – além da transferência de autorizações e permissões (e.g., licenças
+de funcionamento) requeridas para o funcionamento do negócio desinvestido.
+37Nesse sentido, pode-se afirmar que a manutenção da integridade e da viabilidade
+comercial dos ativos transcendem a fase de venda. Questões que surgem apenas após a
+consolidação da transferência são mais facilmente resolvidas considerando a ciência das partes
+de que o Cade ainda está monitorando o processo de desinvestimento.
+3.3.2 Possibilidade de adoção de trustee de desinvestimento
+O ACC pode prever a figura do trustee de desinvestimento para assumir a condução
+do processo de desinvestimento, caso as Requerentes não consigam realiza-lo dentro do
+primeiro prazo estabelecido. Com isso, cabe ao trustee de desinvestimento realizar a venda do
+negócio dentro de um segundo prazo estipulado, ou seja, durante o período previsto para sua
+intervenção. Nesse caso, o trustee de desinvestimento efetua o desinvestimento pelo melhor
+valor possível, porém sem necessariamente a restrição de um valor mínimo de venda e sem a
+vinculação a orientações das Requerentes.
+Ver mais detalhes sobre o trustee de desinvestimento na seção 5.1.3.
+3.3.3 Cláusulas de Preço
+Caso o primeiro prazo tenha expirado, o desinvestimento pode ocorrer sem a exigência
+de um preço mínimo. Isso possibilita uma redução dos riscos na implementação do
+desinvestimento, assim como aumenta a possibilidade de encontrar um comprador adequado
+que, nessa situação, será conduzido por um trustee de desinvestimento.
+Para a Autoridade Concorrencial não é relevante se a operação de venda dos ativos
+será ou não rentável para a compromissária. O Cade deve se ater ao cumprimento dos critérios
+estabelecidos na celebração do ACC para a seleção do comprador, de forma que o
+desinvestimento atinja o seu objetivo principal de restabelecimento dos níveis de concorrência.
+Por consequência, a aprovação pelo Cade não deve estar condicionada aos valores
+pagos pelos ativos por parte do comprador. No entanto, conforme mencionado anteriormente,
+o montante pago pode ser utilizado para a verificação de indícios de fraude, ou seja, valores
+pagos muito acima ou muito abaixo da cotação do mercado, podem ser um indicativo de que
+o comprador não tenha interesse em reempregar os ativos adquiridos para competir
+efetivamente.
+3.3.4 Auditoria prévia (due diligence)
+O processo de desinvestimento deve assegurar que compradores potenciais possam
+realizar auditoria (due diligence) para obter, a depender do estágio do procedimento,
+informação suficiente relativa ao desinvestimento de forma que possam avaliar plenamente o
+38valor, o escopo e o potencial comercial do negócio, assim como ter acesso direto ao respectivo
+quadro de pessoal.
+O trustee (ou as partes), por sua vez, devem garantir que compradores potenciais
+recebam toda a documentação e informação necessárias para uma avaliação robusta do
+negócio a ser desinvestido.
+3.3.5 Aprovação da alienação
+As partes devem obter a aprovação do Cade com relação ao comprador, assim como
+ao contrato de compra e venda. Isso se aplica a todos os remédios relativos ao
+desinvestimento, independentemente da modalidade adotada. Ao Cade deve ser
+disponibilizado o nome do comprador, o contrato de compra e venda e todas as informações
+necessárias antes de expirado o prazo determinado para o processo de desinvestimento.
+Ademais, o Cade requer um período de tempo suficiente para avaliar se o comprador
+indicado assim como o contrato de compra e venda são adequados com relação aos requisitos
+estabelecidos no ACC. A análise se dá tanto por meio da documentação apresentada como
+por meio de reuniões presenciais com o potencial comprador e com o trustee de
+monitoramento. Isso não desobriga as empresas em notificar a nova operação, caso essa atinja
+os critérios de notificação obrigatória ao Cade.
+4 Remédios Comportamentais
+Na eventualidade de remédios estruturais não serem suficientes para endereçar os
+problemas concorrenciais de forma efetiva, ou não serem efetivos por questões regulatórias
+ou fáticas, remédios comportamentais podem ser determinados para mitigar efeitos negativos
+de um AC sobre a concorrência, desde que sejam eficazes em reverter o prejuízo concorrencial
+da operação. Remédios comportamentais também podem ser utilizados para complementar e
+tornar mais efetivos os remédios estruturais. A proporcionalidade de remédios
+comportamentais deve ser avaliada pela capacidade de reverter os problemas concorrenciais
+de uma operação de forma conjunta a remédios estruturais ou de forma isolada.
+Em geral, boa parte das motivações favoráveis aos remédios comportamentais está
+associada a integrações verticais, visto que remédios comportamentais podem ser mais
+apropriados para preservar potenciais eficiências de um AC – e.g., redução de custos de
+transação e internalização de externalidades -, ao mesmo tempo que diminuem os riscos de
+fechamento de mercado.
+39Ao considerar remédios estruturais, quanto maiores as sinergias entre os ativos, maior
+o número de ativos que deverão ser alienados para tornar o remédio viável, sem a perda de
+eficiências do pacote de desinvestimento. Por outro lado, quanto mais ativos a serem
+alienados, maior a probabilidade de perda de eficiências geradas pelo AC pela diminuição dos
+ativos que irão permanecer com as Requerentes. No caso de potenciais problemas de
+fechamento vertical gerado pelo AC, há a possibilidade de se criar um pacote de
+desinvestimento, enquanto um negócio autônomo, que inclua ativos de mais de um elo da
+cadeia produtiva. Isso poderá resultar em um pacote de desinvestimento excessivamente
+amplo, o que pode comprometer o princípio da proporcionalidade do remédio.
+Por conseguinte, uma das formas de atenuar o problema da excessiva amplitude de
+pacotes de desinvestimento quando se verificam potenciais danos concorrenciais advindos das
+relações entre elos distintos da cadeia produtiva é a aplicação de remédios comportamentais,
+complementares ou não aos remédios estruturais.
+Os principais remédios comportamentais em integrações verticais são obrigações de
+concessão de acesso a insumos considerados fixos, e.g., infraestrutura com características de
+infraestrutura essencial (essential facility) ou a direitos de propriedade intelectual.
+Especificamente com relação a remédios que facilitam o acesso ao mercado, a
+efetividade dessas medidas depende dos danos concorrenciais causados pelo ato de
+concentração. Se, por exemplo, a operação implica a aquisição de um player relevante do
+mercado, os danos concorrenciais serão compensados, na maioria dos casos, apenas por meio
+de um desinvestimento. Por outro lado, se o ato de concentração implicar, principalmente, na
+elevação de barreiras à entrada pré-existentes - por exemplo, por meio de uma integração
+vertical - nesse caso, medidas de acesso a mercado podem muitas vezes ser suficientes para
+compensar impactos anticoncorrenciais.
+Com relação a direitos de propriedade intelectual, a concessão de licenças pode
+constituir-se em um remédio adequado caso os efeitos de um ato de concentração apenas
+impliquem a elevação de barreiras à entrada pré-existentes. Nesses casos, a licença deve ser
+suficiente para possibilitar a entrada no mercado de um competidor ou facilitar a entrada em
+um grau que seja suficiente para compensar os danos concorrenciais.
+Acrescenta-se que em um processo de concessão de licença, este deve ser transparente
+e não discriminatório. Caso o licenciador seja um concorrente, os termos da licença não devem
+impedir a competitividade de quem está licenciando. No entanto, ao se levar em conta a
+relação contratual continuada entre competidores sob a base de um acordo de licenciamento,
+40pode-se aventar a possibilidade de problemas no futuro, e.g., negociações sobre taxas de
+licenciamento serem necessárias e, com isso, comprometer a efetividade do remédio.
+Cabe ressaltar que remédios comportamentais trazem maior risco devido à
+necessidade de duração mais longa de implementação comparado aos remédios estruturais.
+Ao contrário dos remédios estruturais, não há recomendação de limite de prazo, pois este irá
+depender das especificidades de cada caso. Remédios comportamentais também estão
+expostos a maiores problemas de informação assimétrica entre o Cade e as Requerentes e
+terceiros.
+A natureza dos remédios comportamentais torna sua delimitação e verificação mais
+complexa e onerosa tanto para as Requerentes como para o Cade. Remédios comportamentais
+podem ainda criar distorções indesejadas e imprevisíveis nos mercados afetados. Por fim,
+remédios comportamentais podem não ser efetivos concorrencialmente, por não alterarem os
+incentivos criados para o abuso do exercício de posição dominante pelas Requerentes. Estes
+fatores reforçam o cuidado com o desenho e, principalmente, com o monitoramento de
+remédios comportamentais.
+Apesar desses riscos, em alguns casos, remédios comportamentais podem ser
+apropriados para endereçar diferentes tipos de preocupações concorrenciais, particularmente
+quando desinvestimentos são considerados desproporcionais e/ou podem comprometer
+significativamente as eficiências decorrentes da operação.
+4.1 Cuidados e boas práticas na definição de remédios comportamentais
+Na opção de remédios comportamentais deve ser ressaltada a excepcionalidade de
+remédios que envolvam controles diretos de volumes e preços e qualidade dos produtos
+ofertados pelas partes. Estes tipos de controles geram expressivo custo para o Cade e elevam
+de forma significativa o risco de ineficácia do remédio, além de representar uma regulação no
+sentido estrito. Na maioria dos casos, aqueles não envolvidos no curso dos negócios e
+operação das unidades empresariais não possuem informações suficientes para uma
+determinação apropriada destas dimensões concorrenciais.
+A experiência internacional e do Cade, por outro lado, aponta a maior naturalidade e
+adequação de remédios comportamentais, como não exclusividade e não discriminação,
+dentre outras medidas, para ACs que gerem preocupações concorrenciais verticais, como visto
+anteriormente. Esta experiência não exclui a possibilidade de remédios estruturais, pelos
+princípios de proporcionalidade, tempestividade, factibilidade e verificabilidade.
+41No caso de alguns remédios comportamentais associados com relações verticais das
+partes e de terceiros com as partes, como não discriminação e acesso a infraestrutura essencial,
+o Cade, em regra, não servirá de árbitro para resolução de disputas entre partes. Por outro
+lado, a Autoridade pode receber informações de não cumprimento de compromissos, para
+verificação de descumprimentos de remédios.
+A título de exemplo, dada uma integração vertical, Chinese walls são remédios
+comportamentais que objetivam reduzir o fluxo de informação entre as divisões a montante e
+a jusante da empresa que se verticalizou. Ao se estabelecer uma limitação do fluxo de
+informações entre essas divisões, há uma diminuição da possibilidade de discriminação de
+concorrentes, seja a montante ou a jusante.
+Apesar de Chinese walls serem instrumentos destinados a mitigar o problema
+relacionado à troca de informação sensível que, por sua vez, pode redundar em tratamento
+discriminatório entre a Requerente e seus concorrentes, há também o problema associado à
+assimetria de informação entre a Requerente e a autoridade concorrencial, que compromete a
+eficácia do monitoramento de remédios. Nesse sentido, remédios do tipo Chinese walls
+tendem a ser mais efetivos como remédios acessórios a outras obrigações do que suficientes
+por si só.
+Em geral, é recomendável que o desenho de remédios comportamentais inclua a
+participação de um trustee de monitoramento que acompanhe, documente e relate o
+cumprimento dos remédios ao Cade. A depender do pacote de remédios comportamentais
+adotados para o caso concreto, o monitoramento pode admitir produtos de auditorias
+independentes, sendo que a experiência do Cade aponta para a necessidade mínima de
+relatórios de “assecuração limitada” e de “assecuração razoável” produzidos nos termos das
+Normas Brasileiras de Contabilidade – NBC TO 3000 – Trabalho de Asseguração Diferente de
+Auditoria e Revisão (aprovada pela Resolução CFC Nº. 1.160/09). Nestes casos, é
+imprescindível que o remédio preveja e imponha o contato direto entre o Cade e o auditor
+independente, sem a intervenção dos compromissários no intercâmbio desses subsídios. Tal
+diretiva permite que o auditor independente possa prestar todas as informações necessárias à
+verificação crítica, por parte da autoridade, do adequado cumprimento das obrigações
+assumidas no pacote de remédios, além de poder alterar a sistemática do monitoramento a
+depender da análise efetuada e das diretrizes estabelecidas pelo Cade7.
+7 A NBC TO 3000 esclarece que o plano de trabalho do auditor independente é “um processo contínuo e interativo,
+desenvolvido ao longo do trabalho” (§ 13) e que “se o auditor independente tomar conhecimento de assunto
+que o leve a questionar se deve ou não ser feita alguma alteração relevante nas informações sobre o objeto,
+deve tratá-lo realizando outros procedimentos suficientes que permitam inclui-lo no seu relatório” (§ 37)
+425 Trustees
+Caso necessário, o Cade designará a contratação pelas partes de trustees para
+participar da implementação e monitoramento do remédio. Os trustees respondem
+diretamente ao Cade, em mandatos claramente especificados pelo ACC ou por decisão do
+Tribunal. Estes trustees devem ter conhecimento do negócio parte do remédio e são
+remunerados pelas partes do AC, sem prejuízo de que as partes já indiquem estes trustees
+antes do julgamento.
+5.1 Funções
+5.1.1 Trustee de monitoramento
+O trustee de monitoramento tem como função supervisionar a implementação dos
+remédios e assegurar a sua efetiva realização. Nesse contexto, o trustee de monitoramento
+auxilia a Autoridade e as Requerentes na verificação de cumprimento das obrigações
+estabelecidas. Ele atua de forma independente das Requerentes, embora custeado por elas, e
+deve assegurar que as Requerentes implementem de forma completa os remédios, de modo
+efetivo e sem atrasos.
+No intuito de atingir os objetivos, o trustee de monitoramento deve identificar
+possíveis obstáculos ao cumprimento das obrigações estabelecidas e se as Requerentes têm
+planejado, preparado, iniciado e executado todas as etapas intermediárias necessárias. Ele
+também monitora se as Requerentes têm cumprido as obrigações de modo a não comprometer
+a viabilidade econômica do negócio no processo de desinvestimento.
+Deve-se ressaltar que, apesar do trustee de monitoramento exercer um papel ativo
+para o cumprimento dos remédios, ele não está autorizado a decidir em nome do Cade. Ele
+atua sob supervisão do Cade por meio de mandato e informa periodicamente à Autoridade,
+por meio de relatórios, o status da implementação das medidas planejadas e cumprimento
+das obrigações. Ao mesmo tempo, as Requerentes devem conferir ao trustee de
+monitoramento um mandato com poderes suficientemente amplos para monitorar
+efetivamente o acordo.
+Logo após o fim do mandato, de acordo com os prazos estipulados no ACC ou na
+decisão do Cade o trustee de monitoramento deverá submeter ao Cade e às Requerentes um
+relatório final, com a responsabilidade de assegurar que qualquer segredo de negócios de
+uma das Requerentes não seja disponibilizado para a outra.
+Em geral, os compromissos estabelecidos no ACC, sejam estes de natureza estrutural
+ou comportamental, nortearão as tarefas do trustee de monitoramento. As obrigações e
+43responsabilidades serão especificadas em detalhes no respectivo mandato firmado entre as
+Requerentes e o trustee, devendo ter suas funções mais detalhadas em um plano de trabalho.
+Resumidamente as principais atribuições do trustee de monitoramento são, a
+depender do caso específico:
+ Monitorar o fiel cumprimento das obrigações comportamentais, acompanhando a
+execução das obrigações no dia a dia da empresa, assim como o relacionamento com
+clientes, fornecedores e demais terceiros relacionados que possam ser afetados pelas
+obrigações negociadas com o Cade. O trustee de monitoramento deverá ter livre
+acesso à empresa, documentos, sistemas, dentre outros ativos necessários para o
+perfeito monitoramento das obrigações, podendo, a depender do mandato conferido
+pelo Cade, sugerir correções no intuito de fazer cumprir as obrigações.
+ Supervisionar medidas de salvaguardas relativas ao negócio, objeto de
+desinvestimento, no período entre a celebração do ACC e a conclusão do processo de
+desinvestimento. Nesse ínterim, o trustee é o responsável por supervisionar a gestão
+e a manutenção adequada do negócio de forma autônoma (preservation monitoring
+trustee).
+ Em casos de carve-out, cabe ao trustee de monitoramento acompanhar o processo de
+separação dos ativos e de realocação do quadro de pessoal entre o negócio objeto de
+desinvestimento e os negócios retidos pelas Requerentes, bem como a duplicação,
+caso seja necessária, de ativos e funções anteriormente detidas pelas Requerentes
+(carve-out monitoring trustee).
+ Supervisionar o empenho das Requerentes em encontrar um comprador potencial,
+assim como a transferência do negócio, e certificar que compradores potenciais
+recebam informações suficientes sobre o negócio. Uma vez definido o comprador, o
+trustee de monitoramento deve submeter ao Cade um parecer fundamentado quanto
+à adequação do comprador proposto em relação aos requisitos exigidos, assim como
+se o negócio será vendido de acordo com os compromissos estabelecidos no ACC. No
+final do processo, o trustee de monitoramento deve supervisionar a transferência
+jurídica e efetiva do negócio, bem como elaborar um relatório final atestando a
+transferência (divestiture process monitoring trustee).
+ Dar instruções e supervisionar as atividades do trustee de operação, que estão
+voltadas, por sua vez, ao gerenciamento do dia a dia do negócio. O trustee de
+operação tem a função de gerir o negócio durante o período de transição até o efetivo
+desinvestimento, preservando o negócio desinvestido e garantindo a separação entre
+este e o negócio retido pelas Requerentes (hold separate monitoring trustee).
+445.1.2 Trustee de operação
+O trustee de operação é um administrador nomeado especificamente para gerir o
+pacote de ativos enquanto este não é transferido para o comprador. O trustee de
+monitoramento está autorizado a dar instruções e supervisionar as atividades do trustee de
+operação que estão voltadas, por sua vez, ao gerenciamento do dia-a-dia do negócio.
+Uma atribuição adicional do trustee de operação é informar à equipe do negócio,
+objeto de desinvestimento, sobre o processo de desinvestimento e suas implicações sobre
+direitos e deveres da equipe.
+O trustee de operação deve ser indicado tempestivamente, de acordo com os prazos
+estipulados no ACC ou na decisão do Cade. As Requerentes são obrigadas a cumprir todas as
+instruções do trustee de operação em relação à implementação de remédios. O trustee de
+operação deve atuar sob a orientação do trustee de monitoramento e do Cade e não das
+Requerentes.
+5.1.3 Trustee de desinvestimento
+Caso as partes não encontrem um comprador adequado para o pacote de
+desinvestimento dentro do prazo primeiramente estabelecido, será nomeado um trustee de
+desinvestimento para assumir a condução do processo de desinvestimento. Assim como ocorre
+em relação ao trustee de monitoramento, as partes devem indicar um trustee de
+desinvestimento a fim de garantir a efetividade dos compromissos assumidos no ACC.
+O trustee de desinvestimento deve efetuar a venda sob o melhor valor possível sem
+que esta esteja necessariamente vinculada a um preço mínimo ou sob qualquer outra
+orientação das Requerentes. O comprador, por sua vez, deve se submeter aos requisitos
+estabelecidos na decisão do remédio.
+Será concedido ao trustee de desinvestimento um mandato para que, durante o
+período previsto para sua intervenção, proceda a alienação do negócio. O mandato do trustee
+de desinvestimento é exclusivo e irrevogável e estará submetido à supervisão do Cade para
+que se realize a alienação num prazo específico.
+Os compromissos devem prever que as partes deem apoio e informações ao trustee
+de desinvestimento da mesma forma como é previsto para o trustee de monitoramento. As
+partes devem conceder, mediante procuração, amplos poderes em todas as fases do
+desinvestimento.
+455.2 Outros aspectos
+5.2.1 Momento de nomeação
+É fundamental que o trustee de monitoramento assuma a sua função o quanto antes
+possível. Sendo assim, as partes devem propor um trustee adequado em tempo hábil e dentro
+do prazo acordado. Os compromissos podem prever que o ato de concentração notificado só
+poderá ser consumado uma vez nomeado o trustee de monitoramento pelo Cade.
+Diferentemente do trustee de monitoramento e de operação, o trustee de
+desinvestimento deve ser nomeado após passado o primeiro prazo estabelecido para o
+desinvestimento. O mandato do trustee de desinvestimento entra em vigor no início do
+período previsto para a sua intervenção.
+5.2.2 Requisitos
+O Cade irá avaliar as qualificações necessárias à luz dos requisitos relativos a
+determinado caso, o que inclui aspectos geográficos e o setor econômico envolvido. Empresas
+de auditoria ou de consultoria são potenciais candidatas a desempenhar bem a função de
+trustee de monitoramento. Da mesma forma, pessoas físicas com experiência em um setor
+econômico específico podem igualmente constituir candidatos adequados se dispuserem dos
+recursos necessários para exercerem o papel de trustee. Com relação à função de trustee de
+desinvestimento, bancos de investimentos tendem a ser particularmente adequados8.
+O trustee deve ter uma relação de independência9 em relação às partes, possuir
+qualificações necessárias para cumprir o mandato além de não estar exposto a conflitos de
+interesses.
+Conflitos de interesse surgem quando o trustee tem vínculo com uma empresa que
+pertence ao grupo econômico de uma das Requerentes, seja como acionista ou por meio de
+um vínculo financeiro. Casos nos quais o trustee provê serviços para as Requerentes – e.g.
+consultoria jurídica, serviços de auditoria, banco de investimento, etc. – e que possuem um
+peso relevante em termos econômicos para o trustee, também caracterizam conflitos de
+interesse. Caso surjam conflitos de interesse ao longo do mandato do trustee, o Cade deve ser
+imediatamente informado para, em seguida, requerer às partes o fim do mandato do trustee
+8 Especificamente com relação ao trustee de monitoramento, este pode ou não ser uma empresa de auditoria. O
+relevante é que o trustee tenha condições de realizar a avaliação antitruste necessária para fazer o
+acompanhamento do ACC, não se limitando a aspectos contábeis e financeiros, mas também a questões do
+mercado afetado. O não cumprimento desses quesitos pode levar a não aceitação do trustee ou a sua troca ao
+longo do período do ACC, caso os relatórios apresentados não sejam adequados para a verificação do
+cumprimento do acordo.
+9 A depender do caso, o trustee de operação pode ser um funcionário da empresa. Isso pode ocorrer, por exemplo,
+quando determinado indivíduo faz parte do pessoal-chave necessário para manter a viabilidade do negócio.
+46e indicar outro. Por fim, compete às partes fornecer ao Cade informações necessárias para que
+este possa avaliar se determinado trustee preenche os requisitos exigidos.
+Os requisitos especificados para o trustee de monitoramento com relação a
+qualificações, credenciais e recursos; ao processo de indicação; ao conteúdo do mandato do
+trustee e sua remuneração também se aplicam ao trustee de desinvestimento. Logo,
+determinada pessoa física ou empresa, ao atuar como trustee de monitoramento, também
+pode ser indicada como trustee de desinvestimento.
+5.2.3 Seleção
+Dependendo do caso, o trustee de monitoramento e o trustee de desinvestimento
+podem ser a mesma pessoa ou instituição. No que tange à escolha do trustee, salvo
+procedimento diverso específico fixado pelo ACC, as Requerentes primeiramente propõem
+uma lista de candidatos que é submetida ao Cade. Pode o Cade aprovar todas as indicações,
+hipótese em que as Requerentes estarão habilitadas a nomear a que melhor lhe convier. Caso
+o Cade não escolha nenhum dos candidatos propostos, especificando os motivos de sua
+decisão às partes, uma nova listagem deve ser apresentada pelas Requerentes.
+A apresentação dos candidatos deve conter, além disso, um plano de trabalho que
+contemple os procedimentos, mecanismos e fases de monitoramento do remédio, de forma a
+permitir que o Cade verifique se a proposta condiz com os poderes e deveres do trustee para
+monitoramento das obrigações do ACC.
+5.2.4 Aprovação pelo Cade
+Cabe ao Cade avaliar discricionariamente se os candidatos propostos para exercerem
+o papel de trustees são adequados para as funções em determinado caso. A aprovação do
+trustee pelo Cade está condicionada a um mandato que seja considerado adequado. Quando
+apropriado, pode-se publicar a identidade do trustee e um resumo de suas atribuições. Além
+da aprovação do trustee proposto, compete ao Cade a aprovação do mandato do trustee que
+define, por sua vez, direitos e obrigações do trustee e das Requerentes.
+O Cade envidará seus melhores esforços para uma análise tempestiva do trustee
+apresentado pela compromissária do remédio, conferindo uma resposta positiva (aprovação)
+ou não (rejeição). Na primeira situação, a aprovação poderá ser condicionada ao
+aprimoramento ou saneamento de pontos do plano de trabalho apresentado pelo trustee,
+sendo que sua contratação só poderá ser executada em caso de adequação das observações
+efetuadas.
+475.2.5 Deveres e obrigações da compromissária perante o trustee
+Tanto o trustee de monitoramento quanto os trustees de operação e de
+desinvestimento devem ser nomeados sob a base de um mandato celebrado entre as partes e
+o trustee. A nomeação e o mandato são submetidos à aprovação do Cade.
+O mandato do trustee (Ver Anexo B – Mandato do trustee) deve definir suas atribuições
+tal como enunciadas nos compromissos, além de incluir todas as disposições necessárias que
+permitam ao trustee exercer suas funções.
+A Compromissária deverá cooperar com o trustee no sentido de disponibilizar total
+acesso a documentos, sistemas e informações necessários para o desempenho de suas
+obrigações.
+Da mesma forma a Compromissária deverá conceder ao trustee listas de potenciais
+compradores, poderes para realizar a venda e custear consultores (de finanças corporativas,
+assuntos técnicos, P&D, entre outros), caso seja necessário, para o desempenho de suas
+atividades e obrigações sob o mandato.
+O Cade poderá compartilhar informações confidenciais de propriedade da
+Compromissária com o trustee que deverá necessariamente assinar um Acordo de
+Confidencialidade com relação a tais informações, como previsto na cláusula de
+confidencialidade do seu mandato.
+5.2.6 Remuneração
+As Requerentes são responsáveis pela remuneração do trustee, sendo que esta deve
+ser estruturada de forma a não comprometer a independência do trustee e a efetividade do
+cumprimento do seu mandato.
+Deve-se atentar para o potencial problema de captura, visto que o agente que paga
+(a Requerente ou as Requerentes) é diferente do agente a quem o trustee deve responder (a
+Autoridade).
+Por fim, ao considerar a possibilidade de diferentes tipos de mandatos, a remuneração
+do trustee deverá variar de acordo com a complexidade do remédio a ser adotado, assim como
+com a duração do mesmo.
+485.2.7 Substituição, dispensa e recondução do trustee
+A nomeação do trustee, a princípio, é irrevogável. Caso o trustee deixe de
+desempenhar suas atividades nos termos do ACC ou incorra em um conflito de interesse, o
+Cade poderá requerer que as Requerentes substituam o trustee ou as Requerentes poderão,
+com a aprovação prévia do Cade, substituir o trustee.
+Quando os compromissos específicos dos quais o trustee tenha sido incumbido tiverem
+sido executados, nos termos do plano de trabalho, como por exemplo, (i) a assinatura do ato
+jurídico de venda, (ii) a transferência dos ativos ao adquirente e (iii) o cumprimento de acordos
+específicos pós-desinvestimento, o mandato deve prever a solicitação, por parte do trustee,
+da isenção de responsabilidades posteriores junto ao Cade.
+No entanto, mesmo após concedida essa isenção de responsabilidades, poderá ser
+necessária uma renomeação do trustee, caso o Cade verifique posteriormente que
+compromissos relevantes não tenham sido cumpridos plenamente e de forma satisfatória.
+6 Monitoramento do ACC
+Todo remédio traz consigo obrigações de monitoramento. Estes envolvem coleta e
+transmissão de informações que possibilitem acompanhar o desenvolvimento dos negócios e
+obrigações descritas no remédio. A partir das informações obtidas no monitoramento, o Cade
+poderá avaliar o cumprimento ou não das restrições.
+Este objetivo de avaliação de cumprimento aponta a relevância do monitoramento
+também para antecipar problemas e evitar colisões frontais às obrigações, que geram alto
+custo, seja para a Administração Pública, seja para os Administrados.
+O monitoramento traz também custos diretos, de coleta, organização, envio e
+processamento das informações recebidas por parte do Cade. Estes custos podem ser
+minimizados, mantida a efetividade das informações em fundamentar juízo e o alcance dos
+objetivos do remédio. Formas de reduzir os custos do monitoramento envolvem a delimitação
+de informações, a periodicidade de envio das informações e a participação de trustees de
+monitoramento.
+A delimitação de informações pode incluir a aferição da capacidade concorrencial dos
+ativos a serem desinvestidos (faturamento corrente e outras), informações sobre os
+compradores envolvidos nas negociações de forma não preliminar e outras. A periodicidade
+pode ser modulada de acordo com a etapa da implementação do remédio. A participação de
+49um trustee de monitoramento, seja para acompanhar in loco os andamentos das diligências
+para venda, por parte dos representados, seja para auditar os indicadores e metas delimitados
+no remédio, deve ser fortemente considerada. Esses trustee de monitoramento teriam
+mandato específico e se reportariam diretamente ao Cade, às custas das empresas.
+Mesmo definidas as obrigações de monitoramento, não há conflito com a previsão de
+eventual acesso a instalações e investigações nas partes envolvidas para coleta de informações
+adicionais que permitam deliberar sobre o cumprimento ou não das obrigações. Os remédios
+acordados devem prever tal acesso, dentro do devido processo legal.
+6.1 Monitoramento pelo Cade x Monitoramento pelo Trustee
+De acordo com o artigo 52 da Lei nº 12.529/2011, o cumprimento das decisões do
+Tribunal e de compromissos e acordos firmados poderá, a critério do Tribunal, ser fiscalizado
+pela Superintendência-Geral10.
+Cabe ao Setor de Cumprimento de Decisões (SCD), que integra a Procuradoria Federal
+Especializada junto ao Cade (PFE), elaborar pareceres e notas sobre o acompanhamento e
+monitoramento do cumprimento extrajudicial das decisões do Cade, bem como dos termos de
+compromisso de cessação (TCC) e dos acordos em controle de concentrações (ACC) firmados
+pela autarquia. Sempre que possível, devem ser elaboradas versões públicas dos pareceres e
+notas técnicas, que permitam a terceiros interessados oferecer comentários ou participar da
+análise.
+Conforme previsto na Resolução Cade nº 6, de 03 de abril de 2013, os ofícios relativos
+à requisição de informações ou documentos necessários à análise do cumprimento das
+decisões, compromissos ou acordos serão expedidos pela Superintendência-Geral, após
+adoção da manifestação da Procuradoria pelo Superintendente-Geral e encaminhamento da
+respectiva decisão para referendo do Tribunal, por meio de seu Presidente.
+O monitoramento por parte do Cade com relação ao cumprimento das decisões
+relativas a um ACC deve abarcar tanto uma análise formalista, e.g., cumprimento de prazos
+de implementação das etapas do remédio, apresentação de relatórios, entre outros; quanto
+10 Art. 52 O cumprimento das decisões do Tribunal e de compromissos e acordos firmados nos termos desta Lei
+poderá, a critério do Tribunal, ser fiscalizado pela Superintendência-Geral, com o respectivo encaminhamento
+dos autos, após a decisão final do Tribunal.
+§ 1o Na fase de fiscalização da execução das decisões do Tribunal, bem como do cumprimento de compromissos
+e acordos firmados nos termos desta Lei, poderá a Superintendência-Geral valer-se de todos os poderes
+instrutórios que lhe são assegurados nesta Lei.
+§ 2o Cumprida integralmente a decisão do Tribunal ou os acordos em controle de concentrações e compromissos
+de cessação, a Superintendência-Geral, de ofício ou por provocação do interessado, manifestar-se-á sobre seu
+cumprimento. (Lei nº 12.529/2011)
+50análises de impacto e efetividade das decisões, o que implica avaliação dos efeitos dos
+remédios após seu cumprimento.
+Com relação ao monitoramento por parte do trustee, pode-se afirmar que ele deve
+atuar sob o comando do Cade. Visto que não é possível, por parte da Autoridade
+Concorrencial, estar dia a dia diretamente envolvida na supervisão da execução dos
+compromissos, é recomendável que as Requerentes indiquem um trustee de monitoramento
+no intuito de supervisionar o cumprimento dos compromissos assumidos pelas partes durante
+o processo de desinvestimento.
+Conforme mencionado anteriormente, as funções do trustee de monitoramento
+abarcam várias atribuições, e.g., a preservação do negócio, objeto do desinvestimento, até a
+conclusão da alienação; monitoramento do processo de separação (carve out) do “pacote de
+desinvestimento” e monitoramento do processo de busca de um comprador adequado bem
+como o monitoramento do cumprimento dos eventuais remédios comportamentais adotados.
+Logo, o trustee subsidia o Cade no processo de monitoramento, assim como as partes
+no cumprimento das obrigações, conforme as disposições previstas no respectivo mandato.
+Para isso, o trustee deve, entre outras atribuições, informar periodicamente ao Cade, por meio
+de relatórios, o status do cumprimento das obrigações relativas aos remédios.
+Os relatórios devem conter um sumário executivo sobre o cumprimento dos
+compromissos monitorados (sejam eles estruturais, sejam comportamentais), sendo a análise
+de cumprimento de cada qual detalhada no seu corpo. Para tanto, deve o trustee demonstrar
+quais procedimentos foram adotados durante o período de monitoramento, as evidências
+obtidas e o raciocínio lógico que fundamenta sua conclusão11.
+11 No caso de monitoramento efetuado por meio de auditores independentes, os relatórios de assecuração
+limitada ou assecuração razoável (a depender das necessidades de monitoramento impostas pelo pacote de
+remédios) a serem entregues ao Cade devem ser do tipo “forma longa”, nos termos do § 48 da NBC TO 3000:
+relatórios que devem “descrever em detalhe os termos do trabalho, os critérios utilizados, as constatações em
+relação a aspectos particulares do trabalho e, em alguns casos, as recomendações, assim como os elementos
+básicos. Quaisquer constatações e recomendações do auditor independente devem ser claramente separadas da
+sua conclusão sobre as informações relativas ao objeto, e sua redação deve deixar claro que não existe intenção
+em afetar a sua conclusão. Este pode utilizar títulos, números de parágrafo, elementos gráficos, como negrito, e
+outros mecanismos de melhoria da clareza e da legibilidade do relatório de asseguração”.
+51Os relatórios podem também incluir informações estranhas sobre o cumprimento dos
+compromissos acordados, desde que tais gerem percepções do trustee sobre o adequado
+cumprimento, ocasião em que tal deverá ser devidamente explicado ao Cade12. A tais subsídios
+será dado o peso de análise cabível no caso concreto, sendo que, em caso de dúvida sobre o
+adimplemento dos compromissos, as partes envolvidas poderão ser ouvidas.
+Sendo assim, pode-se afirmar que um dos papeis do trustee de monitoramento é
+mitigar o problema de assimetria de informação entre o Cade e as Requerentes.
+6.2 Sanções e Penalidades
+Deverá estar previsto no ACC a possibilidade de revisão da aprovação da operação e
+aplicação de multas diárias caso ocorra descumprimento e/ou atrasos no cumprimento das
+obrigações previstas no ACC, bem como nas demais hipóteses do art. 91 da Lei n.
+12.529/2011. As penalidades devem ser proporcionais à gravidade do tipo de
+descumprimento e, no caso de penalidades pecuniárias, ter como parâmetro o faturamento
+das empresas envolvidas.
+Cabe destacar que as multas e penalidades devem ser divididas em: (i) multas por
+descumprimento das obrigações principais e (ii) multas por descumprimento de obrigações
+acessórias. Por obrigações principais entende-se as obrigações de desinvestimento, venda de
+ativos, de fazer ou não fazer, que compõem o conjunto de obrigações que visam afastar os
+problemas concorrenciais. Por obrigações acessórias entende-se os documentos, relatórios,
+dentre quaisquer outras obrigações que visam demonstrar ao Cade o efetivo cumprimento das
+obrigações principais. Por exemplo, o prazo para apresentação de relatórios dos trustees
+semestrais deve conter penalidade correspondente por descumprimento. Ademais, há multas
+por obrigações pontuais (cumpriu ou não uma obrigação) e multas de mora (diária, como por
+ocasião de atraso na entrega dos relatórios).
+Deve-se prever as hipóteses de descumprimento parcial e total do ACC, bem como as
+implicações de eventual descumprimento total (desfazimento da operação, revisão da
+operação pelo Cade) e possibilidade de aplicação do artigo 91 da Lei 12.529/2011.
+12 No caso de monitoramento efetuado por meio de auditores independentes, os relatórios de assecuração
+limitada ou assecuração razoável (a depender das necessidades de monitoramento impostas pelo pacote de
+remédios) o § 50 da NBC TO 3000 prevê que “o auditor independente pode ampliar seu relatório de asseguração
+para incluir outras informações e explicações, que não tenham por objetivo modificar a sua conclusão. Por
+exemplo, detalhes sobre suas qualificações e experiência e de outros envolvidos no trabalho, divulgação dos
+níveis de relevância, constatações relativas a aspectos particulares do trabalho e recomendações. A inclusão ou
+não dessas informações adicionais depende da sua relevância em relação às necessidades dos usuários previstos.
+Essas informações adicionais ficam claramente separadas da conclusão do auditor independente, sendo redigidas
+de tal maneira que não afetem sua conclusão”.
+52Em caso de atraso e/ou descumprimento de quaisquer dos compromissos previstos no
+ACC, o Cade concederá às Compromissárias a oportunidade de se manifestar e de apresentar
+suas razões, dentro de determinado prazo estabelecido no ACC. Caso o ACC silencie sobre tal
+prazo, as partes terão o prazo de 5 (cinco) dias corridos para apresentar seus esclarecimentos.
+6.3 Revisões do ACC
+Há a possibilidade do Cade, em circunstâncias excepcionais, posteriormente à
+assinatura do ACC, em resposta a pedido fundamentado das Partes Compromissárias, de ofício
+ou por provocação da SG, rever, ou seja, renunciar, modificar ou substituir, obrigações
+previstas no ACC. O Cade pode estender os prazos previstos no ACC em resposta a pedido
+expresso das Partes Compromissárias ou, em casos apropriados, de ofício ou por provocação
+da SG.
+Cabe ressaltar que qualquer revisão do ACC requer homologação do Tribunal. A não
+homologação de revisões do ACC poderá acarretar o descumprimento de alguma das
+obrigações previstas. Nessas circunstâncias, com base no artigo 91 da Lei 12.529/2011, o
+Cade poderá rever a operação, conforme mencionado no item anterior.
+7 Cumprimento do ACC
+A verificação do cumprimento das obrigações deve se dar de forma clara e
+juridicamente verificável, sem ônus excessivo para as partes e para o Cade, particularmente
+nos casos de remédios comportamentais.
+Além do que foi destacado anteriormente, em que o Cade pode se utilizar de trustees
+de monitoramento, com ônus para as Requerentes, para obter informações necessárias ao
+cumprimento das obrigações, o ACC pode, ainda, prever inspeção e a coleta de informações
+in loco para verificação do cumprimento das obrigações.
+O não cumprimento das obrigações pode se dar em seus diferentes compromissos,
+desde o descumprimento de obrigações centrais (não desinvestimento, venda de ativos
+degredados, por exemplo), como obrigações acessórias de monitoramento e informação (envio
+de relatórios ou envio dos mesmos incompletos, por exemplo).
+O descumprimento das obrigações, nas suas variadas formas, como descrito
+anteriormente, deve prever o pagamento de multas fixas, diárias ou cumulativas, e até a
+reprovação da operação. A declaração de descumprimento das obrigações segue os ritos
+53necessários para sua deliberação no Tribunal. Situações de descumprimento não devem ser
+entendidas como indutoras de revisão de termos de decisão ou de acordos. O ACC deve
+sempre se configurar em título executivo para garantir o cumprimento da decisão frente ao
+Judiciário.
+A verificação do cumprimento dos remédios necessários para a aprovação do AC será
+realizada, com a participação da Procuradoria Federal Especializada junto ao Cade (PFE), pela
+Superintendência-Geral, que remete ao Tribunal atestado de cumprimento para referendo, por
+meio de despacho da Presidência para homologação.
+Cabe salientar que, durante a decisão de um AC as melhores informações disponíveis
+são utilizadas e combinadas com as metodologias apropriadas para prever como o AC irá
+impactar o ambiente concorrencial, bem como para desenhar e implementar remédios caso
+necessário. Entretanto, é possível que se observe, ao longo do tempo, efeito diverso do
+esperado. No intuito de aprimorar as decisões do Cade, o Departamento de Estudos
+Econômicos (DEE) poderá desenvolver avaliações a posteriori de casos concretos de AC –
+incluindo os remédios implementados – como procedimento regular que pode ajudar o Cade
+a melhorar a tomada de decisões futuras. A avaliação a posteriori de um AC (e seus remédios)
+busca determinar, por meio de técnicas quantitativas e qualitativas, os efeitos que a decisão
+teve no mercado algum tempo após a decisão ter sido tomada. Tal esforço servirá de base
+para uma avaliação balizada da validade dos remédios utilizados e será fonte de informação
+relevante para uma reformulação ou complementação das práticas vigentes.
+8 Aspectos adicionais
+8.1 Setores regulados
+A existência de um regulador setorial não impede o Cade de aplicar remédios que
+entenda necessários à proteção da concorrência. O objetivo da autoridade da concorrência é
+complementar, se necessário, exigências do regulador setorial. Os remédios em setores
+regulados devem dialogar com a regulação setorial para torná-los mais efetivo. Pode existir a
+conveniência de diálogo entre o Cade e o regulador para a compatibilidade do remédio com
+o arcabouço regulatório setorial.
+Como mencionado, o desenho de um remédio deve considerar o arcabouço
+regulatório, se relevante para as atividades econômicas dos mercados afetados negativamente
+pela operação. Especificações regulatórias nos negócios, prazos para obtenção de licenças,
+autorizações e declarações para atividades devem ser consideradas, sendo obrigação das
+54partes atender estas obrigações. O Cade não pode influenciar o andamento de processos ou
+procedimentos regulatórios, sem que o ente regulatório tenha anteriormente indicado tal
+possibilidade de cooperação ou que exista possibilidade de alteração de procedimentos por
+parte unilateral do ente regulador.
+Por outro lado, em setores regulados com necessidade de fluxo de informações entre
+ente regulador e o(s) regulado(s), o remédio deve favorecer formas de monitoramento e
+verificação de cumprimento que envolvam estes fluxos de informações para contribuir para
+tempestividade, factibilidade e proporcionalidade do remédio.
+8.2 Cooperação internacional
+Os atos de concentração realizados no exterior com efeitos no Brasil ou atos de
+concentração realizados no Brasil com efeitos em outras jurisdições mantêm sua análise e
+decisão de forma independente entre jurisdições.
+Por vezes, é possível que um mesmo ato de concentração seja objeto de análise
+simultânea e paralela, no Brasil e no exterior. Nestes casos, a cooperação entre autoridades
+da concorrência é desejável no desenho, implementação e monitoramento dos remédios. Isto
+minimiza os riscos de remédios contraditórios ou inconsistentes, preservada a soberania dos
+países afetados e a independência das autoridades da concorrência envolvidas.
+A cooperação pode incluir a troca de informações sobre o remédio, tanto antes quanto
+após o julgamento do AC. A troca de informações confidenciais requer o consentimento prévio
+das empresas. Isto pode ser feito por meio da assinatura de um Termo de Renúncia à
+Confidencialidade (Waiver of Confidentiality). Para tanto, o Cade disponibiliza um modelo
+bilíngue (português/inglês) para as empresas (Anexo B).
+No caso de remédios coordenados, é desejável que se utilize o mesmo trustee de
+outras jurisdições, de modo a trazer maior consistência na implementação e no monitoramento
+dos remédios.
+Os remédios adotados pelo Cade podem ser os mesmos já adotados por autoridades
+em outros países, desde que mantidas as obrigações das partes no Brasil, durante as diferentes
+etapas de implementação e monitoramento do remédio. Neste sentido, requer-se igualmente
+a assinatura de um ACC no Brasil, de modo a tornar efetiva eventual execução das obrigações
+principais ou acessórias do ACC em território nacional.
+55Anexos
+Anexo A - Glossário
+Assimetria de informação: desequilíbrio no acesso à informação entre dois agentes que
+transacionam entre si. Tal desequilíbrio podem gerar falhas e ineficiência na alocação de
+recursos no mercado.
+Carving-out: é a separação de uma unidade de negócios da estrutura da empresa. Nesse caso,
+o negócio a ser separado não se constitui em um negócio sob uma base autônoma. Por isso,
+o processo de carving-out pode requerer a duplicação de ativos e pessoal com o objetivo de
+garantir a viabilidade e competitividade do desinvestimento.
+Chinese Wall (firewall): remédio comportamental cujo objetivo é restringir o acesso a
+informações confidenciais dentro das empresas fusionadas. Por exemplo, no caso de uma
+verticalização, haverá o não compartilhamento de informação entre as divisões a montante e
+a jusante da firma que se verticalizou.
+Consumação da operação (= consumação do AC, fechamento da operação): consiste em
+alterações das estruturas físicas e das condições competitivas das partes envolvidas no ato de
+concentração. Essas alterações podem ser: transferência de ativos, exercício de algum tipo de
+influência de uma parte sobre a outra e troca de informações concorrencialmente sensíveis
+que não seja estritamente necessária para a celebração do instrumento formal (contrato de
+compra e venda) que vincule as partes.
+Consumação do desinvestimento: consiste na transferência à adquirente de ativos, de relações
+contratuais - contratos com fornecedores e clientes, contratos de locação, uso de canais de
+distribuição, entre outros – além da transferência de autorizações e permissões (e.g., licenças
+de funcionamento) requeridas para o funcionamento do negócio desinvestido.
+Crown jewels: (jóias da coroa): o processo de desinvestimento ocorre em duas etapas, ou seja,
+o primeiro desinvestimento será substituído (ou complementado) por um desinvestimento
+alternativo (ou adicional), assim chamado de crown jewels, caso se verifique que o primeiro
+desinvestimento não ocorrerá dentro do período de tempo estabelecido. Logo, o pacote de
+desinvestimento se expande para além dos mercados considerados concorrencialmente
+problemáticos no contexto de determinado AC com o objetivo de atrair potenciais
+compradores.
+Empty shell: O desinvestimento também está sujeito ao problema de empty shell, ou seja, que
+o pacote de ativos seja uma espécie de “casco vazio”. Ilustrativamente, isso pode ocorrer,
+quando os recursos humanos necessários para compor o pacote de desinvestimentos são de
+56difícil identificação ou mesmo de difícil transferência, seja, por exemplo, pela vontade
+individual dos empregados, seja por questões ligadas à legislação trabalhista.
+Fix-it-first: é um tipo de remédio estrutural oferecido pelas Requerentes durante a fase de
+análise do AC, com definição do comprador e do pacote de ativos anterior à aprovação da
+operação. É um remédio que pode prover mais flexibilidade às Requerentes no desenho de
+um pacote de desinvestimento.
+Mix and match: desinvestimentos que combinam ativos e segmentos de negócios de mais de
+uma das Requerentes.
+Moral hazard (risco moral): oportunismo pós-contratual caracterizado pela tendência dos
+agentes econômicos de alterarem seu comportamento após o estabelecimento de um contrato.
+Isso ocorre devido ao fato de que indivíduos possuem racionalidade limitada, ou seja, não
+conseguem antecipar adequadamente todas as circunstâncias que podem ocorrer dentro de
+uma relação econômica. Por exemplo, no caso do mercado de seguros de saúde, os indivíduos
+tendem a demandar mais serviços do que normalmente demandariam caso não estivessem
+segurados.
+Pessoal-chave: quadro de pessoal necessário para manter a viabilidade e competitividade do
+negócio objeto de desinvestimento.
+Price-cap: é um modelo de regulação por incentivos no qual preços tetos são fixados por um
+dado período. Por consequência, os regulados procuram ganhos de eficiência e redução de
+custos no intuito de auferir maiores lucros. Por exemplo, há o modelo CPI-X no qual os preços
+tetos são reajustados pela inflação menos os ganhos de produtividade esperados até a
+próxima revisão tarifária.
+Relatório de Assecuração Limitada - relatório cujo objetivo é reduzir o risco do trabalho a um
+nível aceitável nas circunstâncias, porém em um nível maior de risco do que em trabalho de
+Asseguração Razoável, para dar suporte à conclusão do auditor independente na forma
+negativa, ou seja, o auditor independente conclui que não tem conhecimento de nenhuma
+modificação relevante que deva ser feita nas informações sujeitas à Asseguração Limitada.
+Relatório de Assecuração Razoável – relatório cujo objetivo é reduzir o risco do trabalho a um
+nível aceitavelmente baixo, considerando as circunstâncias do trabalho, para que possa servir
+de base para que o auditor independente emita sua conclusão na forma positiva.
+Requerentes ou Partes: empresas participantes do ato de concentração.
+57Ring-fencing: ao contrário do remédio chinese wall que se dá no âmbito da empresa fusionada,
+ring-fencing trata da segmentação de informações entre o vendedor e o pacote de ativos a ser
+alienado. É uma medida de separação que visa proteger segredos de negócios ou outras
+informações confidenciais relativas ao desinvestimento.
+Trustee: uma ou mais pessoas, naturais ou jurídicas, indicadas pelas partes compromissárias
+e aprovadas pelo Cade que podem ser designadas em um ACC cujas principais funções são: i)
+preservação do negócio a ser desinvestido; ii) monitoramento do processo de separação
+(carving out) do pacote de desinvestimento; iii) separação do pacote de desinvestimento em
+relação ao restante dos negócios do alienante; iv) monitoramento do cumprimento pelas
+compromissárias das condições e obrigações previstas no ACC – e.g. processo de escolha de
+um comprador adequado, cumprimento das obrigações de fazer e não fazer no caso de
+remédios comportamentais; (v) viabilizar o processo de venda do negócio objeto de
+desinvestimento.
+Upfront buyer: é um tipo de remédio no qual a escolha do comprador se dá após a aprovação
+da operação, sendo pré-condição para a consumação do AC.
+58Anexo B - Mandato do trustee
+Identificação (i) das partes (compromissárias) e (ii) do trustee.
+Identificação da decisão que demandou o apontamento do trustee, informando: (i) tipo de
+decisão (ACC em ato de concentração ou TCC em investigação de conduta); (ii) enquadramento
+legal da decisão e das medidas negociadas.
+De acordo com a decisão supracitada, a(s) parte (s) (ou compromissárias) se comprometeram
+a (identificar de maneira resumida o conjunto de obrigações, estruturais e/ou comportamentais
+que compõem o acordo).
+Definições:
+Partes: empresa A, empresa B,
+Obrigações: conjunto de remédios, de cunho comportamental e/ou estrutural que compõem o
+pacote de deveres a serem cumpridos pelas partes ao longo do cumprimento do acordo.
+Trustee de monitoramento: responsável pelo monitoramento do processo de desinvestimento
+e manutenção do negócio desinvestido ou, no caso de remédios comportamentais, pelo
+cumprimento das obrigações de fazer e não fazer, nos termos de seus deveres e obrigações
+conforme detalhado neste documento.
+Trustee de desinvestimento: responsável pela estruturação da venda dos ativos que compõem
+o pacote de obrigações caso as partes não sejam capazes de concluir o processo de
+desinvestimento no primeiro prazo negociado com o Cade.
+Trustee de operação: responsável pela administração e gerenciamento do pacote de
+desinvestimento enquanto este não é transferido para o comprador. Os deveres específicos do
+trustee de operação devem ser definidos conforme as particularidades do caso.
+Plano de trabalho: plano que deve ser apresentado por cada potencial trustee ao Cade para
+que a autoridade possa decidir, dentre as opções oferecidas pelas partes compromissárias.
+1. Nomeação do trustee
+O trustee de monitoramento deverá ser nomeado pelo Cade após a submissão das alternativas
+pelas partes dentro do prazo estipulado no acordo negociado.
+Após a nomeação do trustee, este deverá acatar integralmente os termos do presente mandato
+a partir da data de sua nomeação, estando, a partir de então, vinculado às obrigações e prazos
+previstos no acordo e no presente mandato.
+59A equipe do trustee será composta das seguintes pessoas: (...) sem prejuízo da contratação de
+profissionais adicionais para a prestação de serviços específicos (auditoria, pareceristas, etc.).
+O trustee de desinvestimento deverá ser nomeado pelo Cade após esgotado o primeiro prazo
+de desinvestimento, nos prazos também acordados.
+A partir da sua nomeação, o trustee de desinvestimento também se vincula aos termos do
+presente mandato e às obrigações previstas no acordo negociado.
+A equipe do trustee de desinvestimento será apresentada a partir de sua nomeação, caso se
+faça necessária.
+2. Deveres gerais do trustee
+O trustee deverá agir exclusivamente em nome do Cade, a fim de garantir o cumprimento das
+obrigações assumidas pelas compromissárias. O trustee deverá seguir o plano de trabalho
+aprovado pelo Cade, não obstante a autoridade possa, ao longo do cumprimento das
+obrigações, solicitar alterações e determinar outras medidas que se façam necessárias para o
+efetivo cumprimento dos compromissos assumidos.
+3. Deveres gerais das compromissárias
+As compromissárias e seus representantes legais deverão prover todas as condições
+necessárias para que o trustee possa cumprir o seu mandato, objetivando a conformidade com
+as obrigações assumidas. Para tanto, as compromissárias deverão conceder ao trustee e sua
+equipe acesso completo e irrestrito às dependências das partes, especialmente aos ativos
+eventualmente objeto de desinvestimento, aos sistemas de informações, livros contábeis,
+pessoal, informações técnicas, dentre outros que se façam necessários ao cumprimento deste
+mandato. O acesso a esses recursos e ativos deverá ser facultado em tempo razoável de
+maneira a não obstar ou postergar indevidamente o trabalho realizado pelo trustee.
+Além disso, as compromissárias deverão prover o trustee e sua equipe com os recursos
+materiais e financeiros que sejam necessários para dar suporte ao trabalho realizado.
+As compromissárias também deverão manter o trustee informado sobre quaisquer aspectos
+relevantes a respeito das obrigações assumidas, como: levantamento dos potenciais
+compradores de ativos, negociações em andamento, condições ofertadas, prazo de execução,
+plano de negócios, obstáculos de qualquer espécie ao cumprimento das obrigações, dentre
+outros.
+60Caso o trustee entenda necessário, a contratação de profissionais especializados para a
+realização de trabalhos específicos, tais como, auditoria, perícia técnica, dentre outros, deverá
+ser providenciada pelas compromissárias em tempo razoável.
+4. Deveres do trustee de monitoramento
+O trustee de monitoramento deverá, se preciso, em conjunto com o trustee de operação:
+ Monitorar a preservação do negócio a ser desinvestido, a viabilidade do negócio e a
+competitividade dos ativos até a efetiva alienação;
+ Garantir que as partes não intentem qualquer ação que tenha por objetivo ou que
+possa resultar em perda de valor, de competitividade ou de atratividade dos ativos a
+serem desinvestidos;
+ Garantir que todos os recursos necessários para a preservação dos ativos serão
+providos pelas compromissárias enquanto a obrigação não for extinta;
+ Garantir que o ativo a ser alienado seja uma unidade autônoma das compromissárias,
+de maneira que sua competitividade se mantenha após sua desvinculação da estrutura
+das partes.
+Nos casos em que houver obrigações comportamentais, o trustee de monitoramento deverá:
+ Acompanhar a execução das obrigações de fazer e/ou não fazer assumidas pelas
+compromissárias;
+ Determinar eventuais correções nas ações adotadas pelas compromissárias no sentido
+de conferir maior aderência às obrigações assumidas, nos termos dos objetivos do
+acordo e em conformidade com determinações do Cade;
+ A fim de garantir plena conformidade no cumprimento das obrigações
+comportamentais assumidas, o trustee e sua equipe deverão ter total acesso às
+dependências das partes, inclusive, se necessário, participando de reuniões,
+negociações com terceiros potencialmente afetados pelas obrigações assumidas
+(clientes, concorrentes, fornecedores), entrevistas com terceiros interessados (se assim
+os terceiros concordarem), mantida a confidencialidade em relação às
+compromissárias se for necessário para o fiel cumprimento de seu mandato.
+O trustee de monitoramento deverá informar ao Cade, a qualquer momento, sobre eventuais
+ações ou omissões das compromissárias que possam comprometer o cumprimento das
+obrigações assumidas e os objetivos deste mandato, para fins de intervenção da autoridade
+ou de ateste do cumprimento das obrigações.
+615. Deveres do trustee de desinvestimento
+A partir do fim do primeiro período de desinvestimento, o trustee de desinvestimento deverá
+ser nomeado para assumir com exclusividade o dever de alienar os ativos objeto do acordo.
+Elencar:
+ Critérios para a venda dos ativos (preço mínimo, lance preço zero, etc.);
+ Prazo para desinvestimento;
+ Critérios para a definição de potenciais compradores
+ Dever de se reportar ao Cade e cumprir com as determinações da autoridade
+6. Obrigações de informar
+O trustee de monitoramento/desinvestimento deverá apresentar relatórios periódicos para o
+Cade (determinar a periodicidade a depender do caso e duração das obrigações). Nos
+relatórios, o trustee deverá informar:
+ Andamento do cumprimento das obrigações (estruturais/comportamentais);
+ A conformidade com o plano de ação apresentado e quanto aos prazos negociados;
+ O cumprimento ou não das obrigações assumidas pelas compromissárias. Em caso de
+descumprimento, o trustee deverá relatar as razões do descumprimento, detalhando
+a responsabilidade das compromissárias para o descumprimento ou se tal
+consequência se deu por força maior;
+ Independente do cumprimento ou não das obrigações, o trustee deverá apontar ações
+que teve de adotar em relação ao comportamento das compromissárias para que
+houvesse maior conformidade com os compromissos assumidos. O trustee deverá
+detalhar quais foram essas ações, o compromisso e o empenho das compromissárias
+em adotar as recomendações e a relação com o eventual cumprimento ou
+descumprimento de algum compromisso assumido pelas partes.
+A responsabilidade pela apresentação dos relatórios é exclusiva do trustee, porquanto os
+prazos previstos no acordo deverão ser observados sob pena de aplicação de multa por atraso
+ou negativa de apresentação dos relatórios. Caso as compromissárias deem causa ao atraso
+ou à incompletude dos relatórios, o trustee deverá relatar em detalhes os fatos para que o
+Cade decida pela eventual declaração de descumprimento do acordo.
+7. Conflito de interesse
+O trustee e sua equipe não poderão ter conflito de interesse com as compromissárias (relatar
+hipóteses de conflito).
+62Caso ao longo do cumprimento de seu mandato surja algum risco de conflito, o trustee deverá
+relatar ao Cade imediatamente para que a autoridade decida a respeito podendo, inclusive,
+requisitar a substituição do trustee ou de membro de sua equipe.
+8. Disposições finais
+A remuneração do trustee, de sua equipe e de demais profissionais eventualmente
+requisitados é de total responsabilidade das compromissárias do acordo.
+A remuneração deverá ser definida de maneira a manter a independência do trustee, de modo
+a não criar incentivos ao alinhamento do trustee com os interesses das compromissárias, o
+que poderá ser penalizado pelo Cade, se identificado.
+Quanto ao trustee de desinvestimento, é recomendável que sua remuneração ou parte dela
+esteja vinculada ao prazo de desinvestimento.
+A remuneração do trustee deverá estar contida no plano de ação submetido à análise do Cade.
+O mandato do trustee se encerrará apenas quando o Cade declarar o cumprimento integral
+das obrigações, salvo disposição em contrário.
+63Anexo C - Waiver de confidencialidade
+Modelo Model
+Termo de Renúncia a Confidencialidade Confidentiality Waiver
+[identificar empresas proponentes] [identify proposing companies]
+Ato de concentração n°: [----] Merger File number: [----]
+RENÚNCIA WAIVER
+1. Em nome da [nome da empresa A], [tipo de 1. On behalf of [name of the company A], [type of
+sociedade sob a lei brasileira], com sede à [endereço establishment under Brazilian law], located at
+completo], inscrita no CNPJ/MF sob o nº [---], [complete address], registered at the National Registry
+representada por seu administrador, [nome do of Legal Entities no. [---], represented by its manager,
+administrador ou outro representante], [profissão], [name of manager or representative], [occupation],
+[nacionalidade], [estado civil], portador da carteira de [nationality], [marital status], holder of the Brazilian
+identidade brasileira nº [---], inscrito no CPF sob o nº [- identity card no. [---], registered under Brazilian fiscal
+--], com endereço comercial acima mencionado e da (CPF) no. [---], with the same commercial address of the
+[nome da empresa B], [tipo de sociedade sob a lei above mentioned and of [name of company B], [type of
+brasileira], com sede à [endereço completo], inscrita no establishment under Brazilian law], located at
+CNPJ/MF sob o nº [---], neste ato, representada por seu [complete address], registered at the National Registry
+administrador, Sr. [nome do administrador ou outro of Legal Entities no. [---], represented by its manager,
+representante], [profissão do representante], [name of manager or representative], [occupation],
+[nacionalidade], [estado civil], portador da carteira de [nationality], [marital status], bearer of the Brazilian
+identidade brasileira nº [---], inscrito no CPF sob o nº [- identity card no. [---], registered under CPF no. [---], with
+--], renunciamos a toda e qualquer restrição de the same commercial address of the above mentioned,
+confidencialidade e sigilo protegidos por lei no que for we agree to waive all confidentiality and secrecy
+necessário para fomentar a cooperação e a troca de restrictions on what may be necessary to endorse
+informações entre o Conselho Administrativo de Defesa cooperation and information exchange between the
+Econômica – Cade – e [o órgão análogo no estrangeiro], Brazilian Administrative Council for Economic Defense –
+de forma a colaborar com a instrução processual do Ato Cade – and [similar foreign institution], in order to
+de Concentração em epígrafe, doravante Ato de assist the instruction of the Merger File in Title,
+Concentração proposto. hereinafter called proposed Merger.
+2. Concordamos em submeter este Termo de renúncia 2. We agree to submit this Waiver to the assessment of
+ao conhecimento do [o órgão análogo no estrangeiro] [similar foreign institution] to allow that authority to
+para permitir que aquela autoridade possa compartilhar share with Cade information acquired from [company A]
+com o Cade informações obtidas a partir da [empresa and/or [company B], during the filing instruction for the
+A] ou da [empresa B], ou outras empresas de seus authorization of [object of the proposed Merger].
+respectivos grupos, durante a instrução processual de
+autorização para a [objeto do Ato de concentração
+proposto].
+643. A [empresa A] e a [empresa B] consentem que os 3. [company A] and [company B] accede that Cade’s and
+servidores do Cade e do [o órgão análogo no [similar foreign institution]’s servants share any
+estrangeiro] compartilhem quaisquer documentos, documents, declarations, data and information, given
+declarações, dados e informações, fornecidos pelas by the signatories, also any analyses of the mentioned
+signatárias, assim como quaisquer análises internas das institutions which would otherwise be subject to the
+mencionadas agências, que seriam de outra maneira confidentiality rules of that jurisdiction, as long as they
+impedidas pelas regras de confidencialidade, desde que are related to the proposed merger.
+estejam relacionadas ao Ato de Concentração proposto.
+GARANTIAS CAVEAT
+4. Este Termo não constitui renúncia de qualquer modo 4. This waiver does not constitute any sort of
+aos direitos de confidencialidade da [empresa A] ou da confidentiality rights renunciation of [company A] nor of
+[empresa B] frente a quaisquer outros terceiros, não [company B], before any third persons, not nominated
+nomeados aqui, ou quaisquer outras instituições here, or any other institutions different from [similar
+diferentes do [o órgão análogo no estrangeiro]. foreign institution].
+5. Este Termo está limitado às informações obtidas 5. This waiver is limited to information acquired by the
+pelos órgãos para analisar o ato de concentração institutions to analyze the proposed Merger and it does
+proposto e não se aplica as informações obtidas no not apply to the information acquired during any other
+curso de qualquer outro caso ou análise presente ou case or analysis in the present or in the future that is not
+futura que não o Ato de Concentração proposto. the proposed Merger.
+CONDIÇÕES CONDITIONS
+6. Informações transmitidas por força deste Termo 6. Information transmitted pursuant to this Waiver may
+somente poderão ser utilizadas pelo [o órgão análogo only be used by [similar foreign institution] for the
+no estrangeiro] com o fim de conduzir a instrução purposes of conducting its enquiry into the proposed
+processual do Ato de Concentração proposto e nunca Merger and never for any other purpose. The Waiver is
+para qualquer outro fim. O Termo de renúncia está subject to the express condition that such information
+sujeito à condição de as informações mencionadas remains confidential by [similar foreign institution] and
+serem mantidas confidenciais pelo [o órgão análogo no may not be disclosed to any third party.
+estrangeiro] e, portanto, não podem ser divulgadas a
+qualquer outro terceiro.
+7. Acordamos que o não cumprimento das condições 7. We agree that [similar foreign institution] failure to
+deste Termo pelo [o órgão análogo no estrangeiro] não comply with the foregoing does not engender any
+gera qualquer responsabilidade ao Cade. liability to Cade.
+8. A renúncia mencionada no primeiro item está sujeita 8. The waiver as specified in the first paragraph is
+as seguintes condições: subject to the following conditions:
+8.1. O Cade deve manter a confidencialidade das 8.1. Cade shall itself maintain the confidentiality of the
+informações e dos documentos enviados pelo [o órgão information and/or documentation provided by [similar
+65análogo no estrangeiro] e deve tratá-las como se foreign institution] and shall treat such information as if
+fossem informações confidenciais recebidas it had been obtained directly from [companies A and /or
+diretamente pelas [empresas A e B]; B];
+8.2. O Cade deve tratar todas as informações e os 8.2. Cade shall consider all information and/or
+documentos enviados pelo [o órgão análogo no documentation obtained from [similar foreign
+estrangeiro], por força deste Termo, como confidenciais, institution] pursuant to this waiver as confidential
+a não ser que esteja claro que as informações foram information unless it is clearly identified as having been
+obtidas de fonte de acesso público; obtained from a publicly accessible source;
+8.3. O Cade não divulgará quaisquer das informações e 8.3. Cade shall not make any information and/or
+dos documentos enviados pelo [o órgão análogo no documentation obtained from [similar foreign
+estrangeiro] para qualquer terceira pessoa incluindo institution] available to any third party including
+concorrentes, clientes e fornecedores das [empresas A e competitors, customers and suppliers of [companies A
+B]; and B];
+8.4. As informações e os documentos enviados pelo [o 8.4. information and/or documentation obtained from
+órgão análogo no estrangeiro] devem ser utilizados [similar foreign institution] shall be used by Cade only
+pelo Cade somente para instrução do Ato de for the purposes of enquiry into the proposed Merger;
+Concentração proposto;
+8.5. O Cade não divulgará a [o órgão análogo no 8.5. Cade shall not disclose to [similar foreign
+estrangeiro] quaisquer das informações e dos institution] any information and/or documentation that
+documentos obtidos das [empresas A e B] que tenham [companies A and/or B] have asserted a claim of legal
+sido classificados como protegidos pelo segredo client/attorney privilege in the jurisdiction of [similar
+profissional na jurisdição do [o órgão análogo no foreign institution] and that is clearly identified as being
+estrangeiro] e que estejam claramente identificadas subject to such privilege. [Companies A and B] are
+como tal. As [empresas A e B] ficam responsáveis por responsible for informing Cade of the existence of such
+informar ao Cade sobre a existência de tais informações privileged information and/or documentation.
+ou documentos.
+DISPOSIÇÕES FINAIS FINAL PROVISIONS
+Cada [nome da empresa A e B] afirma ter obtido o Each [name of companies A and B] has obtained the
+consentimento de suas sociedades controladas para consent of its affiliates to the sharing of their
+compartilhar de suas informações e documentos information and documents produced by each [name of
+apresentados por cada [nome da empresa A] ou [B], sob company A and B], under the same conditions as
+as mesmas condições mencionadas acima. outlined above.
+Caso queira discutir qualquer questão pertinente a essa If you wish to discuss any matter arising form this
+renúncia, favor contatar [representante da empresa A e waiver, please contact [name of responsible
+representante da empresa B, telefone e endereço de representative(s) of company A and of company B,
+email]. telephone no. and email address].
+66Uma cópia deste Termo foi enviada a [o órgão análogo A copy of this letter has been sent to [similar foreign
+no estrangeiro]. institution].
+No caso de qualquer desacordo entre as versões em In case of any disagreement between the Portuguese
+Português e Inglês deste Termo, a versão em Português and the English versions of this Waiver, the Portuguese
+deverá prevalecer. version shall prevail.
+Brasília, [dia] de [mês] de [ano]
+Brasilia, [day] [month] [year]
+________________________________
+[EMPRESA A]
+________________________________
+[EMPRESA B]
+67

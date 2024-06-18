@@ -1,0 +1,1320 @@
+Guide for Horizontal Merger Re v iew
+1Ministry of Justice
+Administrative Council for Economic Defense
+GUIDE FOR HORIZONTAL MERGER REVIEW
+Administrative Council for Economic Defense
+SEPN 515 Conjunto D, Lote 4, Ed. Carlos Taurisano
+Cep: 70770-504 – Brasília/DF
+www.cade.gov.br
+2INSTITUTIONAL PRESENTATION
+Interim President of Brazil
+Michel Miguel Elias Temer Lulia
+Ministry of Justice and Citizenship
+Alexandre de Moraes
+CADE Interim President
+Márcio de Oliveira Júnior
+CADE Commissioners
+Gilvandro Vasconcelos Coelho de Araújo
+Alexandre Cordeiro Macedo
+João Paulo de Resende
+Paulo Burnier da Silveira
+Cristiane Alkmin Junqueira Schmidt
+CADE Superintendent General
+Eduardo Frade Rodrigues
+CADE Attorney General
+Victor Santos Rufino
+CADE Chief Economist
+Guilherme Mendes Resende
+3EDITORIAL INFORMATION
+Coordination
+Márcio de Oliveira Júnior
+Luiz Alberto Esteves
+Simone Maciel Cuiabano
+Eduardo Frade Rodrigues
+Editing
+Ricardo Medeiros de Castro
+Renata Patriota de Albuquerque
+Proofreading
+Simone Maciel Cuiabano
+Gerson Carvalho Bênia
+Marcela Mattiuzzo
+Juliana Rafaela Sara Sales D’Araújo
+Collaboration
+Kenys Menezes Machado
+Mário Sérgio Rocha Gordilho Júnior
+Cristiane Landerdahl de Albuquerque
+Daniel Costa Rebello
+Graphic Designing
+Communications Unit of CADE
+Translation
+Arianne Mesquita Rodrigues
+Ariel Daltrozo Menezes
+Bruna Queiroz Assunção
+Editing and Proofreading (English)
+Bruna Queiroz Assunção
+4CONTENT
+1 INTRODUCTION........................................................................................................... 7
+2 REVIEW....................................................................................................................... 8
+2.1 Introduction ............................................................................................................................... 8
+2.1.1 Traditional merger review process ....................................................................................................... 9
+2.1.2 Alternatives to the traditional merger review process ...................................................................... 10
+2.2 Sources of the information used in merger reviews ............................................................... 10
+2.2.1 Applicants ........................................................................................................................................... 10
+2.2.2 Customers ........................................................................................................................................... 11
+2.2.3 Other agents ....................................................................................................................................... 12
+2.3 Relevant market ....................................................................................................................... 12
+2.3.1 Introduction ........................................................................................................................................ 12
+2.3.2 Relevant market dimensions .............................................................................................................. 13
+2.3.3 Supply-side substitutability ................................................................................................................ 16
+2.3.4 Basic concepts .................................................................................................................................... 16
+2.3.5 Methodology ...................................................................................................................................... 17
+2.3.6 Considerations .................................................................................................................................... 20
+2.4 Level of concentration ............................................................................................................. 22
+2.4.1 Market shares ..................................................................................................................................... 22
+2.4.2 Concentration ratio and causal link .................................................................................................... 23
+2.5 Unilateral effects ...................................................................................................................... 26
+2.5.1 Entry analysis ...................................................................................................................................... 26
+2.5.2 Rivalry analysis .................................................................................................................................... 31
+2.5.3 Portfolio power ................................................................................................................................... 37
+2.6 Buyer power ............................................................................................................................. 38
+2.7 Coordinated effects.................................................................................................................. 40
+3 EFFICIENCY GAINS ......................................................................................................42
+3.1 Likely and verifiable benefits ................................................................................................... 43
+3.2 Consumer welfare .................................................................................................................... 43
+3.3 Specific efficiencies .................................................................................................................. 43
+3.4 Externalities .............................................................................................................................. 44
+4 SUPPLEMENTARY AND ALTERNATIVE ANALYSIS METHODS .........................................45
+4.1 Counterfactual analysis ............................................................................................................ 45
+4.2 Simulations ............................................................................................................................... 46
+4.3 Other factors analysed ............................................................................................................. 47
+4.3.1 Elimination of maverick firms ............................................................................................................. 47
+4.3.2 Potential competition ......................................................................................................................... 47
+4.3.3 Vertical integration vs. horizontal overlap ......................................................................................... 48
+54.3.4 Firms operating in a two-sided market .............................................................................................. 48
+4.3.5 Partial acquisitions.............................................................................................................................. 49
+5 INSOLVENCY PROCESS ................................................................................................50
+5.1 Failing Firm Defence (FFD) ....................................................................................................... 50
+6 NON-COMPETE CLAUSE ..............................................................................................51
+7 CONCLUSION .............................................................................................................52
+6Guide for Horizontal Merger Review
+1 INTRODUCTION
+The Administrative Council for Economic Defense (CADE) is to review all mergers that
+fulfil the requirements established by Articles 88 and 90, Items 1 through 4, of Law
+12529/2011. Previous laws, such as Law 8884/1994, had already established this responsibility
+belonged to CADE, albeit with different requirements. The first Guide for Horizontal Merger
+Review was produced in 2001, according to SEAS/SDE Joint Ordinance 50 (1 August 2001), to
+meet the objectives of Law 8884/1994. This Guide is an updated version of that first one, this
+time written in accordance with Law 12529/2011, following the best practices adopted by
+antitrust authorities from North America and Europe.
+This Guide solely regards horizontal mergers, that is, transactions involving competing
+firms or firms that are potential competitors. It is aimed at:
+(i) providing greater transparency to CADE's reviews;
+(ii) guiding CADE's personnel to use best practices to review mergers that result in
+horizontal concentration; and
+(iii) assisting market players in understanding the steps, techniques and criterion adopted
+by CADE on its reviews.
+The methodology suggested is not binding nor a rule, and it is not aimed at exhausting
+all possible review methods. Furthermore, the analytical method adopted by CADE is to fit
+each specific case.
+According to Article 88, Paragraphs 5 and 6, of Law 12529/2011, mergers that result in
+reduced competition in a significant part of the relevant market, that create or strengthen a
+dominant position, or that result in the firm obtaining control of the relevant market of goods
+or services must only be authorized should the analysis of efficiency gains (item 3 of this Guide)
+uncover the following:
+(i) simultaneously or alternately:
+(a) increased productivity or competition;
+(b) better quality goods or services;
+7Guide for Horizontal Merger Review
+(c) technological or economic efficiency and development; and
+(ii) costumers are expected to derive substantial benefits from the merger.
+Mergers may have concurrently negative and positive effects. The negative effects may
+be: price rises for customers; decreases in quantity, quality and/or the variety of products or
+services at a given price; and a slower pace of innovation in contrast to the levels before the
+transaction.
+On the other hand, there may be a number positive effects such as: a potential increase
+in productivity and competitiveness resulting from specific productivity gains associated with
+the transaction; better quality products; a greater variety of products; technology
+improvement, amongst others.
+CADE is responsible for assessing whether the negative effects from the transaction
+overcome potential positive effects. In other words, a merger is more likely to be cleared if the
+resulting net profit is non-negative for customers.
+A priori, we cannot determine whether a transaction is beneficial or harmful.
+Therefore, a case-by-case review approach is necessary, taking into account specific
+productivity gains associated with the transaction and potential negative effects resulting from
+a probable increase of market power. It regards a non-negative net effect condition on the
+economic welfare of customers.
+2 REVIEW
+2.1 Introduction
+Horizontal mergers result in an overlapping of the activities carried out by firms
+operating in the same stage in the production chain. In order for CADE to assess whether there
+are overlaps, the firms involved in the transaction (and their respective corporate groups) must
+report all activities they carry out in Brazil, indicating the goods and services sold in the most
+unbundled manner possible.1
+1 It is understood that there are overlaps even in cases where there is only indirect compensation for the sale of
+products or services. That is, the applicant is part of a market even if it offers "X" product as a (free) "gift" linked
+to the purchase of another product of a different market. In such cases the turnover may not be the best way to
+8Guide for Horizontal Merger Review
+Once CADE has the applicants' reports, the agency reviews similar products together
+to assess whether there are any horizontal overlaps.
+There are several ways to follow these steps and carry out a merger review, as specified
+below and graphically represented in Annex 1.
+2.1.1 Traditional merger review process
+In general, CADE conducts the review in four or five steps, namely:
+(i) definition of the relevant market;
+(ii) analysis of the level of horizontal concentration, indicating whether the new firm can
+exercise their market power;
+(iii) assessment of whether the new firm will be able to exercise market power as a result
+of the greater concentration associated with the transaction, considering aspects such
+as:
+• the possibility of a timely, likely and sufficient entry;
+• the level of competition in the market after the transaction;
+(iv) assessment of buyer power in the market prior to the transaction, or created as a result
+of the transaction, in case of input markets;
+(v) evaluation of potential economic efficiencies associated with the merger.
+These steps are not mandatory; thus, no particular order needs to be followed. For the
+majority of cases, these steps are enough for the CADE to issue on whether the transaction
+should be blocked, cleared unconditionally, or cleared subject to remedies.
+measure the outcome of the parties in the market. Instead, depending on their area of operation, we may
+consider: (i) the amount of units distributed; (ii) the number of advertisements carried; (iii) the firm's participation
+in other segments; amongst other elements. It is worth noting that, in some cases, tie-in sales may be considered
+an antitrust violation and/or a violation of the provisions of the Brazilian Consumer Protection Code.
+9Guide for Horizontal Merger Review
+2.1.2 Alternatives to the traditional merger review process
+Market shares are not the only aspect to be considered in a merger review, as it will be
+demonstrated in Part 4 of this Guide.
+Consequently, additional and alternative review methods (such as simulations and
+counterfactual analysis) and/or other aspects (in case of removal of mavericks, two-sided
+markets, amongst others) may be considered in merger reviews.2
+2.2 Sources of the information used in merger reviews
+At its discretion, CADE may review a merger using statements from market players and
+other evidence usually admitted by law without having to consult all market players.
+The most relevant sources of information are applicants, customers, competitors,
+suppliers, regulatory agencies, trade unions and associations, ministries, market experts,
+amongst others.
+Statements provided by market players and document analysis may be an independent
+analytical path that offers relevant information unobtainable by any other means.
+2.2.1 Applicants
+Applicants are encouraged to submit documents, records, data, quantitative and/or
+qualitative studies, as well as strategic plans, reports and other documents related to the
+transaction. Information provided by shareholders or investors are useful for measuring the
+impact of the merger. The financial terms of the transaction also provide useful information
+on potential competitive effects associated with the merger.
+It is important that CADE and the applicants establish an open and direct line of
+communication between them. All answers provided must be substantiated and the
+information must be precise and complete, indicating the source for any calculations and
+submitting all available corroborating documents. Should applicants be unable to provide
+2 Mavericks are firms that play a disruptive role, that is, they are more likely to divert than most competitors.
+10Guide for Horizontal Merger Review
+precise information, they are to provide estimated information, indicating the respective
+sources and calculation methodology used, in order to allow for such estimations to be
+replicated. This is a key aspect for transactions submitted both for summary and in-depth
+ordinary review.
+Applicants are expected to submit to CADE, whenever possible:3
+(i) market studies, researches, reports, projections and any other documents, even when
+produced third parties, related to: the competitive position of the firm and its rivals;
+demand and supply conditions; dispute for customers; strategic behaviour (such as price,
+sale, launches, innovation, and market entry/exit); claims of antitrust violations committed
+by firms in the relevant market, amongst others;
+(ii) marketing reports, commercial reports, brand disclosure plans and strategies, product
+positioning reports and any similar documents;
+(iii) strategic plans, business plans, growth and contingency plans, and any similar
+documents.4
+Applicants may, before CADE makes a formal request, submit along with their
+application: information maps indicating the location of their production plants and of those
+belonging to their rivals, including the corresponding latitudinal and longitudinal range; sales
+reach of applicants and their rivals; an estimate of the distance customers are willing to travel
+to purchase the products.
+Such information and estimates must be based on prior contracts, relative costs of
+products/transportation, characteristics of the product, and other relevant considerations.
+2.2.2 Customers
+Customers may be consulted on questions related to the transaction and the market
+at issue, such as: to what extent they divert their demand or consider diverting it due to
+changes in relative prices; whether, in the past, they have diverted or considered diverting
+3 Furthermore, applicants may assist CADE in preparing questions to be put to other market players.
+4 Annex 1 of CADE's Resolution 2/2012 (Item IV.2)
+11Guide for Horizontal Merger Review
+purchases in response to these changes; whether there is a possibility of market segmentation
+(with price differentiation or any other sort of distinction) that allows firms to adopt different
+commercial strategies.
+2.2.3 Other agents
+Rivals, suppliers, regulatory agencies, associations, market experts, amongst others,
+may provide information by means of documents, market studies and reviews of market
+conditions (prices, quantity, quality, distribution or innovation).
+Rivals may provide information on differences in supply and/or price structures
+between neighbouring geographic areas, possible imports, entry, and competition.
+Suppliers may provide evidence of the purchasing power of the parties, and of entry
+possibility.
+Government bodies, such as ministries, regulatory agencies and sectoral institutions,
+may provide information on the registration of products commercialised, the number of
+accredited businesses, entry requirements, amongst others.
+2.3 Relevant market
+2.3.1 Introduction
+Defining the relevant market involves identifying the set of economic agents
+(customers and producers) that actually respond to and limit decisions of the merged firm
+regarding strategies such as price, quality and quantity, amongst others.
+CADE may establish the limits of the relevant market or leave its definition
+undetermined, particularly when there is low concentration in all possible scenarios,
+considering different geographic and/or product specifications.
+Although the definition of the relevant market is a useful tool, it is not an end in itself.
+The identification of possible competitive effects involves considering conditions that are
+sometimes outside the predefined relevant market. Thus, the definition of the relevant market
+is not binding, both because it is a mere analytical tool and because of market dynamics.
+12Guide for Horizontal Merger Review
+2.3.2 Relevant market dimensions
+The definition of the relevant market takes into consideration both product and
+geographic dimensions.
+Product dimension
+With regard to the demand, product dimension in the relevant market involves goods
+and services regarded as substitutes by customers given their characteristics, prices and uses.
+In order to ascertain the degree of substitutability, it is observed whether customers are likely
+to shift their demand to other products.
+For that purpose, CADE takes into consideration several aspects, such as:
+• customer profile (income, age, gender, education level, occupation, location,
+mobility, or other observable characteristics);
+• market size (quantity or revenues);
+• nature and characteristics of products and/or services;
+• relevance of goods and/or services prices for customers' choice;
+• relevance of goods and/or services quality for customers' choice;
+• relevance of brand, credit, payment terms, form and time of consumption for
+customers' choice;
+• evidence of past changes in the buying patterns of customers as a response to price
+increases or market conditions;
+• information from researches conducted with customers, rivals, amongst others;
+• documents provided by applicants indicating their understanding of the degree of
+substitutability of products, when presenting the market to shareholders or to the
+public;
+• evidence of price discrimination amongst customers, locations and brands.
+13Guide for Horizontal Merger Review
+Geographic dimension
+The geographic dimension is related to the area in which firms make their products
+available or in which customers seek to buy what they need (products or services), within
+which a monopolist may profitably impose significant price rises.
+To make this assessment, CADE takes into consideration several aspects, such as:
+• location in which applicants are based;
+• location in which rivals are based;
+• customer location;
+• location in which products are sold;
+• customer buying habits (whether customers travel to buy products or suppliers
+travel to sell their products, or both);
+• the distance customers are used to travel to buy products;
+• the distance suppliers are used to travel to sell their products;
+• differences in supply and/or price structures between neighbouring geographic
+areas, including possible imports;
+• distribution/transport costs in relation to the price of products;
+• time issues and other difficulties in transporting the products (in terms of safety
+and viability, and regulatory and tax issues);
+• costs involved in switching suppliers located in a different geographic market;
+• the need for suppliers and customers to be in proximity;
+• share of imports in the domestic supply;
+14Guide for Horizontal Merger Review
+• evidence of customer migration to different geographic areas as a response to price
+rises or changes in market conditions.
+Such information is used to conduct the hypothetical monopolist test (see Item 2.3.4).
+The geographic classification of markets is based on customer location, supplier location,
+or the location of customers and suppliers (in the case of mixed markets).
+• Markets at a distance (based on customer location) are those in which sellers make
+their products available at the location where customers are based, by means of
+distribution logistics. Given the relevance of distribution, aspects such as freight
+costs, available means of transportation, delivery time, product specificities,
+amongst others, must be detailed. The total amount of products available at the
+customer location are to be considered in the calculations, regardless of where the
+product supplier is based.
+• Traditional markets (based on supplier location) are markets in which buyers travel
+to purchase the product. the sales made in the supplier location are considered in
+the calculations, regardless of where the customers are based. The same firm can
+operate in different geographic markets without incurring in geographic
+clustering.5
+• Mixed markets are those in which the aforementioned markets mix. Traditional
+stores with delivery services provide customers with the options of either
+purchasing the product in person (traditional retailing) or having the product
+delivered to them through a distributor (distance retailing). In this case, CADE takes
+into consideration: the prevailing kind (whether the flow of traditional or distance
+retailing); which kind prevails with the parties involved in the transaction; whether
+there is a distinction between the profiles of customers who make purchases
+5 In other words: the fact that a firm supplies its products to different cities in a given state is not enough for its
+geographic reach to be considered as statewide. Should it happen that, after a small but significant and non-
+transitory increase in price
+(SSNIP), customers switch their demands to suppliers located in a different area and the price rise becomes
+unprofitable, then the geographic scope established should include both areas.
+15Guide for Horizontal Merger Review
+directly at the establishment and of those that opt for having the product delivered
+to them; and what is the cross elasticity between both.
+2.3.3 Supply-side substitutability
+The definition of the relevant market considering supply-side substitutability is related
+to the assessment of the capacity and availability of other firms to start producing and
+supplying the product at issue in a said area, after a small but significant and non-transitory
+increase in price (SSNIP) and in a short length of time.
+In other words, it is observed whether, given an increase in the sale price, other firms
+can offer the goods in the same geographic market applicants operate. The assessment of
+supply-side substitutability is the same one involved in the barriers to entry analysis (see item
+2.5.1), with some specifications: (i) products must be supplied in less than a year and (ii)
+without it being necessary to incur in sunk costs.
+Following international practices, CADE favours defining the relevant market
+considering the demand and understands considerations involving the supply-side to be an
+additional factor to be considered when assessing the effects of the transaction.
+2.3.4 Basic concepts
+Hypothetical monopolist test (HMT)
+The hypothetical monopolist test assists in the definition of the relevant market by
+contrasting it to the smaller group of products and the smaller geographic area needed for a
+hypothetical single seller to be able to impose a SSNIP. The test takes into consideration the
+response of customers to a hypothetical price increase. The degree of substitutability amongst
+goods or services is thereof assessed as a means to define the relevant market.
+At first, the test considers goods produced and sold by the firms involved in the
+transaction and the whole territorial extension in which they operate.
+16Guide for Horizontal Merger Review
+Subsequently, the test broadens sets of products and geographic markets until it
+identifies a market in which it is possible a small but significant and non-transitory increase in
+price (SSNIP) for a hypothetical monopolist of certain goods in this area.
+In case the test result shows that the hypothetical monopolist does not consider the
+price increase to be profitable, the definition of the relevant market will comprise the closest
+product substitute and/or the location from which the product at issue comes from (its closest
+substitutes in geographic terms).
+The first group of products and locations identified will be the smallest group needed
+for a hypothetical monopolist to be able to impose a SSNIP. This will be the relevant market
+defined in its product and geographic dimensions. In case there is enough information
+available, CADE uses the critical loss analysis to conduct the HMT. However, even if the HMT
+is not used, its logic is always used when defining the relevant market, that is, the product and
+geographic dimensions must be determined in order to limit the decision-making capacity of
+the new firm as to prices and quantities.
+Hypothetical monopsonist test
+The hypothetical monopsonist test is used to assess the unilateral effects of buyer
+power.
+The test delimits a geographic area, product and period in which the establishment of
+a hypothetical monopsony in the intermediate market could be an incentive that could cause
+a significant and non-transitory decrease in the buying price of its inputs in the upstream
+market.
+This hypothetical scenario would raise antitrust issues, particularly in case it
+encourages the monopsonist to restrict supply and increase prices in the downstream market.
+Therefore, the monopsony power of the intermediate market, even if hypothetical, can be
+assessed along with projections of market power in the downstream chain.
+2.3.5 Methodology
+CADE may define the relevant market considering simultaneously or alternately:
+17Guide for Horizontal Merger Review
+a) analysis of qualitative information; b) use of price information; c) analysis of the flow
+of customers and goods; d) area delimitation; e) whenever possible and relevant,
+quantitative methods may be used, such as the analysis of critical loss (or of critical
+elasticity).6
+The methodologies mentioned herein do not prevent CADE from using other means for
+the assessment and definition of the relevant market that come to be developed.
+Analysis of qualitative information
+The qualitative analysis is the initial stage for the definition of any relevant market that
+allows the analysis of product characteristics and its final use to be used to assess operational
+substitutability.
+In addition to the aforementioned information, the qualitative analysis also takes into
+consideration information provided by suppliers, rivals and customers of applicants when
+trying to understand market dynamics (see Items 2.2 and 2.3.2).
+Information obtained from market studies on demand deviation, and data on closer
+product substitutes allows, for instance, the elaboration of plausible scenarios of the relevant
+market.
+If market players provide valuable and factual information, the data will provide an
+adequate definition of the relevant market or, at least, scenarios for analysing the effects of
+the transaction.
+b) Price information
+Price differences influence customer decision; therefore, it delimits the relevant
+market. At first, it is difficult to define how great the price difference must be for it to justify
+the segmentation of the relevant market.
+6 The critical loss analysis examines, quantitatively, whether a price rise (usually defined at 5%) is profitable,
+considering the profit margin and the price elasticity of market demand. An example can be found in: WERDEN
+G. J., Beyond Critical Loss: Tailoring Applications of the Hypothetical Monopolist Paradigm. US DOJ Antitrust
+Division Economic Analysis Group Discussion Paper no. 02-9. 2002.
+18Guide for Horizontal Merger Review
+There may be some competition amongst products with different characteristics and
+prices. Consequently, from an antitrust perspective, certain products may be substitutes even
+if there are significant price and quality differences. The existence of extreme price variation
+is, however, relevant for any segmentation of niche markets.
+An analysis of the way prices collectively change may help to understand the market
+from the perspective of both product and geographic dimensions. Substitute products are
+likely to have related prices, that is, prices that change collectively.7
+However, this may not be a satisfactory factor to define the relevant market, since price
+changes may result from other variables such as regular costs changes (input prices), demand
+changes (income variation), inflation, amongst others. There are empirical models that can
+answer this question should there be data available.
+c) Flow of goods and customers
+The flow of goods and customers helps in identifying the geographic markets.
+Methods that make it possible to analyse this flow help determine, for instance, the
+extent of imports in the relevant market and the number of exports to measure the influence
+and connection between areas and the possibility of an integrated market.
+These exercises can be further complemented with other tools not only to analyse the
+flow but mainly the response of imports and exports to the relative price of products.
+d) Area delimitation
+Whenever it is considered possible and necessary, the methodology estimates the
+maximum distance customers are willing to travel to purchase a desired product or service.
+This methodology may consider opinion polls, customer registration with stores,
+location of ads, amongst other qualitative and quantitative information.
+7 Price correlation and cointegration analyses are examples of empirical models used to define the relevant
+market.
+19Guide for Horizontal Merger Review
+e) Critical loss analysis
+The analysis of critical loss, a quantitative method related to the hypothetical
+monopolist test, may be used whenever deemed possible and necessary. It is one of the
+applicable methods that use information on demand and price elasticity of demand to deduce
+whether two or more products are part of the same relevant market.
+The analysis assesses how much sales need to decrease in order to cause a price
+percentage increase that makes the business unprofitable.
+As a rule, the critical loss analysis is used to estimate whether a price increase of 5%
+makes the business unprofitable, considering pre-merger profit margins and market power.8
+2.3.6 Considerations
+Time and seasonal factors
+It is related to the periods of time in which the market operates. Seasons of the year
+and commemorative dates, for instance, are likely to impact the production, consumption and
+price structures of certain markets. This may be the case in industries with peaks in service and
+production versus regular idle times (such as the transport and electric power industries), and
+those with seasonal variations (such as the food industry).
+These factors must be taken into consideration whenever (i) customers are unable to
+substitute purchase decisions between different periods of time; and (ii) producers are unable
+to stock their products over time.
+The seasonal factor is significant to define the relevant market properly and to assess
+market entry conditions and competition in the market.
+Relevant market and customer discrimination
+The ability firms have to discriminate customers influence the definition of the relevant
+market to be adopted by CADE.
+8 Methodological details can be found in DAVIS, P., GARCES, E. Quantitative Techniques for Competition and
+Antitrust Analysis. Princeton University Press. Chapter 4.
+20Guide for Horizontal Merger Review
+If a firm can increase prices for a subset of customers–without changing the prices for
+the rest of the market–, the relevant market can only be defined around the subset of
+customers affected.
+This assessment takes into consideration: (i) the price elasticity of products to different
+groups of customers; (ii) the possibility of individually negotiating the sale/purchase conditions
+of the product; (iii) the possibility of segmentation into niche markets, in comparison with the
+need to adopt a single pricing policy; amongst other relevant factors.
+Relevant market and foreign trade policies
+The relation between antitrust review and trade defence instruments/changes in the
+Common External Tariff (CET) is relevant as the order in which each is implemented directly
+impacts the outcome.
+Should the antitrust review be the first carried out, CADE will consider a given national
+market with fewer entry barriers. Should trade defence instruments or increases in the TEC be
+implemented after CADE has issued a decision, market variables may be altered, which can
+hinder products import.
+CADE is to consider both existing entry barriers and potential/future entry barriers
+(such as possible antidumping laws being passed, which may change the degree of rivalry
+between national and foreign products).
+Technology markets
+Patent rights allows for temporary monopolies in order to boost the creation of new
+technologies.
+Mergers between technology firms can be assessed as a concentration involving firms
+providing research services. Concentration involving "research centres" of any given field can
+be problematic, even if the arising concerns are related to potential and future rivalry in the
+technology market.
+21Guide for Horizontal Merger Review
+The application of traditional tests for the definition of the relevant market (such as the
+critical loss analysis) may not identify the effects of this type of transaction, which requires
+careful considerations at every step of the review.
+2.4 Level of concentration
+2.4.1 Market shares
+Once the relevant market is defined, CADE may consider the market shares of producers.
+In markets involving supplier power, data will reflect the supply structure, which may
+include the productive capacity, the number of units sold of a product, the sales value or any
+other measure more adequate to be used in the case at hand to identify the competitive
+conditions in the relevant market.
+With regard to the number of sales, whenever possible, the parties must provide
+information regarding different measuring means such as weight, volume, boxes, packages,
+amongst others.
+In markets involving buyer power, the customer market share will represent the
+upstream demand structure, which can be calculated, for instance, from the volume or
+purchase value of each agent. These data can be combined with the downstream supply
+structure.
+The estimated market shares must take into consideration the development of the
+market and its stability or lack of stability over time. In this regard, in some cases it may be
+considered the existence of short or long time contracts with customers.
+In the case of homogeneous products, the installed capacity and the production
+numbers indicate the relevance of each supplier in that market; whereas in markets with
+differentiated products, indicators based on the value of sales is usually more appropriate.9
+9 Markets with differentiated products are those in which the products are not only different in terms of prices
+but also in other specific features (brand, weight, durability, design, versatility, amongst others) or characteristics
+related to sales policies, distribution policies, or even presales and post-sales services. In sum, other factors
+determine each product's performance in the market other than the prices. The association of products with
+brands and the focus on advertising indicates a market product differentiation.
+22Guide for Horizontal Merger Review
+Inputs sold to competitors
+In addition to providing information on their market share in the downstream market,
+applicants must provide CADE with the amount of inputs sold to their competitors and how
+much of said sales is reflected in their competitors' market shares, as the case may be.10
+Firms A and B intend to merge. Both operate in the production (upstream) and retail markets (downstream)
+of product X, selling it to other players (supermarkets C and D) that also compete in the retail market by
+reselling product X with their own brand (different packages).
+When filing CADE's application form, in addition to informing their respective market shares in the
+downstream market (retail), firms A and B must also report the market shares of supermarkets C and D
+regarding their repackaged products. Market players are expected to provide this information whenever it is
+requested information on the upstream and downstream supply structures, as their participation in the
+market comprises direct and indirect market shares (via dependent, quasi-integrated or contractually bound
+agents), even if they can only provide an estimate.
+2.4.2 Concentration ratio and causal link
+HHI
+The Herfindahl-Hirschman Index (HHI) can be used to calculate the level of
+concentration of markets.
+The HHI is calculated based on the sum of the squares of the market shares of each
+firm competing in a market. The HHI can reach up to 10,000 points, in which case there is a
+monopolist market, that is, a single firm has 100% of market share.
+Simultaneous transactions or transactions with approximate dates can be sumed up
+for measuring the HHI variation.
+Markets can be classified as:
+10 This sort of situation affects downstream competition. Considering that applicants operating in the upstream
+market (as suppliers) start to show interest in the success of their non-integrated rivals, there is a reduction in
+the rivalry in the downstream market (similar to passive non-controlling interest of their competitors).
+23Guide for Horizontal Merger Review
+(i) Not concentrated markets: HHI below 1,500 points;
+(ii) Moderately concentrated markets: HHI ranging from 1,500 to 2,500 points; (iii)
+Highly concentrated markets: HHI above 2,500 points.
+Furthermore, the HHI considers the following definitions:
+(i) Low concentration variation: transactions that result in HHI variation lower than
+100 points (ΔHHI < 100) are not likely to negatively affect competition, thus, there
+is usually no need for further reviews;
+(ii) Situations in which the level of concentration raises concerns in markets that are
+not concentrated: should, after the merger, the market remain with an HHI lower
+than 1,500 points, the transaction is not likely to have negative effects, thus, it
+usually does not require further review;
+(iii) Situations in which the level of concentration raises concerns in markets that are
+moderately concentrated: transactions resulting in markets with an HHI ranging
+from 1,500 to 2,500 points and an HHI variation above 100 points (ΔHHI > 100) are
+more likely to raise concerns, in which case it is suggested that further reviews be
+carried out;
+(iv) Situations in which the level of concentration raises concerns in highly concentrated
+markets: transactions resulting in markets with an HHI above 2,500 points and an
+HHI variation ranging from 100 to 200 points (100 ≤ ΔHHI ≤ 200) are likely to cause
+concern, in which case further reviews are advisable. Transactions resulting in
+markets with an HHI above 2,500 points and an HHI variation above 200 points
+(ΔHHI > 200) are likely to result in increased market power. This possible increase
+may be disproved by substantial evidence to the contrary.
+Exceptions to adopting the HHI
+24Guide for Horizontal Merger Review
+The "HHI rule" as an indicator of causal link is an initial assumption, susceptible to other
+allegations. We emphasise that the HHI rule should not be used limitless in markets with great
+borders and elevated market dispersion.
+Consider the following scenario: there are 200 players in a hypothetical market, each of them has a small market
+share of 0.5%. In this case, we have a scenario close to perfect competition. However, if a single market player
+simultaneously, yet separately, acquires the whole market border, one by one, a monopoly may be established
+and the HHI will not surpass 100 points.
+Thus, in the first acquisition the player will acquire 0.5% of market share (0.5% + 0.5%). Additionally, we have:
+∆𝐻𝐻𝐼 = 2 ∗ 𝑆1 ∗ 𝑆2
+=> ∆𝐻𝐻𝐼 = 2 ∗ 0.5 ∗ 0.5
+=> ∆𝐻𝐻𝐼 = 0.5 point
+Therefore, the initial HHI variation would be small (0.5 point) and distant from the alarming causal link (100
+points).
+In the last acquisition, the player would already have 99.5% of the market share and will seek to acquire the
+remaining share. So, in said hypothetical situation, the merger review will consider authorising a monopoly
+(99.5% + 0.5%). And even in this case, there is no significant HHI variation (100 points), as shown below:
+∆𝐻𝐻𝐼 = 2 ∗ 𝑆1 ∗ 𝑆2
+=> ∆𝐻𝐻𝐼 = 2 ∗ 99.5 ∗ 0.5
+=> ∆𝐻𝐻𝐼 = 99.5 points
+Thus, if CADE had strictly adopted the HHI rule, it would have allowed for the establishment of a total
+monopolistic market, as there were only small acquisitions, one by one, and the HHI variation never surpassed
+100 points. Hence, in markets with said characteristics, CADE needs to soften the HHI rule.
+The HHI rule is to be softened in cases in which: (i) there is evidence of coordination
+amongst market players; (ii) one of the parties is a maverick firm; (iii) a potential or new
+entrant is part of the merger; (iv) there are significant cross shareholdings amongst applicants
+and their rivals; (v) the concentration level is inconsistent with the actual competitive dynamics
+(see Item 4.3); (vi) an increase in portfolio power results from the merger (see Item 2.5.3);
+amongst others.
+25Guide for Horizontal Merger Review
+2.5 Unilateral effects
+A merger involving a considerably high portion of the market does not necessarily mean
+that the new firm will unilaterally exercise their market power.
+The first part of this Item will comprise the entry analysis. Subsequently, we will discuss
+the rivalry assessment considering the nature of the product at issue: homogeneous or
+differentiated products. Lastly, it will be presented the portfolio analysis.
+2.5.1 Entry analysis
+Barriers to entry
+Barriers to entry may be defined as any existing element in a market that puts a
+potential competitor at a disadvantage vis-à-vis other established players.
+The higher the barriers to entry in a given market, the higher are the costs and time a
+potential entrant must incur to have a return on its investment. The higher these barriers, the
+lower the likelihood of new firms entering this relevant market.
+Barriers to entry allow established firms to set higher prices and hamper the entry of
+new competitors with production capacity, since they decrease the probability of effective
+competition.
+These are the most common barriers to entry: sunk costs; legal or regulatory barriers;
+resources exclusive to the established firms; economies of scale and/or scope; the integration
+of the production chain; customers loyalty to established brands; and possible reaction from
+established competitors.
+Sunk costs are those that cannot be recovered when a firm decides to leave a market.
+The extent of these costs mainly depends on the following:
+(i) the specificity of the machinery and equipment required;
+(ii) the specificity of the human resources required;
+26Guide for Horizontal Merger Review
+(iii) the existence and size of a second-hand market for the machinery and
+equipment required;
+(iv) the existence and size of a rental market for capital goods;
+(v) the existence and size of a market for human resources;
+(vi) the volume of investment needed for product distribution (promotion,
+advertising, and creation of a supply network);
+(vii) the volume of investment needed for research and development, recruitment
+and training of personnel, and creation of a supply network.
+Legal and regulatory obligations: they are created by the government or regulatory
+agencies and set the minimum requirements for a firm to be established and operate (such as
+commercial licenses, permits, and authorisations). These obligations condition the]
+investment of all potential entrants in terms of time, space, and technology.
+Firms' exclusiveness advantage: it is the ownership, the exclusive access or the
+conditional access to any production input with a limited or inelastic supply at pre-merger
+prices (for instance, access to suppliers and distributors, contracts with service suppliers or
+suppliers of specialised capital goods, location, patent control or ownership, in addition to tacit
+and intangible knowledge of technologies).
+These advantages may be related to the establishment of organisations and work
+teams. Some examples of the difficulties involved in organising complex work teams include:
+recruiting workers; training technicians and experts of every kind; coordinating several groups
+of specialists and professionals; and creating administrative, oversight, and promotion systems
+to allow for efficient production and distribution of goods. Structuring these organisational
+systems may be time-consuming and be considered a barrier to entry. Due to the impossibility
+of purchasing such systems in the market, one can also consider this investment sunk costs.
+Economies of scale and scope influence entry conditions, as they affect minimum
+efficient scales, cost increases related to suboptimal scales, and an entrant's position in a
+market of products also offered by the incumbents (product variety).
+27Guide for Horizontal Merger Review
+Economies of scale: the average cost reduction resulting from increased production,
+given the price of inputs. Average costs may diminish, amongst other factors, because: fixed
+costs represent a substantial part of the total costs and if production steps up costs do not rise
+proportionally, which reduces marginal and average costs; workers' productivity boost as they
+become experts (more division of labour); the productivity of machinery and equipment swells
+due to, for instance, more continuous production flow, production process with less idleness
+in intermediate stages, implementation of dedicated equipment, and lower maintenance
+costs.
+Economies of scope: the average cost reduction resulting from the joint production of
+different goods, given the price of inputs. Average costs may diminish, amongst other factors,
+because: temporary or continuous periods of idleness in multifunctional (or flexible)
+equipment may be used for manufacturing other products, and the distribution and
+commercial network are used for supplying a bigger set of presale and post-sale products and
+services.
+Economies of scope estimate cost reduction in joint production and, thus, may induce
+an entry in the market with a number of products, which can mean a greater barrier to entry
+in case the entry has to happen in two different relevant markets simultaneously (see Portfolio
+Power).
+Integration of the production chain: it can raise sunk costs of potential entrants or
+require entry in two markets simultaneously. In order to enter two markets a player must have
+a greater volume of assets and greater technological and organizational capacity.
+Customers loyalty to established brands: it is commonly observed in markets that
+product differentiation strategies are relevant for competition. Entering firms must spend
+money on advertisement, which becomes a sunk cost, to attract customer loyalty to their
+products.
+Entry records
+Analysing market entry records is an additional tool that helps identify the
+effectiveness of past entrances in the markets under assessment.
+28Guide for Horizontal Merger Review
+CADE may analyse whether in the last five years: (i) a new firm entered the market; (ii)
+any unsuccessful entry attempt from new players occurred; or (iii) other evidence of
+effectiveness from past entrances.
+Examples of existing firms that entered the market within the last five years can be
+used as evidence on the entry conditions, as long as it shows the entry conditions in the
+moment of the analysis.
+Likelihood, timeliness and sufficiency
+After observing the aspects mentioned above, CADE may assess how and under which
+conditions market entry occurs.
+The assessment may consider specific statistical models that are aimed at determining
+the conditions in which new players enter the market and their effects on the market. CADE
+takes into consideration whether a (i) likely, (ii) timely and (iii) sufficient entry is expected.
+Likelihood of Entry
+The assessment of likelihood entry comprises the sales opportunities available, the idle
+capacity of the market, the residual value opportunity, and the minimum viable scale.
+• Sales opportunities: market shares potentially available to entrants. They are usually
+calculated based on the relation between current sales and the expected growth for
+the following years.
+• Idle capacity: it concerns the available capacity (not used capacity) of the firms part of
+the relevant market.
+• Residual value opportunity: it concerns the difference between the sales opportunities
+and the idle capacity of the firms established in the market. In other words, the
+calculation of residual value considers only sales opportunities that would not usually
+be captured by the market players themselves.
+• Minimum viable scale: it is the smallest annual level of sales that the potential entrant
+must achieve to get adequate compensation for their capital. Thus, it is observed the
+29Guide for Horizontal Merger Review
+investment required and the profit (return on investment) the entrant would have in a
+given period at the market they intend to enter. It is necessary to identify the entrant's
+cost (fixed or variable/marginal cost), mark-up and expected volume of sales.
+Information may be presented or organised as cash flows from the investment project.
+The entry analysis may consider estimates of the net present value, internal rate of
+return, payback, discounted payback, and other aspects that show the economic and
+financial feasibility of the entry.
+• Likelihood of Entry Analysis (LEA): it involves a calculation in which the minimum viable
+scale (MVS) is subtracted from the residual value opportunity (RVO), as presented
+below.
+Thus, the LEA cannot be negative for it to be a likely entry. Furthermore, the higher the
+LEA, the higher the likelihood of entry in the relevant market under review.
+Table 1 - Likelihood of Entry Analysis (Example)
+Outcome
+Sales Minimum Viable Likelihood of Entry
+Opportunity
+Idle Capacity Residual Value
+Scale Analysis
+Opportunity
+(IC) (RVO = SO – IC)
+(SO) (MVS) LEA = (RVO-MVS)
+100,000 40,000 60,000 50,000 Likely Entry
+60,000- 50,000 > 0
+100,000 40,000 60,000 100,000 Unlikely entry
+60,000 -100,000 < 0
+30Guide for Horizontal Merger Review
+Timeliness of Entry
+The examination of the timeliness of entry considers whether the new firm is able to
+be fully and properly operating within 2 years or in a period considered appropriate to the
+competitive dynamics of the market affected by the transaction, provided that it happens soon
+enough to react to possible market power.
+All required steps to enter the market are included for review purposes in this time
+limit, such as planning, design of the product, market studies, permitting, licensing, financial
+arrangements, construction and operation of the production unit, promotion and distribution
+of the product.
+Should a firm take longer than two years to enter the market, it is understood that this
+potential entry will not challenge the market power of the merged companies quickly enough.
+Sufficiency of Entry
+An entry is sufficient if potential new entrants can effectively deter anticompetitive
+effects resulting from the merger.
+Sufficiency of entry happens when the supply rise caused by potential entrants is
+enough to regulate the market, preventing price rises.
+Hence, effective competitors are those able to prevent a post-merger reduction in
+competition. The substitutability degree of competitors, the existence of barriers, amongst
+other aspects, must be considered.
+2.5.2 Rivalry analysis
+Efficient competition between the merged firm and other firms in the market (its rivals)
+may prevent the firm from exercising its recently acquired market power.
+Efficient rivalry is likely in cases in which already-established companies tend to adopt
+aggressive strategies to increase their market share, counteracting the ability of the new
+merged firm to exercise its market power. The following elements are common in markets
+with high degrees of rivalry:
+31Guide for Horizontal Merger Review
+Table 2 - Some variables to be considered in rivalry analysis
+ANALYSED VARIABLE IN MARKETS WITH INTENSE RIVALRY
+There is low market concentration
+Market Concentration
+Price variety
+Some players have similar prices for their products, and no
+agent has more pricing power than the rest. If a player
+prices differently, it usually indicates a higher pricing
+power than the market average (not disputed through
+rivalry) or that the player is part of a different niche
+markets.
+Profit margins
+The profit margin is low, as the price is almost the same as
+the marginal cost.
+Market Share Variance
+High market share variance, due to all players being
+involved in market contestability.
+The price elasticity of demand is high.
+Price elasticity of demand
+Cross elasticity of demand
+The applicants have many similar competitors or close
+substitutes (i.e. with high cross elasticity of demand).
+32Guide for Horizontal Merger Review
+Price elasticity of supply
+The price elasticity of supply is high as, on the one hand,
+consumers are very responsive to price variation and, on
+the other, competitors will respond to any small price rise
+releasing a great number of goods in the market.
+Increase in demand
+Market growth is intense and prevents the stability of
+players' market shares.
+Productive assets
+There is no need for specific assets or assets that are
+exclusive to a few market players (or to the applicants).
+Conduct oversight
+It is not possible for competitors to monitor each other’s
+conduct, both in terms of sales volume and pricing.
+Vertical integration and portfolio11
+Competitors have the same degree of vertical integration,
+with similar portfolios.
+Presale and post-sale services
+Should it be relevant, competitors have similar presale and
+post-sale services.
+11 The degree of integration of the production chain should be considered, since the established firms' need for
+vertical integration (between supply of inputs and other links) may create barriers to entry or to the competitive
+performance of entrants, negativelly affecting players that struggle with this sort of integration.
+33Guide for Horizontal Merger Review
+Competitors have, in general, the same access to efficient
+distribution and logistics services.
+Access to efficient distribution and logistics
+services
+Competitors have the same sort of credit access.
+Credit access
+Dedicated costumers and points of sale
+There are only a few already dedicated sales and a few
+exclusivity and loyalty contracts between clients and
+suppliers, or between points of sale and suppliers.
+Economies of scale and scope
+Every market player has the same economies of scope and
+scale and, thus, incur in the same production costs (they
+may even be more efficient than the applicants).
+Use of idle capacity
+Competitors have a way to increase their production in the
+short term to accommodate a possible diversion of
+demand, without incurring major costs.
+In markets characterised by intense rivalry, there are usually efficient rivals, that is,
+firms that are able to compete with the merged firm, with equivalent technological capacity,
+competitive costs and prices, similar product quality and scope, and other factors crucial for a
+firm to be able to respond to the merged firm.
+Idle capacity available
+A paramount factor for the efficiency of rivals is how much idle capacity established
+competitors have available and whether it can be expanded. This component needs to be
+considered in assessing rivalry, as should the rivals of the applicants have neither extra idle
+34Guide for Horizontal Merger Review
+capacity in their factories nor the capacity to expand it, they will not be able to accommodate
+customers who wish to divert their sales to them in case the merged firm raises its prices.
+However, it is worth mentioning that, for there to be a response when a merged firm
+uses its market power, it is not enough that its competitors have idle capacity or the possibility
+of expanding it, as its use may not be profitable and the market may have a low level of rivalry
+(and even tacit and explicit collusion) regardless of the idle capacity available.
+Testing for market share stability/instability
+To assess whether there is rivalry in the sector, we can test the stability of market
+shares. In a market with high rivalry levels, it is expected that, first and foremost, competitors
+feel threatened by each other. This is even more the case when other competitors have great
+incentive to be more aggressive in the market. In a market with extreme rivalry, rivals punish
+any slight price rise by a competing firm, leading it to lose market share and profit margin.
+The test is aimed at identifying whether there is a given behaviour that leads a
+competitor to replace a rival over time. Regular changes in the relative positioning of players
+may indicate rivalry within a market (which may be considered along with other factors,
+especially price levels and profit margins of each player). Moreover, we need to examine
+whether this behaviour happens more frequently amongst the applicants (in which case, the
+transaction may lead to a reduction or even the end of a pre-existing rivalry), or whether there
+are other market players who also compete for their relative positions in the market (and
+whether after the transaction these players would keep this same ability to rival the merged
+firm).
+Market balance
+Theoretically, a merger may serve all market participants, since all competitors–even
+those not involved in the merger–could increase its prices and benefit from a part of the
+diverted demand, should the merged firm decide to raise its prices. Should competitors follow
+this behaviour pattern, they will be actually "adapting" to the market, with potentially higher
+prices, not to mention demand.
+35Guide for Horizontal Merger Review
+In case applicants wish to use the argument of rivalry to support their application for
+merger review, they must prove this adaptive behaviour, in terms of prices or volume, is
+unlikely to happen. Therefore, a rivalry argument must indicate that the competing products
+will be repositioned, maintaining (or even increasing) the level of supply at pre-merger prices.
+Contrasting homogeneous products with differentiated products helps understand
+what variables affect rivalry. However, this distinction is only a didactic tool, as most of the
+products have, to some extent, characteristics of both types of markets.
+Market of homogeneous products
+In a market with homogeneous products, a merged firm's ability to exploit the market
+power gained with the transaction will depend on its capacity to reduce its output and raise
+prices unilaterally. In such markets, we examine whether the merged firm will find it profitable
+to unilaterally diminish its production and increase the market price.
+Production may be reduced if the merged firm a) increases or stabilises its idle capacity;
+b) refrains from building or acquiring additional capacity, which would be expected without
+the merger; or c) eliminates its pre-existing manufacturing capacity or diverts this capacity to
+another relevant market, to restrict supply and raise the price in the market associated to the
+merger.
+Furthermore, in a market with homogeneous products, the production costs of
+competitors determine their ability to react to a merged firm's market power. Thus, it is
+expected that the capacity to rival or to absorb diverted demand is, to a great extent,
+determined by factors connected to production costs (competitiveness amongst firms).
+Market of differentiated products
+In markets with differentiated goods, market shares and concentration ratios are not
+as efficient in predicting anticompetitive effects as in markets with homogeneous goods.
+In industries with differentiated products, some products may be close substitutes and
+compete with each other, while others that are less similar are not as able to compete strongly.
+36Guide for Horizontal Merger Review
+Expected unilateral effects of a merger in this kind of market include price rises, as
+there is greater concentration inasmuch as applicants have very similar products (which
+consumers perceive as close substitutes–a costumers' first and second choices, for instance).
+Therefore, one must consider the cross elasticity of demand and the diversion ratio between
+the merging firms, as the higher these are, the greater the probability of having unilateral
+effects arising from the transaction.
+The degree of substitutability is lower when the technical specifications of products are
+very strict or when the information available in the market about different combinations of
+price and quality is complex.12
+2.5.3 Portfolio power
+Portfolio power may prevent the effective entry of new players, decrease the capacity
+to compete of already-established players, and facilitate anticompetitive practices.
+In markets strongly marked by economies of scope, firms with a bigger portfolio benefit
+from their lower average production costs than other competitors with less product variety.
+Owning an extensive portfolio may decrease costumers transactions costs, as they deal
+with a single firm, which offers several products and brands, instead of many smaller suppliers
+with one product each.
+Establishing a relationship with many suppliers generates relevant transaction costs:
+every product's prices and conditions must be negotiated, contracts must be written and
+managed, etc.
+Nevertheless, this power may prevent smaller competitors from accessing to the
+market, as negotiating with them incurs in higher costs for customers. In the medium and long
+terms, the favoured firm may take advantage of this condition and exercise the market power
+12 We should note that when merged firms control the first and second substitutes (and the remaining products
+are not close substitutes), a price rise in the main product–which would divert demand to the second product–
+does not reduce the total revenue of the merged firm, even though before the transaction that would be the
+case.
+37Guide for Horizontal Merger Review
+obtained, rising the prices of its products and, possibly, gaining market share from smaller
+firms in the segment.
+This player may use its wide portfolio to implement aggressive strategies and eliminate
+its competition in the market, reducing prices in a segment in which it wants to gain market
+share while offsetting the losses in other markets (cross subsidization).13
+A wide portfolio has important effects for players in terms of marketing. A firm that
+offers several products maximises its brand awareness and marketing efficiency, since by
+advertising one product all others are also promoted.
+2.6 Buyer power
+Some mergers and acquisitions entail firms absorbing significant shares of certain
+inputs. This sort of horizontal integration may result in firms with purchasing power in the
+market.
+Increasing the purchasing power of firms in the market may increase the probability of
+harm to competition and even lead to a monopsony.
+On the other hand, some argue that concentration in the market involving purchasing
+power may result in a countervailing power that benefits consumers.
+We analyse whether buyer concentration (i) creates or intensifies an asymmetric
+relationship between a buyer and its suppliers and/or (ii) creates the conditions for applicants
+to increase their influence on market conditions.
+Assessing buyer power is a complex task, as this kind of power is associated to lower
+input prices, which may entail discounts to consumers. Therefore, buyer power must be
+carefully scrutinised, to preserve possible positive effects for consumers.
+13 Crossed subsidization shapes pricing policies across several markets. A firm may, for instance, bring prices down
+in markets where competitors are gaining market share, while it offsets this revenue loss either with a price rise
+in markets in which their dominance is more stable or by thinning out such price rise by splitting it amongst
+different markets.
+38Guide for Horizontal Merger Review
+Monopsony power
+Monopsony power is the market power a buying company exercises to appropriate a
+supplier's surplus.
+CADE considers that a merger between large buyers of inputs may constrain the
+upstream market through discrimination or imposition of purchase prices.
+Monopsony power that causes purchase prices to go below a competitive level,
+strongly pressing suppliers, may be harmful to competition. That would be the case, for
+instance, if a firm imposed extremely low prices on its suppliers, creating imbalances in its
+respective market.
+Monopsony power can have negative effects even in the downstream market, with
+potential consequences for consumers.
+Assessing buyer power is usually important when buyers are price-setters and suppliers
+are price-takers. This is the case in industries where the purchase market for the products is
+concentrated (i.e. only a few firms acquire the entire production of input) and suppliers are
+usually less concentrated and more numerous.
+If there is buyer power, we first identify whether buyers are truly able to exercise
+monopsony power and to what degree.
+Therefore, we assess if there are really no other buyers within the geographical market
+to which suppliers can provide their products or services.
+Should it be demonstrated that the buying firm has the conditions to exercise
+significant buyer power, we then proceed to examine whether there are real incentives for
+this to happen and whether such incentives are increased by the merger.
+Should it be concluded that there are incentives for the firm to exercise monopsony
+power and that there is a causal link with the transaction, we assess how likely it is that the
+firm will exercise its market power–although the focus is on purchase–to measure the
+potential harm to consumers and the economic welfare.
+39Guide for Horizontal Merger Review
+Countervailing power
+Countervailing power is a situation in which suppliers and/or buyers of a given
+product/good or service join forces as a reaction to pre-existing market power. Thus, the
+theory of countervailing power may work for both sides of a business relationship, between
+two links of a production chain.
+In a situation in which two links of a production chain have asymmetrical bargaining
+power and a firm enjoys pre-existing market power, we examine whether an increase in
+welfare (especially of the end consumer) can be expected if one of the links were to gain
+market power, thus creating a countervailing power.
+To assess whether the transaction generates efficiencies due to the countervailing
+power of one of the parties, CADE uses the rule of reason, if it is doable and convenient.
+2.7 Coordinated effects
+A merger may reduce the rivalry between firms in a relevant market and increase the
+probability of explicit or tacit coordination, with adverse effects on consumer welfare.
+The transaction may also increase the intensity or range of pre-existing coordination
+strategies.
+In order to prevent an abuse of market power, we assess whether the transaction is
+expected to increase the likelihood of coordination between firms and whether it reduces
+rivalry levels to an extent it would be profitable to increase prices conjointly or even change
+other competition variables–such as innovation and quality, which all have strong effects on
+consumer welfare.
+Firstly, we assess whether the specificities of a given market favour coordination by
+asserting: whether there is consensus amongst players; how fast and easy it is to find out if a
+participant does not comply with the terms of the agreement; whether there are any
+guarantees regarding compliance; and whether firms are punished for not complying with the
+terms of the agreement.
+40Guide for Horizontal Merger Review
+Calculating the aggregate market share of the N largest firms in a market (N-firm
+Concentration Ratio) helps in identifying such market specificities. For instance, if
+concentration increases the CR4 ratio (the aggregate market share of the 4 largest companies
+in a market), making it equal to or greater than 75%, one should further assess whether the
+transaction allows for firms to abuse their coordinated power.
+Thus, the following specificities increase the likelihood that firms will exercise market
+power in coordination:
+• A reduced number of firms and/or a large part of the supply concentrated in a few
+firms;
+• Interaction in several markets (for instance, through frequent contact in several
+markets due to many products, production units, and distribution);
+• Rivals reduced ability to increase supply in the short term;
+• Similar production capacity or technological homogeneity amongst firms;
+• Product homogeneity, with no need for customization;
+• Reduced customer buyer power;
+• Frequent and small orders;
+• Low price elasticity of demand in the market;
+• Transparency in prices, operational capacity, customer base, and other relevant
+information about competitors and their behaviour;
+• Technological stability of products and processes;
+• Maturity of the market and predictability of demand;
+• Absence of more aggressive and uncooperative pricing strategies (maverick firms);
+41Guide for Horizontal Merger Review
+• A history of coordination in the relevant market at issue or in markets with similar
+products or geographic areas;
+• Corporate, business, or commercial relations that may restrict rivalry and increase
+information transparency in a given market;
+• Low capital costs.
+The absence of some aforementioned specificities or the existence of others that
+reduce the likelihood of coordination must be taken into consideration and analysed along
+with the other evidence available.
+Even when structural market conditions do not facilitate coordination, some practices
+may create a favourable environment for it (such as announcing price rises in advance,
+exchanging information, adopting pricing strategies like price-matching, amongst others).
+The agency must examine whether there is a causal relation between the
+concentration and the increased probability of coordination. For instance, a merger may
+increase the incentives for collusion or coordinated strategy due to the reduction in the
+number of firms, the creation of a more symmetrical market structure, or the acquisition of a
+competitor that engages in aggressive competitive practices.
+3 EFFICIENCY GAINS
+Law 12529/2011 establishes that CADE must consider the specific efficiencies of each
+merger along with its negative effects (Article 88 (6). This is the previously mentioned non-
+negative net effect criterion.
+The net effects of the merger are assessed by contrasting its specific benefits and the
+potential losses arising from a reduction in competition.
+We emphasise that, under the law, it is required that benefits to consumers be
+observed in this final assessment of merger effects.
+CADE adopts some criteria to examine the efficiencies generated by the transaction.
+42Guide for Horizontal Merger Review
+3.1 Likely and verifiable benefits
+Predicting and quantifying efficiencies is no easy task. It is a projection, often difficult
+to measure, highly uncertain, usually dependent on several factors, and which may or may not
+come true, to a greater or lesser extent.
+In cases in which there is a relevant risk of harm to the market, any benefits that are
+purely speculative or not particularly likely or verifiable must not be taken into consideration,
+otherwise there is a chance of mistakenly underestimating severe negative effects on
+consumers and society as a whole.
+3.2 Consumer welfare
+From the point of view of businesses, mergers are a means to exploit financial and
+economic synergies of the merging firms, and are also justified by the expectation of greater
+surpluses for applicants after the transaction.
+Nonetheless, for efficiencies to be considered as offsetting probable negative effects
+on society's well-being, it is not enough that they simply reduce costs, increase profits, or have
+benefits that only serve the merged firms.
+Society is entitled to protected legal interests, and Article 88(6), Item 2, of Law
+12529/2011, conditions the clearance of mergers on a significant share of its benefits being
+provided to consumers.
+3.3 Specific efficiencies
+"Measurable efficiencies" are specific to the transaction, and include only those that cannot
+be achieved without such merger.
+Efficiencies that could be achieved in less than two years through plausible alternatives
+and involving less competitive restraints are not to be considered specific.
+43Guide for Horizontal Merger Review
+Thus, efficiencies claimed by merged firms are not to be taken into consideration when
+the same or similar benefits can be plausibly achieved simply through effort; internal changes
+by an applicant; a merger with a different firm (which would be less harmful to the market);
+or any other alternative that involves less potential competitive harm.
+The specific efficiencies of a transaction are those that may be verified (their existence
+and reach, mostly), and with causes (the how) and timing (the when) that have been proved.
+Alleged efficiencies are not taken into consideration when they are generic,
+speculative, unverifiable, or when they adopt hypothetical situations or scenarios that do not
+match the impact the merger is expected to have on the market.14
+Neither monetary gains arising from increased market shares nor any merger involving
+a mere transfer of resources between players are considered by CADE as efficiencies.
+In a horizontal merger, specific efficiencies may come in the form of economies of scale
+or scope, efficient innovations introduced into a product or process, gains of positive
+externalities or elimination of negative externalities, and the creation of countervailing market
+power. They should be considered efficiencies in case they cannot be obtained in the market
+otherwise and require a merger to happen.
+3.4 Externalities
+Externalities are the effects a transaction has on an unrelated party that has no control
+over them.
+Positive externalities increase welfare (for instance, reducing production costs), while
+negative externalities reduce welfare (for instance, increasing production costs).
+Creating or obtaining positive externalities, as well as eliminating negative ones, may
+be considered as specific efficiencies of a merger.
+14 Efficiencies may be predicted through econometric, mathematical, or engineering models, including, for
+instance, estimations of costs and production.
+44Guide for Horizontal Merger Review
+Obtaining positive externalities boosts the efficiency of a market. This beneficial effects
+may result from technology spill over; supply rationalisation, in sectors with excess of installed
+capacity; and consumers having more and better information available to support their
+decision-making process.
+Although negative externalities are widespread, it is important to look at which public
+policies could be used to deal with them, as clearing a merger may not be the best way to
+eliminate such externalities, if we take into consideration the economic welfare.
+When examining an allegation that the reduction of negative externalities increases
+the specific efficiencies of a merger, we must assess whether it is possible to have the same
+effect through other public policies.
+Only when no alternative public policies are considered likely to address the issue, it is
+considered that the elimination of negative externalities increases the specific efficiencies of
+a transaction.
+4 SUPPLEMENTARY AND ALTERNATIVE ANALYSIS METHODS
+This section lists alternative and/or supplementary means used for conducting
+antitrust reviews, in which one or more methods may be chosen.
+4.1 Counterfactual analysis
+Counterfactual analyses draw valid conclusions regardless of whether there is a strict
+relevant market definition or an assessment of the market share of the merging firms.
+CADE may compare different scenarios in search of evidence when examining the
+effects of a merger on competition.
+We may look at evidence related to similar markets and see how prices vary according
+to the number of competitors in that market, with firms coming and going.
+45Guide for Horizontal Merger Review
+In case applicants compete with each other in one market but not in the other, we may
+compare prices in the areas in which they compete with each other against those where they
+do not to assess the level of rivalry.
+The areas in which there is a single competitor may have specificities related to supply
+or demand that justify higher prices and are not associated to the competition variable.
+Therefore, counterfactual analysis requires a "control group", through which other variables
+that affect price and demand are controlled.
+We can select comparable relevant geographic markets to isolate the effect of the
+variable we intend to observe (for instance, price behaviour), setting this variable apart from
+other variables or effects that could justify price variation across different cities.
+4.2 Simulations
+Mathematical and econometric models that simulate the effects of the transaction may
+or may not depend on the definition of the relevant market.
+In a simulation involving possible effects, we estimate current parameters of supply
+and demand to try to predict what could happen to market prices in a post-merger future,
+controlling the degree of efficiency gains of the transaction.
+Some parameters CADE uses to help understand a market are (i) the real price level
+and profit margin of an industry and of market players; (ii) the share of consumers that divert
+their purchases to applicants' competitors due to price rises; and (iii) other factors that may
+impact the competition and profitability in a market.
+A simulation may also involve the analysis of estimates that not only contemplate the
+markets under review.
+For example, in auction-based markets we can observe which firms attend auctions,
+their position as bidders, and to which clients they offer their products. This allows us to
+compare procurements in which both firms compete and those in which competitors bid or
+46Guide for Horizontal Merger Review
+apply for separately. When both participate in an auction, we can measure the level of rivalry
+amongst bidders, particularly considering the impact other rivals have on the market.15
+4.3 Other factors analysed
+4.3.1 Elimination of maverick firms
+Maverick firms are those with a disruptive degree of competitive rivalry.
+They usually have low production costs and prices, pushing market prices down, or are
+inventive firms that foster ongoing innovation in their industry. Therefore, their independent
+presence in the market can help control the prices of firms with larger market shares.
+CADE may consider, for instance, that a merger that involves a firm with a strategy of
+cost, innovation, or niche leadership may reduce the industry's current or potential
+competition levels, reduce rivalry, and discourage innovation in the market at issue, regardless
+of whether its HHI is low.
+As for the coordinated effects generated by the transaction, we should highlight
+maverick firms are likely to prevent cartel formation if they are willing and able to increase
+their production in the face of supply restriction from colluding companies.
+4.3.2 Potential competition
+A merger between a firm that is already active and a potential competitor in the same
+relevant market may have similar anticompetitive effects to a merger or acquisition involving
+two active firms in the same relevant market.
+This is the case because a competitor may play a relevant role–whether in the present,
+by controlling prices, for instance, or in the future–even when it has already left or is yet to
+enter the market.
+We assess (i) whether a firm is on the brink of entering a market, and whether it has
+relevant assets, which may easily be used to return to the market without incurring significant
+15 Auction-based markets are understood as those in which there is a process (usually a formal one) based on
+biddings or proposals (to purchase or sell, as the case may be). It does not necessarily refer to the provisions of
+Law 8666/93, the Government Procurement Law.
+47Guide for Horizontal Merger Review
+sunk costs; (ii) whether it can bear the costs needed for entering the market in a relatively
+short term; (iii) amongst others.
+To assess potential competition, CADE may request, for instance, that firms provide
+their applications for registration, licences, and/or authorisations filed with the government.
+4.3.3 Vertical integration vs. horizontal overlap
+An upstream horizontal integration may create a downstream horizontal integration,
+even when applicants do not operate directly in this other part of the production chain.
+This is the case with markets in which buyers and suppliers have contracts for shared
+control that implicate a vertical quasi-integration of the firms.
+Mergers between applicants that operate in both the downstream and upstream
+segments through vertically quasi-integrated firms may induce horizontal integration.
+This can be seen in the table below:
+Table 3 – Examples of diagonal integration
+To make it clearer, we can think of a firm that controls the upstream part of a logistics
+chain and the upstream part of a second logistics chain. Although the same firm operates in
+links from different chains, it can control the flow of both logistics chains and may have
+incentives to raise prices in both chains, depending on the characteristics of the market.
+4.3.4 Firms operating in a two-sided market
+A two-sided market is not one that simply connects two end-users; rather, it is the
+connection between the total transactions and the pricing structure–that is, how the price is
+divided between the two end-users.
+48Guide for Horizontal Merger Review
+The price structure and the definition of who bears the costs should encourage the
+presence of both sides in this market, which means the price paid by one of the players is not
+related to the costs incurred in entering the market. In this pricing structure, one of the sides
+pays the cost price, while the other pays the price from which the industry's profit is
+extracted.16
+Depending on the industry involved in the transaction, CADE will decide whether it will
+assess the competition in one or both markets. This topic, however, is beyond the scope of this
+Guide, as it requires further discussion and the consideration of certain specificities.
+4.3.5 Partial acquisitions
+As far as corporate matters go, CADE examines whether a transaction changes the
+power to control or influence an acquired firm. It also verifies whether the transaction creates
+controlling interest, which gives the acquiring firm individual or shared control, or a significant
+capacity to affect the behaviour of that firm.
+It is important to assess whether the acquisition creates passive non-controlling
+interest, i.e. controlling interest that does not give the partner or member the power to control
+or relevantly influence the decisions of the firm, even though it could access sensitive
+information or create financial incentives for coordination.
+All information on how a firm is to control or influence another must be disclosed to
+CADE, including shareholders' agreements, the decision-making power a firm has over the
+other, and how much internal and external influence it could have or extend as a result of the
+transaction.
+In case there is only passive non-controlling interest, a firm should report on its
+information flow, how much interest it will hold in the second firm, as well as its access to the
+acquired firm's profits.
+This analysis affects the assessment of rivalry and of coordinated effects.
+16 Rochet, J.C. and Tirole, J., Platform Competition in Two-Sided Markets. Journal of the European Economic
+Association, v. 1, no. 4, p. 990-1029, June, 2003.
+49Guide for Horizontal Merger Review
+5 INSOLVENCY PROCESS
+Law 11101/2005 (the Insolvency Law, which addresses voluntary and involuntary
+court-ordered administration, and insolvency matters) indicates the necessity of an open line
+of communication between CADE and the Judiciary, especially due to administration matters.
+The administration process is intended to rescue a firm when it is unable to pay its
+debts, securing production, employment, and the interests of creditors, hence protecting the
+firm, its social responsibility, and economic incentives.
+The aforementioned law describes administration processes that may be considered
+mergers or acquisition and, therefore, should be reported to CADE.17
+Observing the criteria for mandatory reporting, the firm that is in administration must
+report its insolvency process to CADE in order to ensure a coherent government response.18
+Mergers involving an administration process should always be negotiated considering
+that their completion and implementation will depend on CADE's final decision on the
+matter.
+5.1 Failing Firm Defence (FFD)
+Any discussion related to the Administration Law needs to involve the failing firm
+defence.
+Foreign jurisdictions and CADE have been extremely cautious with this theory,
+accepting it only in cases in which applicants cumulatively prove the following requirements
+have been met:
+17 Article 50 of Law
+11101/2005. 19 Article 90 of
+Law 12529/2011.
+18 Should applicants believe that, due to the complexity of the transaction, it will take longer for the case to be
+reviewed than the time limits established by CADE's Statutes, applicants may rely on the Provisional
+Authorisation provided for in Article 59 of Law 12529/2011, provided that, if so required by CADE, the transaction
+is kept reversible.
+50Guide for Horizontal Merger Review
+(i) If the transaction was to be blocked, the firm would have to leave the market, or would
+be unable to pay its debts due to financial distress;
+(ii) If the transaction was to be blocked, the firm's assets would not remain in the market,
+which implies there would be a reduction in supply and economic welfare, and greater
+market concentration; and19
+(iii) If the firm proves it made an effort to seek alternatives that would result in less
+potential harm to competition (for instance, via alternative buyers or an administration
+process), and there is no other solution for preserving its economic activities other than
+the transaction being cleared.
+Again, the non-negative net effect requirement must be met. That is, CADE must come
+to the conclusion that the antitrust effects resulting from blocking the transaction (and from
+the likely insolvency of the firm) would be worse than the market concentration created by
+the transaction.
+The burden of proof related to these requirements falls on the applicants.
+6 NON-COMPETE CLAUSE
+CADE believes non-compete clauses impose restrictions on the free market and on free
+enterprise.
+The only exceptions are non-compete clauses aimed at creating goodwill or enabling
+the creation of a joint venture.20
+A non-compete clause must be limited to the market in which the joint venture
+operates (in terms of goods or geographic areas) or to the scope of the goodwill.
+It should also be limited to five years, although this time limit may be reduced or
+extended depending on the maturing time of the business at issue.
+19 The party to employ this allegation should present evidence the firm is facing financial difficulties such as, for
+instance, a copy of the administration or insolvency processes.
+20 Precedents 4 and 5, published in the Brazilian Federal Official Gazette, 9 December 2009.
+51Guide for Horizontal Merger Review
+In order to be valid and to have the desired legal effect, a non-compete clause should
+be collateral and ancillary to the legal transaction: collateral because it needs to be
+subordinate to the main legal transaction, and ancillary because it should be able to produce
+efficiencies that offset the restraint of competition.
+A non-compete clause is considered illegal when it seeks to restrain, distort, or have a
+harmful effect on competition or free enterprise in any way; dominate the relevant market of
+goods or services; arbitrarily increase profits; and abuse a dominant position.21
+7 CONCLUSION
+When the advantages associated with a transaction are greater than the risk of
+eliminating competition, that is, when its completion is not expected to reduce consumer
+welfare, and is likely to provide great benefits to consumers, CADE may choose to clear it
+unconditionally.
+When the advantages associated with a transaction are not as great as the risk of
+eliminating competition, CADE may clear it subject to remedies–whether unilaterally or via an
+agreement with the parties–whenever it is proved that such remedies will restore consumer
+well-being and economic efficiency.22
+When the risk of eliminating competition cannot be repaired by any condition/remedy,
+CADE is to block the transaction.
+In the case of mergers cleared subject to remedies, CADE may adopt structural and/or
+behavioural remedies to re-establish the competitive environment.
+Structural remedies seek to re-establish the competitive dynamics of relevant markets,
+eliminating the need for future measures. For example, the disposal of assets of the firms, such
+as the sale of brands or factories, or compulsory licensing.
+Behavioural remedies are intended to restore the competitive dynamics in the relevant
+markets defined based on interventions and on the parties' commitment not to abuse certain
+available assets.
+21 Article 36 of Law 12529/2011.
+22 In this case, a Merger Control Agreement is signed.
+52Annex59
